@@ -77,6 +77,10 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028110139d5f29dd51f97?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Arduino Code
+
+The Arduino script converts a user-defined volumetric flow rate into a motor step rate using syringe diameter, lead screw pitch, and microstepping configuration. Global variables allow easy adjustment for syringe size and desired flow rate.
+
 **[View Arduino Code on GitHub](https://github.com/Andrew-Blakemore/automated-syringe-pump)**
 
 {% comment %}
