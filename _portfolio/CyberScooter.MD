@@ -1,5 +1,5 @@
 ---
-title: "Syringe Pump"
+title: "Cyber Pump"
 excerpt: "A low-cost, programmable syringe pump capable of accurate flow control for 10 mL and 20 mL syringes."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
