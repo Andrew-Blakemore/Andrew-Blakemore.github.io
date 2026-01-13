@@ -60,6 +60,23 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 
 ##### Arduino Code
 
+The Arduino firmware converts a user-defined volumetric flow rate into a motor step rate using syringe diameter, lead screw pitch, and microstepping configuration. Global variables allow easy adjustment for syringe size and desired flow rate.
+
 **[View Arduino Code on GitHub](https://github.com/Andrew-Blakemore/automated-syringe-pump)**
+
+###### Operating Instructions
+
+1. Ensure all components are dry and disconnected from power.
+2. Upload the Arduino code with the correct syringe size and flow rate.
+3. Disconnect the USB cable and connect the external power supply.
+4. Adjust the limit switch position for the selected syringe size.
+5. Use the forward and backward controls to position the syringe holder.
+6. Secure the filled syringe in the holder.
+7. Press the **Start** button to begin pumping.
+
+**RGB LED Status Indicators:**
+- **Green**: Running
+- **Yellow**: Paused
+- **Red**: Syringe empty / limit reached
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
