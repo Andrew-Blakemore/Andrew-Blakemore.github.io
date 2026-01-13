@@ -79,4 +79,6 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 
 **[View Arduino Code on GitHub](https://github.com/Andrew-Blakemore/automated-syringe-pump)**
 
+{% comment %}
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% endcomment %}
