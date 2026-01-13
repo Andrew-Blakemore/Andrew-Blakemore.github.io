@@ -15,7 +15,7 @@ title                    : "Andrew Blakemore"
 title_separator          : "-"
 subtitle                 : "Passionate about Engineering and Prototyping"
 name                     : &name "Andrew Blakemore" # &name is a YAML anchor which can be *referenced later
-description              : &description "Passionate about Engineering and Prototyping"
+description              : &description "Engineering through prototyping and digital fabrication"
 url                      : https://andrew-blakemore.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
