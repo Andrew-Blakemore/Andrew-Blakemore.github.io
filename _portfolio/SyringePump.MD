@@ -6,14 +6,11 @@ header:
   teaser: /assets/img/syringe.jpg
 gallery:
   - url: /assets/img/syringe_compare.png
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
+    image_path: assets/img/syringe_compare.png
+    alt: "Completed syringe pump and its CAD model"
   - url: /assets/img/syringe_electrical.jpg
     image_path: assets/img/syringe_electrical.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+    alt: "Electrical schematics of the syringe pump"
 
 toc: true
 toc_label: "Table of Contents"
@@ -83,6 +80,4 @@ The Arduino script converts a user-defined volumetric flow rate into a motor ste
 
 **[View Arduino Code on GitHub](https://github.com/Andrew-Blakemore/automated-syringe-pump)**
 
-{% comment %}
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-{% endcomment %}
+{% include gallery caption="The finished syringe pump compared to its CAD model, and a diagram of the electrical schematics." %}
