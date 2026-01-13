@@ -14,6 +14,11 @@ gallery:
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
     alt: "placeholder image 3"
+
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
+toc_icon: bars
 ---
 Commercial syringe pumps are widely used in clinical and laboratory settings, but their high cost can limit accessibility despite relying on relatively simple mechanical and electrical principles. For this project, I set out to design and fabricate a low-cost, programmable syringe pump using additive manufacturing and embedded control. The goal was to create a device capable of delivering precise, non-pulsatile flow while remaining adaptable to different syringe sizes and easy to modift. By combining CAD design, FFF 3D printing, stepper motor driven linear actuation, and Arduino-based control, I developed a fully functional pump conpatible with both 10 mL and 20 mL syringes. The final design integrates user controls, visual status feedback, and enclosed electronics.
 
@@ -39,5 +44,15 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 | Latching Pushbutton | Start / pause control |
 | RGB LED | System status indicator (run / pause / empty) |
 | External Power Supply | Provides power to motor and electronics |
+
+#### Fabricated Components (3D Printed)
+
+| Part | Material | Function |
+|------|----------|----------|
+| Syringe Holder | PLA | Secures 10 mL and 20 mL syringe barrels |
+| Plunger Carriage | PLA | Transfers linear force to syringe plunger |
+| Electronics Housing | PLA | Protects wiring and control electronics |
+| Rail Supports | PLA | Stabilize linear motion system |
+| Motor Mount | ABS | Heat-resistant mount for stepper motor |
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
