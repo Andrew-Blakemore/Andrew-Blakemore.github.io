@@ -58,4 +58,8 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 | Rail Supports | PLA | Stabilize linear motion system |
 | Motor Mount | ABS | Heat-resistant mount for stepper motor |
 
+##### Arduino Code
+
+**[View Arduino Code on GitHub](https://github.com/Andrew-Blakemore/automated-syringe-pump)**
+
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
