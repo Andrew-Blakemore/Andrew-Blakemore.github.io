@@ -58,13 +58,7 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 | Rail Supports | PLA | Stabilize linear motion system |
 | Motor Mount | ABS | Heat-resistant mount for stepper motor |
 
-##### Arduino Code
-
-The Arduino firmware converts a user-defined volumetric flow rate into a motor step rate using syringe diameter, lead screw pitch, and microstepping configuration. Global variables allow easy adjustment for syringe size and desired flow rate.
-
-**[View Arduino Code on GitHub](https://github.com/Andrew-Blakemore/automated-syringe-pump)**
-
-###### Operating Instructions
+##### Operating Instructions
 
 1. Ensure all components are dry and disconnected from power.
 2. Upload the Arduino code with the correct syringe size and flow rate.
@@ -78,5 +72,10 @@ The Arduino firmware converts a user-defined volumetric flow rate into a motor s
 - **Green**: Running
 - **Yellow**: Paused
 - **Red**: Syringe empty / limit reached
+
+###### Interactive CAD Model & Arduino Code
+{: .visually-hidden }
+
+**[View Arduino Code on GitHub](https://github.com/Andrew-Blakemore/automated-syringe-pump)**
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
