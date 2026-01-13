@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Andrew Blakemore is a biomedical engineer with a focus on prototyping, digital fabrication, and additive manufacturing. This site documents hands-on engineering projects developed through iterative design, testing, and fabrication—bridging concept, material, and function."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
