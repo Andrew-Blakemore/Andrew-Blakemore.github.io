@@ -20,12 +20,12 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
 ---
-# Purpose
+## Purpose
 {: .visually-hidden }
 
 Commercial syringe pumps are widely used in clinical and laboratory settings, but their high cost can limit accessibility despite relying on relatively simple mechanical and electrical principles. For this project, I set out to design and fabricate a low-cost, programmable syringe pump using additive manufacturing and embedded control. The goal was to create a device capable of delivering precise, non-pulsatile flow while remaining adaptable to different syringe sizes and easy to modift. By combining CAD design, FFF 3D printing, stepper motor driven linear actuation, and Arduino-based control, I developed a fully functional pump conpatible with both 10 mL and 20 mL syringes. The final design integrates user controls, visual status feedback, and enclosed electronics.
 
-# Key Features
+## Key Features
 * Compatibility with 10 mL and 20 mL syringes
 * Stepper motor driven lead screw for smooth, precise actuation
 * Adjustable limit switch to prevent excess compression/decompression
@@ -33,7 +33,7 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 * Enclosed electronics designed to protect against liquid exposure
 * Fully 3D printed structural components with no adhesive bonding
 
-# Off-the-Shelf Components
+## Off-the-Shelf Components
 
 | Component | Description |
 |----------|-------------|
@@ -48,7 +48,7 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 | RGB LED | System status indicator (run / pause / empty) |
 | External Power Supply | Provides power to motor and electronics |
 
-# Fabricated Components (3D Printed)
+## Fabricated Components (3D Printed)
 
 | Part | Material | Function |
 |------|----------|----------|
@@ -58,7 +58,7 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 | Rail Supports | PLA | Stabilize linear motion system |
 | Motor Mount | ABS | Heat-resistant mount for stepper motor |
 
-# Operating Instructions
+## Operating Instructions
 
 1. Ensure all components are dry and disconnected from power.
 2. Upload the Arduino code with the correct syringe size and flow rate.
@@ -73,11 +73,11 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 - **Yellow**: Paused
 - **Red**: Syringe empty / limit reached
 
-# Interactive CAD Model
+## Interactive CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028110139d5f29dd51f97?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Arduino Code
+## Arduino Code
 
 The Arduino script converts a user-defined volumetric flow rate into a motor step rate using syringe diameter, lead screw pitch, and microstepping configuration. Global variables allow easy adjustment for syringe size and desired flow rate.
 
