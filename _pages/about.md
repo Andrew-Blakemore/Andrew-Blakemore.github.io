@@ -6,7 +6,7 @@ title: "About Andrew Blakemore"
 
 ## Education
 
-Andrew is a biomedical engineering student with a strong interest in prototyping, digital fabrication, and additive manufacturing. He enjoys working at the intersection of engineering design and hands-on fabrication, using iterative processes to turn concepts into functional prototypes. 
+Andrew is a biomedical engineering student whose curriculum emphasizes design-driven problem solving, prototyping, and digital fabrication. His coursework in biomedical device design, CAD, and rapid prototyping has shaped a strong interest in additive manufacturing and iterative, hands-on engineering. 
 
 * Vanderbilt University
   * BS Biomedical Engineering
