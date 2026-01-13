@@ -3,13 +3,13 @@ title: "Syringe Pump"
 excerpt: "A low-cost, programmable syringe pump capable of accurate flow control for 10 mL and 20 mL syringes."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/syringe.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/syringe_compare.png
     image_path: assets/img/Cyber-Scooter-1.jpg
     alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: /assets/img/syringe_electrical.jpg
+    image_path: assets/img/syringe_electrical.jpg
     alt: "placeholder image 2"
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
