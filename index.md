@@ -23,5 +23,6 @@ feature_row:
     excerpt: "Multimaterial printing. "
 ---
 
+{% comment %}
 {% include feature_row %}
-
+{% endcomment %}
