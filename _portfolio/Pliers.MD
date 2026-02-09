@@ -34,11 +34,20 @@ The pliers I designed ....
 ![Iteration 1](/assets/img/it_1.jpg)
 
 While these pliers were able to close together, they could not do so reliably and consistently. It required significant effort to close the pliers such that the tips touched, and even when they did, they often would not join evenly, they would be staggered. 
-![Iteration 1 stagger](/assets/img/stagger.jpg)
-![Iteration 2](/assets/img/it_2.jpg)
-![Printed pliers opening and closing](/assets/img/pliers_working.gif)
-![Iteration 2 application](/assets/img/bit.jpg)
 
+![Iteration 1 stagger](/assets/img/offsetg.gif)
+
+In order to address this issue and make the pliers close more accurately, I reduced the length of the flexible tips and reduced the thickness of the print from 15mm to 10mm. The resulting pliers were considerably smaller and lighter than the first iteration.
+
+![Iteration 2](/assets/img/it_2.jpg)
+
+The pliers closed much more smoothly....elaborate
+
+![Printed pliers opening and closing](/assets/img/pliers_working.gif)
+
+The new iteration was actually pretty precise. It was able to grab small objects, such as ________, with ease.
+
+![Iteration 2 application](/assets/img/bit.jpg)
 
 ## Off-the-Shelf Components
 
