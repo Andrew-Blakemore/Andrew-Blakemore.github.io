@@ -32,6 +32,8 @@ Building on these principles, the following project explores the design and fabr
 
 The pliers were developed through an iterative design process focused on combining rigid and compliant components into a functional gripping mechanism. The assembly consists of a rigid handle and ring structure paired with flexible prongs that act as a compliant mechanism. These prongs are mechanically linked to both the handle and the ring such that pulling the ring toward the handle induces controlled bending, causing the jaws to converge at the tip. This configuration allowed the gripping motion to be achieved without traditional pin joints, relying instead on material compliance to produce motion.
 
+To support this compliant mechanism, PETG was selected for the rigid components due to its strength and dimensional stability, while TPU-95A was used for the flexible prongs to allow controlled elastic deformation. Although the design was conceived with print-in-place principles in mind, the components were initially printed separately and assembled via press-fit connections to allow for easier iteration.
+
 <figure style="text-align: center;">
   <img src="/assets/img/it_1.jpg" alt="Iteration 1" width="600">
   <figcaption>
