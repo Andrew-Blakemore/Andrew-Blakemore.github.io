@@ -29,7 +29,15 @@ Material selection plays an important role in print-in-place designs, especially
 Building on these principles, the following project explores the design and fabrication of a multi-material print-in-place pliers mechanism.
 
 ## Iterative Process
-The pliers I designed ....
+
+The pliers were developed through an iterative design process focused on combining rigid and compliant components into a functional gripping mechanism. The assembly consists of a rigid handle and ring structure paired with flexible prongs that act as a compliant mechanism. These prongs are mechanically linked to both the handle and the ring such that pulling the ring toward the handle induces controlled bending, causing the jaws to converge at the tip. This configuration allowed the gripping motion to be achieved without traditional pin joints, relying instead on material compliance to produce motion.
+
+<figure style="text-align: center;">
+  <img src="/assets/img/it_1.jpg" alt="Iteration 1" width="600">
+  <figcaption>
+    Iteration 1 — slider-actuated parallel pliers prototype
+  </figcaption>
+</figure>
 
 ![Iteration 1](/assets/img/it_1.jpg)
 
