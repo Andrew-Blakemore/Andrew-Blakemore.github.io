@@ -35,13 +35,16 @@ The pliers were developed through an iterative design process focused on combini
 To support this compliant mechanism, PETG was selected for the rigid components due to its strength and dimensional stability, while TPU-95A was used for the flexible prongs to allow controlled elastic deformation. Although the design was conceived with print-in-place principles in mind, the components were initially printed separately and assembled via press-fit connections to allow for easier iteration.
 
 <figure style="text-align: center;">
-  <img src="/assets/img/it_1.jpg" alt="Iteration 1" width="600">
+  <img
+    src="/assets/img/it_1.jpg"
+    alt="Iteration 1"
+    width="600"
+    style="display: block; margin: 0 auto;"
+  >
   <figcaption>
     Iteration 1 — slider-actuated parallel pliers prototype
   </figcaption>
 </figure>
-
-![Iteration 1](/assets/img/it_1.jpg)
 
 While these pliers were able to close together, they could not do so reliably and consistently. It required significant effort to close the pliers such that the tips touched, and even when they did, they often would not join evenly, they would be staggered. 
 
