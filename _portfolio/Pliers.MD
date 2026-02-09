@@ -31,6 +31,8 @@ Building on these principles, the following project explores the design and fabr
 ## Iterative Process
 This process was complicated.....
 
+![Printed pliers opening and closing](assets/img/pliers_working.gif)
+
 ## Off-the-Shelf Components
 
 | Component | Description |
