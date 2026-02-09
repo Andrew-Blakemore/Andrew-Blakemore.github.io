@@ -22,11 +22,11 @@ toc_icon: bars
 
 Print-in-place (PIP) parts are additively manufactured assemblies that emerge from the printer fully functional, requiring no post-print assembly. By strategically designing clearances, joints, and interfaces, multiple moving components can be fabricated concurrently in a single print. This approach reduces assembly time and part count, and enables mechanisms that would be difficult to produce using traditional manufacturing methods.
 
-Print-in-place techniques have been widely used across a range of applications, including compliant hinges<https://www.youtube.com/watch?v=BWsUk1xSSn4>, articulated toys, chain links, gears, enclosures with captive fasteners, and functional mechanisms such as clamps and tools. In engineering and prototyping contexts, PIP designs are especially valuable for rapid iteration, compact mechanisms, and integrated motion, allowing designers to test mechanical concepts directly off the print bed.
+Print-in-place techniques have been widely used across a range of applications, including [hinges](https://www.youtube.com/watch?v=BWsUk1xSSn4), [articulated toys](https://www.printables.com/model/538160-articulated-bone-dragon), [gears](https://www.printables.com/model/319669-print-in-place-3-in-1-planetary-gears), and functional tools such as [clamps](https://www.printables.com/model/343921-ratchet-clamp-print-in-place). In engineering and prototyping contexts, PIP designs are especially valuable for rapid iteration, allowing designers to test mechanical concepts directly off the print bed.
 
 Material selection plays an important role in print-in-place designs, especially when motion or load transfer is involved. Common single-material solutions include PLA and PETG due to their dimensional stability and ease of printing, while nylon offers improved toughness and wear resistance for moving components. In multi-material print-in-place applications, combining rigid materials (such as PLA, PETG, or nylon) with flexible elastomers (such as TPU) enables integrated compliance, grip surfaces, and return mechanisms.
 
-Building on these principles, the following project explores the design and fabrication of a multi-material print-in-place pliers mechanism, demonstrating how a print-in-place design can create a functional, assembly-free tool.
+Building on these principles, the following project explores the design and fabrication of a multi-material print-in-place pliers mechanism.
 
 ## Iterative Process
 This process was complicated.....
