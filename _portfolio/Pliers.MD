@@ -30,35 +30,35 @@ Building on these principles, the following project explores the design and fabr
 
 ## Iterative Process
 
-The pliers were developed through an iterative design process focused on combining rigid and compliant components into a functional gripping mechanism. The assembly consists of a rigid handle and ring structure paired with flexible prongs that act as a compliant mechanism. These prongs are mechanically linked to both the handle and the ring such that pulling the ring toward the handle induces controlled bending, causing the jaws to converge at the tip. This configuration allowed the gripping motion to be achieved without traditional pin joints, relying instead on material compliance to produce motion.
+The pliers were developed through an iterative design process focused on combining rigid and compliant elements into a functional gripping tool. The assembly consists of a rigid handle and ring structure with flexible prongs that act as a compliant mechanism. These prongs are mechanically linked to both the handle and the ring such that pulling the ring toward the handle induces controlled bending, causing the jaws to converge at the tip. This configuration allowed the gripping motion to be achieved without traditional pin joints, relying instead on material compliance.
 
-To support this compliant mechanism, PETG was selected for the rigid components due to its strength and dimensional stability, while TPU-95A was used for the flexible prongs to allow controlled elastic deformation. Although the design was conceived with print-in-place principles in mind, the components were initially printed separately and assembled via press-fit connections to allow for easier iteration.
+To support this approach, PETG was chosen for the rigid components due to its strength and dimensional stability, while TPU-95A was used for the flexible prongs to allow repeated elastic deformation without failure. Although the design was conceived with print-in-place principles in mind, the components were initially printed separately and assembled via press-fit connections to allow for easier iteration.
 
-<figure style="text-align: center;">
-  <img src="/assets/img/it_1.jpg" alt="Iteration 1" width="600">
-  <figcaption>
-    Iteration 1 — slider-actuated parallel pliers prototype
-  </figcaption>
-</figure>
-While this iteration of the pliers could open and close, it was some significant shortcomings. Significant force was required to bring the tips into contact, and even closed, the jaws often failed to align evenly, resulting in a staggered tip interface.
+### Iteration 1
 
-<figure style="text-align: center;">
-  <img src="/assets/img/offsetg.gif" alt="Iteration 1" width="600">
-  <figcaption>
-    Iteration 1 — poor alignment
-  </figcaption>
-</figure>
-In order to address this issue and make the pliers close more accurately, I reduced the length of the flexible tips and reduced the thickness of the print from 15mm to 10mm. The resulting pliers were considerably smaller and lighter than the first iteration.
+![Iteration 1](/assets/img/it_1.jpg)
+
+While first prototype could open and close, it contained several significant shortcomings. A large amount of force was required to bring the tips into contact, and even when fully closed, the jaws often failed to align properly. The result was a staggered, uneven tip interface that made precise gripping difficult and inconsistent.
+
+![Iteration 1 - Poor Alignment](/assets/img/offsetg.gif)
+
+To address these issues, the second design shortened the flexible tips and reduced the overall thickness of the print from 15 mm to 10 mm. This change produced a tool that was noticeably smaller and lighter, while also reducing the stiffness of the compliant elements enough to improve responsiveness.
+
+### Iteration 2
 
 ![Iteration 2](/assets/img/it_2.jpg)
 
-The pliers closed much more smoothly....elaborate
+With these changes, the pliers closed much more smoothly and required significantly less force to operate. The reduced tip length improved alignment and at the jaws, leading to more consistent contact and a cleaner, more reliable grip. The slimmer profile also made the tool feel less bulky and more natural to actuate. 
 
-![Printed pliers opening and closing](/assets/img/pliers_working.gif)
+![Iteration 2 - Better Alignment](/assets/img/pliers_working.gif)
 
-The new iteration was actually pretty precise. It was able to grab small objects, such as ________, with ease.
+The new iteration showed a considerable improvement in precision, reliably gripping small objects such as an M3 threaded insert with ease.
 
-![Iteration 2 application](/assets/img/bit.jpg)
+![Iteration 2 - Application](/assets/img/bit.jpg)
+
+## Interactive CAD Model
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811fa450a2d4a33e1d1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Off-the-Shelf Components
 
@@ -99,10 +99,6 @@ The new iteration was actually pretty precise. It was able to grab small objects
 - **Green**: Running
 - **Yellow**: Paused
 - **Red**: Syringe empty / limit reached
-
-## Interactive CAD Model
-
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811fa450a2d4a33e1d1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Arduino Code
 
