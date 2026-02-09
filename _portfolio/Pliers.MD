@@ -32,11 +32,11 @@ Building on these principles, the following project explores the design and fabr
 This process was complicated.....
 
 ![Iteration 1](/assets/img/it_1.jpg)
+![Iteration 1 stagger](/assets/img/stagger.jpg)
 ![Iteration 2](/assets/img/it_2.jpg)
+![Printed pliers opening and closing](/assets/img/pliers_working.gif)
 ![Iteration 2 application](/assets/img/bit.jpg)
 
-
-![Printed pliers opening and closing](/assets/img/pliers_working.gif)
 
 ## Off-the-Shelf Components
 
