@@ -40,7 +40,6 @@ To support this compliant mechanism, PETG was selected for the rigid components 
     Iteration 1 — slider-actuated parallel pliers prototype
   </figcaption>
 </figure>
-
 While this iteration of the pliers could open and close, it was some significant shortcomings. Significant force was required to bring the tips into contact, and even closed, the jaws often failed to align evenly, resulting in a staggered tip interface.
 
 <figure style="text-align: center;">
@@ -49,7 +48,6 @@ While this iteration of the pliers could open and close, it was some significant
     Iteration 1 — poor alignment
   </figcaption>
 </figure>
-
 In order to address this issue and make the pliers close more accurately, I reduced the length of the flexible tips and reduced the thickness of the print from 15mm to 10mm. The resulting pliers were considerably smaller and lighter than the first iteration.
 
 ![Iteration 2](/assets/img/it_2.jpg)
