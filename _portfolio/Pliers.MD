@@ -17,18 +17,19 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
 ---
-## Purpose
+## About Print-in-Place Parts
 {: .visually-hidden }
 
-Commercial syringe pumps are widely used in clinical and laboratory settings, but their high cost can limit accessibility despite relying on relatively simple mechanical and electrical principles. For this project, I set out to design and fabricate a low-cost, programmable syringe pump using additive manufacturing and embedded control. The goal was to create a device capable of delivering precise, non-pulsatile flow while remaining adaptable to different syringe sizes and easy to modift. By combining CAD design, FFF 3D printing, stepper motor driven linear actuation, and Arduino-based control, I developed a fully functional pump conpatible with both 10 mL and 20 mL syringes. The final design integrates user controls, visual status feedback, and enclosed electronics.
+Print-in-place (PIP) parts are additively manufactured assemblies that emerge from the printer fully functional, requiring no post-print assembly. By strategically designing clearances, joints, and interfaces, multiple moving components can be fabricated concurrently in a single print. This approach reduces assembly time and part count, and enables mechanisms that would be difficult to produce using traditional manufacturing methods.
 
-## Key Features
-* Compatibility with 10 mL and 20 mL syringes
-* Stepper motor driven lead screw for smooth, precise actuation
-* Adjustable limit switch to prevent excess compression/decompression
-* Start/pause control with visual status feedback (RGB LED)
-* Enclosed electronics designed to protect against liquid exposure
-* Fully 3D printed structural components with no adhesive bonding
+Print-in-place techniques have been widely used across a range of applications, including compliant hinges<https://www.youtube.com/watch?v=BWsUk1xSSn4>, articulated toys, chain links, gears, enclosures with captive fasteners, and functional mechanisms such as clamps and tools. In engineering and prototyping contexts, PIP designs are especially valuable for rapid iteration, compact mechanisms, and integrated motion, allowing designers to test mechanical concepts directly off the print bed.
+
+Material selection plays an important role in print-in-place designs, especially when motion or load transfer is involved. Common single-material solutions include PLA and PETG due to their dimensional stability and ease of printing, while nylon offers improved toughness and wear resistance for moving components. In multi-material print-in-place applications, combining rigid materials (such as PLA, PETG, or nylon) with flexible elastomers (such as TPU) enables integrated compliance, grip surfaces, and return mechanisms.
+
+Building on these principles, the following project explores the design and fabrication of a multi-material print-in-place pliers mechanism, demonstrating how a print-in-place design can create a functional, assembly-free tool.
+
+## Iterative Process
+This process was complicated.....
 
 ## Off-the-Shelf Components
 
