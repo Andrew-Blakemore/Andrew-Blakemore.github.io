@@ -1,5 +1,5 @@
 ---
-title: "Syringe Pump"
+title: "Automated Syringe Pump"
 excerpt: "A low-cost, programmable syringe pump capable of accurate flow control for 10 mL and 20 mL syringes."
 header:
   teaser: /assets/img/syringe_b.jpeg
@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
 ---
-## Purpose
+## About My Syringe Pump
 {: .visually-hidden }
 
 Commercial syringe pumps are widely used in clinical and laboratory settings, but their high cost can limit accessibility despite relying on relatively simple mechanical and electrical principles. For this project, I set out to design and fabricate a low-cost, programmable syringe pump using additive manufacturing and embedded control. The goal was to create a device capable of delivering precise, non-pulsatile flow while remaining adaptable to different syringe sizes and easy to modift. By combining CAD design, FFF 3D printing, stepper motor driven linear actuation, and Arduino-based control, I developed a fully functional pump conpatible with both 10 mL and 20 mL syringes. The final design integrates user controls, visual status feedback, and enclosed electronics.
