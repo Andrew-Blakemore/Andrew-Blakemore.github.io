@@ -29,9 +29,11 @@ Material selection plays an important role in print-in-place designs, especially
 Building on these principles, the following project explores the design and fabrication of a multi-material print-in-place pliers mechanism.
 
 ## Iterative Process
-This process was complicated.....
+The pliers I designed ....
 
 ![Iteration 1](/assets/img/it_1.jpg)
+
+While these pliers were able to close together, they could not do so reliably and consistently. It required significant effort to close the pliers such that the tips touched, and even when they did, they often would not join evenly, they would be staggered. 
 ![Iteration 1 stagger](/assets/img/stagger.jpg)
 ![Iteration 2](/assets/img/it_2.jpg)
 ![Printed pliers opening and closing](/assets/img/pliers_working.gif)
