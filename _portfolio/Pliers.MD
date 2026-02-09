@@ -3,7 +3,7 @@ title: "Print-in-Place Pliers"
 excerpt: "Functional multi-material pliers that work immediately after removal
 from the print bed."
 header:
-  teaser: /assets/img/syringe_b.jpeg
+  teaser: /assets/img/pliers_cover.jpeg
 gallery:
   - url: /assets/img/syringe_compare.png
     image_path: assets/img/syringe_compare.png
