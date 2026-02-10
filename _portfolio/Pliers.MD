@@ -77,7 +77,6 @@ The new iteration showed a considerable improvement in precision, reliably gripp
 
 ## Print Settings
 ### Stiff Components (PETG)
-{: .visually-hidden }
 
 | Parameter | Value |
 |-----------|--------|
@@ -97,7 +96,6 @@ The new iteration showed a considerable improvement in precision, reliably gripp
 | Other Layers Bed Temp | 75 °C |
 
 ### Flexible Components (TPU 95A)
-{: .visually-hidden }
 
 | Parameter | Value |
 |-----------|--------|
