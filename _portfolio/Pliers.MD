@@ -76,15 +76,44 @@ The new iteration showed a considerable improvement in precision, reliably gripp
 | External Power Supply | Provides power to motor and electronics |
 
 ## Print Settings
+### Stiff Components (PETG)
+{: .visually-hidden }
 
-| Part | Material | Function |
-|------|----------|----------|
-| Syringe Holder | PLA | Secures 10 mL and 20 mL syringe barrels |
-| Plunger Carriage | PLA | Transfers linear force to syringe plunger |
-| Electronics Housing | PLA | Protects wiring and control electronics |
-| Rail Supports | PLA | Stabilize linear motion system |
-| Motor Mount | ABS | Heat-resistant mount for stepper motor |
+| Parameter | Value |
+|-----------|--------|
+| Material | PETG |
+| Nozzle Size | 0.6 mm |
+| Infill Density | 15% |
+| Sparse Infill Pattern | Rectilinear |
+| Top Infill Pattern | Monotonic |
+| Perimeters (Contour) | 3 (minimum) |
+| Top Solid Layers | 3 |
+| Bottom Solid Layers | 3 |
+| Min Top Shell Thickness | 0.8 mm |
+| Min Bottom Shell Thickness | 0.8 mm |
+| First Layer Nozzle Temp | 245 °C |
+| First Layer Bed Temp | 80 °C |
+| Other Layers Nozzle Temp | 240 °C |
+| Other Layers Bed Temp | 75 °C |
 
+### Flexible Components (TPU 95A)
+{: .visually-hidden }
 
+| Parameter | Value |
+|-----------|--------|
+| Material | TPU 95A |
+| Nozzle Size | 0.6 mm |
+| Infill Density | 25% |
+| Sparse Infill Pattern | Gyroid |
+| Top Infill Pattern | Monotonic |
+| Perimeters (Contour) | 2 (minimum) |
+| Top Solid Layers | 4 |
+| Bottom Solid Layers | 3 |
+| Min Top Shell Thickness | 0 mm |
+| Min Bottom Shell Thickness | 0 mm |
+| First Layer Nozzle Temp | 235 °C |
+| First Layer Bed Temp | 60 °C |
+| Other Layers Nozzle Temp | 230 °C |
+| Other Layers Bed Temp | 60 °C |
 
 {% include gallery caption="The completed syringe pump alongside its CAD model (left), with the corresponding electrical schematic diagram shown on the right." %}
