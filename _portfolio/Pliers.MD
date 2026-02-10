@@ -60,22 +60,26 @@ The new iteration showed a considerable improvement in precision, reliably gripp
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811fa450a2d4a33e1d1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## Specifications
+## Geometric Specifications
 
-| Component | Description |
-|----------|-------------|
-| Arduino Uno | Microcontroller for motor control and user interface |
-| NEMA-17 Stepper Motor | Drives linear motion through lead screw |
-| Stepper Motor Driver | Controls microstepping and motor current |
-| Lead Screw & Brass Nut | Converts rotational motion to linear motion |
-| LM8UU Linear Bearings | Guides carriage along linear rods |
-| Aluminum Extrusion | Structural rail for motion system |
-| Limit Switch | Detects end of syringe travel |
-| Latching Pushbutton | Start / pause control |
-| RGB LED | System status indicator (run / pause / empty) |
-| External Power Supply | Provides power to motor and electronics |
+| Specification | Value |
+|---------------|--------|
+| Overall Length | 216 mm |
+| Handle Length | 82 mm |
+| Jaw Length | 106 mm |
+| Handle Width | 44 mm |
+| Jaw Width (Outer Prongs) | 80 mm |
+| Jaw Width (Tip) | 42 mm |
+| Tool Thickness | 10 mm |
+| Grip Span (Open) | 23 mm |
+| Grip Span (Closed) | 17 mm |
+
+*The grip span is the distance between the ring and the handle. When the ring is pulled towards the handle to close the pliers, grip span decreases.
 
 ## Print Settings
+
+All components were fabricated using an FDM 3D printer (Voron) with the print parameters summarized below. Settings were selected to balance strength and flexibility for both rigid and compliant components.
+
 ### Stiff Components (PETG)
 
 | Parameter | Value |
