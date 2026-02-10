@@ -18,13 +18,13 @@ Print-in-place (PIP) parts are additively manufactured assemblies that emerge fr
 
 Print-in-place techniques have been used in many applications, including [hinges](https://www.youtube.com/watch?v=BWsUk1xSSn4), [articulated toys](https://www.printables.com/model/538160-articulated-bone-dragon), [gears](https://www.printables.com/model/319669-print-in-place-3-in-1-planetary-gears), and functional tools such as [clamps](https://www.printables.com/model/343921-ratchet-clamp-print-in-place). In engineering and prototyping contexts, PIP designs are especially valuable for rapid iteration, allowing designers to test mechanical concepts directly off the print bed.
 
-Material selection plays an important role in print-in-place designs, especially when motion or load transfer is involved. Common single-material solutions include PLA and PETG due to their dimensional stability and ease of printing, while nylon offers improved toughness and wear resistance for moving components. In multi-material print-in-place applications, combining rigid materials (such as PLA, PETG, or nylon) with flexible elastomers (such as TPU) enables integrated compliance, grip surfaces, and spring mechanisms.
+Material selection plays an important role in print-in-place designs, especially when motion or load transfer is involved. Common single-material solutions include PLA and PETG due to their dimensional stability and ease of printing, while nylon offers improved toughness and wear resistance for moving components. In multi-material print-in-place applications, combining rigid materials with flexible elastomers (such as TPU) enables integrated compliance, grip surfaces, and spring mechanisms.
 
 Building on these principles, this project explores the design and fabrication of multi-material print-in-place pliers.
 
 ## Iterative Process
 
-The pliers were developed through an iterative design process focused on combining rigid and flexible elements into a functional gripping tool. The assembly consisted of a rigid handle and ring structure with flexible prongs that act as a compliant mechanism. These prongs were mechanically linked to both the handle and the ring such that pulling the ring toward the handle induced controlled bending, causing the jaws to converge at the tip. This configuration allowed a gripping motion to be achieved without traditional pin joints, relying instead on material compliance.
+The pliers were developed through an iterative design process focused on combining rigid and flexible elements into a functional gripping tool. The assembly consisted of a rigid handle and ring structure with flexible prongs that acted as a compliant mechanism. These prongs were mechanically linked to both the handle and the ring such that pulling the ring toward the handle induced controlled bending, causing the jaws to converge. This configuration allowed a gripping motion to be achieved without traditional pin joints.
 
 To support this approach, PETG was chosen for the rigid components due to its strength and dimensional stability, while TPU 95A was used for the flexible prongs to allow repeated elastic deformation without failure. Although the design was conceived with print-in-place principles in mind, the components were initially printed separately and assembled via press-fit connections.
 
@@ -36,13 +36,13 @@ While the first prototype could open and close, its design was flawed in ways th
 
 ![Iteration 1 - Poor Alignment](/assets/img/offsetg.gif)
 
-To address these issues, the second iteration shortened the flexible prongs and reduced the overall thickness of the print from 15 mm to 10 mm. This change produced a tool that was noticeably smaller and lighter, while also reducing the stiffness of the compliant elements enough to improve responsiveness.
+To address these issues, the second iteration was designed with shorter prongs and a reduced thickness. These changes produced a tool that was noticeably smaller and lighter, while also reducing the stiffness of the compliant elements enough to improve responsiveness.
 
 ### Iteration 2
 
 ![Iteration 2](/assets/img/it_2.jpg)
 
-With these changes, the pliers closed much more smoothly and required significantly less force to operate. The reduced tip length improved alignment at the jaws, leading to more consistent contact and a cleaner, more reliable grip. The slimmer profile also made the tool feel less bulky and more natural to actuate. 
+With these changes, the pliers closed much more smoothly and required significantly less force to operate. The reduced prong length improved alignment at the jaws, leading to better contact. The slimmer profile also made the tool feel less bulky and more natural to actuate. 
 
 ![Iteration 2 - Better Alignment](/assets/img/pliers_working.gif)
 
@@ -68,7 +68,7 @@ The new iteration showed a considerable improvement in precision, reliably gripp
 | Grip Span (Open) | 23 mm |
 | Grip Span (Closed) | 17 mm |
 
-*The grip span is the distance between the ring and the handle. When the ring is pulled towards the handle to close the pliers, grip span decreases.
+*The grip span is the distance between the ring and the handle. When the ring is pulled towards the handle to close the pliers, grip span decreases.*
 
 ## Print Settings
 
