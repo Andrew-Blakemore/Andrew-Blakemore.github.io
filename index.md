@@ -10,19 +10,22 @@ header:
       url: "/portfolio/"
 excerpt: "Andrew Blakemore is a biomedical engineer with a focus on prototyping, digital fabrication, and additive manufacturing. This site documents hands-on engineering projects developed through iterative design, testing, and fabrication—bridging concept, material, and function."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/xray.jpg
+    alt: "Source-Ray PowerMax 1260 Portable X-ray System"
+    title: "Diagnosing a Portable X-ray System"
+    excerpt: "Tracing faults to restore reliable imaging."
+  - image_path: assets/img/endo.jpg
+    alt: "Stryker 1288 HD Camera Endoscopy System"
+    title: "Troubleshooting an Endoscopy Camera System"
+    excerpt: "Isolating failures in critical imaging hardware."
+  - image_path: assets/img/OR.jpg
+    alt: "Steris 4085 OR Table"
+    title: "Maintaining a Surgical OR Table"
+    excerpt: "Preventive maintenance to ensure safe operation. "
+  - image_path: assets/img/lamp.jpg
+    alt: "Rewiring Exam Lights in Guatemala"
+    title: "Repairing Clinical Equipment in the Field"
+    excerpt: "Rewiring lights to restore patient care in Guatemala."
 ---
 
-{% comment %}
 {% include feature_row %}
-{% endcomment %}
