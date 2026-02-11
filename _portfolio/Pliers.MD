@@ -66,7 +66,6 @@ The new iteration showed a considerable improvement in precision, reliably gripp
 
 ## Geometric Specifications
 
-<div style="display: flex; justify-content: center;">
 | Specification | Value |
 |---------------|--------|
 | Overall Length | 216 mm |
@@ -80,7 +79,6 @@ The new iteration showed a considerable improvement in precision, reliably gripp
 | Grip Span (Closed) | 17 mm |
 
 *The grip span is the distance between the ring and the handle. When the ring is pulled towards the handle to close the pliers, grip span decreases.*
-</div>
 
 ## Print Settings
 
@@ -88,7 +86,6 @@ All components were fabricated using an FDM 3D printer (Voron) with the print pa
 
 ### Stiff Components (PETG)
 
-<div style="display: flex; justify-content: center;">
 | Parameter | Value |
 |-----------|--------|
 | Material | PETG |
@@ -105,11 +102,9 @@ All components were fabricated using an FDM 3D printer (Voron) with the print pa
 | First Layer Bed Temp | 80 °C |
 | Other Layers Nozzle Temp | 240 °C |
 | Other Layers Bed Temp | 75 °C |
-</div>
 
 ### Flexible Components (TPU 95A)
 
-<div style="display: flex; justify-content: center;">
 | Parameter | Value |
 |-----------|--------|
 | Material | TPU 95A |
@@ -126,4 +121,3 @@ All components were fabricated using an FDM 3D printer (Voron) with the print pa
 | First Layer Bed Temp | 60 °C |
 | Other Layers Nozzle Temp | 230 °C |
 | Other Layers Bed Temp | 60 °C |
-</div>
