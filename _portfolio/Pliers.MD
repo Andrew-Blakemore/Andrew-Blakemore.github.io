@@ -30,11 +30,12 @@ To support this approach, PETG was chosen for the rigid components due to its st
 
 ### Iteration 1
 
-![Iteration 1](/assets/img/it_1.jpg)
+<p align="center">
+  <img src="/assets/img/it_1.jpg" alt="Iteration 1">
+</p>
 
 While the first prototype could open and close, its design was flawed in ways that made it inconvenient to use. A large amount of force was required to bring the tips into contact, and even when fully closed, the jaws often failed to align properly. The result was a staggered, uneven tip interface that made precise gripping difficult and inconsistent.
 
-![Iteration 1 - Poor Alignment](/assets/img/offsetg.gif)
 <p align="center">
   <img src="/assets/img/offsetg.gif" alt="Iteration 1 - Poor Alignment">
 </p>
