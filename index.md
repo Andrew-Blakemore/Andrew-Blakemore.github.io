@@ -16,7 +16,7 @@ feature_row:
     excerpt: "Rewiring lights to restore patient care in Guatemala."
   - image_path: assets/img/endo.jpg
     alt: "Stryker 1288 HD Endoscopy Camera System"
-    title: "Troubleshooting an Endoscopy System"
+    title: "Diagnosing an Endoscopy System"
     excerpt: "Isolating failures in critical imaging hardware."
   - image_path: assets/img/OR.jpg
     alt: "Steris 4085 OR Table"
@@ -24,7 +24,7 @@ feature_row:
     excerpt: "Preventive maintenance to ensure safe operation. "
   - image_path: assets/img/xray.jpg
     alt: "Source-Ray PowerMax 1260 Portable X-ray System"
-    title: "Diagnosing Portable X-ray Systems"
+    title: "Troubleshooting a Portable X-ray System"
     excerpt: "Tracing faults to restore reliable imaging."
 ---
 
