@@ -15,8 +15,8 @@ feature_row:
     title: "Repairing Clinical Equipment in the Field"
     excerpt: "Rewiring lights to restore patient care in Guatemala."
   - image_path: assets/img/endo.jpg
-    alt: "Stryker 1288 HD Endoscopy System"
-    title: "Troubleshooting an Endoscopy Camera System"
+    alt: "Stryker 1288 HD Endoscopy Camera System"
+    title: "Troubleshooting an Endoscopy System"
     excerpt: "Isolating failures in critical imaging hardware."
   - image_path: assets/img/OR.jpg
     alt: "Steris 4085 OR Table"
