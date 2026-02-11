@@ -11,6 +11,9 @@ gallery:
   - url: /assets/img/syringe_electrical.jpg
     image_path: assets/img/syringe_electrical.jpg
     alt: "Electrical schematics of the syringe pump"
+  - url: /assets/img/inside.jpg
+    image_path: assets/img/inside.jpg
+    alt: "Components inside the housing"
 
 toc: true
 toc_label: "Table of Contents"
