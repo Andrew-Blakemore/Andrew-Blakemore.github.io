@@ -44,7 +44,9 @@ To address these issues, the second iteration was designed with shorter prongs a
 
 With these changes, the pliers closed much more smoothly and required significantly less force to operate. The reduced prong length improved alignment at the jaws, leading to better contact. The slimmer profile also made the tool feel less bulky and more natural to actuate. 
 
-![Iteration 2 - Better Alignment](/assets/img/pliers_working.gif)
+<p align="center">
+  ![Iteration 2 - Better Alignment](/assets/img/pliers_working.gif)
+</p>
 
 The new iteration showed a considerable improvement in precision, reliably gripping small objects such as an M3 threaded insert with ease.
 
