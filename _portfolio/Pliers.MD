@@ -56,7 +56,9 @@ With these changes, the pliers closed much more smoothly and required significan
 
 The new iteration showed a considerable improvement in precision, reliably gripping small objects such as an M3 threaded insert with ease.
 
-![Iteration 2 - Application](/assets/img/bit.jpg)
+<p align="center">
+  <img src="/assets/img/bit.jpg" alt="Iteration 2 - Application">
+</p>
 
 ## Interactive CAD Model
 
