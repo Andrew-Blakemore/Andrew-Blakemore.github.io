@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Andrew Blakemore is a biomedical engineer with a focus on prototyping, digital fabrication, and additive manufacturing. This site documents hands-on engineering projects developed through iterative design, testing, and fabrication—bridging concept, material, and function."
+excerpt: "Andrew Blakemore is a biomedical engineer whose work spans manufacturing-focused projects and hands-on clinical engineering experience. This site documents custom-built prototypes alongside medical device troubleshooting and maintenance, bridging digital fabrication, iterative design, and real-world healthcare systems."
 feature_row:
   - image_path: assets/img/lamp.jpg
     alt: "Rewiring Exam Lights in Guatemala"
@@ -24,7 +24,7 @@ feature_row:
     excerpt: "Preventive maintenance to ensure safe operation. "
   - image_path: assets/img/xray.jpg
     alt: "Source-Ray PowerMax 1260 Portable X-ray System"
-    title: "Diagnosing a Portable    X-ray System"
+    title: "Diagnosing Portable X-ray Systems"
     excerpt: "Tracing faults to restore reliable imaging."
 ---
 
