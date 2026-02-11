@@ -24,7 +24,7 @@ feature_row:
     excerpt: "Preventive maintenance to ensure safe operation. "
   - image_path: assets/img/xray.jpg
     alt: "Source-Ray PowerMax 1260 Portable X-ray System"
-    title: "Diagnosing a Portable X-ray System"
+    title: "Diagnosing a Portable    X-ray System"
     excerpt: "Tracing faults to restore reliable imaging."
 ---
 
