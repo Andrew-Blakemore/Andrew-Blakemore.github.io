@@ -83,4 +83,4 @@ The Arduino script converts a user-defined volumetric flow rate into a motor ste
 
 **[View Arduino Code on GitHub](https://github.com/Andrew-Blakemore/automated-syringe-pump)**
 
-{% include gallery caption="The completed syringe pump alongside its CAD model (left), with the corresponding electrical schematic diagram shown on the right." %}
+{% include gallery caption="The completed syringe pump alongside its CAD model (left), electrical schematic (middle), and internal components beneath the housing (right)." %}
