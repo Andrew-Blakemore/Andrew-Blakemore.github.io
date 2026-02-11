@@ -35,6 +35,9 @@ To support this approach, PETG was chosen for the rigid components due to its st
 While the first prototype could open and close, its design was flawed in ways that made it inconvenient to use. A large amount of force was required to bring the tips into contact, and even when fully closed, the jaws often failed to align properly. The result was a staggered, uneven tip interface that made precise gripping difficult and inconsistent.
 
 ![Iteration 1 - Poor Alignment](/assets/img/offsetg.gif)
+<p align="center">
+  <img src="/assets/img/offsetg.gif" alt="Iteration 1 - Poor Alignment">
+</p>
 
 To address these issues, the second iteration was designed with shorter prongs and a reduced thickness. These changes produced a tool that was noticeably smaller and lighter, while also reducing the stiffness of the compliant elements enough to improve responsiveness.
 
@@ -44,9 +47,7 @@ To address these issues, the second iteration was designed with shorter prongs a
 
 With these changes, the pliers closed much more smoothly and required significantly less force to operate. The reduced prong length improved alignment at the jaws, leading to better contact. The slimmer profile also made the tool feel less bulky and more natural to actuate. 
 
-<p align="center">
-  ![Iteration 2 - Better Alignment](/assets/img/pliers_working.gif)
-</p>
+![Iteration 2 - Better Alignment](/assets/img/pliers_working.gif)
 
 The new iteration showed a considerable improvement in precision, reliably gripping small objects such as an M3 threaded insert with ease.
 
