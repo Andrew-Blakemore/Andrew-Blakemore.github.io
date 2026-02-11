@@ -2,8 +2,8 @@
 title: "Automated Syringe Pump"
 excerpt: "A low-cost, programmable syringe pump capable of accurate flow control for 10 mL and 20 mL syringes."
 header:
-  image: /assets/img/pump1.jpg
-  teaser: /assets/img/pump1.jpg
+  image: /assets/img/pump3.jpg
+  teaser: /assets/img/pump2.jpg
 gallery:
   - url: /assets/img/syringe_compare.png
     image_path: assets/img/syringe_compare.png
