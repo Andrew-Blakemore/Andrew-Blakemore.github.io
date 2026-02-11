@@ -13,7 +13,7 @@ feature_row:
   - image_path: assets/img/lamp.jpg
     alt: "Rewiring Exam Lights in Guatemala"
     title: "Repairing Clinical Equipment in the Field"
-    excerpt: "Rewiring lights to restore patient care in Guatemala."
+    excerpt: "Rewiring exam lights to restore patient care in Guatemala."
   - image_path: assets/img/endo.jpg
     alt: "Stryker 1288 HD Endoscopy Camera System"
     title: "Diagnosing an Endoscopy Tower System"
