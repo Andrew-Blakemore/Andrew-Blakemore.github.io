@@ -14,7 +14,10 @@ toc_icon: bars
 {: .visually-hidden }
 
 Measuring human gait provides valuable insight into injury recovery and neuromotor health. Subtle asymmetries in walking patterns can indicate musculoskeletal imbalance, early-stage neurological impairment, or incomplete rehabilitation following lower-limb injury. However, many gait analysis tools remain confined to clinical environments due to cost, complexity, or lack of portability.
-Traditional systems such as force plates provide high accuracy but are immobile and expensive, while pressure insoles often lack spatial resolution or robustness. Standalone IMU-based solutions offer portable motion tracking but cannot capture plantar loading distributions. These limitations create a gap between laboratory-grade analysis and real-world monitoring. This project explores a wearable, multi-sensor system designed to bridge that gap by combining pressure sensing and inertial measurements in a compact, field-deployable platform.
+
+Traditional systems such as force plates provide high accuracy but are immobile and expensive, while pressure insoles often lack spatial resolution or robustness. Standalone IMU-based solutions offer portable motion tracking but cannot capture plantar loading distributions. These limitations create a gap between laboratory-grade analysis and real-world monitoring.
+
+This project explores a wearable, multi-sensor system designed to bridge that gap by combining pressure sensing and inertial measurements in a compact, field-deployable platform.
 
 ## System Overview
 
