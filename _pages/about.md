@@ -38,6 +38,7 @@ Andrew is a biomedical engineering student whose curriculum emphasizes design-dr
 **Undergraduate Research Assistant**<br>
 *Brigham Young University — Adams Microbial Ecology Lab — Provo, UT*<br>
 *Dec 2021 – Aug 2023*
+- [Presented research at the Scientific Committee for Antarctic Research symposium](/assets/files/SCAR_Presentation.pdf) in Christchurch, NZ
 - Designed and executed laboratory experiments studying competitive exclusion in nematode communities, including sample processing, data collection, and protocol development.
 - Developed standardized workflows and documentation to improve experimental efficiency.
 - Trained and supported laboratory members in established procedures and techniques.
