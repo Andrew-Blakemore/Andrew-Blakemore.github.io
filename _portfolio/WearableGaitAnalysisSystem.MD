@@ -24,7 +24,7 @@ This project explores a wearable, multi-sensor system designed to bridge that ga
 The device consists of a pressure-mapped insole paired with a 3-axis inertial measurement unit (IMU) and a microcontroller for real-time data acquisition and analysis. By integrating both force and motion sensing, the system captures complementary biomechanical information that enables more robust gait characterization than either modality alone.
 
 <p align="center">
-  <img src="/assets/img/arch.png" alt="System Architecture">
+  <img src="/assets/img/architecture.png" alt="System Architecture">
 </p>
 
 Pressure sensors embedded within the insole measure plantar loading patterns during stance phases, enabling estimation of force symmetry and peak pressure distribution. Simultaneously, the IMU captures acceleration signatures that provide information about step timing, gait dynamics, and surface-dependent motion characteristics.
