@@ -3,7 +3,7 @@ title: "Wearable Gait Analysis System"
 excerpt: "A lightweight-wearable system combining pressure sensing and IMU data to quantify gait symmetry and classify terrain in real time."
 header:
   image: /assets/img/foot.png
-  teaser: /assets/img/Dev1.jpg
+  teaser: /assets/img/dev1.jpg
 
 toc: true
 toc_label: "Table of Contents"
