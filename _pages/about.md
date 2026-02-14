@@ -47,6 +47,7 @@ Andrew is a biomedical engineering student whose curriculum emphasizes design-dr
 
 Andrew has experience designing and fabricating parts using computer-controlled manufacturing tools and additive manufacturing workflows. His technical skill set includes:
 
-* Fused Filament Fabrication (FFF/FDM)
+* 3D Printing Techniques (FFF/SLA/SLS)
+* Laser Cutting
 * CAD modeling for fabrication (SolidWorks, Fusion)
 * Benchtop testing and device validation
