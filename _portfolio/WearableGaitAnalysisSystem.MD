@@ -10,7 +10,7 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
 ---
-## About Gait Analysis Systems
+## About Gait Analysis
 {: .visually-hidden }
 
 Measuring human gait provides valuable insight into injury recovery and neuromotor health. Subtle asymmetries in walking patterns can indicate musculoskeletal imbalance, early-stage neurological impairment, or incomplete rehabilitation following lower-limb injury. However, many gait analysis tools remain confined to clinical environments due to cost, complexity, or lack of portability.
