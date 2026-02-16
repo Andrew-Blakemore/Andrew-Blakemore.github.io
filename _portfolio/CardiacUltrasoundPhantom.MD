@@ -2,8 +2,8 @@
 title: "Low-Cost Cardiac Ultrasound Phantom"
 excerpt: "A <$10 dynamic cardiac ultrasound phantom designed to simulate systolic and diastolic motion for accessible training."
 header:
-  image: /assets/img/ultrasound.png
-  teaser: /assets/img/tub.jpg
+  image: /assets/img/diastole.png
+  teaser: /assets/img/tub1.jpg
 
 toc: true
 toc_label: "Table of Contents"
@@ -38,7 +38,7 @@ This configuration produced a deformable, fluid-filled structure that could be i
 The phantom was constructed by forming a sealed latex chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was embedded within a gelatin matrix mixed with calcium chloride to improve structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
 
 <p align="center">
-  <img src="/assets/img/fabrication.jpg" alt="System Architecture">
+  <img src="/assets/img/fabrication.jpg" alt="Fabrication of Phantom">
 </p>
 
 The fabrication process required only inexpensive, widely available materials and could be completed in a single session, making it suitable for resource-limited or rapid prototyping environments.
@@ -46,7 +46,7 @@ The fabrication process required only inexpensive, widely available materials an
 ## Imaging Results
 
 <p align="center">
-  <img src="/assets/img/beat.gif" alt="System Architecture">
+  <img src="/assets/img/beat.gif" alt="Ultrasound Image">
 </p>
 
 Ultrasound imaging of the phantom successfully reproduced key visual features of cardiac scans, including:
@@ -54,6 +54,10 @@ Ultrasound imaging of the phantom successfully reproduced key visual features of
 - A clear anechoic chamber resembling a ventricular cavity  
 - Surrounding echogenic material analogous to soft tissue  
 - Acoustic shadowing from simulated ribs  
+
+<p align="center">
+  <img src="/assets/img/ultrasound.jpg" alt="Ultrasound of Phantom">
+</p>
 
 Manual syringe actuation produced visible cyclic deformation of the chamber, enabling visualization of simulated systole and diastole. The chamber diameter decreased from approximately 7.0 cm in the relaxed state to 6.7 cm during compression, demonstrating repeatable dynamic motion detectable under ultrasound.
 
