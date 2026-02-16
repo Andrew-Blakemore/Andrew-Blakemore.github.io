@@ -15,7 +15,7 @@ toc_icon: bars
 
 Measuring human gait provides valuable insight into injury recovery and neuromotor health. Subtle asymmetries in walking patterns can indicate musculoskeletal imbalance, early-stage neurological impairment, or incomplete rehabilitation following lower-limb injury. However, many gait analysis tools remain confined to clinical environments due to cost, complexity, or lack of portability.
 
-Traditional systems such as force plates provide high accuracy but are immobile and expensive, while pressure insoles often lack spatial resolution or robustness. Standalone IMU-based solutions offer portable motion tracking but cannot capture plantar loading distributions. These limitations create a gap between laboratory-grade analysis and real-world monitoring.
+Traditional systems such as force plates provide high accuracy but are immobile and expensive, while pressure insoles often lack spatial resolution or robustness. Standalone IMU-based solutions offer portable motion tracking but cannot capture plantar loading distributions. These limitations create a gap between laboratory-grade analysis and real-world monitoring. Just as importantly, most systems provide little context about how different environments like turf, pavement, or outdoor settings affect loading patterns and recovery.
 
 This project explores a wearable, multi-sensor system designed to bridge that gap by combining pressure sensing and inertial measurements in a compact, field-deployable platform.
 
@@ -27,7 +27,7 @@ The device consists of a pressure-mapped insole paired with a 3-axis inertial me
   <img src="/assets/img/architecture.png" alt="System Architecture">
 </p>
 
-Pressure sensors embedded within the insole measure plantar loading patterns during stance phases, enabling estimation of force symmetry and peak pressure distribution. Simultaneously, the IMU captures acceleration signatures that provide information about step timing, gait dynamics, and surface-dependent motion characteristics.
+Pressure sensors embedded within the insole measure plantar loading patterns during stance phases, enabling estimation of force symmetry and peak pressure distribution. Simultaneously, the IMU captures acceleration signatures that provide information about terrain characteristics, step timing, and gait dynamics.
 
 ## Design Motivation
 
@@ -50,7 +50,7 @@ By targeting both clinical and performance contexts, the design aims to support 
 The hardware architecture integrates several core subsystems:
 
 **Pressure Sensor Array**  
-A flexible set of force-sensitive elements embedded within the insole measures localized plantar loading. After iterative testing, a configuration of four sensors provided stable and discriminative measurements while minimizing system complexity.
+A flexible set of force-sensitive elements embedded within the insole measures localized plantar loading. After iterative testing, a configuration of sixteen sensors provided stable and discriminative measurements while minimizing system complexity.
 
 **Analog Front End (AFE)**  
 Signal conditioning circuitry amplifies and filters the raw pressure signals, enabling accurate digitization while maintaining low noise and minimal drift.
@@ -60,7 +60,7 @@ Signal conditioning circuitry amplifies and filters the raw pressure signals, en
 </p>
 
 **Inertial Measurement Unit (IMU)**  
-A 3-axis IMU captures acceleration data used for both step segmentation and terrain classification. These signals complement the pressure data by providing dynamic motion context.
+A 3-axis IMU captures acceleration data used for both terrain classification and step segmentation. These signals complement the pressure data by providing dynamic motion context.
 
 **Microcontroller and Data Interface**  
 A compact microcontroller aggregates sensor streams and enables real-time processing, with USB connectivity used for prototyping and validation.
@@ -76,10 +76,6 @@ One alternative approach investigated terrain classification using acoustic sign
 Both sensing modalities were validated independently before full integration into the wearable system.
 
 ### IMU Validation
-
-<p align="center">
-  <img src="/assets/img/IMU.gif" alt="IMU Data Visualization">
-</p>
 
 IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition.
 
