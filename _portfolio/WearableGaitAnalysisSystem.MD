@@ -2,7 +2,7 @@
 title: "Wearable Gait Analysis System"
 excerpt: "A lightweight-wearable system combining pressure sensing and IMU data to quantify gait symmetry and classify terrain in real time."
 header:
-  image: /assets/img/foot1.png
+  image: /assets/img/gait_thumb.png
   teaser: /assets/img/dev2.jpg
 
 toc: true
@@ -76,7 +76,7 @@ One alternative approach investigated terrain classification using acoustic sign
 Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases and peak loading events.
 
 <p align="center">
-  <img src="/assets/img/Pressure_Video.gif" alt="Pressure Sensor Validation">
+  <img src="/assets/img/pressure_vid.mp4" alt="Pressure Sensor Validation">
 </p>
 
 ## Example Output Metrics
@@ -86,11 +86,7 @@ Preliminary testing produced several physiologically relevant metrics derived fr
 - Force symmetry between left and right stance phases  
 - Peak plantar pressure estimates  
 - Step timing and cadence  
-- Terrain-dependent gait signatures  
-
-<p align="center">
-  <img src="/assets/img/Graph.png" alt="Example Sensor Output">
-</p>
+- Terrain-dependent gait signatures 
 
 These outputs demonstrate the system’s potential to provide quantitative gait insights using a minimally instrumented wearable platform.
 
