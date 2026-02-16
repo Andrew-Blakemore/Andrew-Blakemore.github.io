@@ -3,7 +3,7 @@ title: "Print-in-Place Pliers"
 excerpt: "Multi-material pliers with all parts printed in place and designed to press-fit together. No adhesives required!"
 header:
   image: /assets/img/pliers_present1.jpg
-  teaser: /assets/img/pliers_cover.jpg
+  teaser: /assets/img/pliers_cover1.jpg
 
 toc: true
 toc_label: "Table of Contents"
