@@ -71,9 +71,11 @@ The system was developed through iterative hardware and sensing experiments focu
 
 One alternative approach investigated terrain classification using acoustic signatures from a miniature microphone. While promising in controlled environments, this method proved unreliable due to ambient noise sensitivity and inconsistent foot–ground coupling. The concept was ultimately abandoned in favor of IMU-based terrain sensing, which provided more robust and repeatable results.
 
-## Sensor Validation
-
 Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases and peak loading events.
+
+<p align="center">
+  <img src="/assets/img/dev2.jpg" alt="Prototype 1">
+</p>
 
 ## Measurable Output Metrics
 
@@ -95,7 +97,7 @@ Future work will focus on improving integration and usability through:
 
 - Optimized sensor placement and mechanical integration  
 - Miniaturized electronics and compact power solutions  
-- Wireless data streaming and mobile visualization  
+- Bluetooth data streaming and mobile visualization  
 - Improved comfort, durability, and environmental robustness  
 
 With further refinement, the platform could support deployment in clinical research, rehabilitation monitoring, and performance analysis.
