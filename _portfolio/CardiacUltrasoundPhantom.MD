@@ -37,9 +37,17 @@ This configuration produced a deformable, fluid-filled structure that could be i
 
 The phantom was constructed by forming a sealed latex chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was embedded within a gelatin matrix mixed with calcium chloride to improve structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
 
-The fabrication process required only inexpensive, widely available materials and could be completed in a single session, making it suitable for classroom or rapid prototyping environments.
+<p align="center">
+  <img src="/assets/img/fabrication.png" alt="System Architecture">
+</p>
+
+The fabrication process required only inexpensive, widely available materials and could be completed in a single session, making it suitable for resource-limited or rapid prototyping environments.
 
 ## Imaging Results
+
+<p align="center">
+  <img src="/assets/img/beat.gif" alt="System Architecture">
+</p>
 
 Ultrasound imaging of the phantom successfully reproduced key visual features of cardiac scans, including:
 
