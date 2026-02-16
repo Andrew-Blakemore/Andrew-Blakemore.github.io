@@ -75,17 +75,14 @@ One alternative approach investigated terrain classification using acoustic sign
 
 Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases and peak loading events.
 
-<p align="center">
-  <img src="/assets/img/pressure_vid.mp4" alt="Pressure Sensor Validation">
-</p>
-
-## Example Output Metrics
+## Measurable Output Metrics
 
 Preliminary testing produced several physiologically relevant metrics derived from combined pressure and motion data:
 
 - Force symmetry between left and right stance phases  
 - Peak plantar pressure estimates  
 - Step timing and cadence  
+- Terrain identification
 - Terrain-dependent gait signatures 
 
 These outputs demonstrate the system’s potential to provide quantitative gait insights using a minimally instrumented wearable platform.
