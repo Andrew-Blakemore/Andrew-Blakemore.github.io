@@ -73,13 +73,7 @@ One alternative approach investigated terrain classification using acoustic sign
 
 ## Sensor Validation
 
-Both sensing modalities were validated independently before full integration into the wearable system.
-
-IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition.
-
-### Pressure Sensor Validation
-
-Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases and peak loading events.
+Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases and peak loading events.
 
 <p align="center">
   <img src="/assets/img/Pressure_Video.gif" alt="Pressure Sensor Validation">
