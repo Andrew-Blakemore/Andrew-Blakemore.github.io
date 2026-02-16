@@ -56,7 +56,7 @@ Ultrasound imaging of the phantom successfully reproduced key visual features of
 - Acoustic shadowing from simulated ribs  
 
 <p align="center">
-  <img src="/assets/img/ultrasound.jpg" alt="Ultrasound of Phantom">
+  <img src="/assets/img/ultrasound.png" alt="Ultrasound of Phantom">
 </p>
 
 Manual syringe actuation produced visible cyclic deformation of the chamber, enabling visualization of simulated systole and diastole. The chamber diameter decreased from approximately 7.0 cm in the relaxed state to 6.7 cm during compression, demonstrating repeatable dynamic motion detectable under ultrasound.
