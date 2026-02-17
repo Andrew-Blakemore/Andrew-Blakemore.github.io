@@ -35,7 +35,7 @@ This configuration produced a deformable, fluid-filled structure that could be i
 
 ## Fabrication
 
-The phantom was constructed by forming a sealed latex chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was embedded within a gelatin matrix mixed with calcium chloride to improve structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
+The phantom was constructed by tying off the fingers of a latex glove to form a sealed chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was embedded within a gelatin matrix mixed with calcium chloride to improve structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
 
 <p align="center">
   <img src="/assets/img/fabrication.jpg" alt="Fabrication of Phantom">
@@ -63,7 +63,7 @@ Manual syringe actuation produced visible cyclic deformation of the chamber, ena
 
 ## Discussion
 
-The phantom demonstrates that meaningful dynamic ultrasound training tools can be produced at extremely low cost. While the model does not replicate full cardiac anatomy or physiological motion, it provides an accessible platform for introducing learners to key imaging concepts such as chamber identification, probe positioning, and motion interpretation.
+This phantom demonstrates that meaningful dynamic ultrasound training tools can be produced at extremely low cost. While the model does not replicate full cardiac anatomy or physiological motion, it provides an accessible platform for introducing learners to key imaging concepts such as chamber identification, probe positioning, and motion interpretation.
 
 Several limitations remain, including simplified geometry, manual actuation, and limited anatomical fidelity. Future iterations could improve realism through:
 
@@ -71,6 +71,4 @@ Several limitations remain, including simplified geometry, manual actuation, and
 - Multi-chamber designs for anatomical accuracy  
 - Improved tissue-mimicking materials for acoustic fidelity  
 
-This project demonstrates a low-cost, dynamic cardiac ultrasound phantom built from readily available materials. By combining simple fabrication techniques with manual actuation, the design produces repeatable chamber motion visible under ultrasound, making it a practical educational tool for early ultrasound training.
-
-The work highlights how accessible materials and rapid prototyping approaches can expand hands-on medical device education and democratize simulation-based learning.
+This work highlights how accessible materials and rapid prototyping approaches can expand hands-on medical device education and simulation-based learning.
