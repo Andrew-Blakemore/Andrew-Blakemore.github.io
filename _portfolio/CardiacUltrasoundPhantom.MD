@@ -44,7 +44,7 @@ The phantom was constructed by tying off the fingers of a latex glove to form a 
 The fabrication process required only inexpensive, widely available materials and could be completed in a single session, making it suitable for resource-limited or rapid prototyping environments.
 
 <p align="center">
-  <img src="/assets/img/tub1.jpg" alt="Completed Phantom">
+  <img src="/assets/img/tub2.jpg" alt="Completed Phantom">
 </p>
 
 ## Imaging Results
