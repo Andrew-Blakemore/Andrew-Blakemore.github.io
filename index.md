@@ -1,5 +1,5 @@
 ---
-title: "Designing, Building, Iterating"
+title: "Designing, Prototyping, Iterating"
 layout: splash
 header:
   overlay_color: "#000"
@@ -16,7 +16,7 @@ feature_row:
     excerpt: "Rewiring exam lights to restore patient care in Guatemala."
   - image_path: assets/img/endo.jpg
     alt: "Stryker 1288 HD Endoscopy Camera System"
-    title: "Diagnosing an Endoscopy Tower System"
+    title: "Diagnosing an Endoscopy Camera System"
     excerpt: "Isolating failures in critical imaging hardware."
   - image_path: assets/img/OR.jpg
     alt: "Steris 4085 OR Table"
