@@ -23,8 +23,8 @@ Andrew is a biomedical engineering student whose curriculum emphasizes design-dr
 
 **Biomedical Technician Intern**<br>
 *Project C.U.R.E. — Nashville, TN*<br>
-*May 2025 – Dec 2025*
-- Tested, troubleshot, and refurbished medical devices including infusion pumps, ventilators, patient monitors, and imaging equipment.
+*May 2025 – Jan 2026*
+- Tested, troubleshot, and refurbished medical devices including ICU monitors, imaging equipment, infusion pumps, ventilators, and endoscopy systems.
 - Conducted electrical diagnostics, calibration, and preventive maintenance to ensure device safety and reliability.
 - Evaluated device usability and performance for deployment in resource-limited healthcare settings.
 
