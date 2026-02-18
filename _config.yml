@@ -111,6 +111,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aeblakemore"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Andrew-Blakemore"
