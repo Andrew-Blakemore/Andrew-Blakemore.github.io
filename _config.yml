@@ -101,13 +101,12 @@ author:
   bio              : "A biomedical engineer with a passion for prototyping and an interest in medical devices."
   location         : "Nashville, TN"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Andrew-Blakemore"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrew-blakemore-bab55a2b2/"
-
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Andrew-Blakemore"
 
 # Site Footer
 footer:
