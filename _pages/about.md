@@ -9,7 +9,7 @@ title: "About Andrew Blakemore"
 Andrew is a biomedical engineering student whose curriculum emphasizes design-driven problem solving, prototyping, and digital fabrication. His coursework in biomedical device design, CAD, and rapid prototyping has shaped a strong interest in additive manufacturing and iterative, hands-on engineering. 
 
 * Vanderbilt University
-  * B.E. in Biomedical Engineering
+  * B.Eng. in Biomedical Engineering
   * Minor in Digital Fabrication
 
 ## Work Experience
@@ -36,7 +36,7 @@ Andrew is a biomedical engineering student whose curriculum emphasizes design-dr
 - Assisted in troubleshooting hardware issues during subsystem validation.
 
 **Undergraduate Research Assistant**<br>
-*Brigham Young University — Adams Microbial Ecology Lab — Provo, UT*<br>
+*Brigham Young University — Adams Lab — Provo, UT*<br>
 *Dec 2021 – Aug 2023*
 - [Presented research at the Scientific Committee for Antarctic Research symposium](/assets/files/SCAR_Presentation.pdf) in Christchurch, NZ
 - Designed and executed laboratory experiments studying competitive exclusion in nematode communities, including sample processing, data collection, and protocol development.
