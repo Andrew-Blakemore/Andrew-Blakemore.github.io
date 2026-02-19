@@ -1,5 +1,5 @@
 ---
-title: "Designing, Prototyping, Iterating"
+title: "Designing, Building, Iterating"
 layout: splash
 header:
   overlay_color: "#000"
