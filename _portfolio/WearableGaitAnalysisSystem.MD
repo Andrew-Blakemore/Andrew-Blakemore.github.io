@@ -87,6 +87,10 @@ Preliminary testing produced several physiologically relevant metrics derived fr
 - Terrain identification
 - Terrain-dependent gait signatures 
 
+<p align="center">
+  <img src="/assets/img/gait_plot.jpg" alt="Gait Data">
+</p>
+
 These outputs demonstrate the system’s potential to provide quantitative gait insights using a minimally instrumented wearable platform.
 
 ## Limitations and Future Work
