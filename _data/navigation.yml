@@ -5,7 +5,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Photography"
-    url: /photography/
+    url: /_pages/photography/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
