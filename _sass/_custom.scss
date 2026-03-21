@@ -18,8 +18,29 @@
 
 .photography-page .page__title {
   max-width: 1400px;
+  margin: 0 auto 1rem auto;
+  text-align: center;
+}
+
+.photography-intro {
+  max-width: 760px;
   margin: 0 auto 1.5rem auto;
   text-align: center;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #666;
+}
+
+.photography-divider {
+  max-width: 900px;
+  height: 1px;
+  margin: 0 auto 2rem auto;
+  background: linear-gradient(
+    to right,
+    rgba(0,0,0,0),
+    rgba(0,0,0,0.12),
+    rgba(0,0,0,0)
+  );
 }
 
 .photography-page .gallery {
@@ -33,6 +54,14 @@
 .photography-page .gallery a {
   display: inline-block;
   width: 100%;
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.photography-page .gallery a.is-visible {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .photography-page .gallery img {
