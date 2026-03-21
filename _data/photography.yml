@@ -1,8 +1,24 @@
-- src: /assets/img/photography/photo1.jpg
+- src: /assets/img/photography/1.jpg
   title: "Red Portrait"
+  category: portraits
+  featured: true
 
-- src: /assets/img/photography/photo2.jpg
+- src: /assets/img/photography/2.jpg
   title: "Blue Portrait"
+  category: portraits
+  featured: true
 
-- src: /assets/img/photography/photo3.jpg
+- src: /assets/img/photography/3.jpg
   title: "Purple Studio"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/4.jpg
+  title: "Pig"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/5.jpg
+  title: "Pan"
+  category: portraits
+  featured: true
