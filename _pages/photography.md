@@ -3,6 +3,7 @@ layout: single
 title: "Photography"
 permalink: /photography/
 classes: wide
+author_profile: false
 ---
 
 <div class="gallery">
