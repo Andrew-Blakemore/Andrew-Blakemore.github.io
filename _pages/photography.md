@@ -14,8 +14,11 @@ author_profile: false
 <div class="photography-divider"></div>
 
 <div class="gallery">
-  {% for file in site.static_files %}
-    {% if file.path contains '/assets/img/photography' %}
+  {% for photo in site.data.photography %}
+  <a href="{{ photo.src }}" class="glightbox reveal">
+    <img src="{{ photo.src }}" alt="{{ photo.title }}">
+  </a>
+{% endfor %}
       <a href="{{ file.path }}" class="glightbox reveal">
         <img src="{{ file.path }}" alt="">
       </a>
