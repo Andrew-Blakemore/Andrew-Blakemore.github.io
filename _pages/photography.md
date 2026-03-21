@@ -15,14 +15,9 @@ author_profile: false
 
 <div class="gallery">
   {% for photo in site.data.photography %}
-  <a href="{{ photo.src }}" class="glightbox reveal">
-    <img src="{{ photo.src }}" alt="{{ photo.title }}">
-  </a>
-{% endfor %}
-      <a href="{{ file.path }}" class="glightbox reveal">
-        <img src="{{ file.path }}" alt="">
-      </a>
-    {% endif %}
+    <a href="{{ photo.src }}" class="glightbox reveal" data-title="{{ photo.title }}">
+      <img src="{{ photo.src }}" alt="{{ photo.title }}">
+    </a>
   {% endfor %}
 </div>
 
