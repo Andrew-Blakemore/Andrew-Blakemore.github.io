@@ -48,7 +48,7 @@ Commercial syringe pumps are widely used in clinical and laboratory settings, bu
 | RGB LED | System status indicator (run / pause / empty) |
 | External Power Supply | Provides power to motor and electronics |
 
-## Fabricated Components (3D Printed)
+## 3D Printed Components
 
 | Part | Material | Function |
 |------|----------|----------|
