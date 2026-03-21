@@ -2,7 +2,7 @@
 layout: single
 title: "Photography"
 permalink: /photography/
-classes: wide
+classes: wide photography-page
 author_profile: false
 ---
 
