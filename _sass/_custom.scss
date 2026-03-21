@@ -1,28 +1,27 @@
-.photography-page .page__inner-wrap {
-  max-width: 1400px !important;
+.photography-page .page,
+.photography-page .page__inner-wrap,
+.photography-page .page__content-wrapper,
+.photography-page .page__content {
+  float: none !important;
+  display: block !important;
   width: 100% !important;
+  max-width: 100% !important;
   margin-left: auto !important;
   margin-right: auto !important;
-  float: none !important;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
 .photography-page .page__content {
   max-width: 1400px !important;
-  width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
 }
 
-/* Center the page title above the gallery */
 .photography-page .page__title {
   max-width: 1400px;
   margin: 0 auto 1.5rem auto;
   text-align: center;
 }
 
-/* Gallery layout */
 .photography-page .gallery {
   column-count: 3;
   column-gap: 1rem;
@@ -31,13 +30,11 @@
   margin: 0 auto;
 }
 
-/* Each image link fills the column */
 .photography-page .gallery a {
   display: inline-block;
   width: 100%;
 }
 
-/* Image styling */
 .photography-page .gallery img {
   width: 100%;
   margin-bottom: 1rem;
@@ -50,7 +47,6 @@
   transform: scale(1.02);
 }
 
-/* Responsive columns */
 @media (max-width: 1000px) {
   .photography-page .gallery {
     column-count: 2;
