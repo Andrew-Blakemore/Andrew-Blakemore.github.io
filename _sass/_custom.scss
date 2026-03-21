@@ -1,25 +1,42 @@
 .gallery {
   column-count: 3;
   column-gap: 1rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  width: 100%;
 }
 
+/* Each image link fills the column */
 .gallery a {
   display: inline-block;
   width: 100%;
 }
 
+/* Image styling */
 .gallery img {
   width: 100%;
   margin-bottom: 1rem;
   border-radius: 0;
+  display: block;
   transition: transform 0.2s ease;
 }
 
+/* Hover effect */
 .gallery img:hover {
   transform: scale(1.02);
 }
 
-/* Responsive */
+/* Make sure the page content doesn't sit off to the side */
+.layout--single .page__inner-wrap {
+  max-width: 100% !important;
+}
+
+.layout--single .page__content {
+  max-width: 100% !important;
+  width: 100%;
+}
+
+/* Responsive columns */
 @media (max-width: 1000px) {
   .gallery {
     column-count: 2;
