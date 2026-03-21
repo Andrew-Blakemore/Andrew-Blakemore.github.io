@@ -16,7 +16,7 @@ author_profile: false
 
 <div class="gallery">
   {% for file in site.static_files %}
-    {% if file.path contains '/assets/images/photography' %}
+    {% if file.path contains '/assets/img/photography' %}
       <a href="{{ file.path }}" class="glightbox reveal">
         <img src="{{ file.path }}" alt="">
       </a>
