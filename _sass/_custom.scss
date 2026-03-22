@@ -32,8 +32,10 @@
   line-height: 1.8;
   color: #666;
 
-  background: rgba(0, 0, 0, 0.03);
-  border-radius: 12px;
+  background: #f8f8f8;
+  border: 1.5px solid rgba(0, 0, 0, 0.12);
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
 }
 
 .photography-intro p {
