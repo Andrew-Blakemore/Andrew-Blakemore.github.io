@@ -5,7 +5,7 @@
 
 - src: /assets/img/photography/The_Dragon's_Hoard.jpg
   title: "The Dragon's Hoard"
-  category: abstracts
+  category: abstract
   featured: true
 
 - src: /assets/img/photography/Y2K.jpg
@@ -40,7 +40,7 @@
 
 - src: /assets/img/photography/Gone_in_the_Night.jpg
   title: "Gone in the Night"
-  category: abstracts
+  category: abstract
   featured: true
 
 - src: /assets/img/photography/Pearls.jpg
@@ -50,7 +50,7 @@
 
 - src: /assets/img/photography/Two_Mustangs.jpg
   title: "Two Mustangs"
-  category: abstracts
+  category: abstract
   featured: true
 
 - src: /assets/img/photography/Keeneland_Girl.jpg
@@ -80,7 +80,7 @@
 
 - src: /assets/img/photography/Pillars_of_Light.jpg
   title: "Pillars of Light"
-  category: abstracts
+  category: abstract
   featured: true
 
 - src: /assets/img/photography/Butterfly.jpg
@@ -90,7 +90,7 @@
 
 - src: /assets/img/photography/Nucleus.jpg
   title: "Nucleus"
-  category: abstracts
+  category: abstract
   featured: true
 
 - src: /assets/img/photography/Horse_and_Man.jpg
@@ -110,7 +110,7 @@
 
 - src: /assets/img/photography/Shrouded_by_Light.PNG
   title: "Shrouded by Light"
-  category: abstracts
+  category: abstract
   featured: true
   
 - src: /assets/img/photography/Alone_at_Last.JPG
