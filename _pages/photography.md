@@ -15,8 +15,8 @@ author_profile: false
 
 <div class="gallery">
   {% for photo in site.data.photography %}
-    <a href="{{ photo.src }}" class="glightbox no-popup">
-    <img src="{{ photo.src }}" alt="{{ photo.title }}">
+    <a href="{{ photo.src }}" class="glightbox reveal">
+      <img src="{{ photo.src }}" alt="{{ photo.title }}">
     </a>
   {% endfor %}
 </div>
