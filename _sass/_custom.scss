@@ -23,7 +23,7 @@
 }
 
 .photography-intro {
-  max-width: 700px;
+  max-width: 1000px;
   margin: 0 auto 2rem auto;
   padding: 2rem 2.5rem;
 
@@ -38,6 +38,10 @@
 
 .photography-intro p {
   margin-bottom: 1.2rem;
+}
+
+.photography-page .photography-intro p:last-child {
+  margin-bottom: 0;
 }
 
 .photography-divider {
