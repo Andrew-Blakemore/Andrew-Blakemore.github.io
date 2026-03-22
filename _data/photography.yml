@@ -1,24 +1,24 @@
-- src: /assets/img/photography/1.jpg
-  title: "Red Portrait"
+- src: /assets/img/photography/Alone at Last.JPG
+  title: "Alone at Last"
   category: portraits
   featured: true
 
-- src: /assets/img/photography/2.jpg
-  title: "Blue Portrait"
+- src: /assets/img/photography/Butterfly.jpg
+  title: "Butterfly.jpg"
   category: portraits
   featured: true
 
-- src: /assets/img/photography/3.jpg
-  title: "Purple Studio"
+- src: /assets/img/photography/CHTKMY.jpg
+  title: "CHTKMY"
   category: portraits
   featured: true
 
-- src: /assets/img/photography/4.jpg
-  title: "Pig"
+- src: /assets/img/photography/Fiery Disc.jpg
+  title: "Fiery Disc"
   category: portraits
   featured: true
 
-- src: /assets/img/photography/5.jpg
-  title: "Pan"
-  category: portraits
+- src: /assets/img/photography/Gone in the Night
+  title: "Gone in the Night"
+  category: abstracts
   featured: true
