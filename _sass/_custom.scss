@@ -90,6 +90,14 @@
   transform: scale(1.02);
 }
 
+.photography-page .no-popup {
+  pointer-events: none;
+}
+
+.photography-page .no-popup img {
+  pointer-events: auto;
+}
+
 @media (max-width: 1000px) {
   .photography-page .gallery {
     column-count: 2;
