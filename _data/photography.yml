@@ -147,3 +147,53 @@
   title: "Garage Lighting"
   category: cars
   featured: true
+
+- src: /assets/img/photography/Home_Stretch.jpg
+  title: "Home Stretch"
+  category: animals
+  featured: true
+
+- src: /assets/img/photography/Lost_in_the_Desert.JPG
+  title: "Lost in the Desert"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/NOCTA_1.jpg
+  title: "NOCTA, ROSE STREET GAR, P1"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/NOCTA_2.jpg
+  title: "NOCTA, ROSE STREET GAR, P2"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/NOCTA_3.jpg
+  title: "NOCTA, ROSE STREET GAR, P3"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Noir_Umbrella.jpg
+  title: "Noir Umbrella"
+  category: portraits
+  featured: true
+
+  - src: /assets/img/photography/On_Top_of_the_World.JPG
+  title: "On Top of the World"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Paparazzi.jpg
+  title: "Paparazzi"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Always_Watching.jpg
+  title: "Always Watching"
+  category: abstract
+  featured: true
+
+- src: /assets/img/photography/Veteran's_Bridge.jpg
+  title: "Veteran's_Bridge"
+  category: cars
+  featured: true
