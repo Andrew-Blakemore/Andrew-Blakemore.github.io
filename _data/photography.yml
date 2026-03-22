@@ -1,4 +1,4 @@
-- src: /assets/img/photography/Alone_at_Last.JPG
+- src: /assets/img/photography/Alone_at_Last.jpg
   title: "Alone at Last"
   category: portraits
   featured: true
@@ -14,7 +14,7 @@
   featured: true
 
 - src: /assets/img/photography/Fiery_Disc.jpg
-  title: "Fiery Disc"
+  title: "Crimson Disc"
   category: portraits
   featured: true
 
