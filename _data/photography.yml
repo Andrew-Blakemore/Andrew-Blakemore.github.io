@@ -1,11 +1,31 @@
-- src: /assets/img/photography/Alone_at_Last.jpg
-  title: "Alone at Last"
+- src: /assets/img/photography/Red_Cap.jpg
+  title: "Red Cap"
   category: portraits
   featured: true
 
-- src: /assets/img/photography/Butterfly.jpg
-  title: "Butterfly.jpg"
+- src: /assets/img/photography/The_Dragon's_Hoard.jpg
+  title: "The Dragon's Hoard"
+  category: abstracts
+  featured: true
+
+- src: /assets/img/photography/Y2K.jpg
+  title: "Y2K"
   category: portraits
+  featured: true
+
+- src: /assets/img/photography/NYC.jpg
+  title: "NYC"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Shark-in-a-Tree.jpg
+  title: "Shark in a Tree"
+  category: animals
+  featured: true
+
+- src: /assets/img/photography/Hot_Blooded.jpg
+  title: "Hot-Blooded"
+  category: animals
   featured: true
 
 - src: /assets/img/photography/CHTKMY.jpg
@@ -13,12 +33,92 @@
   category: portraits
   featured: true
 
-- src: /assets/img/photography/Crimson_Disc.jpg
-  title: "Crimson Disc"
+- src: /assets/img/photography/Mustang_Era.jpg
+  title: "Mustang Era"
   category: portraits
   featured: true
 
 - src: /assets/img/photography/Gone_in_the_Night.jpg
   title: "Gone in the Night"
   category: abstracts
+  featured: true
+
+- src: /assets/img/photography/Pearls.jpg
+  title: "Pearls"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Two_Mustangs.jpg
+  title: "Two Mustangs"
+  category: abstracts
+  featured: true
+
+- src: /assets/img/photography/Keeneland_Girl.jpg
+  title: "Keeneland Girl"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Mustang_at_Night.jpg
+  title: "Mustang at Night"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Ying-Yang_Canine.jpg
+  title: "Ying-Yang Canine"
+  category: animals
+  featured: true
+
+- src: /assets/img/photography/HAND_ON_FIRE.jpg
+  title: "HAND ON FIRE"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Solace.jpg
+  title: "Solace"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Pillars_of_Light.jpg
+  title: "Pillars of Light"
+  category: abstracts
+  featured: true
+
+- src: /assets/img/photography/Butterfly.jpg
+  title: "Butterfly.jpg"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Nucleus.jpg
+  title: "Nucleus"
+  category: abstracts
+  featured: true
+
+- src: /assets/img/photography/Horse_and_Man.jpg
+  title: "Horse and Man"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Shades_of_Purple.jpg
+  title: "Shades of Purple"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Keyboard.jpg
+  title: "Keyboard"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Shrouded_by_Light.png
+  title: "Shrouded by Light"
+  category: abstracts
+  featured: true
+  
+- src: /assets/img/photography/Alone_at_Last.jpg
+  title: "Alone at Last"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Crimson_Disc.jpg
+  title: "Crimson Disc"
+  category: portraits
   featured: true
