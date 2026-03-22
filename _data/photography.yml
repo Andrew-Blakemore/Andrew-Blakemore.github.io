@@ -122,3 +122,28 @@
   title: "Crimson Disc"
   category: portraits
   featured: true
+
+- src: /assets/img/photography/Batman_Building.jpg
+  title: "Batman Building"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/DERBY.jpg
+  title: "DERBY"
+  category: animals
+  featured: true
+
+- src: /assets/img/photography/Downtown.jpeg
+  title: "Downtown"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Driving_Through_the_615.jpg
+  title: "Driving Through the 615"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Garage_Lighting.jpg
+  title: "Garage Lighting"
+  category: cars
+  featured: true
