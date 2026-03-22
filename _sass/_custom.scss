@@ -44,17 +44,50 @@
   margin-bottom: 0;
 }
 
-.photography-divider {
+.photography-page .photography-divider {
   max-width: 900px;
   height: 1px;
-  margin: 2.5rem auto;
-
+  margin: 2rem auto;
   background: linear-gradient(
     to right,
     rgba(0,0,0,0),
-    rgba(0,0,0,0.08),
+    rgba(0,0,0,0.12),
     rgba(0,0,0,0)
   );
+}
+
+.photography-page .photography-filters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+}
+
+.photography-page .filter-btn {
+  background: none;
+  border: none;
+  font: inherit;
+  color: #666;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.photography-page .filter-btn:hover {
+  opacity: 0.75;
+  transform: translateY(-1px);
+}
+
+.photography-page .filter-btn.active {
+  font-weight: 700;
+  color: #222;
+}
+
+.photography-page .gallery-item {
+  display: inline-block;
+  width: 100%;
 }
 
 .photography-page .gallery {
