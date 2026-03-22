@@ -20,7 +20,7 @@ author_profile: false
 <div class="photography-filters" id="photography-filters">
   <button type="button" class="filter-btn active" data-filter="all">All</button>
   <button type="button" class="filter-btn" data-filter="portraits">Portraits</button>
-  <button type="button" class="filter-btn" data-filter="abstracts">Abstracts</button>
+  <button type="button" class="filter-btn" data-filter="abstract">Abstracts</button>
   <button type="button" class="filter-btn" data-filter="animals">Animals</button>
   <button type="button" class="filter-btn" data-filter="cars">Cars</button>
 </div>
@@ -29,9 +29,7 @@ author_profile: false
 
 <div class="gallery">
   {% for photo in site.data.photography %}
-    <a href="{{ photo.src }}"
-      class="glightbox reveal gallery-item">
-      data-category="{{ photo.category | default: '' }}">
+    <a href="{{ photo.src }}" class="glightbox reveal gallery-item" data-category="{{ photo.category | default: '' | strip | downcase }}">
       <img src="{{ photo.src }}" alt="{{ photo.title }}">
     </a>
   {% endfor %}
@@ -59,15 +57,15 @@ author_profile: false
 
   buttons.forEach(button => {
     button.addEventListener('click', () => {
-      const filter = button.dataset.filter.toLowerCase();
+      const filter = button.dataset.filter.trim().toLowerCase();
 
       buttons.forEach(btn => btn.classList.remove('active'));
       button.classList.add('active');
 
       items.forEach(item => {
-        const category = (item.dataset.category || '').toLowerCase();
+        const category = (item.dataset.category || '').trim().toLowerCase();
         const show = filter === 'all' || category === filter;
-        item.style.display = show ? 'block' : 'none';
+        item.style.display = show ? 'inline-block' : 'none';
       });
     });
   });
