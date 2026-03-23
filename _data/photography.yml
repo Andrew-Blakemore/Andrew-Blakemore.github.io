@@ -84,7 +84,7 @@
   featured: true
 
 - src: /assets/img/photography/Butterfly.jpg
-  title: "Butterfly.jpg"
+  title: "Butterfly"
   category: portraits
   featured: true
 
@@ -178,7 +178,7 @@
   category: portraits
   featured: true
 
-  - src: /assets/img/photography/On_Top_of_the_World.JPG
+- src: /assets/img/photography/On_Top_of_the_World.JPG
   title: "On Top of the World"
   category: portraits
   featured: true
