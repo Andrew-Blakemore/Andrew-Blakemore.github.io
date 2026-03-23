@@ -232,3 +232,28 @@
   title: "Lexus GS"
   category: cars
   featured: true
+
+- src: /assets/img/photography/Lamp.jpg
+  title: "Lamp"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/One_Call_Away.jpg
+  title: "One Call Away"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Rising_Star.jpg
+  title: "Rising Star"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Shadow_of_a_Dream.jpg
+  title: "Shadow of a Dream"
+  category: portraits
+  featured: true
+
+- src: /assets/img/photography/Sonder.jpg
+  title: "Sonder"
+  category: portraits
+  featured: true
