@@ -8,7 +8,7 @@ author_profile: false
 
 <div class="photography-intro">
   <p>
-    I began practicing photography in the Summer of 2022, initially drawn to the way pictures can capture people's emotions. That interest quickly became more defined through a photography course at BYU, where I developed a technical foundation and shifted toward visual storytelling.
+    I began practicing photography in the Summer of 2022, initially drawn to the way pictures can capture people's emotions. That interest quickly became more defined through a structured photography course at BYU, where I developed a technical foundation and shifted toward visual storytelling.
   </p>
   <p>
     After transferring to Vanderbilt University in 2023, I joined the Vanderbilt Photo Society as one of its original members and served on the organization’s inaugural board. Since then, my work has expanded across a wide range of genres, including portrait, studio, abstract, street, fashion, automative, animal, and food photography.
