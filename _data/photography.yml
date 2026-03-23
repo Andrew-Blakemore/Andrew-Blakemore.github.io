@@ -194,6 +194,41 @@
   featured: true
 
 - src: /assets/img/photography/Veteran's_Bridge.jpg
-  title: "Veteran's_Bridge"
+  title: "Veteran's Bridge"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Chevrolet_Camaro.jpg
+  title: "Chevrolet Camaro"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Chevrolet_Corvette_C7.jpg
+  title: "Chevrolet Corvette C7"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Chevrolet_Corvette_C8.jpg
+  title: "Chevrolet Corvette C8"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Chrysler_200.jpg
+  title: "Chrysler 200"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Hyundai_Genesis_Coupe.jpg
+  title: "Hyundai Genesis Coupe"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Lexus_GS.jpg
+  title: "Lexus GS"
+  category: cars
+  featured: true
+
+- src: /assets/img/photography/Nashville_Car_Meet.jpg
+  title: "Nashville Car Meet"
   category: cars
   featured: true
