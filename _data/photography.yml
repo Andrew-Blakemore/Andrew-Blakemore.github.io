@@ -223,12 +223,12 @@
   category: cars
   featured: true
 
-- src: /assets/img/photography/Lexus_GS.jpg
-  title: "Lexus GS"
+- src: /assets/img/photography/Nashville_Car_Meet.jpg
+  title: "Nashville Car Meet"
   category: cars
   featured: true
 
-- src: /assets/img/photography/Nashville_Car_Meet.jpg
-  title: "Nashville Car Meet"
+- src: /assets/img/photography/Lexus_GS.jpg
+  title: "Lexus GS"
   category: cars
   featured: true
