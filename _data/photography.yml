@@ -88,9 +88,9 @@
   category: cars
   featured: true
 
-- src: /assets/img/photography/Ying-Yang_Canine.jpg
-  title: "Ying-Yang Canine"
-  category: animals
+- src: /assets/img/photography/HAND_ON_FIRE.jpg
+  title: "HAND ON FIRE"
+  category: portraits
   featured: true
 
 - src: /assets/img/photography/Two_Mustangs.jpg
@@ -98,8 +98,8 @@
   category: abstract
   featured: true
 
-- src: /assets/img/photography/Mustang_Era.jpg
-  title: "Mustang Era"
+- src: /assets/img/photography/Lost_in_the_Desert.JPG
+  title: "Lost in the Desert"
   category: portraits
   featured: true
 
@@ -148,9 +148,9 @@
   category: portraits
   featured: true
 
-- src: /assets/img/photography/HAND_ON_FIRE.jpg
-  title: "HAND ON FIRE"
-  category: portraits
+- src: /assets/img/photography/Ying-Yang_Canine.jpg
+  title: "Ying-Yang Canine"
+  category: animals
   featured: true
 
 - src: /assets/img/photography/Shrouded_by_Light.PNG
@@ -173,8 +173,8 @@
   category: portraits
   featured: true
 
-- src: /assets/img/photography/Lost_in_the_Desert.JPG
-  title: "Lost in the Desert"
+- src: /assets/img/photography/Mustang_Era.jpg
+  title: "Mustang Era"
   category: portraits
   featured: true
 
