@@ -257,3 +257,18 @@
   title: "Sonder"
   category: portraits
   featured: true
+
+- src: /assets/img/photography/Appetizer.jpg
+  title: "Appetizer"
+  category: food
+  featured: true
+
+- src: /assets/img/photography/Lamb.jpg
+  title: "Lamb"
+  category: food
+  featured: true
+
+- src: /assets/img/photography/Plating.jpg
+  title: "Plating"
+  category: food
+  featured: true
