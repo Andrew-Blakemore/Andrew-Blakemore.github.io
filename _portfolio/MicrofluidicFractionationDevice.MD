@@ -1,5 +1,6 @@
 ---
 title: "Microfluidic Pinch-Flow Fractionation Device"
+published: false
 excerpt: "SLA-printed mold for PDMS microfluidic device enabling size-based particle separation using pinch-flow fractionation."
 header:
   image: /assets/img/microfluidic_present.jpg
