@@ -14,19 +14,19 @@ Andrew is a biomedical engineering student whose curriculum emphasizes design-dr
 
 ## Work Experience
 
+**Undergraduate Research Assistant**<br>
+*Vanderbilt University Medical Center — Nashville, TN*<br>
+*Jun 2025 – Jan 2026*
+- Designed and evaluated preclinical cardiopulmonary support systems with an emphasis on iterative prototyping and experimental testing.
+- Performed benchtop validation and system refinement to support the development of artificial organ and ECMO technologies.
+- Operated and assessed complex medical hardware in large-animal research environments.
+
 **Biomedical Technician Intern**<br>
 *Project C.U.R.E. — Nashville, TN*<br>
 *May 2025 – Jan 2026*
 - Tested, troubleshot, and refurbished medical devices including ICU monitors, imaging equipment, infusion pumps, ventilators, and endoscopy systems.
 - Conducted electrical diagnostics, calibration, and preventive maintenance to ensure device safety and reliability.
 - Evaluated device usability and performance for deployment in resource-limited healthcare settings.
-
-**Undergraduate Research Assistant**<br>
-*Vanderbilt University Medical Center — Nashville, TN*<br>
-*Nov 2025 – Jan 2026*
-- Designed and evaluated preclinical cardiopulmonary support systems with an emphasis on iterative prototyping and experimental testing.
-- Performed benchtop validation and system refinement to support the development of artificial organ and ECMO technologies.
-- Operated and assessed complex medical hardware in large-animal research environments.
 
 **Systems Engineering Intern**<br>
 *Oak Ridge National Laboratory — Oak Ridge, TN*<br>
