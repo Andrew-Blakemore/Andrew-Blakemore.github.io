@@ -130,7 +130,7 @@ The completed mold shows clean channel features suitable for PDMS casting.
 ## PDMS Casting & Device Assembly
 
 <p align="center">
-  <img src="/assets/img/Device_on_top_of_mold.jpg" alt="Device on Mold">
+  <img src="/assets/img/fluiidics_device_final.jpg" alt="Finished Device">
 </p>
 
 PDMS was poured over the mold, cured, and carefully removed. The device was then bonded to a glass slide to seal the channels.
