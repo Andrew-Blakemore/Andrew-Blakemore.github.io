@@ -81,9 +81,7 @@ This distribution reflects the physical reality of pinch-flow systems, where the
 
 In microfluidic systems, flow rate through each outlet is governed by the relationship:
 
-\[
-Q = \frac{\Delta P}{R_h}
-\]
+Q = ΔP / R<sub>h</sub>
 
 where \( R_h \) is the hydraulic resistance. For rectangular microchannels, resistance scales approximately with channel length and inversely with channel width (to a strong power), making geometry the primary tool for controlling flow distribution.
 
@@ -92,7 +90,7 @@ To regulate flow into the particle outlets, both were designed to have **higher 
 - **Narrower**
 - **Serpentine in shape**
 
-The serpentine geometry serves an important role. It increases the effective channel length without significantly increasing the device footprint, allowing resistance to be tuned more precisely. This helps prevent excessive flow through the particle outlets, which could result in turbulent flow.
+The serpentine geometry serves an important role. It increases the effective channel length without significantly increasing the device footprint, allowing resistance to be tuned more precisely. This helps prevent excessive flow through the particle outlets, which could result in detrimental turbulent flow.
 
 ---
 
@@ -207,7 +205,7 @@ However, insufficient separation distance before the outlet junctions, combined 
 
 A promising next step is to redesign the device using an **enhanced pinch-flow fractionation (EPFF)** approach. This method introduces a modified broadening region with a structured geometry that selectively expands the portion of the flow containing particles.
 
-By amplifying the spacing between particle streamlines in this region, EPFF has been shown to significantly improve separation efficiency—reportedly achieving up to ~70% enhancement without introducing external forces.
+By amplifying the spacing between particle streamlines in this region, EPFF has been shown to significantly improve separation efficiency, reportedly achieving up to ~70% enhancement without introducing external forces.
 
 This approach directly addresses the primary limitation observed in the current design: insufficient separation distance before outlet collection. Future iterations will focus on incorporating this geometry while maintaining manufacturability and flow stability.
 
