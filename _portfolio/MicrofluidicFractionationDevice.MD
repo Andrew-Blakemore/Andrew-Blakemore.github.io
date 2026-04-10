@@ -16,15 +16,17 @@ toc_icon: bars
 
 Pinch-flow fractionation (PFF) is a microfluidic technique used to separate particles based on size by leveraging laminar flow behavior at small scales. In a typical PFF device, a particle-containing stream is compressed (or “pinched”) by a buffer flow, forcing particles into predictable streamline positions based on their diameter. As the channel expands into a broader region, particles follow these streamlines and can be spatially separated into different outlet channels.
 
-This method is particularly advantageous over traditional filtration techniques, as it avoids clogging and enables continuous sorting of particles without physical barriers.
+Compared to traditional filtration methods, PFF offers continuous operation without clogging, making it well-suited for applications in biomedical diagnostics, particle analysis, and micro-scale material processing.
 
 ---
 
 ## Design Overview
 
-The device was designed to separate particles into two size ranges:
+The goal of this project was to design and fabricate a microfluidic device capable of separating particles into two size ranges:
 - **Small particles:** 125–150 μm  
-- **Large particles:** 425–500 μm  
+- **Large particles:** 425–500 μm
+
+The device was produced using SLA resin printing to create a mold, followed by PDMS casting and bonding to a glass substrate.
 
 The core geometry consists of:
 - Two inlet streams (particle-containing flow and buffer flow)
@@ -38,7 +40,7 @@ A key challenge in this design is balancing flow resistance across outlets to en
 
 ## Iterative Design Process
 
-The device was developed through an iterative CAD workflow, focusing on both manufacturability and fluid performance.
+The device was developed through an iterative CAD workflow, focusing on both manufacturability and fluid behavior.
 
 ### Initial Design
 
@@ -137,7 +139,7 @@ PDMS was poured over the mold, cured, and carefully removed. The device was then
 
 ---
 
-## Testing & Performance
+## Testing Setup
 
 <p align="center">
   <img src="/assets/img/Device_Testing_Setup.jpg" alt="Testing Setup">
@@ -152,23 +154,33 @@ Initial testing demonstrated:
 
 ---
 
-## Discussion
+## Future Direction: Enhanced Pinch-Flow Fractionation
 
-This project highlights the interplay between microfluidic design, manufacturing constraints, and fluid dynamics.
+A promising next step is to redesign the device using an **enhanced pinch-flow fractionation (EPFF)** approach. This method introduces a modified broadening region with a structured geometry (often described as a snakelike channel) that selectively expands the portion of the flow containing particles.
 
-Key takeaways:
-- SLA printing enables rapid prototyping of microfluidic molds with high precision
-- Flow resistance balancing is critical for accurate particle separation
-- Bubble management is essential for reliable device performance
+By amplifying the spacing between particle streamlines in this region, EPFF has been shown to significantly improve separation efficiency—reportedly achieving up to ~70% enhancement without introducing external forces.
 
-Future work could focus on refining outlet geometries and expanding the range of particle sizes that can be separated.
+This approach directly addresses the primary limitation observed in the current design: insufficient separation distance before outlet collection. Future iterations will focus on incorporating this geometry while maintaining manufacturability and flow stability.
 
 ---
 
-## Multimedia
+## Video Demonstration
 
-*To be added:*
-- CAD sketches with labeled dimensions  
-- Video demonstration of device operation  
+The following video demonstrates a working implementation of an enhanced PFF device, which serves as a reference for future design iterations.
+
+<p align="center">
+  <video width="640" controls>
+    <source src="/assets/img/MicroFluidicsDemo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+---
+
+## Discussion
+
+This project highlights the challenges of translating theoretical microfluidic concepts into functional devices. While the fabrication process using SLA printing and PDMS casting proved effective, achieving reliable particle separation requires careful control of channel geometry and flow resistance.
+
+The transition to an enhanced PFF design represents a natural next step, offering a geometry-driven solution to improve separation without increasing system complexity.
 
 ---
