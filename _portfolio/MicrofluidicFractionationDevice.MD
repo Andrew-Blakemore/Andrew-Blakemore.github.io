@@ -46,13 +46,13 @@ The design of the outlet geometry was guided by both analytical predictions of p
 
 A key relationship used in the design is the analytical expression describing the vertical position of a particle after exiting the pinched region:
 
-:contentReference[oaicite:0]{index=0}
+Y<sub>0</sub> = (w<sub>p</sub> − D/2) · (w<sub>b</sub> / w<sub>p</sub>)
 
 where:
-- \( w_p \) is the width of the pinched section  
-- \( w_b \) is the width of the broad section  
-- \( D \) is the particle diameter  
-- \( Y_0 \) is the distance from the wall to the particle streamline in the broad section  
+- w<sub>p</sub> is the width of the pinched section  
+- w<sub>b</sub> is the width of the broad section  
+- D is the particle diameter  
+- Y<sub>0</sub> is the distance from the wall to the particle streamline in the broad section  
 
 This equation predicts that larger particles will be positioned farther from the wall after expansion, while smaller particles remain closer to the wall. Using this relationship, approximate streamline positions were calculated for both target particle size ranges.
 
