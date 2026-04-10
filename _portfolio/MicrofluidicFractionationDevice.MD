@@ -28,7 +28,7 @@ The goal of this project was to design and fabricate a microfluidic device capab
 
 The device was produced using SLA resin printing to create a mold, followed by PDMS casting and bonding to a glass substrate.
 
-The core geometry consists of:
+The core geometry of the device includes:
 - Two inlet streams (particle-containing flow and buffer flow)
 - A pinched section where particles are laterally compressed
 - A broad expansion region where particles separate along streamlines
@@ -38,24 +38,79 @@ A key challenge in this design is balancing flow resistance across outlets to en
 
 ---
 
-## Iterative Design Process
+## Design Calculations & Justification
 
-The device was developed through an iterative CAD workflow, focusing on both manufacturability and fluid behavior.
+The design of the outlet geometry was guided by both analytical predictions of particle trajectories and practical considerations related to flow resistance and manufacturability.
 
-### Initial Design
+### Streamline-Based Particle Positioning
 
-The first design implemented a basic three-outlet configuration. While conceptually valid, it became clear that unequal flow distribution—especially due to the higher buffer flow—could lead to incorrect particle routing.
+A key relationship used in the design is the analytical expression describing the vertical position of a particle after exiting the pinched region:
 
-### Refined Design
+:contentReference[oaicite:0]{index=0}
 
-To address this, outlet channel geometries were adjusted to control hydraulic resistance:
-- Particle outlets were lengthened and/or narrowed
-- The buffer outlet was shortened to preferentially carry excess flow
+where:
+- \( w_p \) is the width of the pinched section  
+- \( w_b \) is the width of the broad section  
+- \( D \) is the particle diameter  
+- \( Y_0 \) is the distance from the wall to the particle streamline in the broad section  
 
-Additional refinements included smoothing transitions and minimizing dead volumes to reduce bubble formation.
+This equation predicts that larger particles will be positioned farther from the wall after expansion, while smaller particles remain closer to the wall. Using this relationship, approximate streamline positions were calculated for both target particle size ranges.
+
+These predicted positions were then used to **determine the placement of outlet boundaries**. Specifically:
+- The **top outlet** was positioned to capture streamlines corresponding to smaller particles  
+- The **middle outlet** was aligned with the region occupied by larger particles  
+- The **bottom outlet** was reserved for the buffer layer, which contains no particles  
+
+This approach ensured that outlet placement was not arbitrary, but instead directly tied to the expected physics of the flow.
 
 ---
 
+### Flow Distribution and Outlet Sizing
+
+The outlet widths were selected to achieve an approximate flow distribution of:
+
+- **20.5% → Small particle outlet (top)**
+- **25% → Large particle outlet (middle)**
+- **54.5% → Buffer outlet (bottom)**
+
+This distribution reflects the physical reality of pinch-flow systems, where the buffer stream occupies a larger portion of the channel and must carry the majority of the volumetric flow.
+
+---
+
+### Hydraulic Resistance Balancing
+
+In microfluidic systems, flow rate through each outlet is governed by the relationship:
+
+\[
+Q = \frac{\Delta P}{R_h}
+\]
+
+where \( R_h \) is the hydraulic resistance. For rectangular microchannels, resistance scales approximately with channel length and inversely with channel width (to a strong power), making geometry the primary tool for controlling flow distribution.
+
+To regulate flow into the particle outlets, both were designed to have **higher hydraulic resistance** than the buffer outlet by making them:
+- **Longer**
+- **Narrower**
+- **Serpentine in shape**
+
+The serpentine geometry serves an important role. It increases the effective channel length without significantly increasing the device footprint, allowing resistance to be tuned more precisely. This helps prevent excessive flow through the particle outlets, which could result in turbulent flow.
+
+---
+
+### Design Tradeoffs
+
+The outlet design represents a balance between competing requirements:
+
+- **Too little resistance in particle outlets**  
+  → Excess flow enters these channels, blurring separation  
+
+- **Too much resistance in particle outlets**  
+  → Flow is diverted away, potentially pushing particles into incorrect outlets  
+
+The selected geometry aims to strike a compromise:
+- Sufficient resistance to maintain separation integrity  
+- Enough flow to reliably transport particles into their designated outlets  
+
+---
 ## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811bbca4690918d996a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -72,14 +127,6 @@ Additional refinements included smoothing transitions and minimizing dead volume
 | Channel Spacing | ≥ 1 mm |
 | Edge Clearance | ≥ 3 mm |
 | Inlet/Outlet Diameter | 2.2 mm |
-
----
-
-## Design Calculations & Justification
-
-*This section will include detailed reasoning behind key design decisions, supported by analytical calculations and fluid mechanics principles.*
-
-*(To be completed)*
 
 ---
 
@@ -152,11 +199,13 @@ Initial testing demonstrated:
 - Clear separation of particle streamlines after the pinched region
 - Sensitivity to flow balance and air bubble presence
 
+However, insufficient separation distance before the outlet junctions, combined with imperfect flow resistance balancing, likely led to mixing between streams and prevented reliable particle sorting.
+
 ---
 
 ## Future Direction: Enhanced Pinch-Flow Fractionation
 
-A promising next step is to redesign the device using an **enhanced pinch-flow fractionation (EPFF)** approach. This method introduces a modified broadening region with a structured geometry (often described as a snakelike channel) that selectively expands the portion of the flow containing particles.
+A promising next step is to redesign the device using an **enhanced pinch-flow fractionation (EPFF)** approach. This method introduces a modified broadening region with a structured geometry that selectively expands the portion of the flow containing particles.
 
 By amplifying the spacing between particle streamlines in this region, EPFF has been shown to significantly improve separation efficiency—reportedly achieving up to ~70% enhancement without introducing external forces.
 
