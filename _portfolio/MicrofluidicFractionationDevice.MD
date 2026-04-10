@@ -38,7 +38,7 @@ A key challenge in this design is balancing flow resistance across outlets to en
 
 ---
 
-## Design Calculations & Justification
+## Design Justification
 
 The design of the outlet geometry was guided by both analytical predictions of particle trajectories and practical considerations related to flow resistance and manufacturability.
 
@@ -83,7 +83,7 @@ In microfluidic systems, flow rate through each outlet is governed by the relati
 
 Q = ΔP / R<sub>h</sub>
 
-where \( R_h \) is the hydraulic resistance. For rectangular microchannels, resistance scales approximately with channel length and inversely with channel width (to a strong power), making geometry the primary tool for controlling flow distribution.
+where R<sub>h</sub> is the hydraulic resistance. For rectangular microchannels, resistance scales approximately with channel length and inversely with channel width (to a strong power), making geometry the primary tool for controlling flow distribution.
 
 To regulate flow into the particle outlets, both were designed to have **higher hydraulic resistance** than the buffer outlet by making them:
 - **Longer**
