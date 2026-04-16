@@ -1,1 +1,14 @@
+---
+title: "Top-Down Modeling Phone Holder"
+excerpt: "Multi-material pliers with all parts printed in place and designed to press-fit together. No adhesives required!"
+header:
+  image: /assets/img/pliers_present1.jpg
+  teaser: /assets/img/pliers_cover1.jpg
 
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
+toc_icon: bars
+---
+## About Print-in-Place Parts
+{: .visually-hidden }
