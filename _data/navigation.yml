@@ -6,6 +6,8 @@ main:
     url: /portfolio/
   - title: "Photography"
     url: /photography/
+ - title: "Keegan"
+    url: /keegan/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
