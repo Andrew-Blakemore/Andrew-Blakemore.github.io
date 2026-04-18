@@ -2,7 +2,7 @@
 layout: single
 title: "Keegan"
 permalink: /keegan/
-classes: wide photography-page
+classes: wide
 author_profile: false
 ---
 
