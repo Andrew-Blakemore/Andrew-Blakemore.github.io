@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/Andrew_CentralPark_Cropped.JPG"
+  avatar           : "assets/img/Andrew_Blakemore_Headshot_1a.jpg"
   bio              : "A biomedical engineer with a passion for prototyping and an interest in medical devices."
   location         : "Nashville, TN"
   links:
