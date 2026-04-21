@@ -103,7 +103,7 @@ From a geometric standpoint, the current sleeve design uses a relatively simple 
 
 ## Weight & Mass Balance
 
-The final paddle mass exceeded 8.3 oz, making it relatively heavy compared to other models and allowing for increased power and momentum transfer on each swing. This allows for stronger drives and more forceful returns at the expense of quick hand adjustments and rapid reaction time at the net.
+The final paddle mass exceeded 8.3 oz, making it relatively heavy compared to other models and enabling increased power and momentum transfer on each swing. This allows for stronger drives and more forceful returns at the expense of quick hand adjustments and rapid reaction time at the net.
 
 One advantage of a fully 3D printed design is the ability to tune weight through internal structure and material selection. For example, increasing or decreasing infill density directly adjusts overall mass without changing external geometry. Selecting alternative materials (e.g., carbon fiber filaments or higher-density polymers) can further increase rigidity and mass, while switching to lighter materials or reducing wall thickness can shift the paddle toward a more control-oriented weight class.
 
@@ -111,18 +111,9 @@ These parameters provide a straightforward pathway for future iterations to tail
 
 ### Mass Distribution
 
-The paddle exhibited a **head-heavy balance** due to:
-- The ABS paddle body (higher mass)
-- The PLA handle (lower mass)
+The paddle exhibited a head-heavy balance due to the ABS body (higher mass) and PLA handle (lower mass). This mass distribution shifts the center of mass toward the paddle face, resulting in increased swing momentum, greater power on drives and smashes, and slightly reduced control for quick, reactive shots. This configuration aligns with a play style focused on power over finesse, where generating strong shots is prioritized over rapid hand adjustments.
 
-This mass distribution shifts the center of mass toward the paddle face, resulting in:
-- Increased swing momentum
-- Greater power on drives and smashes
-- Slightly reduced control for quick, reactive shots
-
-This configuration aligns with a play style focused on **power over finesse**, where generating strong shots is prioritized over rapid hand adjustments.
-
-Modifying infill pattern can influence stiffness and energy transfer  
+More impactful adjustments to mass balance would include increasing infill density near the paddle face to further enhance head-heaviness, reducing handle mass or using lighter materials, or introducing localized reinforcement zones to shift the center of mass intentionally.
 
 ---
 
