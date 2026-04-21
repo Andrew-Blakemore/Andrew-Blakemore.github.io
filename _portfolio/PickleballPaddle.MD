@@ -1,6 +1,6 @@
 ---
 title: "3D Printed Pickleball Paddle"
-excerpt: "A multi-material, fully 3D printed pickleball paddle that meets requirements for USA Pickleball approval."
+excerpt: "A multi-material, fully 3D printed pickleball paddle that meets the guidelines for USA Pickleball approval."
 header:
   image: /assets/img/pickle-ban.jpg
   teaser: assets/img/tease.JPG
@@ -47,7 +47,7 @@ This separation allows the functional and ergonomic requirements to be addressed
 ## Assembly
 
 <p align="center">
-  <img src="assets/img/full-paddle.jpg" alt="Complete Paddle">
+  <img src="/assets/img/full-paddle.jpg" alt="Complete Paddle">
 </p>
 
 The assembly was designed to be mechanically fastened and modular:
