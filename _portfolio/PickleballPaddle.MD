@@ -1,6 +1,6 @@
 ---
 title: "3D Printed Pickleball Paddle"
-excerpt: "A multi-material, fully 3D printed pickleball paddle that meets the guidelines for USA Pickleball approval."
+excerpt: "A multi-material, fully 3D printed pickleball paddle that meets USA Pickleball guidelines for official play."
 header:
   image: /assets/img/pickle-ban.jpg
   teaser: assets/img/tease.JPG
