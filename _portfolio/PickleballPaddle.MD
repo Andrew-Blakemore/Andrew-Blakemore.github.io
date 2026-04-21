@@ -47,7 +47,7 @@ This separation allows the functional and ergonomic requirements to be addressed
 ## Assembly
 
 <p align="center">
-  <img src="/mnt/data/cdd52cf0-89be-4bb9-b95a-46c810902701.png" alt="Paddle CAD">
+  <img src="assets/img/full-paddle.jpg" alt="Complete Paddle">
 </p>
 
 The assembly was designed to be mechanically fastened and modular:
