@@ -79,9 +79,7 @@ The primary takeaway from this iteration was the **strong influence of material 
 
 ## Detent Mechanism
 
-A detent mechanism was incorporated to lock the phone into defined orientations. In this type of interface, a spring-loaded element engages with a notch or recess, creating a tactile click at each stable position. The assignment specifically called for a noticeable click when switching between portrait and landscape orientations, so the detent geometry was treated as a critical functional feature rather than a cosmetic detail.
-
-The detent dimensions were parameterized so that the engagement force could be adjusted if the printed parts were too loose or too stiff. That flexibility is important in filament printing because clearance, surface finish, and layer adhesion can all affect how smoothly a rotating mechanism behaves. In practice, this made the detent one of the most important features to prototype early and refine through iteration.
+The detent mechanism was incorporated to lock the phone into defined orientations. Its dimensions were parameterized so that the engagement force could be adjusted if the printed parts were too loose or too stiff. That flexibility is important in filament printing because clearance, surface finish, and layer adhesion can all affect how smoothly a rotating mechanism behaves. In practice, this made the detent one of the most important features to prototype early and refine through iteration.
 
 ## Fabrication Process
 
@@ -89,7 +87,7 @@ The holder was fabricated using filament 3D printing. This choice was appropriat
 
 ## Assembly and Use
 
-The holder was assembled around the handlebar reference geometry and secured using the designed clamp interface. Once mounted, the phone could be inserted into the cradle and rotated between orientations until the detent engaged. The goal of the final assembly was to create a stable, repeatable motion with enough holding force to resist vibration during riding.
+The holder was assembled around the handlebar with M5 bolts and secured using the designed clamp interface. Once mounted, the phone could be inserted into the cradle and rotated between orientations until the detent engaged. The mechanisms in the final assembly effectively allowed for a stable, repeatable motion with enough holding force to resist vibration during riding.
 
 ## Testing and Iteration
 
@@ -99,9 +97,9 @@ If the fit was too tight, the clearances around the rotation joint could be incr
 
 ## Discussion
 
-This project showed how top-down modeling can simplify the development of a multi-part mechanism. By defining the handlebar and phone as reference geometry first, the rest of the design could be built around real functional constraints instead of guessed dimensions. That made it easier to keep the mount aligned, the rotation axis centered, and the detent positions consistent.
+This project showed how top-down modeling can simplify the development of a multi-part mechanism. By defining the handlebar as reference geometry first, the rest of the design could be built around real functional constraints instead of guessed dimensions. That made it easier to keep the mount aligned, the rotation axis centered, and the detent positions consistent.
 
-The assignment also reinforced the importance of designing for the manufacturing process. Filament printing is excellent for rapid iteration, but tolerances, layer direction, and material stiffness all influence how a small mechanism behaves. A successful holder therefore depends not only on the CAD model, but also on how well the design accounts for printability and real-world use.
+The project also reinforced the importance of designing for the manufacturing process. Filament printing is excellent for rapid iteration, but tolerances, layer direction, and material stiffness all influence how a small mechanism behaves. A successful holder therefore depends not only on the CAD model, but also on how well the design accounts for printability and real-world use.
 
 ## Multimedia
 
