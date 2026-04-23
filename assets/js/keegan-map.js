@@ -61,6 +61,16 @@ document.addEventListener("DOMContentLoaded", () => {
     return stops.filter((stop) => stop.leg === activeLeg);
   }
 
+  function pulseContainers() {
+    mapEl.classList.add("is-updating");
+    indexEl.classList.add("is-updating");
+
+    window.setTimeout(() => {
+      mapEl.classList.remove("is-updating");
+      indexEl.classList.remove("is-updating");
+    }, 180);
+  }
+
   function renderIndex(filteredStops) {
     indexEl.innerHTML = "";
 
@@ -86,11 +96,15 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  function renderMap(activeLeg) {
+  function renderMap(activeLeg, animate = false) {
     const filteredStops = getFilteredStops(activeLeg);
 
     markerLayer.clearLayers();
     routeLayer.clearLayers();
+
+    if (animate) {
+      pulseContainers();
+    }
 
     if (filteredStops.length === 0) {
       map.setView([20, 0], 2);
@@ -134,9 +148,9 @@ document.addEventListener("DOMContentLoaded", () => {
     filterBar.addEventListener("click", (event) => {
       const button = event.target.closest("button[data-leg]");
       if (!button) return;
-      renderMap(button.dataset.leg);
+      renderMap(button.dataset.leg, true);
     });
   }
 
-  renderMap("overview");
+  renderMap("overview", false);
 });
