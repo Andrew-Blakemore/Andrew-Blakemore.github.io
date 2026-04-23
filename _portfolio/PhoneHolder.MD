@@ -46,10 +46,6 @@ Projected geometry was used selectively to maintain alignment between the phone,
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281156d3ea2f66e9947f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<p align="center">
-  <img src="/assets/img/printed-detent-mechanism.jpg" alt="Printed Detent Mechanism">
-</p>
-
 The first prototype was printed in **PLA** and consisted of **six components**, organized into three functional groups: the **handlebar clamp**, the **phone cradle and rotation interface**, and the **phone retention system**.
 
 The **handlebar clamp** was composed of two mating halves that wrapped around the handlebar. One half was integrated with a base plate that included a circular recess used for the rotation interface, while the opposing half acted as a cap. These two components were fastened together using **M5 bolts and heat-set inserts**, allowing the device to clamp securely onto the handlebar.
@@ -97,6 +93,10 @@ The primary takeaway from this iteration was the **strong influence of material 
 
 The detent mechanism was incorporated to lock the phone into defined orientations. Its dimensions were parameterized so that the engagement force could be adjusted if the printed parts were too loose or too stiff. That flexibility is important in filament printing because clearance, surface finish, and layer adhesion can all affect how smoothly a rotating mechanism behaves. In practice, this made the detent one of the most important features to prototype early and refine through iteration.
 
+<p align="center">
+  <img src="/assets/img/printed-detent-mechanism.jpg" alt="Printed Detent Mechanism">
+</p>
+
 ## Fabrication Process
 
 The holder was fabricated using filament 3D printing. This choice was appropriate because the part needed to be structurally robust, relatively quick to iterate, and suitable for repeated assembly and disassembly. All printing was done on **Voron printers**, which made it practical to produce multiple prototypes and refine clearances between iterations.
@@ -126,9 +126,9 @@ The project also reinforced the importance of designing for the manufacturing pr
 ### Individual Components
 
 <p align="center">
-  <img src="/assets/img/handle-bar-clamp.jpg" width="300">
   <img src="/assets/img/Phone-cradle-and-rotation-interface-front.jpg" width="300">
   <img src="/assets/img/Phone-cradle-and-rotation-interface-back.jpg" width="300">
+  <img src="/assets/img/handle-bar-clamp.jpg" width="300">
 </p>
 
 <p align="center">
