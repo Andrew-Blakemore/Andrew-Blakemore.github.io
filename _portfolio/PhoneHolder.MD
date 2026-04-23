@@ -2,7 +2,7 @@
 title: "Top-Down Modeling: Bike Phone Holder"
 excerpt: "A top-down modeled, filament-printed phone holder designed to mount securely to bicycle handlebars and rotate between portrait and landscape orientations."
 header:
-  image: /assets/img/phone_holder_present.jpg
+  image: /assets/img/phone-holder-on-bike.jpg
   teaser: /assets/img/phonr-holder-placeholder.jpg
 
 toc: true
@@ -108,6 +108,10 @@ The holder was fabricated using filament 3D printing. This choice was appropriat
 </p>
 
 The holder was assembled around the handlebar with M5 bolts and secured using the designed clamp interface. Once mounted, the phone could be inserted into the cradle and rotated between orientations until the detent engaged. The mechanisms in the final assembly effectively allowed for a stable, repeatable motion with enough holding force to resist vibration during riding.
+
+<p align="center">
+  <img src="/assets/img/phone-holder-on-bike.jpg" alt="Phone Holder Installed on Bike">
+</p>
 
 ## Testing and Iteration
 
