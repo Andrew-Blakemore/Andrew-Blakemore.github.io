@@ -2,7 +2,7 @@
 title: "Top-Down Modeling: Bike Phone Holder"
 excerpt: "A top-down modeled, filament-printed phone holder designed to mount securely to bicycle handlebars and rotate between portrait and landscape orientations."
 header:
-  teaser: /assets/img/phone-holder-on-bike-1.JPG
+  teaser: /assets/img/phone-holder-on-bike-2.JPG
 
 toc: true
 toc_label: "Table of Contents"
@@ -59,7 +59,7 @@ A **retaining cap (back cover)** was added over this interface and fastened usin
 
 The **phone retention system** consisted of two sliding **side clamps**, each designed to move along the guide channels on the back of the cradle. These clamps were intended to hold the phone laterally. Each clamp included mounting points for **M3 heat-set inserts**, which were used to anchor springs between the upper and lower fasteners. This created a **spring-loaded clamping force** to secure the phone.
 
-This iteration demonstrated that the **detent mechanism functioned effectively**, providing a clear and repeatable indexing between portrait and landscape orientations. However, the design had two major issues:
+This iteration demonstrated that the **detent mechanism functioned effectively**, producing a clear and audible click at each rotational step. However, the design had two major issues:
 - The **side clamps did not fit into the guide channels** due to oversized rail geometry  
 - The overall assembly was **overly bulky**, making it less practical for real-world use  
 
@@ -69,7 +69,7 @@ This iteration demonstrated that the **detent mechanism functioned effectively**
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811fe4660540281e9fc?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-The second prototype was printed in **PETG** and focused on simplifying the design while resolving the key issues identified in Iteration 1.
+The second prototype was printed in **PETG** and focused on simplifying the design while resolving the key issues identified in Iteration 1. PETG was used due to material constraints; under normal circumstances, PLA would have remained the preferred material due to its lower weight and more predictable dimensional accuracy.
 
 The most significant change was redesigning the **handlebar clamp** as a **single-piece split clamp**. Instead of two separate halves, the clamp featured a continuous body with a **2 mm gap**, allowing it to flex open slightly. **M5 heat-set inserts** were placed on one side of the gap, and bolts were driven through the opposite side to create a **clamping mechanism**. This reduced part count and improved ease of assembly.
 
@@ -98,7 +98,7 @@ The detent mechanism was incorporated to lock the phone into defined orientation
 
 ## Fabrication Process
 
-The holder was fabricated using filament 3D printing. This choice was appropriate because the part needed to be structurally robust, relatively quick to iterate, and suitable for repeated assembly and disassembly. All printing was done on **Voron printers**, which made it practical to produce multiple prototypes and refine clearances between iterations.
+The holder was fabricated using filament 3D printing. This choice was appropriate because the device needed to be structurally robust, relatively quick to iterate, and suitable for repeated assembly and disassembly.  **FFF printing** in particular allowed for rapid prototyping and testing of small mechanical features—such as the detent mechanism—before committing to a full-scale design. It also provided a more cost-effective approach compared to resin printing, especially when multiple iterations were required. All printing was done on **Voron printers**.
 
 ## Assembly and Use
 
