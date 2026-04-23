@@ -88,6 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
       card.className = "keegan-card";
       card.href = stop.url;
       card.innerHTML = `
+        <span class="flag">${stop.flag || ""}</span><br />
         <span class="order">${idx + 1}</span>
         <h3>${stop.name}</h3>
         <p>${stop.summary || ""}</p>
