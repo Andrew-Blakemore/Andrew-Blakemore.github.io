@@ -13,22 +13,31 @@ author_profile: false
 
 <style>
   .keegan-wide {
-    max-width: 1320px;
+    max-width: 1500px;
     margin: 0 auto;
   }
 
+  /* Keep intro readable while map is wide */
   .keegan-intro {
-    max-width: 78ch;
+    max-width: 75ch;
     margin-bottom: 1rem;
   }
 
-  /* Chevron-style segmented filter bar */
+  /* Chevron filter bar */
   .keegan-filter-bar {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: center;
     gap: 0;
     margin: 1rem 0 1rem 0;
+    overflow-x: auto;
+    white-space: nowrap;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .keegan-filter-bar::-webkit-scrollbar {
+    display: none;
   }
 
   .keegan-filter-bar button {
@@ -37,17 +46,16 @@ author_profile: false
     border: 0;
     background: #f8fafc;
     color: #111827;
-    padding: 0.75rem 1.2rem;
-    padding-right: 2rem;
+    padding: 0.65rem 0.95rem;
+    padding-right: 1.8rem;
     margin-right: 14px;
-    font-size: 0.95rem;
+    font-size: 0.88rem;
     line-height: 1;
     cursor: pointer;
     transition: background-color 0.15s ease, color 0.15s ease;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
   }
 
-  /* Arrow shape */
   .keegan-filter-bar button::after {
     content: "";
     position: absolute;
@@ -55,14 +63,13 @@ author_profile: false
     right: -14px;
     width: 0;
     height: 0;
-    border-top: 21px solid transparent;
-    border-bottom: 21px solid transparent;
+    border-top: 19px solid transparent;
+    border-bottom: 19px solid transparent;
     border-left: 14px solid #f8fafc;
     transition: border-left-color 0.15s ease;
     z-index: 1;
   }
 
-  /* Hover */
   .keegan-filter-bar button:hover:not(.active) {
     background: #eef2f7;
   }
@@ -71,7 +78,6 @@ author_profile: false
     border-left-color: #eef2f7;
   }
 
-  /* Active state */
   .keegan-filter-bar button.active {
     background: #111827;
     color: #fff;
@@ -81,32 +87,30 @@ author_profile: false
     border-left-color: #111827;
   }
 
-  /* First button rounded */
   .keegan-filter-bar button:first-child {
     border-top-left-radius: 999px;
     border-bottom-left-radius: 999px;
-    padding-left: 1.3rem;
+    padding-left: 1.2rem;
   }
 
-  /* Last button rounded + remove arrow */
   .keegan-filter-bar button:last-child {
     border-top-right-radius: 999px;
     border-bottom-right-radius: 999px;
     margin-right: 0;
-    padding-right: 1.2rem;
   }
 
   .keegan-filter-bar button:last-child::after {
     display: none;
   }
 
+  /* Bigger, more dominant map */
   #keegan-map {
     width: 100%;
-    height: 760px;
-    border-radius: 18px;
+    height: 820px;
+    border-radius: 20px;
     overflow: hidden;
     margin: 1rem 0 1rem 0;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 10px 32px rgba(0, 0, 0, 0.1);
   }
 
   .keegan-note {
@@ -165,6 +169,8 @@ author_profile: false
 
 <div class="keegan-wide">
 
+## Keegan
+
 <div class="keegan-intro">
   A visual index of the places I have visited, organized by travel leg and linked to individual destination pages. The map below shows the route order within each leg, and the filter lets you switch between the full overview and each region.
 </div>
@@ -173,7 +179,9 @@ author_profile: false
   <button type="button" data-leg="overview" class="active">Overview</button>
   <button type="button" data-leg="europe">Europe</button>
   <button type="button" data-leg="africa">Africa</button>
+  <button type="button" data-leg="asia">Asia</button>
   <button type="button" data-leg="south-america">South America</button>
+  <button type="button" data-leg="oceania">Oceania</button>
 </div>
 
 <div id="keegan-map"></div>
