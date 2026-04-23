@@ -3,7 +3,6 @@ title: "Keegan"
 excerpt: "An interactive map of places visited, with linked destination pages and a simple travel path."
 permalink: /keegan/
 layout: single
-author_profile: false
 ---
 
 <link
@@ -12,46 +11,63 @@ author_profile: false
 />
 
 <style>
+  .keegan-wide {
+    max-width: 1320px;
+    margin: 0 auto;
+  }
+
   .keegan-intro {
-    max-width: 70ch;
+    max-width: 78ch;
     margin-bottom: 1rem;
   }
 
   .keegan-filter-bar {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
+    gap: 0;
     margin: 1rem 0 1rem 0;
+    border: 1px solid #d1d5db;
+    border-radius: 999px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
   }
 
   .keegan-filter-bar button {
     appearance: none;
-    border: 1px solid #d1d5db;
-    background: #fff;
+    border: 0;
+    border-right: 1px solid #d1d5db;
+    background: transparent;
     color: #111827;
-    border-radius: 999px;
-    padding: 0.55rem 0.9rem;
+    padding: 0.72rem 1.05rem;
     font-size: 0.95rem;
     line-height: 1;
     cursor: pointer;
-    transition: all 0.15s ease;
+    transition: background-color 0.15s ease, color 0.15s ease;
+    border-radius: 0;
+  }
+
+  .keegan-filter-bar button:last-child {
+    border-right: 0;
   }
 
   .keegan-filter-bar button:hover {
-    border-color: #111827;
-    transform: translateY(-1px);
+    background: #f3f4f6;
   }
 
   .keegan-filter-bar button.active {
     background: #111827;
     color: #fff;
-    border-color: #111827;
+  }
+
+  .keegan-filter-bar button.active:hover {
+    background: #111827;
   }
 
   #keegan-map {
     width: 100%;
-    height: 620px;
-    border-radius: 16px;
+    height: 760px;
+    border-radius: 18px;
     overflow: hidden;
     margin: 1rem 0 1rem 0;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
@@ -111,6 +127,8 @@ author_profile: false
   }
 </style>
 
+<div class="keegan-wide">
+
 ## Keegan
 
 <div class="keegan-intro">
@@ -131,6 +149,8 @@ author_profile: false
 </p>
 
 <div id="keegan-index" class="keegan-index"></div>
+
+</div>
 
 <script>
   window.keeganStops = [
