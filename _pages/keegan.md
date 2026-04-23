@@ -69,6 +69,13 @@ layout: page
 
 This map is a visual index of places visited. Click a pin to open a destination page.
 
+<div class="keegan-filter-bar">
+  <button data-leg="overview" class="active">Overview</button>
+  <button data-leg="europe">Europe</button>
+  <button data-leg="africa">Africa</button>
+  <button data-leg="south-america">South America</button>
+</div>
+
 <div id="keegan-map"></div>
 
 <p class="keegan-note">
