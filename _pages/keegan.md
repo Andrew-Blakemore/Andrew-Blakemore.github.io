@@ -2,7 +2,8 @@
 title: "Keegan"
 excerpt: "An interactive map of places visited, with linked destination pages and a simple travel path."
 permalink: /keegan/
-layout: page
+layout: single
+author_profile: false
 ---
 
 <link
