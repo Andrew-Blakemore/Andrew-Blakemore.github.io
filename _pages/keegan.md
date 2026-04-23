@@ -22,6 +22,12 @@ author_profile: false
     margin-bottom: 1rem;
   }
 
+  .keegan-filter-wrap {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
   .keegan-filter-bar {
     display: flex;
     flex-wrap: nowrap;
@@ -142,10 +148,20 @@ author_profile: false
   }
 
   .keegan-card .flag {
-    display: inline-block;
-    margin-bottom: 0.4rem;
-    font-size: 1.1rem;
-    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.5rem;
+    height: 1.1rem;
+    margin-bottom: 0.45rem;
+  }
+
+  .keegan-card .flag img {
+    display: block;
+    width: 1.5rem;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(17, 24, 39, 0.08);
   }
 
   .keegan-card .order {
@@ -177,16 +193,28 @@ author_profile: false
 <div class="keegan-wide">
 
 <div class="keegan-intro">
-  A visual index of the places I have visited, organized by travel leg and linked to individual destination pages. The map below shows the route order within each leg, and the filter lets you switch between the full overview and each region.
+  <p>
+    As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend the year exploring how prosthetics fit into everyday life across different parts of the world.
+  </p>
+
+  <p>
+    Along the way, I’ll connect with engineers, clinicians, and researchers to understand how these technologies are designed—but more importantly, I’ll learn from prosthetic users about how they actually live with them. Through photography and storytelling, I’ll document moments of work, creativity, and daily life that often go unseen.
+  </p>
+
+  <p>
+    This site is a place to follow that journey—through the map, field notes, and stories from each stop along the way—as I explore how prosthetics shape independence, identity, and connection around the world.
+  </p>
 </div>
 
-<div class="keegan-filter-bar" aria-label="Travel leg filter">
-  <button type="button" data-leg="overview" class="active">Overview</button>
-  <button type="button" data-leg="europe">Europe</button>
-  <button type="button" data-leg="africa">Africa</button>
-  <button type="button" data-leg="asia">Asia</button>
-  <button type="button" data-leg="south-america">South America</button>
-  <button type="button" data-leg="oceania">Oceania</button>
+<div class="keegan-filter-wrap">
+  <div class="keegan-filter-bar" aria-label="Travel leg filter">
+    <button type="button" data-leg="overview" class="active">Overview</button>
+    <button type="button" data-leg="europe">Europe</button>
+    <button type="button" data-leg="africa">Africa</button>
+    <button type="button" data-leg="asia">Asia</button>
+    <button type="button" data-leg="south-america">South America</button>
+    <button type="button" data-leg="oceania">Oceania</button>
+  </div>
 </div>
 
 <div id="keegan-map"></div>
@@ -203,7 +231,7 @@ author_profile: false
   window.keeganStops = [
     {
       name: "London",
-      flag: "🇬🇧",
+      country: "gb",
       leg: "europe",
       lat: 51.5074,
       lon: -0.1278,
@@ -212,7 +240,7 @@ author_profile: false
     },
     {
       name: "Berlin",
-      flag: "🇩🇪",
+      country: "de",
       leg: "europe",
       lat: 52.52,
       lon: 13.405,
@@ -221,7 +249,7 @@ author_profile: false
     },
     {
       name: "Athens",
-      flag: "🇬🇷",
+      country: "gr",
       leg: "europe",
       lat: 37.9838,
       lon: 23.7275,
