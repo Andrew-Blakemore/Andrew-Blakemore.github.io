@@ -17,13 +17,11 @@ author_profile: false
     margin: 0 auto;
   }
 
-  /* Keep intro readable while map is wide */
   .keegan-intro {
     max-width: 75ch;
     margin-bottom: 1rem;
   }
 
-  /* Chevron filter bar */
   .keegan-filter-bar {
     display: flex;
     flex-wrap: nowrap;
@@ -52,7 +50,7 @@ author_profile: false
     font-size: 0.88rem;
     line-height: 1;
     cursor: pointer;
-    transition: background-color 0.15s ease, color 0.15s ease;
+    transition: background-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
   }
 
@@ -72,6 +70,7 @@ author_profile: false
 
   .keegan-filter-bar button:hover:not(.active) {
     background: #eef2f7;
+    transform: translateY(-1px);
   }
 
   .keegan-filter-bar button:hover:not(.active)::after {
@@ -103,7 +102,17 @@ author_profile: false
     display: none;
   }
 
-  /* Bigger, more dominant map */
+  .keegan-tab-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.15em;
+    margin-right: 0.38rem;
+    font-size: 0.95em;
+    line-height: 1;
+    vertical-align: -0.05em;
+  }
+
   #keegan-map {
     width: 100%;
     height: 820px;
@@ -111,6 +120,13 @@ author_profile: false
     overflow: hidden;
     margin: 1rem 0 1rem 0;
     box-shadow: 0 10px 32px rgba(0, 0, 0, 0.1);
+    transition: opacity 0.18s ease, transform 0.18s ease;
+  }
+
+  #keegan-map.is-updating,
+  #keegan-index.is-updating {
+    opacity: 0.82;
+    transform: translateY(2px);
   }
 
   .keegan-note {
@@ -124,6 +140,7 @@ author_profile: false
     gap: 0.75rem;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     margin-top: 1.25rem;
+    transition: opacity 0.18s ease, transform 0.18s ease;
   }
 
   .keegan-card {
@@ -169,19 +186,17 @@ author_profile: false
 
 <div class="keegan-wide">
 
-## Keegan
-
 <div class="keegan-intro">
   A visual index of the places I have visited, organized by travel leg and linked to individual destination pages. The map below shows the route order within each leg, and the filter lets you switch between the full overview and each region.
 </div>
 
 <div class="keegan-filter-bar" aria-label="Travel leg filter">
-  <button type="button" data-leg="overview" class="active">Overview</button>
-  <button type="button" data-leg="europe">Europe</button>
-  <button type="button" data-leg="africa">Africa</button>
-  <button type="button" data-leg="asia">Asia</button>
-  <button type="button" data-leg="south-america">South America</button>
-  <button type="button" data-leg="oceania">Oceania</button>
+  <button type="button" data-leg="overview" class="active"><span class="keegan-tab-icon">🧭</span><span>Overview</span></button>
+  <button type="button" data-leg="europe"><span class="keegan-tab-icon">🇪🇺</span><span>Europe</span></button>
+  <button type="button" data-leg="africa"><span class="keegan-tab-icon">🌍</span><span>Africa</span></button>
+  <button type="button" data-leg="asia"><span class="keegan-tab-icon">🌏</span><span>Asia</span></button>
+  <button type="button" data-leg="south-america"><span class="keegan-tab-icon">🌎</span><span>South America</span></button>
+  <button type="button" data-leg="oceania"><span class="keegan-tab-icon">🦘</span><span>Oceania</span></button>
 </div>
 
 <div id="keegan-map"></div>
