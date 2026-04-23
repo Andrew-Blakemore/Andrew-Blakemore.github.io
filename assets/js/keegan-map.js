@@ -71,6 +71,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 180);
   }
 
+  function flagImage(countryCode, placeName) {
+    if (!countryCode) return "";
+    const code = String(countryCode).toLowerCase();
+    const label = placeName ? `${placeName} flag` : "Flag";
+    return `<img src="https://flagcdn.com/w40/${code}.png" alt="${label}">`;
+  }
+
   function renderIndex(filteredStops) {
     indexEl.innerHTML = "";
 
@@ -88,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
       card.className = "keegan-card";
       card.href = stop.url;
       card.innerHTML = `
-        <span class="flag">${stop.flag || ""}</span><br />
+        <span class="flag">${flagImage(stop.country, stop.name)}</span><br />
         <span class="order">${idx + 1}</span>
         <h3>${stop.name}</h3>
         <p>${stop.summary || ""}</p>
@@ -140,7 +147,12 @@ document.addEventListener("DOMContentLoaded", () => {
       }).addTo(routeLayer);
     }
 
-    map.fitBounds(latlngs, { padding: [40, 40] });
+    if (activeLeg === "overview") {
+      map.setView([20, 0], 2);
+    } else {
+      map.fitBounds(latlngs, { padding: [40, 40] });
+    }
+
     renderIndex(filteredStops);
     setActiveButton(activeLeg);
   }
