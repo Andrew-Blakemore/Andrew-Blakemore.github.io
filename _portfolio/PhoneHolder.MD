@@ -3,7 +3,7 @@ title: "Top-Down Modeling: Bike Phone Holder"
 excerpt: "A top-down modeled, filament-printed phone holder designed to mount securely to bicycle handlebars and rotate between portrait and landscape orientations."
 header:
   image: 
-  teaser: /assets/img/phone-holder-on-bike.jpg
+  teaser: /assets/img/phone-holder-on-bike-1.jpg
 
 toc: true
 toc_label: "Table of Contents"
