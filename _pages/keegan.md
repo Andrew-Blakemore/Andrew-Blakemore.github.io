@@ -162,9 +162,3 @@ layout: page
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="{{ '/assets/js/keegan-map.js' | relative_url }}"></script>
-    }
-  ];
-</script>
-
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="{{ '/assets/js/keegan-map.js' | relative_url }}"></script>
