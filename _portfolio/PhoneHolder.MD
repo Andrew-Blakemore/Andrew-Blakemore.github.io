@@ -20,7 +20,15 @@ For this project, the top-down workflow was used to develop a phone holder that 
 
 ## Project Overview
 
+<p align="center">
+  <img src="/assets/img/Phone-Holder-Render.png" alt="Phone Holder Render">
+</p>
+
 The goal of this project was to design a phone holder that could be attached to a bike without requiring tools for routine use. Once mounted, the holder needed to grip the phone securely, resist vibration, and allow rotation between portrait and landscape orientations. Because the phone and handlebar interfaces were the most important design constraints, the holder was modeled around those fixed reference components from the start.
+
+<p align="center">
+  <img src="/assets/img/back-of-assembled-phone-holder.jpg" alt="Back of Assembled Phone Holder">
+</p>
 
 The final concept was built as a set of components assembled in place using a top-down approach. This made it possible to maintain alignment between the bike mount, the rotating phone cradle, and the detent features that define each locking position. The workflow also made later adjustments easier, since changes to one interface could propagate through the rest of the model.
 
@@ -37,6 +45,10 @@ Projected geometry was used selectively to maintain alignment between the phone,
 ## Iteration 1
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281156d3ea2f66e9947f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<p align="center">
+  <img src="/assets/img/printed-detent-mechanism.jpg" alt="Printed Detent Mechanism">
+</p>
 
 The first prototype was printed in **PLA** and consisted of **six components**, organized into three functional groups: the **handlebar clamp**, the **phone cradle and rotation interface**, and the **phone retention system**.
 
@@ -79,6 +91,10 @@ The primary takeaway from this iteration was the **strong influence of material 
 
 ## Detent Mechanism
 
+<p align="center">
+  <img src="/assets/img/Detent-Mechanism-Cross-Section.png" alt="Detent Cross Section">
+</p>
+
 The detent mechanism was incorporated to lock the phone into defined orientations. Its dimensions were parameterized so that the engagement force could be adjusted if the printed parts were too loose or too stiff. That flexibility is important in filament printing because clearance, surface finish, and layer adhesion can all affect how smoothly a rotating mechanism behaves. In practice, this made the detent one of the most important features to prototype early and refine through iteration.
 
 ## Fabrication Process
@@ -86,6 +102,10 @@ The detent mechanism was incorporated to lock the phone into defined orientation
 The holder was fabricated using filament 3D printing. This choice was appropriate because the part needed to be structurally robust, relatively quick to iterate, and suitable for repeated assembly and disassembly. All printing was done on **Voron printers**, which made it practical to produce multiple prototypes and refine clearances between iterations.
 
 ## Assembly and Use
+
+<p align="center">
+  <img src="/assets/img/phone-holder-rotate-1.gif" alt="Phone Rotation">
+</p>
 
 The holder was assembled around the handlebar with M5 bolts and secured using the designed clamp interface. Once mounted, the phone could be inserted into the cradle and rotated between orientations until the detent engaged. The mechanisms in the final assembly effectively allowed for a stable, repeatable motion with enough holding force to resist vibration during riding.
 
@@ -103,10 +123,16 @@ The project also reinforced the importance of designing for the manufacturing pr
 
 ## Multimedia
 
-*To be added:*
-- PHOTOS
-- Photo of the holder mounted on bike handlebars
-- GIF of the phone rotating between portrait and landscape
-- Fusion rendering of the full assembly
-- Cross-section view of the detent mechanism
-- Images of individual top-down components
+### Individual Components
+
+<p align="center">
+  <img src="/assets/img/handle-bar-clamp.jpg" width="300">
+  <img src="/assets/img/Phone-cradle-and-rotation-interface-front.jpg" width="300">
+  <img src="/assets/img/Phone-cradle-and-rotation-interface-back.jpg" width="300">
+</p>
+
+<p align="center">
+  <img src="/assets/img/Side-Clamp-1.jpg" width="300">
+  <img src="/assets/img/Side-Clamp-2.jpg" width="300">
+  <img src="/assets/img/Retaining-Cap.jpg" width="300">
+</p>
