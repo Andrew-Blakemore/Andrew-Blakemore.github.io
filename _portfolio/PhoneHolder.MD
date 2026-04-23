@@ -25,10 +25,6 @@ For this project, the top-down workflow was used to develop a phone holder that 
 
 The goal of this project was to design a phone holder that could be attached to a bike without requiring tools for routine use. Once mounted, the holder needed to grip the phone securely, resist vibration, and allow rotation between portrait and landscape orientations. Because the phone and handlebar interfaces were the most important design constraints, the holder was modeled around those fixed reference components from the start.
 
-<p align="center">
-  <img src="/assets/img/back-of-assembled-phone-holder.jpg" alt="Back of Assembled Phone Holder">
-</p>
-
 The final concept was built as a set of components assembled in place using a top-down approach. This made it possible to maintain alignment between the bike mount, the rotating phone cradle, and the detent features that define each locking position. The workflow also made later adjustments easier, since changes to one interface could propagate through the rest of the model.
 
 ## Design Requirements
@@ -103,16 +99,20 @@ The holder was fabricated using filament 3D printing. This choice was appropriat
 ## Assembly and Use
 
 <p align="center">
-  <img src="/assets/img/phone-holder-rotate-1.gif" alt="Phone Rotation">
+  <img src="/assets/img/back-of-assembled-phone-holder.jpg" alt="Back of Assembled Phone Holder">
 </p>
 
 The holder was assembled around the handlebar with M5 bolts and secured using the designed clamp interface. Once mounted, the phone could be inserted into the cradle and rotated between orientations until the detent engaged. The mechanisms in the final assembly effectively allowed for a stable, repeatable motion with enough holding force to resist vibration during riding.
 
 <p align="center">
-  <img src="/assets/img/phone-holder-on-bike.jpg" alt="Phone Holder Installed on Bike">
+  <img src="/assets/img/phone-holder-rotate-1.gif" alt="Phone Rotation">
 </p>
 
 ## Testing and Iteration
+
+<p align="center">
+  <img src="/assets/img/phone-holder-on-bike.jpg" alt="Phone Holder Installed on Bike">
+</p>
 
 Testing focused on three questions: whether the mount fit the handlebar correctly, whether the phone remained secure during vibration, and whether the detent produced a clear and reliable click between positions. Because printing tolerances can affect both grip and rotation, the mechanism was designed to be adjustable through parameter changes rather than rebuilt from scratch each time.
 
