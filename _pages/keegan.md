@@ -130,8 +130,6 @@ author_profile: false
 
 <div class="keegan-wide">
 
-## Keegan
-
 <div class="keegan-intro">
   A visual index of the places I have visited, organized by travel leg and linked to individual destination pages. The map below shows the route order within each leg, and the filter lets you switch between the full overview and each region.
 </div>
