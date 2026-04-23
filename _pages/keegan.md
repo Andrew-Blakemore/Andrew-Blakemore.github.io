@@ -22,47 +22,82 @@ author_profile: false
     margin-bottom: 1rem;
   }
 
+  /* Chevron-style segmented filter bar */
   .keegan-filter-bar {
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
+    align-items: center;
     gap: 0;
     margin: 1rem 0 1rem 0;
-    border: 1px solid #d1d5db;
-    border-radius: 999px;
-    overflow: hidden;
-    background: #fff;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
   }
 
   .keegan-filter-bar button {
+    position: relative;
     appearance: none;
     border: 0;
-    border-right: 1px solid #d1d5db;
-    background: transparent;
+    background: #f8fafc;
     color: #111827;
-    padding: 0.72rem 1.05rem;
+    padding: 0.75rem 1.2rem;
+    padding-right: 2rem;
+    margin-right: 14px;
     font-size: 0.95rem;
     line-height: 1;
     cursor: pointer;
     transition: background-color 0.15s ease, color 0.15s ease;
-    border-radius: 0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
   }
 
-  .keegan-filter-bar button:last-child {
-    border-right: 0;
+  /* Arrow shape */
+  .keegan-filter-bar button::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: -14px;
+    width: 0;
+    height: 0;
+    border-top: 21px solid transparent;
+    border-bottom: 21px solid transparent;
+    border-left: 14px solid #f8fafc;
+    transition: border-left-color 0.15s ease;
+    z-index: 1;
   }
 
-  .keegan-filter-bar button:hover {
-    background: #f3f4f6;
+  /* Hover */
+  .keegan-filter-bar button:hover:not(.active) {
+    background: #eef2f7;
   }
 
+  .keegan-filter-bar button:hover:not(.active)::after {
+    border-left-color: #eef2f7;
+  }
+
+  /* Active state */
   .keegan-filter-bar button.active {
     background: #111827;
     color: #fff;
   }
 
-  .keegan-filter-bar button.active:hover {
-    background: #111827;
+  .keegan-filter-bar button.active::after {
+    border-left-color: #111827;
+  }
+
+  /* First button rounded */
+  .keegan-filter-bar button:first-child {
+    border-top-left-radius: 999px;
+    border-bottom-left-radius: 999px;
+    padding-left: 1.3rem;
+  }
+
+  /* Last button rounded + remove arrow */
+  .keegan-filter-bar button:last-child {
+    border-top-right-radius: 999px;
+    border-bottom-right-radius: 999px;
+    margin-right: 0;
+    padding-right: 1.2rem;
+  }
+
+  .keegan-filter-bar button:last-child::after {
+    display: none;
   }
 
   #keegan-map {
