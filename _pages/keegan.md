@@ -13,7 +13,7 @@ author_profile: false
 
 <style>
   .keegan-wide {
-    max-width: 1500px;
+    max-width: 1700px;
     margin: 0 auto;
   }
 
@@ -28,14 +28,7 @@ author_profile: false
     align-items: center;
     gap: 0;
     margin: 1rem 0 1rem 0;
-    overflow-x: auto;
     white-space: nowrap;
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-
-  .keegan-filter-bar::-webkit-scrollbar {
-    display: none;
   }
 
   .keegan-filter-bar button {
@@ -44,26 +37,27 @@ author_profile: false
     border: 0;
     background: #f8fafc;
     color: #111827;
-    padding: 0.65rem 0.95rem;
-    padding-right: 1.8rem;
-    margin-right: 14px;
-    font-size: 0.88rem;
+    padding: 0.58rem 0.85rem;
+    padding-right: 1.55rem;
+    margin-right: 12px;
+    font-size: 0.82rem;
     line-height: 1;
     cursor: pointer;
     transition: background-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    flex: 0 0 auto;
   }
 
   .keegan-filter-bar button::after {
     content: "";
     position: absolute;
     top: 0;
-    right: -14px;
+    right: -12px;
     width: 0;
     height: 0;
-    border-top: 19px solid transparent;
-    border-bottom: 19px solid transparent;
-    border-left: 14px solid #f8fafc;
+    border-top: 17px solid transparent;
+    border-bottom: 17px solid transparent;
+    border-left: 12px solid #f8fafc;
     transition: border-left-color 0.15s ease;
     z-index: 1;
   }
@@ -89,7 +83,7 @@ author_profile: false
   .keegan-filter-bar button:first-child {
     border-top-left-radius: 999px;
     border-bottom-left-radius: 999px;
-    padding-left: 1.2rem;
+    padding-left: 1rem;
   }
 
   .keegan-filter-bar button:last-child {
@@ -100,17 +94,6 @@ author_profile: false
 
   .keegan-filter-bar button:last-child::after {
     display: none;
-  }
-
-  .keegan-tab-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 1.15em;
-    margin-right: 0.38rem;
-    font-size: 0.95em;
-    line-height: 1;
-    vertical-align: -0.05em;
   }
 
   #keegan-map {
@@ -158,6 +141,13 @@ author_profile: false
     box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
   }
 
+  .keegan-card .flag {
+    display: inline-block;
+    margin-bottom: 0.4rem;
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+
   .keegan-card .order {
     display: inline-block;
     font-weight: 700;
@@ -191,12 +181,12 @@ author_profile: false
 </div>
 
 <div class="keegan-filter-bar" aria-label="Travel leg filter">
-  <button type="button" data-leg="overview" class="active"><span class="keegan-tab-icon">🧭</span><span>Overview</span></button>
-  <button type="button" data-leg="europe"><span class="keegan-tab-icon">🇪🇺</span><span>Europe</span></button>
-  <button type="button" data-leg="africa"><span class="keegan-tab-icon">🌍</span><span>Africa</span></button>
-  <button type="button" data-leg="asia"><span class="keegan-tab-icon">🌏</span><span>Asia</span></button>
-  <button type="button" data-leg="south-america"><span class="keegan-tab-icon">🌎</span><span>South America</span></button>
-  <button type="button" data-leg="oceania"><span class="keegan-tab-icon">🦘</span><span>Oceania</span></button>
+  <button type="button" data-leg="overview" class="active">Overview</button>
+  <button type="button" data-leg="europe">Europe</button>
+  <button type="button" data-leg="africa">Africa</button>
+  <button type="button" data-leg="asia">Asia</button>
+  <button type="button" data-leg="south-america">South America</button>
+  <button type="button" data-leg="oceania">Oceania</button>
 </div>
 
 <div id="keegan-map"></div>
@@ -213,6 +203,7 @@ author_profile: false
   window.keeganStops = [
     {
       name: "London",
+      flag: "🇬🇧",
       leg: "europe",
       lat: 51.5074,
       lon: -0.1278,
@@ -221,6 +212,7 @@ author_profile: false
     },
     {
       name: "Berlin",
+      flag: "🇩🇪",
       leg: "europe",
       lat: 52.52,
       lon: 13.405,
@@ -229,6 +221,7 @@ author_profile: false
     },
     {
       name: "Athens",
+      flag: "🇬🇷",
       leg: "europe",
       lat: 37.9838,
       lon: 23.7275,
