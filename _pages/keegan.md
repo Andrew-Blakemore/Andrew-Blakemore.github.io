@@ -2,6 +2,7 @@
 title: "Keegan"
 excerpt: "An interactive map of places visited, with linked destination pages and a simple travel path."
 permalink: /keegan/
+classes: wide custom-page
 layout: single
 author_profile: false
 ---
@@ -190,9 +191,7 @@ author_profile: false
   }
 </style>
 
-<div class="keegan-wide">
-
-<div class="photography-intro">
+<div class="custom-intro">
   <p>
     As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend the year exploring how prosthetics fit into everyday life across different parts of the world.
   </p>
@@ -206,7 +205,7 @@ author_profile: false
   </p>
 </div>
 
-<div class="photography-divider"></div>
+<div class="custom-divider"></div>
 
 <div class="keegan-filter-wrap">
   <div class="keegan-filter-bar" aria-label="Travel leg filter">
@@ -219,7 +218,7 @@ author_profile: false
   </div>
 </div>
 
-<div class="photography-divider"></div>
+<div class="custom-divider"></div>
 
 <div id="keegan-map"></div>
 
