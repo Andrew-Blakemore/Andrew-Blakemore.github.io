@@ -2,11 +2,11 @@
 layout: single
 title: "Photography"
 permalink: /photography/
-classes: wide photography-page
+classes: wide custom-page
 author_profile: false
 ---
 
-<div class="photography-intro">
+<div class="custom-intro">
   <p>
     I began practicing photography in the Summer of 2022, initially drawn to the way pictures can capture people's emotions. That interest quickly became more defined through a structured photography course at BYU, where I developed a technical foundation and shifted toward visual storytelling.
   </p>
@@ -15,9 +15,9 @@ author_profile: false
   </p>
 </div>
 
-<div class="photography-divider"></div>
+<div class="custom-divider"></div>
 
-<div class="photography-filters" id="photography-filters">
+<div class="custom-filters" id="custom-filters">
   <button type="button" class="filter-btn active" data-filter="all">All</button>
   <button type="button" class="filter-btn" data-filter="portraits">Portraits</button>
   <button type="button" class="filter-btn" data-filter="abstract">Abstracts</button>
@@ -25,7 +25,7 @@ author_profile: false
   <button type="button" class="filter-btn" data-filter="cars">Cars</button>
 </div>
 
-<div class="photography-divider"></div>
+<div class="custom-divider"></div>
 
 <div class="gallery">
   {% for photo in site.data.photography %}
