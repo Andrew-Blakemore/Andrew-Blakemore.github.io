@@ -1,7 +1,7 @@
 ---
 title: "Keegan Traveling Fellow"
 excerpt: "An interactive map of places visited, with linked destination pages and a simple travel path."
-permalink: /keegan/
+permalink: /keegan-traveling-fellowship/
 classes: wide custom-page
 layout: single
 author_profile: false
@@ -191,7 +191,7 @@ author_profile: false
   </p>
 
   <p>
-    This site is a place to follow each stop of that journey as I explore how prosthetics shape independence, identity, and connection around the world.
+    This site is a place to follow each stop of that journey, as I explore how prosthetics shape independence, identity, and connection around the globe.
   </p>
 </div>
 
