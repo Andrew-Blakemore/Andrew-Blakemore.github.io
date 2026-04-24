@@ -1,5 +1,5 @@
 ---
-title: "Keegan"
+title: "Keegan Traveling Fellow"
 excerpt: "An interactive map of places visited, with linked destination pages and a simple travel path."
 permalink: /keegan/
 classes: wide custom-page
@@ -13,16 +13,6 @@ author_profile: false
 />
 
 <style>
-  .keegan-wide {
-    max-width: 1700px;
-    margin: 0 auto;
-  }
-
-  .keegan-intro {
-    max-width: 75ch;
-    margin-bottom: 1rem;
-  }
-
   .keegan-filter-wrap {
     display: flex;
     justify-content: center;
@@ -227,8 +217,6 @@ author_profile: false
 </p>
 
 <div id="keegan-index" class="keegan-index"></div>
-
-</div>
 
 <script>
   window.keeganStops = [
