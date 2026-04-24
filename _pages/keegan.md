@@ -187,11 +187,11 @@ author_profile: false
   </p>
 
   <p>
-    Along the way, I’ll connect with engineers, clinicians, and researchers to understand how these technologies are designed—but more importantly, I’ll learn from prosthetic users about how they actually live with them. Through photography and storytelling, I’ll document moments of work, creativity, and daily life that often go unseen.
+    Along the way, I’ll connect with engineers, clinicians, and researchers to understand how these technologies are designed; but more importantly, I’ll learn from prosthetic users about how they actually live with them. Through photography and storytelling, I’ll document moments of work, creativity, and daily life that often go unseen.
   </p>
 
   <p>
-    This site is a place to follow that journey—through the map, field notes, and stories from each stop along the way—as I explore how prosthetics shape independence, identity, and connection around the world.
+    This site is a place to follow each stop of that journey as I explore how prosthetics shape independence, identity, and connection around the world.
   </p>
 </div>
 
