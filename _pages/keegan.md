@@ -192,7 +192,7 @@ author_profile: false
 
 <div class="keegan-wide">
 
-<div class="keegan-intro">
+<div class="photography-intro">
   <p>
     As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend the year exploring how prosthetics fit into everyday life across different parts of the world.
   </p>
@@ -206,6 +206,8 @@ author_profile: false
   </p>
 </div>
 
+<div class="photography-divider"></div>
+
 <div class="keegan-filter-wrap">
   <div class="keegan-filter-bar" aria-label="Travel leg filter">
     <button type="button" data-leg="overview" class="active">Overview</button>
@@ -216,6 +218,8 @@ author_profile: false
     <button type="button" data-leg="oceania">Oceania</button>
   </div>
 </div>
+
+<div class="photography-divider"></div>
 
 <div id="keegan-map"></div>
 
