@@ -6,4 +6,4 @@ layout: page
 
 ## London
 
-Add your London write-up here.
+London write-up here.
