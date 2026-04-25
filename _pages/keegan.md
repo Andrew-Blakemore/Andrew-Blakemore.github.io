@@ -179,6 +179,14 @@ author_profile: false
     color: #6b7280;
     background: #fafafa;
   }
+  .keegan-filter-bar button:focus {
+    outline: none;
+  }
+
+  .keegan-filter-bar button:focus-visible {
+    outline: 2px solid #111827;
+    outline-offset: 2px;
+  }
 </style>
 
 <div class="custom-intro">
