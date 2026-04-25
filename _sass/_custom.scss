@@ -316,52 +316,77 @@
   background: #fafafa;
 }
 
-/* ===== Hero Grid ===== */
+/* ===== Full-width stacked hero banners ===== */
 
-.hero-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  max-width: 1400px;
-  margin: 0 auto 2rem auto;
+.hero-stack {
+  width: 100%;
 }
 
-.hero-card {
+/* Each banner */
+.hero-banner {
   position: relative;
-  height: 420px;
+  width: 100%;
+  height: 70vh; /* controls height */
+  min-height: 420px;
   background-size: cover;
   background-position: center;
-  border-radius: 16px;
-  overflow: hidden;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
+  margin-bottom: 1.5rem;
 }
 
+/* Overlay content */
 .hero-overlay {
+  max-width: 1200px;
   width: 100%;
-  padding: 1.5rem;
-  background: linear-gradient(to top, rgba(0,0,0,0.7), rgba(0,0,0,0.2));
+  margin: 0 auto;
+  padding: 2rem;
   color: white;
+
+  background: linear-gradient(
+    to right,
+    rgba(0,0,0,0.65),
+    rgba(0,0,0,0.25),
+    rgba(0,0,0,0)
+  );
 }
 
+/* Right-aligned version */
+.hero-banner.right {
+  justify-content: flex-end;
+}
+
+.hero-banner.right .hero-overlay {
+  text-align: right;
+
+  background: linear-gradient(
+    to left,
+    rgba(0,0,0,0.65),
+    rgba(0,0,0,0.25),
+    rgba(0,0,0,0)
+  );
+}
+
+/* Text styling */
 .hero-overlay h2 {
-  margin: 0 0 0.5rem 0;
-  font-size: 1.6rem;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .hero-overlay p {
-  margin: 0 0 0.75rem 0;
-  font-size: 0.95rem;
+  font-size: 1.1rem;
+  max-width: 500px;
+  margin-bottom: 1rem;
 }
 
+/* Button */
 .hero-btn {
   display: inline-block;
-  padding: 0.5rem 0.9rem;
+  padding: 0.6rem 1rem;
   border: 1px solid white;
   color: white;
   text-decoration: none;
   border-radius: 6px;
-  font-size: 0.85rem;
 }
 
 .hero-btn:hover {
@@ -369,23 +394,13 @@
   color: black;
 }
 
-.hero-card.right {
-  justify-content: flex-end;
-}
-
-.hero-card.right .hero-overlay {
-  text-align: right;
-  align-items: flex-end;
-  margin-left: auto;
-}
-
 /* Responsive */
-@media (max-width: 900px) {
-  .hero-grid {
-    grid-template-columns: 1fr;
+@media (max-width: 768px) {
+  .hero-banner {
+    height: 50vh;
   }
 
-  .hero-card {
-    height: 320px;
+  .hero-overlay h2 {
+    font-size: 1.8rem;
   }
 }
