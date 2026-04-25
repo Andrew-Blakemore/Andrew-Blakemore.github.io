@@ -213,8 +213,10 @@ author_profile: false
 <div id="keegan-map"></div>
 
 <p class="keegan-note">
-  Route order is shown with numbered markers and a connecting dotted line.
+  This map will expand as the journey begins.
 </p>
+
+<!-- Short stops along the route included: Brussels, Vienna, and Dubrovnik. -->
 
 <div id="keegan-index" class="keegan-index"></div>
 
@@ -227,7 +229,7 @@ author_profile: false
       lat: 51.5074,
       lon: -0.1278,
       url: "{{ '/keegan/london/' | relative_url }}",
-      summary: "First stop on the map."
+      summary: "DD/MM/YYYY - DD/MM/YYYY"
     },
     {
       name: "Berlin",
@@ -236,7 +238,7 @@ author_profile: false
       lat: 52.52,
       lon: 13.405,
       url: "{{ '/keegan/berlin/' | relative_url }}",
-      summary: "Second stop on the map."
+      summary: "DD/MM/YYYY - DD/MM/YYYY"
     },
     {
       name: "Athens",
@@ -245,7 +247,7 @@ author_profile: false
       lat: 37.9838,
       lon: 23.7275,
       url: "{{ '/keegan/athens/' | relative_url }}",
-      summary: "Third stop on the map."
+      summary: "DD/MM/YYYY - DD/MM/YYYY"
     }
   ];
 </script>
