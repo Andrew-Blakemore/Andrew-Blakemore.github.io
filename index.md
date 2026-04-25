@@ -1,5 +1,5 @@
 ---
-title: "Building Solutions, Exploring Perspectives"
+title: "Design, Iterate, Understand"
 layout: splash
 header:
   overlay_color: "#000"
