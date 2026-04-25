@@ -6,4 +6,4 @@ layout: page
 
 ## Athens
 
-Add your Athens write-up here.
+Athens write-up here.
