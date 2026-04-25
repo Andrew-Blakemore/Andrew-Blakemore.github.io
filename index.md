@@ -1,5 +1,5 @@
 ---
-title: "Designing, Building, Iterating"
+title: "Building Solutions, Exploring Perspectives"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Andrew Blakemore is a biomedical engineer whose work spans manufacturing-focused projects and hands-on clinical engineering experience. This site documents custom-built prototypes alongside medical device troubleshooting and maintenance, bridging digital fabrication, iterative design, and real-world healthcare systems."
+excerpt: "Andrew Blakemore is a biomedical engineer whose work spans manufacturing-focused projects and hands-on clinical engineering experience. This site documents custom-built prototypes and real-world troubleshooting, as well as global travel centered around the role of prosthetics in everyday life."
 
 feature_row:
   - image_path: assets/img/lamp.jpg
