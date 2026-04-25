@@ -101,12 +101,12 @@ author:
   bio              : "A biomedical engineer with a passion for prototyping and an interest in medical devices."
   location         : "Nashville, TN"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:andrewblakemore3@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aeblakemore"
-    - label: "Photography"
-      icon: "fas fa-fw fa-camera"
-      url: "https://ab-visuals.mypixieset.com/" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Andrew-Blakemore"
@@ -114,12 +114,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:andrewblakemore3@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aeblakemore"
-    - label: "Photography"
-      icon: "fas fa-fw fa-camera"
-      url: "https://ab-visuals.mypixieset.com/" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Andrew-Blakemore"
