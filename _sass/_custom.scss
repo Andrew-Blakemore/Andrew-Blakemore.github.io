@@ -315,3 +315,77 @@
   color: #6b7280;
   background: #fafafa;
 }
+
+/* ===== Hero Grid ===== */
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  max-width: 1400px;
+  margin: 0 auto 2rem auto;
+}
+
+.hero-card {
+  position: relative;
+  height: 420px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+}
+
+.hero-overlay {
+  width: 100%;
+  padding: 1.5rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.7), rgba(0,0,0,0.2));
+  color: white;
+}
+
+.hero-overlay h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.6rem;
+}
+
+.hero-overlay p {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.95rem;
+}
+
+.hero-btn {
+  display: inline-block;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid white;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.hero-btn:hover {
+  background: white;
+  color: black;
+}
+
+.hero-card.right {
+  justify-content: flex-end;
+}
+
+.hero-card.right .hero-overlay {
+  text-align: right;
+  align-items: flex-end;
+  margin-left: auto;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-card {
+    height: 320px;
+  }
+}
