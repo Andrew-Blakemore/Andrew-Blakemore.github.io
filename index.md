@@ -1,7 +1,6 @@
 ---
 title: ""
 layout: single
-classes: wide
 ---
 
 <div class="hero-stack">
