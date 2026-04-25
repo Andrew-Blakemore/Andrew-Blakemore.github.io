@@ -9,6 +9,11 @@ header:
     - label: "My Projects"
       url: "/portfolio/"
 excerpt: "Andrew Blakemore is a biomedical engineer whose work spans manufacturing-focused projects and hands-on clinical engineering experience. This site documents custom-built prototypes alongside medical device troubleshooting and maintenance, bridging digital fabrication, iterative design, and real-world healthcare systems."
+  overlay_image: /assets/img/print-bed.jpg
+  actions:
+    - label: "My Projects"
+      url: "/portfolio/"
+excerpt: "Andrew Blakemore is a biomedical engineer whose work spans manufacturing-focused projects and hands-on clinical engineering experience. This site documents custom-built prototypes alongside medical device troubleshooting and maintenance, bridging digital fabrication, iterative design, and real-world healthcare systems."
 feature_row:
   - image_path: assets/img/lamp.jpg
     alt: "Rewiring Exam Lights in Guatemala"
