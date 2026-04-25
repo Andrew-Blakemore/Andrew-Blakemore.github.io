@@ -121,80 +121,30 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
-    const latlngs = filteredStops.map((stop) => [stop.lat, stop.lon]);
+    const latlngs = filteredStops.map((stop, idx) => {
+      const latlng = [stop.lat, stop.lon];
 
-    // ---- Animated route ----
-    function animateRoute(latlngs) {
-      if (latlngs.length < 2) return;
+      const marker = L.marker(latlng, {
+        icon: makeMarkerIcon(idx + 1),
+      }).addTo(markerLayer);
 
-      const line = L.polyline([], {
+      marker.bindPopup(`
+        <div style="min-width: 160px;">
+          <strong>${idx + 1}. ${stop.name}</strong><br />
+          <a href="${stop.url}">Open destination page</a>
+        </div>
+      `);
+
+      return latlng;
+    });
+
+    if (latlngs.length > 1) {
+      L.polyline(latlngs, {
         color: "#111827",
         weight: 3,
         opacity: 0.65,
         dashArray: "6,8",
       }).addTo(routeLayer);
-
-      let i = 0;
-      const baseDelay = 100;
-
-      function step() {
-        if (i >= latlngs.length) return;
-
-        line.addLatLng(latlngs[i]);
-
-        // Marker appears in sync
-        const stop = filteredStops[i];
-        const marker = L.marker(latlngs[i], {
-          icon: makeMarkerIcon(i + 1),
-        }).addTo(markerLayer);
-
-        marker.bindPopup(`
-          <div style="min-width: 160px;">
-            <strong>${i + 1}. ${stop.name}</strong><br />
-            <a href="${stop.url}">Open destination page</a>
-          </div>
-        `);
-
-        i++;
-
-        // easing: slightly slower each step
-        setTimeout(step, baseDelay + i * 25);
-      }
-
-      step();
-    }
-
-    // ---- Static markers (no animation) ----
-    function renderStatic() {
-      latlngs.forEach((latlng, idx) => {
-        const stop = filteredStops[idx];
-
-        const marker = L.marker(latlng, {
-          icon: makeMarkerIcon(idx + 1),
-        }).addTo(markerLayer);
-
-        marker.bindPopup(`
-          <div style="min-width: 160px;">
-            <strong>${idx + 1}. ${stop.name}</strong><br />
-            <a href="${stop.url}">Open destination page</a>
-          </div>
-        `);
-      });
-
-      if (latlngs.length > 1) {
-        L.polyline(latlngs, {
-          color: "#111827",
-          weight: 3,
-          opacity: 0.65,
-          dashArray: "6,8",
-        }).addTo(routeLayer);
-      }
-    }
-
-    if (animate) {
-      animateRoute(latlngs);
-    } else {
-      renderStatic();
     }
 
     if (activeLeg === "overview") {
