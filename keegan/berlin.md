@@ -6,4 +6,4 @@ layout: page
 
 ## Berlin
 
-Add your Berlin write-up here.
+Berlin write-up here.
