@@ -1,3 +1,7 @@
+/* =========================================================
+   GLOBAL LAYOUT OVERRIDES
+   ========================================================= */
+
 .custom-page .page,
 .custom-page .page__inner-wrap,
 .custom-page .page__content-wrapper,
@@ -22,16 +26,19 @@
   text-align: center;
 }
 
+
+/* =========================================================
+   INTRO + DIVIDERS
+   ========================================================= */
+
 .custom-intro {
   max-width: 1000px;
   margin: 0 auto 2rem auto;
   padding: 1rem 2.5rem;
-
   text-align: center;
   font-size: 1.05rem;
   line-height: 1.8;
   color: #666;
-
   background: rgba(0, 0, 0, 0.06);
   border-radius: 12px;
 }
@@ -55,6 +62,11 @@
     rgba(0,0,0,0)
   );
 }
+
+
+/* =========================================================
+   FILTER BUTTONS (GENERIC)
+   ========================================================= */
 
 .custom-page .custom-filters {
   display: flex;
@@ -84,6 +96,11 @@
   font-weight: 700;
   color: #222;
 }
+
+
+/* =========================================================
+   GALLERY
+   ========================================================= */
 
 .custom-page .gallery-item {
   display: inline-block;
@@ -135,212 +152,45 @@
   }
 }
 
-/* =========================
-   Keegan Map Page Styles
-   ========================= */
 
-.keegan-filter-wrap {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-}
+/* =========================================================
+   FULL-WIDTH HERO STACK (HOMEPAGE)
+   ========================================================= */
 
-.keegan-filter-bar {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: center;
-  gap: 0;
-  margin: 1rem 0 1rem 0;
-  white-space: nowrap;
-}
-
-.keegan-filter-bar button {
-  position: relative;
-  appearance: none;
-  border: 0;
-  background: #f8fafc;
-  color: #111827;
-  padding: 0.58rem 0.85rem;
-  padding-right: 1.55rem;
-  margin-right: 12px;
-  font-size: 0.82rem;
-  line-height: 1;
-  cursor: pointer;
-  transition: background-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
-  flex: 0 0 auto;
-}
-
-.keegan-filter-bar button::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: -12px;
-  width: 0;
-  height: 0;
-  border-top: 17px solid transparent;
-  border-bottom: 17px solid transparent;
-  border-left: 12px solid #f8fafc;
-  transition: border-left-color 0.15s ease;
-  z-index: 1;
-}
-
-.keegan-filter-bar button:hover:not(.active) {
-  background: #eef2f7;
-  transform: translateY(-1px);
-}
-
-.keegan-filter-bar button:hover:not(.active)::after {
-  border-left-color: #eef2f7;
-}
-
-.keegan-filter-bar button.active {
-  background: #111827;
-  color: #fff;
-}
-
-.keegan-filter-bar button.active::after {
-  border-left-color: #111827;
-}
-
-.keegan-filter-bar button:first-child {
-  border-top-left-radius: 999px;
-  border-bottom-left-radius: 999px;
-  padding-left: 1rem;
-}
-
-.keegan-filter-bar button:last-child {
-  border-top-right-radius: 999px;
-  border-bottom-right-radius: 999px;
-  margin-right: 0;
-}
-
-.keegan-filter-bar button:last-child::after {
-  display: none;
-}
-
-/* Remove focus outline (mouse), keep for keyboard */
-.keegan-filter-bar button:focus {
-  outline: none;
-}
-
-.keegan-filter-bar button:focus-visible {
-  outline: 2px solid #111827;
-  outline-offset: 2px;
-}
-
-#keegan-map {
-  width: 100%;
-  height: 820px;
-  border-radius: 20px;
-  overflow: hidden;
-  margin: 1rem 0 1rem 0;
-  box-shadow: 0 10px 32px rgba(0, 0, 0, 0.1);
-  transition: opacity 0.18s ease, transform 0.18s ease;
-}
-
-#keegan-map.is-updating,
-#keegan-index.is-updating {
-  opacity: 0.82;
-  transform: translateY(2px);
-}
-
-.keegan-note {
-  color: #6b7280;
-  margin-top: 0.25rem;
-  margin-bottom: 1.25rem;
-}
-
-.keegan-index {
-  display: grid;
-  gap: 0.75rem;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  margin-top: 1.25rem;
-  transition: opacity 0.18s ease, transform 0.18s ease;
-}
-
-.keegan-card {
-  border: 1px solid #e5e7eb;
-  border-radius: 14px;
-  padding: 1rem 1.1rem;
-  background: #fff;
-  text-decoration: none;
-  color: inherit;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
-
-.keegan-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
-}
-
-.keegan-card .flag {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.5rem;
-  height: 1.1rem;
-  margin-bottom: 0.45rem;
-}
-
-.keegan-card .flag img {
-  display: block;
-  width: 1.5rem;
-  height: auto;
-  border-radius: 2px;
-  box-shadow: 0 0 0 1px rgba(17, 24, 39, 0.08);
-}
-
-.keegan-card .order {
-  display: inline-block;
-  font-weight: 700;
-  margin-bottom: 0.35rem;
-}
-
-.keegan-card h3 {
-  margin: 0 0 0.35rem 0;
-  font-size: 1.05rem;
-}
-
-.keegan-card p {
-  margin: 0;
-  color: #6b7280;
-  font-size: 0.95rem;
-}
-
-.keegan-empty {
-  border: 1px dashed #d1d5db;
-  border-radius: 14px;
-  padding: 1rem 1.1rem;
-  color: #6b7280;
-  background: #fafafa;
-}
-
-/* ===== Full-width stacked hero banners ===== */
-
+/* Break out of centered container */
 .hero-stack {
-  width: 100%;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
 }
 
-/* Each banner */
+/* Individual banner */
 .hero-banner {
   position: relative;
   width: 100%;
-  height: 70vh; /* controls height */
+  height: 70vh;
   min-height: 420px;
+
   background-size: cover;
   background-position: center;
+
   display: flex;
   align-items: center;
+
   margin-bottom: 1.5rem;
 }
 
-/* Overlay content */
+/* Overlay container */
 .hero-overlay {
-  max-width: 1200px;
   width: 100%;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 2rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  text-align: left;
   color: white;
 
   background: linear-gradient(
@@ -351,13 +201,15 @@
   );
 }
 
-/* Right-aligned version */
+/* Right-aligned banner */
 .hero-banner.right {
   justify-content: flex-end;
 }
 
 .hero-banner.right .hero-overlay {
+  align-items: flex-end;
   text-align: right;
+  margin-left: auto;
 
   background: linear-gradient(
     to left,
@@ -367,7 +219,7 @@
   );
 }
 
-/* Text styling */
+/* Typography */
 .hero-overlay h2 {
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
@@ -403,4 +255,92 @@
   .hero-overlay h2 {
     font-size: 1.8rem;
   }
+}
+
+
+/* =========================================================
+   KEEGAN MAP PAGE
+   ========================================================= */
+
+.keegan-filter-wrap {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.keegan-filter-bar {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 0;
+  margin: 1rem 0;
+  white-space: nowrap;
+}
+
+.keegan-filter-bar button {
+  position: relative;
+  appearance: none;
+  border: 0;
+  background: #f8fafc;
+  color: #111827;
+  padding: 0.58rem 0.85rem;
+  padding-right: 1.55rem;
+  margin-right: 12px;
+  font-size: 0.82rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.keegan-filter-bar button::after {
+  content: "";
+  position: absolute;
+  right: -12px;
+  border-top: 17px solid transparent;
+  border-bottom: 17px solid transparent;
+  border-left: 12px solid #f8fafc;
+}
+
+.keegan-filter-bar button.active {
+  background: #111827;
+  color: #fff;
+}
+
+.keegan-filter-bar button.active::after {
+  border-left-color: #111827;
+}
+
+/* Remove focus outline (mouse), keep for keyboard */
+.keegan-filter-bar button:focus {
+  outline: none;
+}
+
+.keegan-filter-bar button:focus-visible {
+  outline: 2px solid #111827;
+  outline-offset: 2px;
+}
+
+#keegan-map {
+  width: 100%;
+  height: 820px;
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+.keegan-index {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.keegan-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 1rem;
+  background: #fff;
+  transition: 0.15s;
+}
+
+.keegan-card:hover {
+  transform: translateY(-2px);
 }
