@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", () => {
       marker.bindPopup(`
         <div style="min-width: 160px;">
           <strong>${idx + 1}. ${stop.name}</strong><br />
-          <a href="${stop.url}">Open destination page</a>
+          <a href="${stop.url}">See more</a>
         </div>
       `);
 
