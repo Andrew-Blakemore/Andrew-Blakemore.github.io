@@ -4,10 +4,9 @@ layout: single
 classes: wide
 ---
 
-<div class="hero-grid">
+<div class="hero-stack">
 
-  <!-- Engineering (left-aligned default) -->
-  <div class="hero-card" style="background-image: url('/assets/img/print-bed.jpg');">
+  <div class="hero-banner" style="background-image: url('/assets/img/print-bed.jpg');">
     <div class="hero-overlay">
       <h2>Engineering</h2>
       <p>
@@ -17,19 +16,17 @@ classes: wide
     </div>
   </div>
 
-  <!-- Photography (right-aligned) -->
-  <div class="hero-card right" style="background-image: url('/assets/img/print-bed.jpg');">
+  <div class="hero-banner right" style="background-image: url('/assets/img/photo.jpg');">
     <div class="hero-overlay">
       <h2>Photography</h2>
       <p>
-        Documenting people, places, and more through visual storytelling.
+        Documenting people, places, and process through visual storytelling.
       </p>
       <a href="/photography/" class="hero-btn">View Photography</a>
     </div>
   </div>
 
-  <!-- Travel (left-aligned default) -->
-  <div class="hero-card" style="background-image: url('/assets/img/print-bed.jpg');">
+  <div class="hero-banner" style="background-image: url('/assets/img/travel.jpg');">
     <div class="hero-overlay">
       <h2>Travel</h2>
       <p>
@@ -40,5 +37,7 @@ classes: wide
   </div>
 
 </div>
+
+{% include feature_row %}
 
 {% include feature_row %}
