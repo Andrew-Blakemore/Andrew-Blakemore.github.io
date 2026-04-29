@@ -54,6 +54,15 @@ author_profile: false
 <script>
   window.keeganStops = [
     {
+      name: "Nashville",
+      country: "us",
+      leg: "north-america",
+      lat: 36.1627,
+      lon: -86.7816,
+      url: "{{ '/keegan-itinerary/nashville/' | relative_url }}",
+      summary: "Exploring prosthetic clinics and research labs over the summer."
+    },
+    {
       name: "Reykjavík",
       country: "is",
       leg: "europe",
