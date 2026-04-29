@@ -341,14 +341,14 @@
   background: #000;
 }
 
-.keegan-blog-button,
-.keegan-blog-button:visited {
-  color: #fff;
-  text-decoration: none;
+.page__content .keegan-blog-button,
+.page__content .keegan-blog-button:visited {
+  color: #fff !important;
+  text-decoration: none !important;
 }
 
-.keegan-blog-button:hover,
-.keegan-blog-button:focus {
-  color: #fff;
-  text-decoration: none;
+.page__content .keegan-blog-button:hover,
+.page__content .keegan-blog-button:focus {
+  color: #fff !important;
+  text-decoration: none !important;
 }
