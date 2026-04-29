@@ -14,7 +14,7 @@ author_profile: false
 
 <div class="custom-intro">
   <p>
-    As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend the year exploring how prosthetics fit into everyday life across different parts of the world.
+    As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend a year abroad exploring how prosthetics fit into everyday life across different parts of the world.
   </p>
 
   <p>
