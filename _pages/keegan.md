@@ -119,13 +119,13 @@ author_profile: false
       current: false
     }
   ];
-
-  <div class="keegan-blog-cta">
-    <a href="https://substack.com/@prostheticenthusiast" class="keegan-blog-button">
-      Follow the Journey →
-    </a>
-  </div>
 </script>
+
+<div class="keegan-blog-cta">
+  <a href="https://substack.com/@prostheticenthusiast" class="keegan-blog-button">
+    Follow the Journey →
+  </a>
+</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="{{ '/assets/js/keegan-map.js' | relative_url }}"></script>
