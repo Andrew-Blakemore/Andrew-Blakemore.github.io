@@ -2,8 +2,10 @@
 title: "London"
 permalink: /keegan-itinerary/london/
 layout: single
-author_profile: false
 classes: wide
+author_profile: false
+header:
+  image: /assets/img/athens-cover.jpg
 ---
 
 ## London
