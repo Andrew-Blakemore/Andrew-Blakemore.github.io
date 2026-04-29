@@ -44,7 +44,7 @@ author_profile: false
 <div id="keegan-map"></div>
 
 <p class="keegan-note">
-  This map will expand as the journey begins.
+  Drag to explore • Double-click to zoom
 </p>
 
 <!-- Short stops along the route included: Brussels, Vienna, and Dubrovnik. -->
