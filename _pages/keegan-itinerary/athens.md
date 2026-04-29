@@ -1,6 +1,6 @@
 ---
 title: "Athens"
-permalink: /keegan-itinerary/Athens/
+permalink: /keegan-itinerary/athens/
 layout: single
 author_profile: false
 classes: wide
