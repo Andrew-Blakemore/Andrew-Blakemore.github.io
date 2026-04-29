@@ -23,6 +23,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const markerLayer = L.layerGroup().addTo(map);
   const routeLayer = L.layerGroup().addTo(map);
 
+  // 🔑 Split stops
+  const routeStops = stops.filter(s => s.route !== false);
+  const currentStops = stops.filter(s => s.current === true);
+
   function makeMarkerIcon(order) {
     return L.divIcon({
       className: "keegan-pin",
@@ -47,6 +51,24 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  function makeCurrentIcon() {
+    return L.divIcon({
+      className: "keegan-current-pin",
+      html: `
+        <div style="
+          width: 18px;
+          height: 18px;
+          background: #2563eb;
+          border-radius: 999px;
+          border: 3px solid white;
+          box-shadow: 0 0 0 6px rgba(37,99,235,0.25);
+        "></div>
+      `,
+      iconSize: [18, 18],
+      iconAnchor: [9, 9],
+    });
+  }
+
   function setActiveButton(activeLeg) {
     if (!filterBar) return;
     filterBar.querySelectorAll("button[data-leg]").forEach((button) => {
@@ -56,26 +78,24 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function getFilteredStops(activeLeg) {
     if (activeLeg === "overview") {
-      return stops.slice();
+      return routeStops;
     }
-    return stops.filter((stop) => stop.leg === activeLeg);
+    return routeStops.filter((stop) => stop.leg === activeLeg);
   }
 
   function pulseContainers() {
     mapEl.classList.add("is-updating");
     indexEl.classList.add("is-updating");
 
-    window.setTimeout(() => {
+    setTimeout(() => {
       mapEl.classList.remove("is-updating");
       indexEl.classList.remove("is-updating");
     }, 180);
   }
 
-  function flagImage(countryCode, placeName) {
-    if (!countryCode) return "";
-    const code = String(countryCode).toLowerCase();
-    const label = placeName ? `${placeName} flag` : "Flag";
-    return `<img src="https://flagcdn.com/w40/${code}.png" alt="${label}">`;
+  function flagImage(code, name) {
+    if (!code) return "";
+    return `<img src="https://flagcdn.com/w40/${code}.png" alt="${name} flag">`;
   }
 
   function renderIndex(filteredStops) {
@@ -93,13 +113,15 @@ document.addEventListener("DOMContentLoaded", () => {
     filteredStops.forEach((stop, idx) => {
       const card = document.createElement("a");
       card.className = "keegan-card";
-      card.href = stop.url;
+      card.href = stop.url || "#";
+
       card.innerHTML = `
-        <span class="flag">${flagImage(stop.country, stop.name)}</span><br />
+        <span class="flag">${flagImage(stop.country, stop.name)}</span><br/>
         <span class="order">${idx + 1}</span>
         <h3>${stop.name}</h3>
         <p>${stop.summary || ""}</p>
       `;
+
       indexEl.appendChild(card);
     });
   }
@@ -110,9 +132,7 @@ document.addEventListener("DOMContentLoaded", () => {
     markerLayer.clearLayers();
     routeLayer.clearLayers();
 
-    if (animate) {
-      pulseContainers();
-    }
+    if (animate) pulseContainers();
 
     if (filteredStops.length === 0) {
       map.setView([20, 0], 2);
@@ -129,15 +149,14 @@ document.addEventListener("DOMContentLoaded", () => {
       }).addTo(markerLayer);
 
       marker.bindPopup(`
-        <div style="min-width: 160px;">
-          <strong>${idx + 1}. ${stop.name}</strong><br />
-          <a href="${stop.url}">See more</a>
-        </div>
+        <strong>${idx + 1}. ${stop.name}</strong><br/>
+        <a href="${stop.url}">See more</a>
       `);
 
       return latlng;
     });
 
+    // route line
     if (latlngs.length > 1) {
       L.polyline(latlngs, {
         color: "#111827",
@@ -147,6 +166,19 @@ document.addEventListener("DOMContentLoaded", () => {
       }).addTo(routeLayer);
     }
 
+    // current markers (NOT part of route)
+    currentStops.forEach((stop) => {
+      const marker = L.marker([stop.lat, stop.lon], {
+        icon: makeCurrentIcon(),
+      }).addTo(markerLayer);
+
+      marker.bindPopup(`
+        <strong>${stop.name}</strong><br/>
+        <em>Current Location</em>
+      `);
+    });
+
+    // zoom behavior
     if (activeLeg === "overview") {
       map.setView([20, 0], 2);
     } else {
