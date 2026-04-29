@@ -59,7 +59,7 @@ author_profile: false
       leg: "europe",
       lat: 51.5074,
       lon: -0.1278,
-      url: "{{ '/keegan/london/' | relative_url }}",
+      url: "{{ '/keegan-itinerary/london/' | relative_url }}",
       summary: "DD/MM/YYYY - DD/MM/YYYY"
     },
     {
@@ -68,7 +68,7 @@ author_profile: false
       leg: "europe",
       lat: 52.52,
       lon: 13.405,
-      url: "{{ '/keegan/berlin/' | relative_url }}",
+      url: "{{ '/keegan-itinerary/berlin/' | relative_url }}",
       summary: "DD/MM/YYYY - DD/MM/YYYY"
     },
     {
@@ -77,7 +77,7 @@ author_profile: false
       leg: "europe",
       lat: 37.9838,
       lon: 23.7275,
-      url: "{{ '/keegan/athens/' | relative_url }}",
+      url: "{{ '/keegan-itinerary/athens/' | relative_url }}",
       summary: "DD/MM/YYYY - DD/MM/YYYY"
     }
   ];
