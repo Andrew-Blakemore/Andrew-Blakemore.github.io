@@ -1,6 +1,6 @@
 ---
 title: "London"
-permalink: /keegan-itinerary/London/
+permalink: /keegan-itinerary/london/
 layout: single
 author_profile: false
 classes: wide
