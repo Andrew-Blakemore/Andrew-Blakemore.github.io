@@ -119,6 +119,12 @@ author_profile: false
       current: false
     }
   ];
+
+  <div class="keegan-blog-cta">
+    <a href="https://substack.com/@prostheticenthusiast" class="keegan-blog-button">
+      Follow the Journey →
+    </a>
+  </div>
 </script>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
