@@ -1,10 +1,10 @@
 ---
 title: "Reykjavík, Iceland"
-permalink: /keegan-itinerary/reykjavík/
+permalink: /keegan-itinerary/reykjavik/
 layout: single
 classes: wide
 author_profile: false
 header:
-  image: /assets/img/reykjavík-cover.jpg
+  image: /assets/img/reykjavik-cover.jpg
 ---
 Reykjavík write-up here.
