@@ -54,13 +54,25 @@ author_profile: false
 <script>
   window.keeganStops = [
     {
+      name: "Lexington",
+      country: "us",
+      leg: "north-america",
+      lat: 38.0406,
+      lon: -84.5037,
+      summary: "Resting between travel legs.",
+      route: false,
+      current: true
+    },
+    {
       name: "Nashville",
       country: "us",
       leg: "north-america",
       lat: 36.1627,
       lon: -86.7816,
       url: "{{ '/keegan-itinerary/nashville/' | relative_url }}",
-      summary: "Exploring prosthetic clinics and research labs over the summer."
+      summary: "Exploring prosthetic clinics and research labs over the summer.",
+      route: true,
+      current: false
     },
     {
       name: "Reykjavík",
@@ -68,8 +80,10 @@ author_profile: false
       leg: "europe",
       lat: 64.1466,
       lon: -21.9426,
-      url: "{{ '/keegan-itinerary/reykjavík/' | relative_url }}",
-      summary: "DD/MM/YYYY - DD/MM/YYYY"
+      url: "{{ '/keegan-itinerary/reykjavik/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
     },
     {
       name: "London",
@@ -78,7 +92,9 @@ author_profile: false
       lat: 51.5074,
       lon: -0.1278,
       url: "{{ '/keegan-itinerary/london/' | relative_url }}",
-      summary: "DD/MM/YYYY - DD/MM/YYYY"
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
     },
     {
       name: "Berlin",
@@ -87,7 +103,9 @@ author_profile: false
       lat: 52.52,
       lon: 13.405,
       url: "{{ '/keegan-itinerary/berlin/' | relative_url }}",
-      summary: "DD/MM/YYYY - DD/MM/YYYY"
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
     },
     {
       name: "Athens",
@@ -96,7 +114,9 @@ author_profile: false
       lat: 37.9838,
       lon: 23.7275,
       url: "{{ '/keegan-itinerary/athens/' | relative_url }}",
-      summary: "DD/MM/YYYY - DD/MM/YYYY"
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
     }
   ];
 </script>
