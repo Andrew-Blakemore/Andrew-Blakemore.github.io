@@ -315,28 +315,3 @@
   color: #6b7280;
   background: #fafafa;
 }
-
-.keegan-blog-cta {
-  display: flex;
-  justify-content: center;
-  margin: 2.5rem 0 3rem 0;
-}
-
-.keegan-blog-button {
-  background: #111827;
-  color: #fff;
-  padding: 0.9rem 1.6rem;
-  border-radius: 999px;
-  text-decoration: none;
-  font-size: 0.95rem;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
-  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
-}
-
-.keegan-blog-button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.18);
-  background: #000;
-}
