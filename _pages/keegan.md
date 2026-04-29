@@ -54,6 +54,15 @@ author_profile: false
 <script>
   window.keeganStops = [
     {
+      name: "Reykjavík",
+      country: "is",
+      leg: "europe",
+      lat: 64.1466,
+      lon: -21.9426,
+      url: "{{ '/keegan-itinerary/reykjavík/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY"
+    },
+    {
       name: "London",
       country: "gb",
       leg: "europe",
