@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Andrew Blakemore is a biomedical engineer whose work spans manufacturing-focused projects and hands-on clinical engineering experience. This site documents custom-built prototypes and real-world troubleshooting, as well as global travel centered around the role of prosthetics in everyday life."
+excerpt: "Andrew Blakemore is a biomedical engineer whose work spans manufacturing-focused projects and hands-on clinical engineering experience. This site documents custom-built prototypes and real-world troubleshooting, as well as a global study centered around the role of prosthetics in everyday life."
 
 feature_row:
   - image_path: assets/img/lamp.jpg
