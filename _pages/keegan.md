@@ -80,7 +80,7 @@ author_profile: false
       leg: "europe",
       lat: 64.1466,
       lon: -21.9426,
-      url: "{{ '/keegan-itinerary/reykjavík/' | relative_url }}",
+      url: "{{ '/keegan-itinerary/reykjavik/' | relative_url }}",
       summary: "DD/MM/YYYY - DD/MM/YYYY",
       route: true,
       current: false
