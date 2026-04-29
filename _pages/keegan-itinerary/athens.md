@@ -2,8 +2,8 @@
 title: "Athens"
 permalink: /keegan-itinerary/athens/
 layout: single
-author_profile: false
 classes: wide
+author_profile: false
 header:
   image: /assets/img/athens-cover.jpg
 ---
