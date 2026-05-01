@@ -71,15 +71,15 @@ Maintaining these regions ensured the final design remained functional after opt
 
 ### Load Cases
 
-Five physically meaningful load cases were defined:
+Six physically meaningful load cases were defined:
 
 | Force Name        | Magnitude | Location Applied | Rationale |
 |-------------------|----------|------------------|----------|
 | Rider Weight      | 800 N        | Axle           | Represents vertical load from rider |
 | Motor Weight      | 9.61 N       | Motor Mount    | Represents vertical load from motor |
 | Motor Torque      | 8000 N-mm    | Motor Mount    | Simulates propulsion through belt drive |
-| Lateral Load      | 600 N        | Axle           | Represents turning/carving forces |
-| Braking Force     | 600 N        | Axle           | Simulates deceleration forces during braking |
+| Lateral Load      | 600 N        | Axle           | Represents turning forces |
+| Braking Force     | 600 N        | Axle           | Represents deceleration forces during braking |
 | Curb Strike Force | 2000 N       | Axle           | Simulates propulsion through curb collision |
 
 Loads were designed to reflect realistic riding conditions.
