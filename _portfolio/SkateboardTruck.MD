@@ -138,7 +138,7 @@ The truck hanger was originally intended to be fabricated using **nylon powder b
 - Produces **uniform strength in all directions**  
 - Accurately captures complex internal geometries  
 
-However, due to **equipment constraints**, the prototype was instead fabricated out of PLA using **filament fabrication** on a **Bambu H2C**  
+However, due to **equipment constraints**, the prototype was instead fabricated out of PLA using **filament fabrication** on a **Bambu H2C**. 
 
 <p align="center">
   <img src="/assets/img/hanger-print-bed.jpg" width="400">
@@ -169,20 +169,10 @@ The printed hanger was assembled into the longboard system to verify the fit of 
 </p>
 
 <p align="center">
-  <img src="/assets/img/motor-rotate-gif.gif" width="400">
+  <img src="/assets/img/gear-rotate-gif.gif" width="400">
 </p>
 
 Testing confirmed that the part allowed for adequate **turning clearance** and functional **motor and belt rotation** eith no major interference issues.  
-
----
-
-## Comparison to Original
-
-<p align="center">
-  <img src="/assets/img/prototype-hanger-on-skateboard.jpg" width="500">
-</p>
-
-Compared to the original hanger, the generative design reduced unnecessary material, allowed for integration of the motor mount, and produced a more organic, load-driven structure.
 
 ---
 
