@@ -209,6 +209,6 @@ In the automotive industry, similar benefits are targeted in components like sus
 
 ## Conclusion
 
-The generative design skateboard truck hanger demonstrates the potential of computational design tools to create **lightweight, performance-optimized components**. By integrating multiple functions into a single optimized geometry, the design reduces part count and improves structural efficiency.
+Generative design is a powerful tool for producing efficient, lightweight structures in applications where performance and weight are important. However, its usefulness is limited by the accuracy of input assumptions, especially load cases and constraints, meaning that poor setup can lead to impractical or infeasible designs. The resulting geometries can also be difficult to manufacture or modify, and often require advanced fabrication methods such as powder bed fusion to be viable. Additionally, computational cost can be significant. Despite these drawbacks, generative design is most valuable in industries where part consolidation, weight reduction, and optimized load paths provide clear benefits.
 
-Although fabrication was performed using FFF due to constraints, this project highlights the advantages of using **powder-based additive manufacturing** to fabricate complex generative geometries in real-world applications.
+Although fabrication was performed using FFF due to equipment constraints, this project highlights the advantages of using **powder-based additive manufacturing** to fabricate complex generative geometries in real-world applications.
