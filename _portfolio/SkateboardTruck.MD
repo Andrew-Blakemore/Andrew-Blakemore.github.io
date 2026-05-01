@@ -71,7 +71,9 @@ Maintaining these geometries ensured the final design remained functional after 
 
 ### Load Cases
 
-Six meaningful load cases were defined:
+Applying appropriate load cases is important in generative design because the resulting geometry is entirely driven by the forces and constraints applied. If key loads are missing or unrealistic, the design may perform well in simulation but fail under real-world conditions. For this project, the load cases were chosen to represent the primary forces experienced during riding, including vertical rider weight, lateral turning forces, motor torque, braking, and impact from a curb strike.
+
+The forces were estimated using reasonable assumptions based on rider weight, expected usage, and simplified physical models. This process could be improved by incorporating experimental data, dynamic simulations, or more detailed, multi-axis loading conditions. Overall, accurate load definition is necessary because generative design solutions are only as strong as the assumptions used to create them.
 
 | Force Name        |   Magnitude   | Location Applied | Rationale |
 |-------------------|---------------|------------------|----------|
@@ -190,9 +192,11 @@ The combination of generative design and powder bed fusion is especially powerfu
 
 - Weight reduction is critical  
 - Complex geometries are acceptable  
-- Part consolidation reduces assembly complexity  
+- Part consolidation reduces assembly complexity
 
-A well-known example is Airbus’ use of generative design to create lightweight ["bionic partition" structures](https://adsknews.autodesk.com/en/news/autodesk-airbus-generative-design-aerospace-factory/), which significantly reduces aircraft mass while maintaining strength.
+In aerospace applications, this pairing is especially valuable due to rigid requirements for weight reduction and performance efficiency. A well-known example is Airbus’ use of generative design to create lightweight ["bionic partition" structures](https://adsknews.autodesk.com/en/news/autodesk-airbus-generative-design-aerospace-factory/), which significantly reduces aircraft mass while maintaining strength. This design directly improves fuel efficiency and reduces emissions. More broadly, GD + PBF has been used to consolidate multi-part assemblies into single components, simplifying assembly and improving reliability.
+
+In the automotive industry, similar benefits are targeted in components like suspension parts and motor mounts, where reducing unsprung mass or improving stiffness-to-weight ratio can enhance vehicle performance. Generative design enables engineers to tailor material distribution to match expected loads, and powder bed fusion makes it possible to manufacture these optimized forms without redesigning them for manufacturability. This is particularly useful in [high-performance](https://www.divergent3d.com/applications/automotive/) or low-volume applications, such as motorsports or electric vehicles.
 
 ### Limitations
 
