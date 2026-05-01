@@ -74,13 +74,13 @@ Maintaining these regions ensured the final design remained functional after opt
 Five physically meaningful load cases were defined:
 
 | Force Name        | Magnitude | Location Applied | Rationale |
-|------------------|----------|------------------|----------|
-| Rider Weight     | TBD      | Axle             | Represents vertical load from rider |
-| Motor Torque     | TBD      | Motor Mount      | Simulates propulsion through belt drive |
-| Lateral Load     | TBD      | Axle             | Represents turning/carving forces |
-| Braking Force    | TBD      | Axle / Wheel     | Simulates deceleration loads |
-| Additional Load  | TBD      | TBD              | Custom load case |
-| Additional Load  | TBD      | TBD              | Custom load case |
+|-------------------|----------|------------------|----------|
+| Rider Weight      | 800 N        | Axle           | Represents vertical load from rider |
+| Motor Weight      | 9.61 N       | Motor Mount    | Represents vertical load from motor |
+| Motor Torque      | 8000 N-mm    | Motor Mount    | Simulates propulsion through belt drive |
+| Lateral Load      | 600 N        | Axle           | Represents turning/carving forces |
+| Braking Force     | TBD          | Axle / Wheel   | Simulates deceleration loads |
+| Curb Strike Force | 2000 N       | Axle           | Simulates propulsion through curb collision |
 
 Loads were selected to reflect realistic riding conditions and ensure structural validity.
 
@@ -160,7 +160,7 @@ Despite this, the print was sufficient for **fit, assembly, and functional valid
   <img src="/assets/img/printed-truck-attached.jpg" width="350">
 </p>
 
-The printed hanger was assembled into the longboard system to verify the fit of its pivot and kingpin region, motor mount alignment, and clearance for drivetrain components. 
+The printed hanger was assembled into the longboard system to verify the fit of its pivot and kingpin region, motor mount alignment, and clearance for the pulley and belt components. 
 
 ### Motion Validation
 
@@ -172,7 +172,7 @@ The printed hanger was assembled into the longboard system to verify the fit of 
   <img src="/assets/img/gear-rotate-gif.gif" width="400">
 </p>
 
-Testing confirmed that the part allowed for adequate **turning clearance** and functional **motor and belt rotation** eith no major interference issues.  
+Testing confirmed that the part allowed for adequate **turning clearance** and functional **motor and belt rotation** with no major interference issues.  
 
 ---
 
