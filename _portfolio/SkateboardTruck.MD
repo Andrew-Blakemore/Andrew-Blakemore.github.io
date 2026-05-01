@@ -10,8 +10,8 @@ toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
 ---
-
 ## Project Overview
+{: .visually-hidden }
 
 This project explores the use of **generative design** to develop a lightweight skateboard truck hanger with an integrated motor mount for an electric longboard. The goal was to consolidate multiple functional components into a single, optimized structure capable of withstanding realistic loads while minimizing mass.
 
@@ -27,10 +27,6 @@ In a conventional setup:
 - The hanger is typically **cast aluminum**
 - The axle is a **press-fit steel rod**
 - The motor mount is often a **separate attachment**
-
-<p align="center">
-  <img src="/assets/img/original-hanger-on-skateboard.jpg" width="500">
-</p>
 
 In this project, the hanger and motor mount were combined into a **single generatively designed component**, improving load transfer and reducing part count.
 
@@ -118,7 +114,7 @@ Material properties significantly influence generative outcomes.
   <img src="/assets/img/aluminum-render.PNG" width="400">
 </p>
 
-The aluminum solution produced a more **robust structure**, with thicker members to compensate for lower material strength.
+The aluminum solution produced a more **robust structure** to compensate for lower material strength.
 
 ---
 
