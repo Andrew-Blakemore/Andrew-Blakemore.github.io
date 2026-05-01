@@ -180,9 +180,9 @@ This project demonstrates how generative design can produce components that outp
 
 ### Key Takeaways
 
-- **Load definition is critical**
-- **Material selection strongly influences geometry**  
-- **Manufacturing method affects feasibility and performance**  
+- Load definition is critical
+- Material selection strongly influences geometry  
+- Manufacturing method affects feasibility and performance
 
 ### Generative Design + Powder Bed Fusion
 
