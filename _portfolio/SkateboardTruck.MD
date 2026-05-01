@@ -79,10 +79,10 @@ Five physically meaningful load cases were defined:
 | Motor Weight      | 9.61 N       | Motor Mount    | Represents vertical load from motor |
 | Motor Torque      | 8000 N-mm    | Motor Mount    | Simulates propulsion through belt drive |
 | Lateral Load      | 600 N        | Axle           | Represents turning/carving forces |
-| Braking Force     | TBD          | Axle / Wheel   | Simulates deceleration loads |
+| Braking Force     | 500 N        | Axle           | Simulates deceleration forces during braking |
 | Curb Strike Force | 2000 N       | Axle           | Simulates propulsion through curb collision |
 
-Loads were selected to reflect realistic riding conditions and ensure structural validity.
+Loads were designed to reflect realistic riding conditions.
 
 ---
 
