@@ -192,7 +192,7 @@ The combination of generative design and powder bed fusion is especially powerfu
 - Complex geometries are acceptable  
 - Part consolidation reduces assembly complexity  
 
-A well-known example is Airbus’ use of generative design to create lightweight "bionic partition" structures, which significantly reduces aircraft mass while maintaining strength.
+A well-known example is Airbus’ use of generative design to create lightweight ["bionic partition" structures](https://adsknews.autodesk.com/en/news/autodesk-airbus-generative-design-aerospace-factory/), which significantly reduces aircraft mass while maintaining strength.
 
 ### Limitations
 
