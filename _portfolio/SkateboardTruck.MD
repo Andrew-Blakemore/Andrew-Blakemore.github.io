@@ -126,13 +126,13 @@ The aluminum solution produced a more **robust structure** to compensate for low
   <img src="/assets/img/steel-render.png" width="400">
 </p>
 
-The steel solution resulted in a **thinner geometry**, with less overall volume due to higher material strength.
+The steel solution resulted in a **thinner geometry** with less overall volume due to higher material strength.
 
 ---
 
 ## Fabrication
 
-The part was originally intended to be fabricated using **nylon powder bed fusion (SLS/pSLS)** due to its ability to produce complex geometries without support structures and with isotropic mechanical properties. This process is particularly well-suited for generative design because it:
+The truck hanger was originally intended to be fabricated using **nylon powder bed fusion (pSLS)** due to its ability to produce complex geometries without support structures and with isotropic mechanical properties. This process is particularly well-suited for generative design because it:
 
 - Eliminates the need for support structures  
 - Produces **uniform strength in all directions**  
