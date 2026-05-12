@@ -5,6 +5,6 @@ layout: single
 classes: wide
 author_profile: false
 header:
-  image: /assets/img/nashville-cover.jpg
+  image: /assets/img/keegan/nashville-skyline.jpg
 ---
 Nashville write-up here.
