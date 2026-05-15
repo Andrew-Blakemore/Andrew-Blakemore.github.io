@@ -14,7 +14,7 @@ toc_icon: bars
 ## About Ultrasound Phantoms
 {: .visually-hidden }
 
-Ultrasound phantoms are physical models that replicate human tissue properties for imaging practice, device testing, and training. Commercial phantoms are widely used in medical education, but many cost hundreds to thousands of dollars, limiting accessibility for early learners and low-resource settings.
+Ultrasound phantoms are physical models that replicate human tissue properties for imaging training and device testing. Commercial phantoms are widely used in medical education but may cost hundreds to thousands of dollars, limiting accessibility for early learners and low-resource settings.
 
 Low-cost phantoms have gained traction as an alternative, often using simple materials like gelatin, silicone, or latex to approximate acoustic properties. While many inexpensive designs successfully replicate static anatomy, fewer models capture dynamic physiological motion, which is critical for applications such as cardiac ultrasound training.
 
@@ -29,19 +29,19 @@ The design consisted of:
 - A latex glove chamber acting as a deformable ventricular cavity  
 - Surgical tubing connected to a syringe for manual pulsation  
 - Gelatin as a tissue-mimicking bulk material  
-- Hot glue inclusions to simulate rib shadowing artifacts  
+- Hot glue sticks to simulate rib shadowing artifacts  
 
 This configuration produced a deformable, fluid-filled structure that could be imaged using standard ultrasound systems.
 
 ## Fabrication
 
-The phantom was constructed by tying off the fingers of a latex glove to form a sealed chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was embedded within a gelatin matrix mixed with calcium chloride to improve structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
+The phantom was constructed by tying off the fingers of a latex glove to form a sealed chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was embedded within a gelatin matrix that was mixed with calcium chloride to improve structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
 
 <p align="center">
   <img src="/assets/img/fabrication.jpg" alt="Fabrication of Phantom">
 </p>
 
-The fabrication process required only inexpensive, widely available materials and could be completed in a single session, making it suitable for resource-limited or rapid prototyping environments.
+The fabrication process required only inexpensive, widely available materials and was completed in less than 3 hours, making it suitable for resource-limited or rapid prototyping environments.
 
 <p align="center">
   <img src="/assets/img/tub2.jpg" alt="Completed Phantom">
