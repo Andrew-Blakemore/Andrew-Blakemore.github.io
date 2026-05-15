@@ -57,8 +57,8 @@ where:
 This equation predicts that larger particles will be positioned farther from the wall after separation, while smaller particles remain closer to the wall. Using this relationship, approximate streamline positions were calculated for both target particle size ranges.
 
 These predictions were then used to **determine the placement of outlet boundaries**. Specifically:
-- The **top outlet** was positioned to capture streamlines corresponding to smaller particles  
-- The **middle outlet** was aligned with the region occupied by larger particles  
+- The **top outlet** was aligned to capture smaller particles  
+- The **middle outlet** was aligned to capture larger particles  
 - The **bottom outlet** was reserved for the buffer layer, which contains no particles  
 
 This approach ensured that outlet placement was directly tied to expected flow behavior.
@@ -121,9 +121,9 @@ The selected geometry aimed to strike a compromise:
 |--------------|--------|
 | Device Length | 75 mm |
 | Device Width | 50 mm |
-| Broad Section Length | ≥ 15 mm |
-| Channel Spacing | ≥ 1 mm |
-| Edge Clearance | ≥ 3 mm |
+| Broad Section Length | 15 mm |
+| Channel Spacing | 1 mm |
+| Edge Clearance | 3 mm |
 | Inlet/Outlet Diameter | 2.2 mm |
 
 ---
@@ -138,7 +138,7 @@ The device was fabricated using SLA printing to produce a mold, followed by PDMS
   <img src="/assets/img/Mold_SLA_NO_COVER.jpg" alt="SLA Printed Mold">
 </p>
 
-A FormLabs Form 4 printer was used to create the mold.
+A Formlabs Form 4 printer was used to create the mold.
 
 ### Washing
 
@@ -154,7 +154,7 @@ After printing, the mold was washed in isopropyl alcohol to remove uncured resin
   <img src="/assets/img/Mold_Dry.jpg" alt="Mold Drying">
 </p>
 
-The mold was then dried to prevent contamination and ensure proper curing.
+The mold was dried to prevent contamination and ensure proper curing.
 
 ### UV Curing
 
