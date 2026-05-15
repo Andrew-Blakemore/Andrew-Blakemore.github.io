@@ -26,7 +26,7 @@ The goal of this project was to design and fabricate a microfluidic device capab
 - **Small particles:** 125–150 μm  
 - **Large particles:** 425–500 μm
 
-The device was produced by using SLA resin printing to create a mold, followed by PDMS casting and bonding to a glass substrate.
+The device was produced using SLA resin printing to create a mold, followed by PDMS casting and bonding to a glass substrate.
 
 The core geometry of the device includes:
 - Two inlet streams (particle-containing flow and buffer flow)
