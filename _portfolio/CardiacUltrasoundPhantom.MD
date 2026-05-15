@@ -67,11 +67,11 @@ Manual syringe actuation produced visible cyclic deformation of the chamber, ena
 
 ## Discussion
 
-This phantom demonstrates that meaningful dynamic ultrasound training tools can be produced at extremely low cost. While the model does not replicate full cardiac anatomy or physiological motion, it provides an accessible platform for introducing learners to key imaging concepts such as chamber identification, probe positioning, and motion interpretation.
+This phantom demonstrates that effective dynamic ultrasound training tools can be produced at extremely low cost. While the model does not replicate full cardiac anatomy or physiological motion, it provides an accessible platform for introducing students to key imaging concepts such as chamber identification and probe positioning.
 
-Several limitations remain, including simplified geometry, manual actuation, and limited anatomical fidelity. Future iterations could improve realism through:
+Future iterations could improve realism in this design through:
 
-- Motorized or pneumatic actuation for repeatable pulsation  
+- Motorized or pneumatic actuation for automated pulsation  
 - Multi-chamber designs for anatomical accuracy  
 - Improved tissue-mimicking materials for acoustic fidelity  
 
