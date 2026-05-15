@@ -109,7 +109,7 @@ The selected geometry aimed to strike a compromise:
 - Enough flow to reliably transport particles into their designated outlets  
 
 ---
-## CAD Model
+## Interactive CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811bbca4690918d996a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
