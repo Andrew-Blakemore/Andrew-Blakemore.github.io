@@ -23,8 +23,8 @@ Compared to traditional filtration methods, PFF runs more reliably with less ris
 ## Design Overview
 
 The goal of this project was to design and fabricate a microfluidic device capable of separating particles into two size ranges:
-- **Small particles:** 125–150 μm  
-- **Large particles:** 425–500 μm
+- Small particles: 125–150 μm  
+- Large particles: 425–500 μm
 
 The device was produced using SLA resin printing to create a mold, followed by PDMS casting and bonding to a glass substrate.
 
@@ -56,10 +56,10 @@ where:
 
 This equation predicts that larger particles will be positioned farther from the wall after separation, while smaller particles remain closer to the wall. Using this relationship, approximate streamline positions were calculated for both target particle size ranges.
 
-These predictions were then used to **determine the placement of outlet boundaries**. Specifically:
-- The **top outlet** was aligned to capture smaller particles  
-- The **middle outlet** was aligned to capture larger particles  
-- The **bottom outlet** was reserved for the buffer layer, which contains no particles  
+These predictions were then used to determine the placement of outlet boundaries. Specifically:
+- The top outlet was aligned to capture smaller particles  
+- The middle outlet was aligned to capture larger particles  
+- The bottom outlet was reserved for the buffer layer, which contains no particles  
 
 This approach ensured that outlet placement was directly tied to expected flow behavior.
 
@@ -69,9 +69,9 @@ This approach ensured that outlet placement was directly tied to expected flow b
 
 The outlet widths were selected to achieve an approximate flow distribution of:
 
-- **20.5% → Small particle outlet (top)**
-- **25% → Large particle outlet (middle)**
-- **54.5% → Buffer outlet (bottom)**
+- 20.5% → Small particle outlet (top)
+- 25% → Large particle outlet (middle)
+- 54.5% → Buffer outlet (bottom)
 
 This distribution reflects the physical reality of pinch-flow systems, where the buffer stream occupies a larger portion of the channel and must carry the majority of the volumetric flow.
 
@@ -85,10 +85,10 @@ Q = ΔP / R<sub>h</sub>
 
 where R<sub>h</sub> is hydraulic resistance.
 
-For rectangular microchannels, resistance scales proportionally with channel length and inversely with channel width. Thus, to regulate flow into the particle outlets, both were designed to have **higher hydraulic resistance** than the buffer outlet by making them:
-- **Longer**
-- **Narrower**
-- **Serpentine in shape**
+For rectangular microchannels, resistance scales proportionally with channel length and inversely with channel width. Thus, to regulate flow into the particle outlets, both were designed to have higher hydraulic resistance than the buffer outlet by making them:
+- Longer
+- Narrower
+- Serpentine in shape
 
 The serpentine geometry increased channel length and channel resistance, helping to prevent excessive flow through the particle outlets and instead divert more flow towards the buffer outlet.
 
@@ -98,10 +98,10 @@ The serpentine geometry increased channel length and channel resistance, helping
 
 The outlet design represented a balance between competing requirements:
 
-- **Too little resistance in particle outlets**  
+- Too little resistance in particle outlets
   → Excess flow enters these channels, blurring separation  
 
-- **Too much resistance in particle outlets**  
+- Too much resistance in particle outlets
   → Flow is diverted away, potentially pushing particles into incorrect outlets  
 
 The selected geometry aimed to strike a compromise:
