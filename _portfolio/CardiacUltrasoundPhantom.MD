@@ -22,7 +22,7 @@ This project explores the design of a low-cost cardiac ultrasound phantom capabl
 
 ## Design Overview
 
-The phantom was inspired by prior <$10 training models and adapted to better represent cardiac motion. The core concept was to create a fluid-filled chamber embedded in a tissue-mimicking medium that could be manually actuated to simulate contraction and relaxation.
+The phantom was inspired by prior <$10 training models and adapted to better represent cardiac motion. The core concept involved creating a fluid-filled chamber embedded in a tissue-mimicking medium that could be manually actuated to simulate contraction and relaxation.
 
 The design consisted of:
 
@@ -35,13 +35,13 @@ This configuration produced a deformable, fluid-filled structure that could be i
 
 ## Fabrication
 
-The phantom was constructed by tying off the fingers of a latex glove to form a sealed chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was embedded within a gelatin matrix that was mixed with calcium chloride to improve structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
+The phantom was constructed by tying off the fingers of a latex glove to form a sealed chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was placed in a plastic container with glue sticks attached to one side, which was then filled with gelatin that had been mixed with calcium chloride for improved structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
 
 <p align="center">
   <img src="/assets/img/fabrication.jpg" alt="Fabrication of Phantom">
 </p>
 
-The fabrication process required only inexpensive, widely available materials and was completed in less than 3 hours, making it suitable for resource-limited or rapid prototyping environments.
+The fabrication process required only inexpensive, widely available materials and was completed in less than 3 hours, making it suitable for resource-limited environments.
 
 <p align="center">
   <img src="/assets/img/tub2.jpg" alt="Completed Phantom">
