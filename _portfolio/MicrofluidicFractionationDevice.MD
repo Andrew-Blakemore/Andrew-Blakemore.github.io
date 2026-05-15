@@ -174,7 +174,7 @@ The completed mold shows clean channel features suitable for PDMS casting.
 
 ---
 
-## PDMS Casting & Device Assembly
+## Device Assembly
 
 <p align="center">
   <img src="/assets/img/fluiidics_device_final.jpg" alt="Finished Device">
@@ -201,7 +201,7 @@ However, insufficient separation distance before the outlet junctions, combined 
 
 ---
 
-## Future Direction: Enhanced Pinch-Flow Fractionation
+## Future Direction
 
 The device needs to be redesigned to utilize an **enhanced pinch-flow fractionation (EPFF)** approach. This method introduces a modified broadening region with a structured geometry that selectively expands the portion of the flow containing particles.
 
