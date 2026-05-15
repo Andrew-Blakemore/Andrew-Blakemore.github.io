@@ -211,9 +211,9 @@ This approach directly addresses the primary limitation observed in the current 
 
 ---
 
-## Video Demonstration
+## Pinched Flow Fractionation Video
 
-The following video demonstrates a functional EPFF device, which serves as a reference for future iterations of my design.
+This EPFF device serves as a reference for future iterations of my design:
 
 <p align="center">
   <video width="640" controls>
