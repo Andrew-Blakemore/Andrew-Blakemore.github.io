@@ -27,11 +27,11 @@ The goal of this project was to design a phone holder that could be attached to 
 
 ## Design Requirements
 
-The test handlebars had a 25.4 mm clamp diameter and a 22.2 mm grip diameter, and the phone holder could be mounted on either section. The design needed to be compatible with a range of phone sizes, attach quickly without separate tools, and remain stable under road vibration. It also needed to use a detent mechanism with enough holding force to prevent accidental rotation while still allowing the phone to move deliberately between orientations. 
+The test handlebars had a 25.4 mm clamp diameter and a 22.2 mm grip diameter; the phone holder needed to be able to mount on either width. The design had to be compatible with a range of phone sizes and attach quickly without separate tools. It also needed to use a detent mechanism with enough holding force to permit deliberate rotation while preventing accidental rotation. 
 
 ## Design Approach
 
-A handlebar component was created and anchored as the initial fixed reference. From there, the mount, rotating cradle, and phone-retaining features were modeled as separate components.
+The handlebar component was created and anchored as the initial fixed reference. From there, the mount, rotating cradle, and phone-retaining features were modeled as separate components.
 
 Projected geometry was used selectively to maintain alignment between the phone, the mount, and the rotation mechanism. Because projected references can break when upstream geometry changes, the final model was cleaned up to preserve a stable parametric structure. This kept the CAD tree organized and reduced the risk of broken dependencies during later revisions.
 
