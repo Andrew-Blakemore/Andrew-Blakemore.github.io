@@ -21,8 +21,8 @@ author_profile: false
   <button type="button" class="filter-btn active" data-filter="all">All</button>
   <button type="button" class="filter-btn" data-filter="portraits">Portraits</button>
   <button type="button" class="filter-btn" data-filter="abstract">Abstracts</button>
-  <button type="button" class="filter-btn" data-filter="animals">Animals</button>
   <button type="button" class="filter-btn" data-filter="cars">Cars</button>
+  <button type="button" class="filter-btn" data-filter="grad">Graduation</button>
 </div>
 
 <div class="custom-divider"></div>
