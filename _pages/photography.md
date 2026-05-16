@@ -29,18 +29,13 @@ author_profile: false
 
 <div class="gallery">
   {% for photo in site.data.photography %}
-    <a href="{{ photo.src }}" class="glightbox reveal gallery-item" data-category="{{ photo.category | default: '' | strip | downcase }}">
+    <a href="{{ photo.src }}" class="reveal gallery-item" data-category="{{ photo.category | default: '' | strip | downcase }}">
       <img src="{{ photo.src }}" alt="{{ photo.title }}">
     </a>
   {% endfor %}
 </div>
 
-<link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
-
 <script>
-  const lightbox = GLightbox();
-
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
