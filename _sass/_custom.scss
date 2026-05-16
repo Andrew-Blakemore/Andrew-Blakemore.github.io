@@ -85,6 +85,13 @@
   color: #222;
 }
 
+.custom-page .filter-btn:focus,
+.custom-page .filter-btn:active,
+.custom-page .filter-btn:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
 .custom-page .gallery-item {
   display: inline-block;
   width: 100%;
