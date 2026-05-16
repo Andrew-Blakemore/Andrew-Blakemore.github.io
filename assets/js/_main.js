@@ -81,13 +81,16 @@ $(function() {
     });
   }
 
-  // add lightbox class to all image links
-  $(
-    "a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif'],a[href$='.webp']"
-  ).has("> img").addClass("image-popup");
+// add lightbox class to all image links, except ones already handled by GLightbox
+$(
+  "a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif'],a[href$='.webp']"
+)
+  .has("> img")
+  .not(".glightbox")
+  .addClass("image-popup");
 
-  // Magnific-Popup options
-  $(".image-popup").magnificPopup({
+// Magnific-Popup options
+$(".image-popup").magnificPopup({
     // disableOn: function() {
     //   if( $(window).width() < 500 ) {
     //     return false;
