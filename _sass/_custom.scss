@@ -135,15 +135,24 @@
   }
 }
 
-/* Magnific Popup background */
+/* ==============
+   Magnific Popup
+   ============== */
+
 .mfp-bg {
   background: #000 !important;
   opacity: 0.92 !important;
 }
 
-/* Optional: make image area darker too */
 .mfp-wrap {
   background: rgba(0, 0, 0, 0.95);
+}
+
+.mfp-close:focus,
+.mfp-close:active,
+.mfp-close:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
 }
 
 /* =========================
