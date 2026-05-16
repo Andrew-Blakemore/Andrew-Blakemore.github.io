@@ -81,13 +81,10 @@ $(function() {
     });
   }
 
-// add lightbox class to all image links, except ones already handled by GLightbox
+// add lightbox class to all image links
 $(
   "a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif'],a[href$='.webp']"
-)
-  .has("> img")
-  .not(".glightbox")
-  .addClass("image-popup");
+).has("> img").addClass("image-popup");
 
 // Magnific-Popup options
 $(".image-popup").magnificPopup({
