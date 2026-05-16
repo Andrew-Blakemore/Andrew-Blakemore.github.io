@@ -49,7 +49,7 @@ author_profile: false
 
 <!-- Short stops along the route included: Brussels, Vienna, and Dubrovnik. -->
 
-<div id="keegan-index" class="keegan-index"></div>
+<div id="keegan-index" class="keegan-index keegan-reveal"></div>
 
 <script>
   window.keeganStops = [
@@ -121,7 +121,7 @@ author_profile: false
   ];
 </script>
 
-<div class="keegan-blog-cta">
+<div class="keegan-blog-cta keegan-reveal">
   <a href="https://substack.com/@prostheticenthusiast" class="keegan-blog-button">
     Follow the Journey →
   </a>
@@ -129,3 +129,16 @@ author_profile: false
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="{{ '/assets/js/keegan-map.js' | relative_url }}"></script>
+
+<script>
+  const keeganObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('is-visible');
+        keeganObserver.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.12 });
+
+  document.querySelectorAll('.keegan-reveal').forEach(el => keeganObserver.observe(el));
+</script>
