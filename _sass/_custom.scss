@@ -120,15 +120,9 @@
 
 .custom-page .gallery img {
   width: 100%;
-  aspect-ratio: 3 / 4;
-  object-fit: cover;
-
   margin-bottom: 1rem;
   border-radius: 0;
   display: block;
-
-  background: #f3f3f3;
-
   transition: transform 0.2s ease;
 }
 
