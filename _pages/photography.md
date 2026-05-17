@@ -21,16 +21,27 @@ author_profile: false
   <button type="button" class="filter-btn active" data-filter="all">All</button>
   <button type="button" class="filter-btn" data-filter="portraits">Portraits</button>
   <button type="button" class="filter-btn" data-filter="abstract">Abstracts</button>
+  <button type="button" class="filter-btn" data-filter="animals">Animals</button>
   <button type="button" class="filter-btn" data-filter="cars">Cars</button>
-  <button type="button" class="filter-btn" data-filter="grad">Graduation</button>
 </div>
 
 <div class="custom-divider"></div>
 
 <div class="gallery">
   {% for photo in site.data.photography %}
-    <a href="{{ photo.src }}" class="reveal gallery-item" data-category="{{ photo.category | default: '' | strip | downcase }}">
-      <img src="{{ photo.src }}" alt="{{ photo.title }}">
+    <a
+      href="{{ photo.src }}"
+      class="reveal gallery-item"
+      data-category="{{ photo.category | default: '' | strip | downcase }}"
+    >
+      <img
+        src="{{ photo.src }}"
+        alt="{{ photo.title }}"
+        width="{{ photo.width }}"
+        height="{{ photo.height }}"
+        loading="lazy"
+        decoding="async"
+      >
     </a>
   {% endfor %}
 </div>
@@ -56,6 +67,7 @@ author_profile: false
 
       buttons.forEach(btn => btn.classList.remove('active'));
       button.classList.add('active');
+      button.blur();
 
       items.forEach(item => {
         const category = (item.dataset.category || '').trim().toLowerCase();
