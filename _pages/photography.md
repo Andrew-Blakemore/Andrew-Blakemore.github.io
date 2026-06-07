@@ -33,6 +33,7 @@ author_profile: false
       href="{{ photo.src }}"
       class="reveal gallery-item"
       data-category="{{ photo.category | default: '' | strip | downcase }}"
+      data-featured="{{ photo.featured }}"
     >
       <img
         src="{{ photo.src }}"
@@ -71,7 +72,16 @@ author_profile: false
 
       items.forEach(item => {
         const category = (item.dataset.category || '').trim().toLowerCase();
-        const show = filter === 'all' || category === filter;
+        const featured = item.dataset.featured === 'true';
+
+        let show = false;
+
+        if (filter === 'all') {
+          show = featured;
+        } else {
+          show = category === filter;
+        }
+
         item.style.display = show ? 'inline-block' : 'none';
       });
     });
