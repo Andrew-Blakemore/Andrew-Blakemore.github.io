@@ -62,28 +62,37 @@ author_profile: false
   const buttons = document.querySelectorAll('.filter-btn');
   const items = document.querySelectorAll('.gallery-item');
 
+  function applyFilter(filter) {
+    buttons.forEach(btn => btn.classList.remove('active'));
+
+    const activeButton = document.querySelector(`.filter-btn[data-filter="${filter}"]`);
+    if (activeButton) {
+      activeButton.classList.add('active');
+    }
+
+    items.forEach(item => {
+      const category = (item.dataset.category || '').trim().toLowerCase();
+      const featured = item.dataset.featured === 'true';
+
+      let show = false;
+
+      if (filter === 'all') {
+        show = featured;
+      } else {
+        show = category === filter;
+      }
+
+      item.style.display = show ? 'inline-block' : 'none';
+    });
+  }
+
   buttons.forEach(button => {
     button.addEventListener('click', () => {
       const filter = button.dataset.filter.trim().toLowerCase();
-
-      buttons.forEach(btn => btn.classList.remove('active'));
-      button.classList.add('active');
+      applyFilter(filter);
       button.blur();
-
-      items.forEach(item => {
-        const category = (item.dataset.category || '').trim().toLowerCase();
-        const featured = item.dataset.featured === 'true';
-
-        let show = false;
-
-        if (filter === 'all') {
-          show = featured;
-        } else {
-          show = category === filter;
-        }
-
-        item.style.display = show ? 'inline-block' : 'none';
-      });
     });
   });
+
+  applyFilter('all');
 </script>
