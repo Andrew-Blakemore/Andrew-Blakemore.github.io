@@ -14,15 +14,15 @@ author_profile: false
 
 <div class="custom-intro">
   <p>
-    As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend a year abroad exploring how prosthetics fit into everyday life across different parts of the world.
+    As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend a year abroad exploring how prosthetics impact everyday life in communities throughout the world.
   </p>
 
   <p>
-    Along the way, I’ll connect with engineers, clinicians, and researchers to understand how these technologies are designed; but more importantly, I’ll learn from prosthetic users about how they actually live with them. Through photography and storytelling, I’ll document moments of work, creativity, and daily life that often go unseen.
+    Along the way, I’ll connect with engineers, clinicians, and researchers to understand how these technologies are designed and implemented; but more importantly, I’ll learn from prosthetic users about how they actually live with them. Through photography and storytelling, I’ll document moments of daily life that often go unseen.
   </p>
 
   <p>
-    This site is a place to follow each stop of that journey, as I explore how prosthetics shape independence, identity, and connection around the globe.
+    Join me as I explore how prosthetics shape independence, identity, and connection around the globe!
   </p>
 </div>
 
