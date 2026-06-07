@@ -331,7 +331,7 @@
 - src: /assets/img/photography/CH_Kirkland_1.jpg
   title: CH_Kirkland_1
   category: graduation
-  featured: false
+  featured: true
   width: 3903
   height: 5855
 - src: /assets/img/photography/CH_Kirkland_2.jpg
@@ -367,7 +367,7 @@
 - src: /assets/img/photography/EH_Kirkland_2.jpg
   title: EH_Kirkland_2
   category: graduation
-  featured: false
+  featured: true
   width: 3599
   height: 4499
 - src: /assets/img/photography/EH_Kirkland_3.jpg
@@ -403,7 +403,7 @@
 - src: /assets/img/photography/CH_EH_Kirkland_1.jpg
   title: CH_EH_Kirkland_1
   category: graduation
-  featured: false
+  featured: true
   width: 3772
   height: 4715
 - src: /assets/img/photography/CH_EH_Kirkland_2.jpg
@@ -469,7 +469,7 @@
 - src: /assets/img/photography/CH_Wyatt_9.jpg
   title: CH_Wyatt_9
   category: graduation
-  featured: false
+  featured: true
   width: 4000
   height: 5000
 - src: /assets/img/photography/EH_Wyatt_1.jpg
@@ -502,22 +502,10 @@
   featured: false
   width: 3583
   height: 5374
-- src: /assets/img/photography/MT_EndSchoolZone_BW.jpg
-  title: MT_EndSchoolZone_BW
-  category: graduation
-  featured: false
-  width: 3937
-  height: 5906
-- src: /assets/img/photography/MT_HankIngram.jpg
-  title: MT_HankIngram
-  category: graduation
-  featured: false
-  width: 3591
-  height: 5386
 - src: /assets/img/photography/MT_KirklandSideSteps.jpg
   title: MT_KirklandSideSteps
   category: graduation
-  featured: false
+  featured: true
   width: 3972
   height: 5958
 - src: /assets/img/photography/MT_KirklandSteps.jpg
@@ -550,3 +538,15 @@
   featured: false
   width: 3985
   height: 5977
+- src: /assets/img/photography/MT_HankIngram.jpg
+  title: MT_HankIngram
+  category: graduation
+  featured: false
+  width: 3591
+  height: 5386
+- src: /assets/img/photography/MT_EndSchoolZone_BW.jpg
+  title: MT_EndSchoolZone_BW
+  category: graduation
+  featured: true
+  width: 3937
+  height: 5906
