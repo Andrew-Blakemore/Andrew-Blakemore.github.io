@@ -8,9 +8,9 @@ I'm a biomedical engineer with a background rooted in clinical technology and re
 
 ## Education
 
-* Vanderbilt University (May 2026)
-  * B.Eng. in Biomedical Engineering, *cum laude*
-  * Minor in Digital Fabrication
+Vanderbilt University (May 2026)
+- B.Eng. in Biomedical Engineering, *cum laude*
+- Minor in Digital Fabrication
 
 ## Work Experience
 
