@@ -26,28 +26,28 @@ This site is a collection of the projects and experiences that have shaped my jo
 **Biomedical Technician Intern**<br>
 *Project C.U.R.E. — Nashville, TN*<br>
 *May 2025 – Jan 2026*
-- Tested, troubleshot, and refurbished medical devices including ICU monitors, imaging equipment, infusion pumps, ventilators, and endoscopy systems
-- Conducted electrical diagnostics, calibration, and preventive maintenance to ensure device safety and reliability
-- Evaluated device usability and performance for deployment in resource-limited healthcare settings
+- Tested, troubleshot, and refurbished medical devices including ICU monitors, imaging equipment, infusion pumps, ventilators, and endoscopy systems.
+- Conducted electrical diagnostics, calibration, and preventive maintenance to ensure device safety and reliability.
+- Evaluated device usability and performance for deployment in resource-limited healthcare settings.
 
 **Systems Engineering Intern**<br>
 *Oak Ridge National Laboratory — Oak Ridge, TN*<br>
 *May 2022 – Jul 2022*
-- Assembled and aligned precision detector hardware for the Nab particle physics experiment
-- Supported system integration, testing, and documentation in collaboration with electrical and data acquisition teams
-- Assisted in troubleshooting hardware issues during subsystem validation
+- Assembled and aligned precision detector hardware for the Nab particle physics experiment.
+- Supported system integration, testing, and documentation in collaboration with electrical and data acquisition teams.
+- Assisted in troubleshooting hardware issues during subsystem validation.
 
 **Undergraduate Research Assistant**<br>
 *Brigham Young University — Adams Lab — Provo, UT*<br>
 *Dec 2021 – Aug 2023*
-- [Presented research at the Scientific Committee for Antarctic Research symposium](/assets/files/SCAR_Presentation.pdf) in Christchurch, NZ
-- Designed and executed laboratory experiments studying competitive exclusion in nematode communities, including sample processing, data collection, and protocol development
-- Developed standardized workflows and documentation to improve experimental efficiency
-- Trained and supported laboratory members in established procedures and techniques
+- [Presented research at the Scientific Committee for Antarctic Research symposium](/assets/files/SCAR_Presentation.pdf) in Christchurch, NZ.
+- Designed and executed laboratory experiments studying competitive exclusion in nematode communities, including sample processing, data collection, and protocol development.
+- Developed standardized workflows and documentation to improve experimental efficiency.
+- Trained and supported laboratory members in established procedures and techniques.
 
 ## Technical Skills
 
-Andrew has experience designing and fabricating parts using manufacturing tools and additive manufacturing workflows. His technical skill set includes:
+I have experience designing and fabricating parts using manufacturing tools and additive manufacturing workflows. My technical skill set includes:
 
 * CAD modeling for fabrication (SolidWorks, Fusion)
 * 3D Printing (FFF/SLA/SLS)
