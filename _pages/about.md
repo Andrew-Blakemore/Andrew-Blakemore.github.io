@@ -4,7 +4,7 @@ title: "About Andrew Blakemore"
 
 ---
 
-I'm a biomedical engineer with a background in medical technology and research. My interests range from engineering design and prototyping to photography and travel.
+I'm a biomedical engineer with a background in clinical technology and research. My interests range from medical device design and prototyping to photography and travel.
 
 This site is a collection of the projects and experiences that have shaped my journey so far.
 
