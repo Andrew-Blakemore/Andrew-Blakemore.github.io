@@ -6,4 +6,4 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 ---
-Selected projects in design and prototyping:
+Selected projects:
