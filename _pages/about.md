@@ -8,8 +8,6 @@ I'm a biomedical engineer with a background in medical technology and research. 
 
 This site is a collection of the projects and experiences that have shaped my journey so far.
 
----
-
 ## Education
 
 * Vanderbilt University
