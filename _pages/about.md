@@ -4,13 +4,13 @@ title: "About Andrew Blakemore"
 
 ---
 
-I'm a biomedical engineer with a background in clinical technology and research. My interests range from medical device design and prototyping to photography and travel.
+I'm a biomedical engineer with a background rooted in clinical technology and research. My interests range from medical device design and prototyping to photography and travel.
 
 ## Education
 
-* Vanderbilt University
-  * B.Eng. in Biomedical Engineering
-  * Minor in Digital Fabrication
+* Vanderbilt University (May 2026)
+  * B.Eng. in Biomedical Engineering (*cum laude*)
+   * Minor in Digital Fabrication
 
 ## Work Experience
 
