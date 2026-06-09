@@ -1,14 +1,14 @@
 ---
-title: "Design, Iterate, Understand"
+title: "At the Intersection of Design and Discovery"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/img/print-bed.jpg
   actions:
-    - label: "My Projects"
+    - label: "My Engineering Projects"
       url: "/portfolio/"
-excerpt: "Andrew Blakemore is a biomedical engineer whose work spans manufacturing-focused projects and hands-on clinical engineering experience. This site documents custom-built prototypes and real-world troubleshooting, as well as a global study centered around the role of prosthetics in everyday life."
+excerpt: "Andrew Blakemore is a biomedical engineer with experience in medical device design, additive manufacturing, and clinical technology. He is also an avid photographer with a passion for documenting human stories. This site showcases engineering projects, photography, and a global study exploring the role of prosthetics in everyday life."
 
 feature_row:
   - image_path: assets/img/lamp.jpg
