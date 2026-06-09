@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Engineering Projects"
       url: "/portfolio/"
-excerpt: "Andrew Blakemore is a biomedical engineer with experience in clinical technology and additive manufacturing. He is also an avid photographer with a passion for documenting human stories. This site showcases engineering projects, photography, and a global study exploring the role of prosthetics in everyday life."
+excerpt: "Andrew Blakemore is a biomedical engineer with experience in clinical devices and additive manufacturing. He is also an avid photographer with a passion for documenting human stories. This site showcases engineering projects, photography, and a global study exploring the role of prosthetics in everyday life."
 
 feature_row:
   - image_path: assets/img/lamp.jpg
