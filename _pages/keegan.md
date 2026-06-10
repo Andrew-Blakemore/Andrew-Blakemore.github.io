@@ -26,7 +26,7 @@ author_profile: false
   </p>
 
   <p>
-    Join me as I explore how prosthetics shape independence, identity, and connection around the globe!
+    Follow along as I explore how prosthetics shape independence, identity, and connection around the globe.
   </p>
 </div>
 
