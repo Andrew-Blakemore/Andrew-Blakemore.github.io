@@ -1,6 +1,6 @@
 ---
 title: "Keegan Traveling Fellow"
-excerpt: "An interactive map of places visited, with linked destination pages and a simple travel path."
+excerpt: "An interactive map of cities visited, with linked destination pages and a basic travel path."
 permalink: /keegan-traveling-fellowship/
 classes: wide custom-page
 layout: single
@@ -18,7 +18,11 @@ author_profile: false
   </p>
 
   <p>
-    Along the way, I’ll connect with engineers, clinicians, and researchers to understand how these technologies are designed and implemented; but more importantly, I’ll learn from prosthetic users about how they actually live with them. Through photography and storytelling, I’ll document moments of daily life that often go unseen.
+    Along the way, I’ll connect with engineers, researchers, and clinicians to understand how these technologies are designed, as well as prosthetic users to learn how prostheses affect their way of life. Through photography and storytelling, I’ll document moments of daily life that often go unseen.
+  </p>
+
+  <p>
+    As part of my project, I am compiling an open-access Global Prosthetics Atlas that contains data from dozens of countries and interviews with prosthetic users, clinicians, engineers, and researchers across four continents.
   </p>
 
   <p>
