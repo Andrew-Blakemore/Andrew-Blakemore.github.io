@@ -6,7 +6,9 @@ classes: wide custom-page
 author_profile: false
 ---
 
-<div class="custom-intro">
+<div class="custom-hero" style="background-image: url('/assets/img/photography-hero.jpg');">
+  <div class="custom-hero__overlay">
+    <div class="custom-hero__text">
   <p>
     I began practicing photography in the summer of 2022, drawn to its ability to capture emotion and tell stories through a single image. After building a technical foundation through an introductory photography class at BYU, I developed a deeper interest in visual storytelling and creative expression.
   </p>
