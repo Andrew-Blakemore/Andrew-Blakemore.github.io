@@ -256,10 +256,10 @@
 }
 
 /* =========================
-   Keegan Hero Section
+   Custom Hero Section
    ========================= */
 
-.keegan-hero {
+.custom-hero {
   width: 100vw;
   margin-left: calc(50% - 50vw);
 
@@ -273,7 +273,7 @@
   position: relative;
 }
 
-.keegan-hero__overlay {
+.custom-hero__overlay {
   min-height: 70vh;
 
   display: flex;
@@ -285,7 +285,7 @@
   background: rgba(0, 0, 0, 0.55);
 }
 
-.keegan-hero__text {
+.custom-hero__text {
   max-width: 1000px;
 
   color: #fff;
@@ -295,16 +295,16 @@
   line-height: 1.4;
 }
 
-.keegan-hero__text p {
+.custom-hero__text p {
   margin-bottom: 1.5rem;
 }
 
-.keegan-hero__text p:last-child {
+.custom-hero__text p:last-child {
   margin-bottom: 0;
 }
 
-.keegan-hero__text a,
-.keegan-hero__text a:visited {
+.custom-hero__text a,
+.custom-hero__text a:visited {
   color: #fff;
   text-decoration: underline;
 }
