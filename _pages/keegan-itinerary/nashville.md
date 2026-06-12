@@ -1,5 +1,5 @@
 ---
-title: "Nashville, United States"
+title: "Nashville, Tennessee, United States"
 permalink: /keegan-itinerary/nashville/
 layout: single
 classes: wide
