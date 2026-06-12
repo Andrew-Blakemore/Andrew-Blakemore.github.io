@@ -116,12 +116,89 @@ author_profile: false
       current: false
     },
     {
+      name: "Rzeszów",
+      country: "pl",
+      leg: "europe",
+      lat: 50.0413,
+      lon: 21.9990,
+      url: "{{ '/keegan-itinerary/rzeszow/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
+    },
+    {
+      name: "Istanbul",
+      country: "tr",
+      leg: "europe",
+      lat: 41.0082,
+      lon: 28.9784,
+      url: "{{ '/keegan-itinerary/istanbul/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
+    },
+    {
       name: "Athens",
       country: "gr",
       leg: "europe",
       lat: 37.9838,
       lon: 23.7275,
       url: "{{ '/keegan-itinerary/athens/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
+    },
+    {
+      name: "Casablanca",
+      country: "ma",
+      leg: "africa",
+      lat: 33.5731,
+      lon: -7.5898,
+      url: "{{ '/keegan-itinerary/casablanca/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
+    },
+    {
+      name: "Freetown",
+      country: "sl",
+      leg: "africa",
+      lat: 8.4657,
+      lon: -13.2317,
+      url: "{{ '/keegan-itinerary/freetown/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
+    },
+    {
+      name: "Accra",
+      country: "gh",
+      leg: "africa",
+      lat: 5.6037,
+      lon: -0.1870,
+      url: "{{ '/keegan-itinerary/accra/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
+    },
+    {
+      name: "Kigali",
+      country: "rw",
+      leg: "africa",
+      lat: -1.9441,
+      lon: 30.0619,
+      url: "{{ '/keegan-itinerary/kigali/' | relative_url }}",
+      summary: "DD/MM/YYYY - DD/MM/YYYY",
+      route: true,
+      current: false
+    },
+    {
+      name: "Nairobi",
+      country: "ke",
+      leg: "africa",
+      lat: -1.2921,
+      lon: 36.8219,
+      url: "{{ '/keegan-itinerary/nairobi/' | relative_url }}",
       summary: "DD/MM/YYYY - DD/MM/YYYY",
       route: true,
       current: false
