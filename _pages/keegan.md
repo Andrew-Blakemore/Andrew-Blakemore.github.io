@@ -12,22 +12,26 @@ author_profile: false
   href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
 />
 
-<div class="custom-intro">
-  <p>
-    As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend a year abroad exploring how prosthetics impact everyday life in communities throughout the world.
-  </p>
+<div class="keegan-hero">
+  <div class="keegan-hero__overlay">
+    <div class="keegan-hero__text">
+      <p>
+        As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend a year abroad exploring how prosthetics impact everyday life in communities throughout the world.
+      </p>
 
-  <p>
-    Along the way, I’ll connect with engineers, researchers, and clinicians to understand how these technologies are designed, as well as prosthetic users to learn how prostheses affect their way of life. Through photography and storytelling, I’ll document moments of daily life that often go unseen.
-  </p>
+      <p>
+        Along the way, I’ll connect with engineers, researchers, and clinicians to understand how these technologies are designed, as well as prosthetic users to learn how prostheses affect their way of life. Through photography and storytelling, I’ll document moments of daily life that often go unseen.
+      </p>
 
-  <p>
-    As part of my project, I am compiling an open-access Global Prosthetics Atlas that contains data from dozens of countries and interviews with prosthetic users, clinicians, engineers, and researchers across four continents.
-  </p>
+      <p>
+        As part of my project, I am compiling an open-access Global Prosthetics Atlas that contains data from dozens of countries and interviews with prosthetic users, clinicians, engineers, and researchers across four continents.
+      </p>
 
-  <p>
-    Follow along as I explore how prosthetics shape independence, identity, and connection around the globe.
-  </p>
+      <p>
+        Follow along as I explore how prosthetics shape independence, identity, and connection around the globe.
+      </p>
+    </div>
+  </div>
 </div>
 
 <div class="custom-divider"></div>
