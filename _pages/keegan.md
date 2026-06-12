@@ -12,9 +12,9 @@ author_profile: false
   href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
 />
 
-<div class="keegan-hero">
-  <div class="keegan-hero__overlay">
-    <div class="keegan-hero__text">
+<div class="custom-hero">
+  <div class="custom-hero__overlay">
+    <div class="custom-hero__text">
       <p>
         As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend a year abroad exploring how prosthetics impact everyday life in communities throughout the world.
       </p>
