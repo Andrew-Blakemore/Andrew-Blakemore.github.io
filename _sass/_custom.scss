@@ -255,36 +255,58 @@
   outline-offset: 2px;
 }
 
+/* =========================
+   Keegan Hero Section
+   ========================= */
+
 .keegan-hero {
   width: 100vw;
   margin-left: calc(50% - 50vw);
-  min-height: 60vh;
-  background-image: url('/assets/img/your-hero-image.jpg');
+
+  min-height: 70vh;
+
+  background-image: url('/assets/img/keegan-hero.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+
   position: relative;
 }
 
 .keegan-hero__overlay {
-  min-height: 60vh;
+  min-height: 70vh;
+
   display: flex;
   align-items: center;
   justify-content: center;
+
+  padding: 4rem 2rem;
+
   background: rgba(0, 0, 0, 0.35);
-  padding: 3rem 1.5rem;
 }
 
 .keegan-hero__text {
-  max-width: 900px;
+  max-width: 1000px;
+
   color: #fff;
   text-align: center;
+
   font-size: 1.2rem;
-  line-height: 1.8;
+  line-height: 1.9;
 }
 
 .keegan-hero__text p {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.keegan-hero__text p:last-child {
+  margin-bottom: 0;
+}
+
+.keegan-hero__text a,
+.keegan-hero__text a:visited {
+  color: #fff;
+  text-decoration: underline;
 }
 
 #keegan-map {
