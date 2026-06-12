@@ -9,12 +9,14 @@ author_profile: false
 <div class="custom-hero" style="background-image: url('/assets/img/photography-hero.jpg');">
   <div class="custom-hero__overlay">
     <div class="custom-hero__text">
-  <p>
-    I began practicing photography in the summer of 2022, drawn to its ability to capture emotion and tell stories through a single image. After building a technical foundation through an introductory photography class at BYU, I developed a deeper interest in visual storytelling and creative expression.
-  </p>
-  <p>
-    Following my transfer to Vanderbilt in 2023, I joined the Vanderbilt Photo Society and served on its inaugural executive board. Since then, I have explored a diverse range of photographic styles, including portrait, studio, street, automotive, and abstract photography, while continuing to refine my technical skills and artistic perspective.
-  </p>
+      <p>
+        I began practicing photography in the summer of 2022, drawn to its ability to capture emotion and tell stories through a single image. After building a technical foundation through an introductory photography class at BYU, I developed a deeper interest in visual storytelling and creative expression.
+      </p>
+      <p>
+        Following my transfer to Vanderbilt in 2023, I joined the Vanderbilt Photo Society and served on its inaugural executive board. Since then, I have explored a diverse range of photographic styles, including portrait, studio, street, automotive, and abstract photography, while continuing to refine my technical skills and artistic perspective.
+      </p>
+    </div>
+  </div>
 </div>
 
 <div class="custom-divider"></div>
