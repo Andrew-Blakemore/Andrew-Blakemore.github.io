@@ -23,9 +23,13 @@ document.addEventListener("DOMContentLoaded", () => {
   const markerLayer = L.layerGroup().addTo(map);
   const routeLayer = L.layerGroup().addTo(map);
 
-  // 🔑 Split stops
-  const routeStops = stops.filter(s => s.route !== false);
-  const currentStops = stops.filter(s => s.current === true);
+  // Split stops
+  const routeStops = stops.filter((s) => s.route !== false);
+  const currentStops = stops.filter((s) => s.current === true);
+
+  function hasLink(stop) {
+    return stop.link_enabled !== false && !!stop.url;
+  }
 
   function makeMarkerIcon(order) {
     return L.divIcon({
@@ -111,9 +115,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     filteredStops.forEach((stop, idx) => {
-      const card = document.createElement("a");
+      const linkIsEnabled = hasLink(stop);
+      const card = document.createElement(linkIsEnabled ? "a" : "div");
       card.className = "keegan-card";
-      card.href = stop.url || "#";
+
+      if (linkIsEnabled) {
+        card.href = stop.url;
+      }
 
       card.innerHTML = `
         <span class="flag">${flagImage(stop.country, stop.name)}</span><br/>
@@ -143,15 +151,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const latlngs = filteredStops.map((stop, idx) => {
       const latlng = [stop.lat, stop.lon];
+      const linkIsEnabled = hasLink(stop);
 
       const marker = L.marker(latlng, {
         icon: makeMarkerIcon(idx + 1),
       }).addTo(markerLayer);
 
-      marker.bindPopup(`
-        <strong>${idx + 1}. ${stop.name}</strong><br/>
-        <a href="${stop.url}">See more</a>
-      `);
+      const popupContent = linkIsEnabled
+        ? `
+          <strong>${idx + 1}. ${stop.name}</strong><br/>
+          <a href="${stop.url}">See more</a>
+        `
+        : `
+          <strong>${idx + 1}. ${stop.name}</strong><br/>
+          <span>See more coming soon</span>
+        `;
+
+      marker.bindPopup(popupContent);
 
       return latlng;
     });
