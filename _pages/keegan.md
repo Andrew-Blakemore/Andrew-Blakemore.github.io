@@ -100,6 +100,7 @@ author_profile: false
       lat: 51.5074,
       lon: -0.1278,
    // url: "{{ '/keegan-itinerary/london/' | relative_url }}",
+      url: null,
       summary: "27/8/2027 - 7/9/2026",
       route: true,
       current: false
@@ -111,6 +112,7 @@ author_profile: false
       lat: 52.52,
       lon: 13.405,
    // url: "{{ '/keegan-itinerary/berlin/' | relative_url }}",
+      url: null,
       summary: "7/9/2026 - TBD",
       route: true,
       current: false
@@ -122,6 +124,7 @@ author_profile: false
       lat: 50.0413,
       lon: 21.9990,
    // url: "{{ '/keegan-itinerary/rzeszow/' | relative_url }}",
+      url: null,
       summary: "TBD",
       route: true,
       current: false
@@ -133,6 +136,7 @@ author_profile: false
       lat: 41.0082,
       lon: 28.9784,
    // url: "{{ '/keegan-itinerary/istanbul/' | relative_url }}",
+      url: null,
       summary: "TBD",
       route: true,
       current: false
@@ -144,6 +148,7 @@ author_profile: false
       lat: 37.9838,
       lon: 23.7275,
    // url: "{{ '/keegan-itinerary/athens/' | relative_url }}",
+      url: null,
       summary: "TBD",
       route: true,
       current: false
@@ -155,6 +160,7 @@ author_profile: false
       lat: 33.5731,
       lon: -7.5898,
    // url: "{{ '/keegan-itinerary/casablanca/' | relative_url }}",
+      url: null,
       summary: "TBD",
       route: true,
       current: false
@@ -166,6 +172,7 @@ author_profile: false
       lat: 8.4657,
       lon: -13.2317,
    // url: "{{ '/keegan-itinerary/freetown/' | relative_url }}",
+      url: null,
       summary: "TBD",
       route: true,
       current: false
@@ -177,6 +184,7 @@ author_profile: false
       lat: 5.6037,
       lon: -0.1870,
    // url: "{{ '/keegan-itinerary/accra/' | relative_url }}",
+      url: null,
       summary: "TBD",
       route: true,
       current: false
@@ -188,6 +196,7 @@ author_profile: false
       lat: -1.9441,
       lon: 30.0619,
    // url: "{{ '/keegan-itinerary/kigali/' | relative_url }}",
+      url: null,
       summary: "TBD",
       route: true,
       current: false
@@ -199,6 +208,7 @@ author_profile: false
       lat: -1.2921,
       lon: 36.8219,
    // url: "{{ '/keegan-itinerary/nairobi/' | relative_url }}",
+      url: null,
       summary: "TBD",
       route: true,
       current: false
