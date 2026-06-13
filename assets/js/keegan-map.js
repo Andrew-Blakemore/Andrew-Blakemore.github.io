@@ -157,15 +157,24 @@ document.addEventListener("DOMContentLoaded", () => {
         icon: makeMarkerIcon(idx + 1),
       }).addTo(markerLayer);
 
-      const popupContent = linkIsEnabled
-        ? `
+      let popupContent;
+      
+      if (stop.name === "Nashville") {
+        popupContent = `
+          <strong>${idx + 1}. ${stop.name}</strong><br/>
+          <span>Starting Point</span>
+        `;
+      } else if (linkIsEnabled) {
+        popupContent = `
           <strong>${idx + 1}. ${stop.name}</strong><br/>
           <a href="${stop.url}">See more</a>
-        `
-        : `
+        `;
+      } else {
+        popupContent = `
           <strong>${idx + 1}. ${stop.name}</strong><br/>
           <span>See more coming soon</span>
         `;
+      }
 
       marker.bindPopup(popupContent);
 
