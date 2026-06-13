@@ -77,8 +77,7 @@ author_profile: false
       leg: "north-america",
       lat: 36.1627,
       lon: -86.7816,
-      url: "{{ '/keegan-itinerary/nashville/' | relative_url }}",
-      link_enabled: true,
+      link_enabled: false,
       summary: "Exploring prosthetic clinics and research labs over the summer.",
       route: true,
       current: false
