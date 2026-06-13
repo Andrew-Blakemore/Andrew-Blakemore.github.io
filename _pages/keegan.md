@@ -78,7 +78,7 @@ author_profile: false
       lat: 36.1627,
       lon: -86.7816,
       link_enabled: false,
-      summary: "Exploring prosthetic clinics and research labs over the summer.",
+      summary: "Starting Point",
       route: true,
       current: false
     },
