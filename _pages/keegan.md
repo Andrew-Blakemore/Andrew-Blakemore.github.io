@@ -218,7 +218,7 @@ author_profile: false
 </script>
 
 <div class="keegan-blog-cta keegan-reveal">
-  <a href="https://substack.com/@prostheticenthusiast" class="keegan-blog-button">
+  <a href="https://ablkmr.substack.com/" class="keegan-blog-button">
     Follow the Journey →
   </a>
 </div>
