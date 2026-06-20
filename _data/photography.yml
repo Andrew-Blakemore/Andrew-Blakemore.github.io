@@ -148,6 +148,12 @@
   featured: true
   width: 3200
   height: 4000
+- src: /assets/img/photography/NOCTA_1.jpg
+  title: NOCTA, ROSE STREET GAR, P1
+  category: portraits
+  featured: true
+  width: 6000
+  height: 3376
 - src: /assets/img/photography/Horse_and_Man.jpg
   title: Horse and Man
   category: portraits
@@ -238,24 +244,18 @@
   featured: true
   width: 3497
   height: 4371
-- src: /assets/img/photography/NOCTA_1.jpg
-  title: NOCTA, ROSE STREET GAR, P1
-  category: portraits
-  featured: true
-  width: 6000
-  height: 3376
-- src: /assets/img/photography/NOCTA_2.jpg
-  title: NOCTA, ROSE STREET GAR, P2
-  category: portraits
-  featured: true
-  width: 3376
-  height: 6000
 - src: /assets/img/photography/NOCTA_3.jpg
   title: NOCTA, ROSE STREET GAR, P3
   category: portraits
   featured: true
   width: 3376
   height: 5773
+- src: /assets/img/photography/NOCTA_2.jpg
+  title: NOCTA, ROSE STREET GAR, P2
+  category: portraits
+  featured: true
+  width: 3376
+  height: 6000
 - src: /assets/img/photography/On_Top_of_the_World.JPG
   title: On Top of the World
   category: portraits
