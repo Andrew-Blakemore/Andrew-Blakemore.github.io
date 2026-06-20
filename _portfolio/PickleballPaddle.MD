@@ -29,6 +29,7 @@ All components were fabricated via FFF printing on a Voron printer.
 ## Design Overview
 
 The main paddle body was printed in ABS to provide rigidity while maintaining manageable weight. A removable PETG edge guard was added to protect the perimeter of the paddle from wear. The handle system was composed of a rigid PLA core for structural support and a flexible TPU sleeve for grip and comfort.
+
 ---
 
 ## Interactive CAD Model
