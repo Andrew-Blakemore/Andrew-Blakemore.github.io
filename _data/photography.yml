@@ -304,6 +304,12 @@
   featured: true
   width: 3723
   height: 4654
+- src: /assets/img/photography/CH_Wyatt_1.jpg
+  title: CH_Wyatt_1
+  category: graduation
+  featured: false
+  width: 3972
+  height: 5958
 - src: /assets/img/photography/EH_Kirkland_2.jpg
   title: EH_Kirkland_2
   category: graduation
@@ -418,12 +424,6 @@
   featured: false
   width: 3523
   height: 4404
-- src: /assets/img/photography/CH_Wyatt_1.jpg
-  title: CH_Wyatt_1
-  category: graduation
-  featured: false
-  width: 3972
-  height: 5958
 - src: /assets/img/photography/CH_Wyatt_2.jpg
   title: CH_Wyatt_2
   category: graduation
