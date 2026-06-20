@@ -544,6 +544,12 @@
   featured: false
   width: 3591
   height: 5386
+- src: /assets/img/photography/KY_woman.jpg
+  title: Woman_on_Bench
+  category: portraits
+  featured: true
+  width: 6000
+  height: 3376
 - src: /assets/img/photography/MT_EndSchoolZone_BW.jpg
   title: MT_EndSchoolZone_BW
   category: graduation
@@ -556,9 +562,3 @@
   featured: true
   width: 5611
   height: 3157
-- src: /assets/img/photography/KY_woman.jpg
-  title: Woman_on_Bench
-  category: portraits
-  featured: true
-  width: 6000
-  height: 3376
