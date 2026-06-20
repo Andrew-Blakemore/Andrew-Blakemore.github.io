@@ -69,7 +69,7 @@ author_profile: false
       lon: -84.5037,
       summary: "Resting between travel legs.",
       route: false,
-      current: true
+      current: false
     },
     {
       name: "Nashville",
@@ -80,7 +80,7 @@ author_profile: false
       link_enabled: false,
       summary: "Starting Point",
       route: true,
-      current: false
+      current: true
     },
     {
       name: "Reykjavík",
