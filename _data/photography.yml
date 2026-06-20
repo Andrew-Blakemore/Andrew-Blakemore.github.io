@@ -178,18 +178,18 @@
   featured: true
   width: 3353
   height: 3353
-- src: /assets/img/photography/Solace.jpg
-  title: Solace
-  category: portraits
-  featured: true
-  width: 3286
-  height: 4276
 - src: /assets/img/photography/Ying-Yang_Canine.jpg
   title: Ying-Yang Canine
   category: animals
   featured: true
   width: 4024
   height: 4024
+- src: /assets/img/photography/Solace.jpg
+  title: Solace
+  category: portraits
+  featured: true
+  width: 3286
+  height: 4276
 - src: /assets/img/photography/Shrouded_by_Light.PNG
   title: Shrouded by Light
   category: abstract
@@ -304,12 +304,12 @@
   featured: true
   width: 3723
   height: 4654
-- src: /assets/img/photography/One_Call_Away.jpg
-  title: One Call Away
-  category: portraits
+- src: /assets/img/photography/EH_Kirkland_2.jpg
+  title: EH_Kirkland_2
+  category: graduation
   featured: true
-  width: 3200
-  height: 4000
+  width: 3599
+  height: 4499
 - src: /assets/img/photography/Rising_Star.jpg
   title: Rising Star
   category: portraits
@@ -322,18 +322,18 @@
   featured: true
   width: 4000
   height: 5000
-- src: /assets/img/photography/Sonder.jpg
-  title: Sonder
-  category: portraits
-  featured: true
-  width: 3768
-  height: 4710
 - src: /assets/img/photography/CH_Kirkland_1.jpg
   title: CH_Kirkland_1
   category: graduation
   featured: true
   width: 3903
   height: 5855
+- src: /assets/img/photography/Sonder.jpg
+  title: Sonder
+  category: portraits
+  featured: true
+  width: 3768
+  height: 4710
 - src: /assets/img/photography/CH_Kirkland_2.jpg
   title: CH_Kirkland_2
   category: graduation
@@ -364,12 +364,12 @@
   featured: false
   width: 3699
   height: 5548
-- src: /assets/img/photography/EH_Kirkland_2.jpg
-  title: EH_Kirkland_2
-  category: graduation
+- src: /assets/img/photography/One_Call_Away.jpg
+  title: One Call Away
+  category: portraits
   featured: true
-  width: 3599
-  height: 4499
+  width: 3200
+  height: 4000
 - src: /assets/img/photography/EH_Kirkland_3.jpg
   title: EH_Kirkland_3
   category: graduation
