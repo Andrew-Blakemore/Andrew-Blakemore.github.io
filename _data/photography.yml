@@ -442,18 +442,18 @@
   featured: false
   width: 3817
   height: 5726
-- src: /assets/img/photography/CH_Wyatt_5.jpg
-  title: CH_Wyatt_5
-  category: graduation
-  featured: false
-  width: 3893
-  height: 5839
 - src: /assets/img/photography/CH_Wyatt_6.jpg
   title: CH_Wyatt_6
   category: graduation
   featured: false
   width: 3880
   height: 5820
+- src: /assets/img/photography/CH_Wyatt_5.jpg
+  title: CH_Wyatt_5
+  category: graduation
+  featured: false
+  width: 3893
+  height: 5839
 - src: /assets/img/photography/CH_Wyatt_7.jpg
   title: CH_Wyatt_7
   category: graduation
