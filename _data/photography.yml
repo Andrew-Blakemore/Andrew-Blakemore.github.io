@@ -400,12 +400,6 @@
   featured: false
   width: 3382
   height: 5073
-- src: /assets/img/photography/EH_Kirkland_7.jpg
-  title: EH_Kirkland_7
-  category: graduation
-  featured: false
-  width: 3566
-  height: 2853
 - src: /assets/img/photography/One_Call_Away.jpg
   title: One Call Away
   category: portraits
@@ -418,6 +412,12 @@
   featured: false
   width: 3782
   height: 4728
+- src: /assets/img/photography/EH_Kirkland_7.jpg
+  title: EH_Kirkland_7
+  category: graduation
+  featured: false
+  width: 3566
+  height: 2853
 - src: /assets/img/photography/CH_EH_Kirkland_3.jpg
   title: CH_EH_Kirkland_3
   category: graduation
@@ -460,18 +460,18 @@
   featured: false
   width: 3999
   height: 5998
-- src: /assets/img/photography/CH_Wyatt_8.jpg
-  title: CH_Wyatt_8
-  category: graduation
-  featured: false
-  width: 3903
-  height: 5854
 - src: /assets/img/photography/CH_Wyatt_9.jpg
   title: CH_Wyatt_9
   category: graduation
   featured: true
   width: 4000
   height: 5000
+- src: /assets/img/photography/CH_Wyatt_8.jpg
+  title: CH_Wyatt_8
+  category: graduation
+  featured: false
+  width: 3903
+  height: 5854
 - src: /assets/img/photography/EH_Wyatt_1.jpg
   title: EH_Wyatt_1
   category: graduation
