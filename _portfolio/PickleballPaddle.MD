@@ -28,8 +28,7 @@ All components were fabricated via FFF printing on a Voron printer.
 
 ## Design Overview
 
-The paddle was designed with a focus on structural integrity and ease of assembly. The main paddle body was printed in ABS to provide rigidity while maintaining manageable weight. A removable PETG edge guard was added to protect the perimeter of the paddle from wear. The handle system was composed of a rigid PLA core for structural support and a flexible TPU sleeve for grip and comfort.
-
+The main paddle body was printed in ABS to provide rigidity while maintaining manageable weight. A removable PETG edge guard was added to protect the perimeter of the paddle from wear. The handle system was composed of a rigid PLA core for structural support and a flexible TPU sleeve for grip and comfort.
 ---
 
 ## Interactive CAD Model
@@ -69,7 +68,7 @@ The paddle body was printed in ABS to provide a rigid, impact-resistant structur
 
 The edge guard serves as a protective layer around the paddle perimeter, shielding the paddle body from collisions with the ground and other paddles. PETG was selected for this component due to its balance of toughness, ductility, and impact resistance, allowing it to deform slightly under load rather than crack. Compared to more brittle materials like PLA, PETG is better suited for absorbing edge impacts without propagating damage into the main paddle body.
 
-The edge guard includes through-holes that align with the heat-set inserts in the paddle body, allowing it to be mechanically fastened using the same bolts that secure the handle. This creates a clamping system where the handle, edge guard, and paddle are all integrated into a single load path. As a result, the edge guard is held firmly in place during play and the guard can be removed or replaced independently  
+The edge guard includes through-holes that align with the heat-set inserts in the paddle body, allowing it to be mechanically fastened using the same bolts that secure the handle. This creates a clamped assembly that holds the guard firmly in place while allowing it to be removed or replaced independently.
 
 From a design perspective, this modularity opens the door for future improvements. Potential refinements include reinforced edge profiles in high-impact regions and a more streamlined outer geometry to reduce drag. Additionally, other materials or hybrid constructions could be explored to further optimize durability and performance.
 
@@ -77,9 +76,7 @@ From a design perspective, this modularity opens the door for future improvement
 
 ### Handle Core
 
-The handle core was printed in PLA for improved stiffness and dimensional accuracy. Since the handle primarily experiences compressive and bending loads rather than impact forces, PLA provides sufficient structural performance while keeping the piece lightweight.
-
-The rigid core serves as a stable foundation for the assembly, ensuring secure load transfer between the paddle and the user’s hand. Its lightweight nature also contributes to the paddle’s head-heavy balance, which enhances power during swings.
+The handle core was printed in PLA for improved stiffness and dimensional accuracy. Since the handle primarily experiences compressive and bending loads rather than impact forces, PLA provides sufficient structural performance while keeping the piece lightweight. Its low mass also contributes to the paddle’s head-heavy balance, which enhances power during swings.
 
 Future improvements could include internal reinforcement features or slight geometric adjustments to improve ergonomics and durability without significantly increasing weight.
 
@@ -87,9 +84,9 @@ Future improvements could include internal reinforcement features or slight geom
 
 ### Handle Sleeve
 
-The handle sleeve was printed in TPU 95A to provide a compliant, high-friction grip surface. The interference fit ensures a secure attachment without adhesives, while the material improves comfort and performance during play. TPU’s elastomeric behavior allows it to deform slightly under hand pressure, increasing contact area and friction, which helps prevent slipping during high-power swings. This also contributes to vibration damping, reducing the transmission of impact forces from ball contact into the player’s hand.
+The handle sleeve was printed in TPU 95A to provide a compliant, high-friction grip surface. An interference fit secures the sleeve without adhesives while preventing rotation or loosening during use. TPU’s elastomeric behavior allows it to deform slightly under hand pressure, increasing contact area and friction while also reducing the transmission of impact vibrations to the player’s hand.
 
-The interference fit between the sleeve and the PLA handle core was intentionally designed to be tight enough to prevent rotation or loosening over time, while still allowing installation without excessive force. This required balancing dimensional tolerances, as TPU can stretch during installation but will relax to maintain a secure grip on the underlying handle.
+This required balancing dimensional tolerances, as TPU can stretch during installation but will relax to maintain a secure grip on the underlying handle.
 
 Future iterations could explore contoured grip shapes, indexed features for consistent hand placement, or slight variations in TPU hardness to further improve ergonomics and feel.
 
@@ -99,15 +96,13 @@ Future iterations could explore contoured grip shapes, indexed features for cons
 
 The final paddle mass exceeded 8.3 oz, making it heavy relative to other paddles and enabling increased power and momentum transfer on each swing. This allowed for stronger drives and more forceful returns at the expense of quick hand adjustments and heightened reaction time at the net.
 
-One advantage of a fully 3D printed design is the ability to tune weight through internal structure and material selection. For example, increasing or decreasing infill density directly adjusts overall mass without changing external geometry. Selecting alternative materials such as carbon fiber filaments or higher-density polymers can further increase rigidity and mass, while switching to lighter materials can shift the paddle toward a more control-oriented weight class.
+Weight can be tuned through internal structure and material selection. Increasing or decreasing infill density directly adjusts overall mass without changing external geometry. Alternative materials such as carbon fiber filaments or higher-density polymers can further increase rigidity and mass, while lighter materials can shift the paddle toward a more control-oriented weight class.
 
 ---
 
 ## Mass Distribution
 
 The paddle exhibited a head-heavy balance due to the ABS body (higher mass) and PLA handle (lower mass). This mass distribution shifted the center of mass toward the paddle face, resulting in increased swing momentum, greater power on drives and smashes, and slightly reduced control for quick, reactive shots. This configuration aligned with a play style focused on power over finesse.
-
-More impactful adjustments to mass balance would include increasing infill density near the paddle face, reducing handle mass, or introducing localized reinforcement zones to intentionally shift the center of mass.
 
 ---
 
@@ -117,7 +112,7 @@ The design was evaluated against relevant paddle specifications:
 
 ### Material (2.E.1)
 
-The paddle is constructed from rigid, non-compressible materials (ABS, PETG, PLA) with a compliant TPU grip. All materials are safe and structurally appropriate for gameplay.
+The paddle is constructed from rigid, non-compressible materials (ABS, PETG, PLA) with a compliant TPU grip.
 
 ---
 
