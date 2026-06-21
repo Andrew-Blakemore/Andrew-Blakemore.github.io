@@ -17,10 +17,10 @@ toc_icon: bars
 
 This project explores the design and fabrication of a multi-material, 3D printed pickleball paddle. The paddle was designed as an assembly consisting of four components:
 
-- **Paddle body**
-- **Edge guard**
-- **Handle core**
-- **Handle sleeve**
+- Paddle body
+- Edge guard
+- Handle core
+- Handle sleeve
 
 All components were fabricated via FFF printing on a Voron printer.
 
