@@ -13,15 +13,15 @@ toc_icon: bars
 ## Project Overview
 {: .visually-hidden }
 
-This project explores the use of generative design to develop a lightweight skateboard truck hanger with an integrated motor mount for an electric longboard. The goal was to consolidate multiple functional components into a single, optimized structure capable of withstanding realistic loads while minimizing mass.
+This project explored the use of generative design to develop a lightweight skateboard truck hanger with an integrated motor mount for an electric longboard. The goal was to consolidate multiple functional components into a single optimized structure capable of withstanding realistic loads while minimizing mass.
 
-Unlike traditional CAD workflows, generative design produces geometry based on constraints, loads, and material properties. This makes it particularly effective for components like a truck hanger, where complex load paths and multiple functional requirements intersect.
+Unlike traditional CAD workflows, generative design produces geometry based on load constraints and material properties. This makes it particularly effective for components like a truck hanger, where complex load paths and multiple functional requirements intersect.
 
 ---
 
 ## Background
 
-The skateboard truck hanger is the primary structural element connecting the wheels to the board. It transmits forces from the rider during riding, turning, and braking, while rotating about the kingpin through compressible bushings to enable steering.
+The skateboard truck hanger is the primary structural element connecting the wheels to the board. It transmits forces from the rider during riding and braking while rotating about the kingpin through compressible bushings to enable steering.
 
 In a conventional setup:
 - The hanger is typically cast aluminum
@@ -71,9 +71,9 @@ Maintaining these geometries ensured the final design remained functional after 
 
 ### Load Cases
 
-Applying appropriate load cases is important in generative design because the resulting geometry is entirely driven by the forces and constraints applied. If key loads are missing or unrealistic, the design may perform well in simulation but fail under real-world conditions. For this project, the load cases were chosen to represent the primary forces experienced during riding, including vertical rider weight, lateral turning forces, motor torque, braking, and impact from a curb strike.
+Applying realistic load cases is critical in generative design because the resulting geometry is entirely driven by the forces and constraints applied. For this project, the load cases were selected to represent the primary forces experienced during riding, including vertical rider weight, lateral turning forces, motor torque, braking, and curb impacts.
 
-The forces were estimated using reasonable assumptions based on rider weight, expected usage, and simplified physical models. This process could be improved by incorporating experimental data, dynamic simulations, or more detailed, multi-axis loading conditions. Overall, accurate load definition is necessary because generative design solutions are only as strong as the assumptions used to create them.
+The forces were estimated using reasonable assumptions based on rider weight, expected usage, and simplified physical models. This process could be improved through experimental measurements, dynamic simulations, or more detailed, multi-axis loading conditions.
 
 | Force Name        |   Magnitude   | Location Applied | Rationale |
 |-------------------|---------------|------------------|----------|
@@ -116,7 +116,7 @@ Material properties significantly influence generative outcomes.
   <img src="/assets/img/aluminum-render.PNG" width="400">
 </p>
 
-The aluminum solution produced a more **robust structure** to compensate for lower material strength.
+The aluminum solution produced a more robust structure to compensate for its lower material strength.
 
 ---
 
@@ -134,10 +134,10 @@ The steel solution resulted in a thinner geometry with less overall volume due t
 
 ## Fabrication
 
-The truck hanger was originally intended to be fabricated using nylon powder bed fusion (pSLS) due to its ability to produce complex geometries without support structures and with isotropic mechanical properties. This process is particularly well-suited for generative design because it:
+The truck hanger was originally intended to be fabricated using nylon powder bed fusion (pSLS). This process is particularly well suited for generative design because it:
 
 - Eliminates the need for support structures
-- Produces uniform strength in all directions
+- Produces isotropic mechanical properties
 - Accurately captures complex internal geometries
 
 However, due to equipment constraints, the prototype was instead fabricated using PLA filament (FFF) on a Bambu H2C printer.
@@ -172,13 +172,13 @@ The printed hanger was assembled into the longboard system to verify the fit of 
   <img src="/assets/img/gear-rotate-gif.gif" width="400">
 </p>
 
-Testing confirmed that the part allowed for adequate turning clearance and functional motor and belt rotation with no major interference issues.  
+Testing confirmed adequate turning clearance and functional motor and belt rotation with no major interference issues.
 
 ---
 
 ## Discussion
 
-This project demonstrates how generative design can produce components that outperform traditional designs in terms of weight and structural efficiency.
+This project demonstrated how generative design can produce components that outperform traditional designs in terms of weight and structural efficiency.
 
 ### Key Takeaways
 
@@ -188,15 +188,11 @@ This project demonstrates how generative design can produce components that outp
 
 ### Generative Design + Powder Bed Fusion
 
-The combination of generative design and powder bed fusion is especially powerful in industries such as aerospace and automotive, where:
+The combination of generative design and powder bed fusion is especially powerful in industries such as aerospace and automotive, where complex geometries and part consolidation can provide significant performance benefits.
 
-- Weight reduction is critical  
-- Complex geometries are acceptable  
-- Part consolidation reduces assembly complexity
+In aerospace applications, a well-known example is Airbus’ use of generative design to create lightweight ["bionic partition" structures](https://adsknews.autodesk.com/en/news/autodesk-airbus-generative-design-aerospace-factory/), which significantly reduce preserving strengthaircraft mass while preserving strength. This directly improves fuel efficiency and reduces emissions.
 
-In aerospace applications, this pairing is especially valuable due to rigid requirements for weight reduction and performance efficiency. A well-known example is Airbus’ use of generative design to create lightweight ["bionic partition" structures](https://adsknews.autodesk.com/en/news/autodesk-airbus-generative-design-aerospace-factory/), which significantly reduces aircraft mass while maintaining strength. This design directly improves fuel efficiency and reduces emissions. More broadly, GD + PBF has been used to consolidate multi-part assemblies into single components, simplifying assembly and improving reliability.
-
-In the automotive industry, similar benefits are targeted in components like suspension parts and motor mounts, where reducing unsprung mass or improving stiffness-to-weight ratio can enhance vehicle performance. Generative design enables engineers to tailor material distribution to match expected loads, and powder bed fusion makes it possible to manufacture these optimized forms without redesigning them for manufacturability. This is particularly useful in [high-performance](https://www.divergent3d.com/applications/automotive/) or low-volume applications, such as motorsports or electric vehicles.
+In the automotive industry, similar benefits are targeted in components such as suspension systems and motor mounts, where reducing mass and improving stiffness-to-weight ratio can enhance performance. Generative design enables engineers to distribute material according to expected loads, while powder bed fusion allows these optimized geometries to be manufactured directly. This is particularly useful in [high-performance](https://www.divergent3d.com/applications/automotive/) and low-volume applications such as motorsports and electric vehicles.
 
 ### Limitations
 
@@ -209,6 +205,6 @@ In the automotive industry, similar benefits are targeted in components like sus
 
 ## Conclusion
 
-Generative design is a powerful tool for producing efficient, lightweight structures in applications where performance and weight are important. However, its usefulness is limited by the accuracy of input assumptions, especially load cases and constraints, meaning that poor setup can lead to impractical or infeasible designs. The resulting geometries can also be difficult to manufacture or modify, and often require advanced fabrication methods such as powder bed fusion to be viable. Additionally, computational cost can be significant. Despite these drawbacks, generative design is most valuable in industries where part consolidation, weight reduction, and optimized load paths provide clear benefits.
+Generative design is a powerful tool for producing efficient, lightweight structures in applications where performance and weight are important. However, its effectiveness depends heavily on the accuracy of input assumptions, particularly load cases and constraints. Poor setup can lead to impractical or infeasible designs, and the resulting geometries often require advanced manufacturing methods to be produced effectively. Computational cost can also be significant.
 
-Although fabrication was performed using FFF due to equipment constraints, this project highlights the advantages of using powder-based additive manufacturing to fabricate complex generative geometries in real-world applications.
+Despite these limitations, generative design is especially valuable in applications where part consolidation, weight reduction, and optimized load paths provide measurable benefits. Although fabrication was performed using FFF due to equipment constraints, this project highlights the advantages of additive manufacturing for producing complex generative geometries in real-world applications.
