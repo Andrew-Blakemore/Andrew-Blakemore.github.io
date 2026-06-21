@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /_pages/about
-  - title: "Engineering Portfolio"
+  - title: "Engineering Projects"
     url: /portfolio/
   - title: "Photography"
     url: /photography/
