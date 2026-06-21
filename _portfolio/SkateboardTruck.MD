@@ -13,7 +13,7 @@ toc_icon: bars
 ## Project Overview
 {: .visually-hidden }
 
-This project explores the use of **generative design** to develop a lightweight skateboard truck hanger with an integrated motor mount for an electric longboard. The goal was to consolidate multiple functional components into a single, optimized structure capable of withstanding realistic loads while minimizing mass.
+This project explores the use of generative design to develop a lightweight skateboard truck hanger with an integrated motor mount for an electric longboard. The goal was to consolidate multiple functional components into a single, optimized structure capable of withstanding realistic loads while minimizing mass.
 
 Unlike traditional CAD workflows, generative design produces geometry based on constraints, loads, and material properties. This makes it particularly effective for components like a truck hanger, where complex load paths and multiple functional requirements intersect.
 
@@ -21,26 +21,26 @@ Unlike traditional CAD workflows, generative design produces geometry based on c
 
 ## Background
 
-The skateboard truck hanger is the primary structural element connecting the wheels to the board. It transmits forces from the rider during **riding, turning, and braking**, while rotating about the kingpin through compressible bushings to enable steering.
+The skateboard truck hanger is the primary structural element connecting the wheels to the board. It transmits forces from the rider during riding, turning, and braking, while rotating about the kingpin through compressible bushings to enable steering.
 
 In a conventional setup:
-- The hanger is typically **cast aluminum**
-- The axle is a **press-fit steel rod**
-- The motor mount is a **separate attachment**
+- The hanger is typically cast aluminum
+- The axle is a press-fit steel rod
+- The motor mount is a separate attachment
 
-In this project, the hanger and motor mount were combined into a **single generatively designed component**, improving load transfer and reducing part count.
+In this project, the hanger and motor mount were combined into a single generatively designed component, improving load transfer and reducing part count.
 
 ---
 
 ## Design Objectives
 
 - Minimize mass while maintaining structural integrity  
-- Maintain a **minimum safety factor of 2**  
-- Integrate the **motor mount into the hanger**  
+- Maintain a minimum safety factor of 2
+- Integrate the motor mount into the hanger
 - Preserve all critical functional interfaces  
 - Ensure compatibility with the pulley system and assembly constraints  
 
-The study used an **unrestricted manufacturing setting** to allow maximum geometric freedom.
+The study used an unrestricted manufacturing setting to allow maximum geometric freedom.
 
 ---
 
@@ -66,7 +66,7 @@ Maintaining these geometries ensured the final design remained functional after 
 ## Generative Design Inputs
 
 ### Constraints
-- The kingpin region was treated as a **fixed support**
+- The kingpin region was treated as a fixed support
 - The axle ends, motor mount, and pivot were allowed to respond to loads
 
 ### Load Cases
@@ -128,19 +128,19 @@ The aluminum solution produced a more **robust structure** to compensate for low
   <img src="/assets/img/steel-render.png" width="400">
 </p>
 
-The steel solution resulted in a **thinner geometry** with less overall volume due to higher material strength.
+The steel solution resulted in a thinner geometry with less overall volume due to higher material strength.
 
 ---
 
 ## Fabrication
 
-The truck hanger was originally intended to be fabricated using **nylon powder bed fusion (pSLS)** due to its ability to produce complex geometries without support structures and with isotropic mechanical properties. This process is particularly well-suited for generative design because it:
+The truck hanger was originally intended to be fabricated using nylon powder bed fusion (pSLS) due to its ability to produce complex geometries without support structures and with isotropic mechanical properties. This process is particularly well-suited for generative design because it:
 
-- Eliminates the need for support structures  
-- Produces **uniform strength in all directions**  
-- Accurately captures complex internal geometries  
+- Eliminates the need for support structures
+- Produces uniform strength in all directions
+- Accurately captures complex internal geometries
 
-However, due to **equipment constraints**, the prototype was instead fabricated using PLA filament (FFF) on a Bambu H2C printer.
+However, due to equipment constraints, the prototype was instead fabricated using PLA filament (FFF) on a Bambu H2C printer.
 
 <p align="center">
   <img src="/assets/img/hanger-print-bed.jpg" width="400">
@@ -172,7 +172,7 @@ The printed hanger was assembled into the longboard system to verify the fit of 
   <img src="/assets/img/gear-rotate-gif.gif" width="400">
 </p>
 
-Testing confirmed that the part allowed for adequate **turning clearance** and functional **motor and belt rotation** with no major interference issues.  
+Testing confirmed that the part allowed for adequate turning clearance and functional motor and belt rotation with no major interference issues.  
 
 ---
 
@@ -211,4 +211,4 @@ In the automotive industry, similar benefits are targeted in components like sus
 
 Generative design is a powerful tool for producing efficient, lightweight structures in applications where performance and weight are important. However, its usefulness is limited by the accuracy of input assumptions, especially load cases and constraints, meaning that poor setup can lead to impractical or infeasible designs. The resulting geometries can also be difficult to manufacture or modify, and often require advanced fabrication methods such as powder bed fusion to be viable. Additionally, computational cost can be significant. Despite these drawbacks, generative design is most valuable in industries where part consolidation, weight reduction, and optimized load paths provide clear benefits.
 
-Although fabrication was performed using FFF due to equipment constraints, this project highlights the advantages of using **powder-based additive manufacturing** to fabricate complex generative geometries in real-world applications.
+Although fabrication was performed using FFF due to equipment constraints, this project highlights the advantages of using powder-based additive manufacturing to fabricate complex generative geometries in real-world applications.
