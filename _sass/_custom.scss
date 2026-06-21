@@ -130,6 +130,10 @@
   transform: scale(1.02);
 }
 
+.custom-page {
+  overflow-x: hidden;
+}
+
 @media (max-width: 1000px) {
   .custom-page .gallery {
     column-count: 2;
