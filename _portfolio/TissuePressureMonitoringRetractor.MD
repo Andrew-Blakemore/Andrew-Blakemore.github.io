@@ -1,5 +1,4 @@
 ---
-
 title: "Tissue Pressure Monitoring Retractor"
 excerpt: "A pressure-sensing cervical retractor designed in collaboration with Medtronic Spine R&D to provide real-time tissue loading feedback during anterior cervical spine surgery."
 header:
@@ -10,10 +9,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: bars
---------------
-
+---
 ## Project Overview
-
 {: .visually-hidden }
 
 Anterior cervical discectomy and fusion (ACDF) procedures require surgeons to retract the trachea, esophagus, and surrounding soft tissue to access the cervical spine. While effective, this retraction can contribute to postoperative complications such as dysphagia and dysphonia. Current cervical retractors provide no feedback regarding the amount of force applied to tissue or the duration of tissue loading.
