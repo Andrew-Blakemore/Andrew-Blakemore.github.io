@@ -1,6 +1,6 @@
 ---
-title: "Tissue Pressure Monitoring Retractor"
-excerpt: "A pressure-sensing cervical retractor designed in collaboration with Medtronic Spine R&D to provide real-time tissue loading feedback during anterior cervical spine surgery."
+title: "Pressure Monitoring Retractor"
+excerpt: "A pressure-sensing cervical retractor designed in collaboration with Medtronic Spine R&D for anterior cervical spine surgery."
 header:
   image: /assets/img/retractor_header.jpg
   teaser: /assets/img/retractor_teaser.jpg
