@@ -1,6 +1,6 @@
 ---
 title: "Wearable Gait Analysis System"
-excerpt: "A lightweight-wearable system combining pressure sensing and IMU data to quantify gait symmetry and classify terrain in real time."
+excerpt: "A lightweight, wearable system combining pressure sensing and IMU data to quantify gait symmetry and classify terrain in real time."
 header:
   image: /assets/img/walk2.jpg
   teaser: /assets/img/dev2.jpg
@@ -13,11 +13,11 @@ toc_icon: bars
 ## About Gait Analysis
 {: .visually-hidden }
 
-Measuring human gait provides valuable insight into injury recovery and neuromotor health. Subtle asymmetries in walking patterns can indicate musculoskeletal imbalance, early-stage neurological impairment, or incomplete rehabilitation following lower-limb injury. However, many gait analysis tools remain confined to clinical environments due to cost, complexity, or lack of portability.
+Measuring human gait provides valuable insight into injury recovery and neuromotor health. Subtle asymmetries in walking patterns can indicate early-stage neurological impairment or incomplete rehabilitation following lower-limb injury. However, many gait analysis tools remain confined to clinical environments due to cost, complexity, or lack of portability.
 
-Traditional systems such as force plates provide high accuracy but are immobile and expensive, while pressure insoles often lack spatial resolution or robustness. Standalone IMU-based solutions offer portable motion tracking but cannot capture plantar loading distributions. These limitations create a gap between laboratory-grade analysis and real-world monitoring. Just as importantly, most systems provide little context about how different environments like turf, pavement, or outdoor settings affect loading patterns and recovery.
+Traditional systems such as force plates provide high accuracy but are immobile and expensive, while pressure insoles often lack spatial resolution or robustness. Standalone IMU-based solutions offer portable motion tracking but cannot capture plantar loading distributions. These limitations create a gap between laboratory analysis and real-world monitoring. Furthermore, most systems provide little context about how different environments like turf, pavement, grass, or other outdoor settings affect loading patterns and recovery.
 
-This project explores a wearable, multi-sensor system designed to bridge that gap by combining pressure sensing and inertial measurements in a compact, field-deployable platform.
+This project explored a wearable, multi-sensor system designed to bridge that gap by combining pressure sensing and inertial measurements in a compact, field-deployable platform.
 
 ## System Overview
 
@@ -27,7 +27,7 @@ The device consists of a pressure-mapped insole paired with a 3-axis inertial me
   <img src="/assets/img/architecture.png" alt="System Architecture">
 </p>
 
-Pressure sensors embedded within the insole measure plantar loading patterns during stance phases, enabling estimation of force symmetry and peak pressure distribution. Simultaneously, the IMU captures acceleration signatures that provide information about terrain characteristics, step timing, and gait dynamics.
+Pressure sensors embedded within the insole measure plantar loading patterns during stance phases, enabling estimation of force symmetry and peak pressure distribution. Simultaneously, the IMU captures acceleration signatures that provide information about terrain characteristics, step timing, and other gait dynamics.
 
 ## Design Motivation
 
@@ -39,7 +39,7 @@ This system was designed with three primary goals:
 - Classify terrain using acceleration signatures  
 - Enable lightweight, portable deployment for real-world monitoring  
 
-By targeting both clinical and performance contexts, the design aims to support rehabilitation tracking, early impairment detection, and field-based biomechanical analysis.
+By targeting both clinical and performance contexts, the design aims to support rehabilitation tracking and field-based biomechanical analysis.
 
 ## Key Technical Components
 
