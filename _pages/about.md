@@ -38,10 +38,21 @@ Vanderbilt University (May 2026)
 **Undergraduate Research Assistant**<br>
 *Brigham Young University — Adams Lab — Provo, UT*<br>
 *Dec 2021 – Aug 2023*
-- [Presented research](/assets/files/Assessing_Nematode_Invasion_Potential_Between_the_McMurdo_Dry_Valleys_and_Cape_Royds.pdf) at the Scientific Committee for Antarctic Research biology symposium in Christchurch, NZ.
 - Designed and executed laboratory experiments studying competitive exclusion in nematode communities, including sample processing, data collection, and protocol development.
 - Developed standardized workflows and documentation to improve experimental efficiency.
 - Trained and supported laboratory members in established procedures and techniques.
+
+## Presentations
+
+**Assessing Nematode Invasion Potential Between the McMurdo Dry Valleys and Cape Royds**  
+*Scientific Committee for Antarctic Research (SCAR) Biology Symposium — Christchurch, New Zealand*  
+*August 3, 2023*  
+[Presentation Slides](/assets/files/Assessing_Nematode_Invasion_Potential_Between_the_McMurdo_Dry_Valleys_and_Cape_Royds.pdf)
+
+**Tissue Pressure and Oxygenation Monitoring for Anterior Cervical Spinal Surgery**  
+*Vanderbilt Engineering Design Day — Nashville, TN*  
+*April 20, 2026*  
+[Poster PDF](/assets/files/Tissue_Pressure_and_Oxygenation_Monitoring_for_Anterior_Cervical_Spinal_Surgery.pdf)
 
 ## Technical Skills
 
