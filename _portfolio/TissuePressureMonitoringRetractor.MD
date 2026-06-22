@@ -13,17 +13,36 @@ toc_icon: bars
 ## Project Overview
 {: .visually-hidden }
 
-Anterior cervical discectomy and fusion (ACDF) procedures require surgeons to retract the trachea, esophagus, and surrounding soft tissue to access the cervical spine. While effective, this retraction can contribute to postoperative complications such as dysphagia and dysphonia. Current cervical retractors provide no feedback regarding the amount of force applied to tissue or the duration of tissue loading.
+This project was completed in collaboration with Medtronic Spine R&D and focused on improving the Medtronic Trimline Retractor used during anterior cervical discectomy and fusion (ACDF) procedures.
 
-This project explored the design of a pressure-sensing cervical retractor capable of providing real-time intraoperative feedback. The objective was to quantify tissue loading during surgery without altering the normal function or workflow of existing ACDF retractors.
+The Trimline Retractor is a self-retaining surgical retractor designed to hold back the trachea, esophagus, muscles, and surrounding soft tissue, allowing surgeons to access the cervical spine. Once positioned, the device maintains retraction throughout the procedure while the surgeon performs the discectomy and fusion.
+
+<p align="center">
+  <img src="/assets/img/trimline_retractor_diagram.png" alt="Trimline Retractor">
+</p>
+
+<p align="center">
+  <em>Image source: Medtronic.</em>
+</p>
+
+<p align="center">
+  <video width="640" controls>
+    <source src="/assets/img/Retractor_Video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+One challenge with existing cervical retractors is that surgeons receive no quantitative feedback regarding the amount of force being applied to tissue or how long that tissue has remained under load. Excessive retraction force and prolonged loading have been associated with postoperative complications such as dysphagia (difficulty swallowing) and dysphonia (voice impairment), yet current systems rely entirely on surgeon experience and judgment.
+
+This project explored two pressure-sensing modifications to the Trimline Retractor capable of providing real-time intraoperative feedback. The objective was to quantify tissue loading during surgery without altering the normal function, geometry, or workflow of the existing device.
 
 ---
 
 ## Clinical Motivation
 
-During ACDF procedures, surgeons must maintain soft-tissue retraction for extended periods of time. Excessive pressure or prolonged loading is believed to contribute to postoperative soft-tissue injury, yet surgeons currently have no direct way to measure these quantities during surgery.
+Anterior cervical spine procedures require prolonged soft-tissue retraction to expose the surgical site. While necessary for access, this retraction can place significant stress on surrounding anatomy.
 
-The goal of this project was to develop a system capable of monitoring tissue pressure and cumulative time-under-load, enabling future studies aimed at correlating retraction conditions with surgical outcomes.
+Because current retractors provide no force feedback, surgeons cannot directly quantify tissue loading during a procedure. Developing a method to monitor pressure and time-under-load may help future studies identify relationships between retraction conditions and postoperative outcomes.
 
 ---
 
@@ -51,17 +70,11 @@ Two sensing approaches were developed.
 The first concept integrated a strain-gauge load cell directly into the retractor rack. A structural component within the retractor assembly was replaced with a custom load cell designed to match the geometry of the original part.
 
 <p align="center">
-  <img src="/assets/img/load_cell_drawing.png" alt="Retractor">
+  <img src="/assets/img/load_cell_drawing.png" alt="Load Cell Retractor Concept">
 </p>
 
 <p align="center">
   <em>Image source: Medtronic.</em>
-</p>
-
-TEST
-
-<p align="center">
-  <img src="/assets/img/load_cell_drawing.png" alt="Load Cell Retractor Concept">
 </p>
 
 *Figure 2. Load-cell integration into the retractor assembly.*
