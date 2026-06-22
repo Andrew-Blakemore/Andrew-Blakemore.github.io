@@ -34,6 +34,10 @@ The Trimline Retractor is a self-retaining surgical retractor designed to hold b
   </video>
 </p>
 
+<p align="center">
+  <em>Demonstration of the Medtronic Trimline Retractor during deployment.</em>
+</p>
+
 One challenge with existing cervical retractors is that surgeons receive no quantitative feedback regarding the amount of force being applied to tissue or how long that tissue has remained under load. Excessive retraction force and prolonged loading have been associated with postoperative complications such as dysphagia (difficulty swallowing) and dysphonia (voice impairment), yet current systems rely entirely on surgeon experience and judgment.
 
 This project explored two pressure-sensing modifications to the Trimline Retractor capable of providing real-time intraoperative feedback. The objective was to quantify tissue loading during surgery without altering the normal function, geometry, or workflow of the existing device.
@@ -52,12 +56,12 @@ Because current retractors provide no force feedback, surgeons cannot directly q
 
 The proposed system was required to:
 
-* Maintain normal retractor functionality
-* Provide real-time force feedback
-* Remain compatible with existing surgical workflows
-* Utilize sterilizable and biocompatible materials
-* Avoid interference with the surgical field
-* Operate safely in a clinical environment
+- Maintain normal retractor functionality
+- Provide real-time force feedback
+- Remain compatible with existing surgical workflows
+- Utilize sterilizable and biocompatible materials
+- Avoid interference with the surgical field
+- Operate safely in a clinical environment
 
 Because the device would be used during surgery, preserving the geometry and usability of the existing retractor was considered a critical design constraint.
 
@@ -78,6 +82,29 @@ The first concept integrated a strain-gauge load cell directly into the retracto
 <p align="center">
   <em>Load Cell Concept</em>
 </p>
+
+#### Prototype Development
+
+Before pursuing a CNC-machined stainless steel design, the load-cell concept was validated using a rapid FFF prototype printed in PETG. The prototype replicated the geometry of the proposed load cell and was instrumented with strain gauges to evaluate the sensing approach before committing to metal fabrication.
+
+<p align="center">
+  <img src="/assets/img/Load_Cell_FFF_Prototype.jpg" alt="Load Cell FFF Prototype">
+</p>
+
+<p align="center">
+  <em>FFF-printed PETG prototype used for early validation testing.</em>
+</p>
+
+<div style="height: 1rem;"></div>
+
+<p align="center">
+  <video width="640" controls>
+    <source src="/assets/img/Load_Cell_FFF_Demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+The prototype demonstrated that measurable strain could be captured and converted into force measurements in real time. This early proof-of-concept reduced development risk and provided confidence that the sensing architecture would function as intended before moving to a CNC-machined stainless steel implementation.
 
 As retraction force increased, the load cell experienced microscopic deformation that could be measured using bonded strain gauges. This approach provided a single quantitative measurement of the overall force applied through the retractor.
 
@@ -103,6 +130,12 @@ Unlike the load-cell approach, this design provided spatial information about ti
 
 Both concepts utilized a Silicon Labs EFR32BG29 wireless SoC microcontroller to acquire sensor data and transmit measurements to an external processing system.
 
+For the load-cell concept, the signal pathway consisted of:
+
+1. Strain Gauges – Convert mechanical deformation of the load cell into small resistance changes.
+2. Bridge Amplifier / ADC – Amplifies the Wheatstone bridge output and converts the analog signal into a digital measurement.
+3. Microcontroller – Processes sensor data and transmits measurements wirelessly to an external computer.
+
 The wireless architecture was selected to:
 
 * Reduce cable clutter in the operating room
@@ -110,7 +143,6 @@ The wireless architecture was selected to:
 * Support future data logging and visualization capabilities
 
 Sensor data would be processed on a connected computer and displayed through a surgeon-facing user interface.
-
 ---
 
 ## Fabrication Strategy
@@ -149,9 +181,9 @@ A staged testing approach was developed to evaluate the device.
 
 Initial testing would verify:
 
-* Structural integrity
-* Sensor calibration
-* Electrical safety
+- Structural integrity
+- Sensor calibration
+- Electrical safety
 
 Known loads would be applied to establish sensor accuracy and repeatability.
 
@@ -159,9 +191,9 @@ Known loads would be applied to establish sensor accuracy and repeatability.
 
 Following bench validation, the device would be evaluated using:
 
-* Tissue phantoms
-* Cadaveric models
-* Porcine tissue models
+- Tissue phantoms
+- Cadaveric models
+- Porcine tissue models
 
 These tests would assess the system's ability to measure realistic tissue pressures while maintaining normal surgical operation.
 
@@ -177,11 +209,11 @@ The proposed platform could potentially be expanded beyond cervical spine surger
 
 ## Key Takeaways
 
-* Current ACDF retractors provide no feedback regarding tissue loading.
-* Real-time pressure monitoring may help reduce preventable soft-tissue injury.
-* Two complementary sensing approaches were developed: load-cell measurement and pressure mapping.
-* The proposed designs preserve existing surgical workflows while adding quantitative feedback.
-* Future work would focus on prototype fabrication, validation, and cadaveric testing.
+- Current ACDF retractors provide no feedback regarding tissue loading.
+- Real-time pressure monitoring may help reduce preventable soft-tissue injury.
+- Two complementary sensing approaches were developed: load-cell measurement and pressure mapping.
+- The proposed designs preserve existing surgical workflows while adding quantitative feedback.
+- Future work would focus on prototype fabrication, validation, and cadaveric testing.
 
 ---
 
