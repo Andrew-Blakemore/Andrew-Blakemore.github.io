@@ -187,4 +187,12 @@ The proposed platform could potentially be expanded beyond cervical spine surger
 
 This project explored two approaches for measuring tissue pressure during anterior cervical spine surgery. Both concepts sought to provide surgeons with real-time information regarding retraction forces while preserving the functionality of existing retractors.
 
-## Although the designs remain at the conceptual stage, they establish a foundation for future prototype development and testing. By introducing objective measurements into a procedure that currently relies entirely on surgeon judgment, pressure-sensing retractors have the potential to improve surgical decision-making and reduce postoperative complications.
+Although the designs remain at the conceptual stage, they establish a foundation for future prototype development and testing. By introducing objective measurements into a procedure that currently relies entirely on surgeon judgment, pressure-sensing retractors have the potential to improve surgical decision-making and reduce postoperative complications.
+
+---
+
+## Additional Documentation
+
+This page summarizes the primary design concepts and outcomes of the project. A more detailed discussion of the clinical background, design process, testing strategy, regulatory considerations, and commercialization pathway can be found in the full technical report.
+
+**[View the Full Project Report](LINK_HERE)**
