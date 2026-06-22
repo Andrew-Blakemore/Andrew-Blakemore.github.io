@@ -1,5 +1,5 @@
 ---
-title: "Pressure Monitoring Retractor"
+title: "Tissue Pressure Monitoring Retractor"
 excerpt: "A pressure-sensing cervical retractor designed in collaboration with Medtronic Spine R&D for anterior cervical spine surgery."
 header:
   image: /assets/img/retractor_header.jpg
@@ -22,7 +22,7 @@ The Trimline Retractor is a self-retaining surgical retractor designed to hold b
 </p>
 
 <p align="center">
-  <em>Image source: Medtronic.</em>
+  <em>Source: Medtronic, *TrimLine Anterior Cervical Discectomy & Fusion Instrument Set* (2002)​</em>
 </p>
 
 <p align="center">
