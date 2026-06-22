@@ -195,4 +195,4 @@ Although the designs remain at the conceptual stage, they establish a foundation
 
 This page summarizes the primary design concepts and outcomes of the project. A more detailed discussion of the clinical background, design process, testing strategy, regulatory considerations, and commercialization pathway can be found in the full technical report.
 
-**[Presented research](/assets/files/Tissue_Pressure_Monitoring_for_Anterior_Cervical_Retraction.pdf)**
+**[View the Full Project Report]({{ '/assets/files/Tissue_Pressure_Monitoring_for_Anterior_Cervical_Retraction.pdf' | relative_url }})**
