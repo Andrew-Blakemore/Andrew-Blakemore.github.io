@@ -70,14 +70,20 @@ Two sensing approaches were developed.
 The first concept integrated a strain-gauge load cell directly into the retractor rack. A structural component within the retractor assembly was replaced with a custom load cell designed to match the geometry of the original part.
 
 <p align="center">
-  <img src="/assets/img/load_cell_drawing.png" alt="Load Cell Retractor Concept">
+  <img src="/assets/img/load_cell_drawing.png" alt="Load Cell Drawing">
 </p>
 
 <p align="center">
-  <em>Image source: Medtronic.</em>
+  <em>Load Cell Drawing</em>
 </p>
 
-*Figure 2. Load-cell integration into the retractor assembly.*
+<p align="center">
+  <img src="/assets/img/Load_Cell_CAD.png" alt="Load Cell Concept">
+</p>
+
+<p align="center">
+  <em>Load Cell Concept</em>
+</p>
 
 As retraction force increased, the load cell experienced microscopic deformation that could be measured using bonded strain gauges. This approach provided a single quantitative measurement of the overall force applied through the retractor.
 
@@ -88,10 +94,12 @@ As retraction force increased, the load cell experienced microscopic deformation
 The second concept incorporated an array of piezoelectric sensors directly into the retractor blade.
 
 <p align="center">
-  <img src="/assets/img/figure3.jpg" alt="Pressure Sensing Blade Concept">
+  <img src="/assets/img/Retractor_Blade_CAD.png" alt="Retractor Blade Concept">
 </p>
 
-*Figure 3. Retractor blade with integrated piezoelectric sensor array.*
+<p align="center">
+  <em>Retractor Blade Concept</em>
+</p>
 
 Unlike the load-cell approach, this design provided spatial information about tissue loading. By arranging sensors across the blade surface, a pressure map could be generated to identify localized regions of high stress.
 
