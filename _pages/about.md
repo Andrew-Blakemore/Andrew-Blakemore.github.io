@@ -38,7 +38,7 @@ Vanderbilt University (May 2026)
 **Undergraduate Research Assistant**<br>
 *Brigham Young University — Adams Lab — Provo, UT*<br>
 *Dec 2021 – Aug 2023*
-- [Presented research](assets/files/Assessing_Nematode_Invasion_Potential_Between_the_McMurdo_Dry_Valleys_and_Cape_Royds.pdf) at the Scientific Committee for Antarctic Research biology symposium in Christchurch, NZ.
+- [Presented research](/assets/files/Assessing_Nematode_Invasion_Potential_Between_the_McMurdo_Dry_Valleys_and_Cape_Royds.pdf) at the Scientific Committee for Antarctic Research biology symposium in Christchurch, NZ.
 - Designed and executed laboratory experiments studying competitive exclusion in nematode communities, including sample processing, data collection, and protocol development.
 - Developed standardized workflows and documentation to improve experimental efficiency.
 - Trained and supported laboratory members in established procedures and techniques.
