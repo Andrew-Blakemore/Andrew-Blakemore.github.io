@@ -143,6 +143,7 @@ The wireless architecture was selected to:
 * Support future data logging and visualization capabilities
 
 Sensor data would be processed on a connected computer and displayed through a surgeon-facing user interface.
+
 ---
 
 ## Fabrication Strategy
