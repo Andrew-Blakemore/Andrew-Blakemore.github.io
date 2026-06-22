@@ -22,7 +22,7 @@ The Trimline Retractor is a self-retaining surgical retractor designed to hold b
 </p>
 
 <p align="center">
-  <em>Source: Medtronic, *TrimLine Anterior Cervical Discectomy & Fusion Instrument Set* (2002)​</em>
+  <em>Source: Medtronic, TrimLine Anterior Cervical Discectomy & Fusion Instrument Set (2002)​</em>
 </p>
 
 <p align="center">
