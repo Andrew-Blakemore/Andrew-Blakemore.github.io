@@ -77,6 +77,8 @@ The first concept integrated a strain-gauge load cell directly into the retracto
   <em>Load Cell Drawing</em>
 </p>
 
+<div style="height: 2rem;"></div>
+
 <p align="center">
   <img src="/assets/img/Load_Cell_CAD.png" alt="Load Cell Concept">
 </p>
