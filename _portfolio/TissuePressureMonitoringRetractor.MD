@@ -25,6 +25,8 @@ The Trimline Retractor is a self-retaining surgical retractor designed to hold b
   <em>Source: Medtronic, TrimLine Anterior Cervical Discectomy & Fusion Instrument Set (2002)​</em>
 </p>
 
+<div style="height: 2rem;"></div>
+
 <p align="center">
   <video width="640" controls>
     <source src="/assets/img/Retractor_Video.mp4" type="video/mp4">
@@ -68,16 +70,6 @@ Two sensing approaches were developed.
 ### Concept 1: Instrumented Retractor Arm
 
 The first concept integrated a strain-gauge load cell directly into the retractor rack. A structural component within the retractor assembly was replaced with a custom load cell designed to match the geometry of the original part.
-
-<p align="center">
-  <img src="/assets/img/load_cell_drawing.png" alt="Load Cell Drawing">
-</p>
-
-<p align="center">
-  <em>Load Cell Drawing</em>
-</p>
-
-<div style="height: 2rem;"></div>
 
 <p align="center">
   <img src="/assets/img/Load_Cell_CAD.png" alt="Load Cell Concept">
