@@ -51,7 +51,17 @@ Two sensing approaches were developed.
 The first concept integrated a strain-gauge load cell directly into the retractor rack. A structural component within the retractor assembly was replaced with a custom load cell designed to match the geometry of the original part.
 
 <p align="center">
-  <img src="/assets/img/figure2.jpg" alt="Load Cell Retractor Concept">
+  <img src="/assets/img/load_cell_drawing.png" alt="Retractor">
+</p>
+
+<p align="center">
+  <em>Image source: Medtronic.</em>
+</p>
+
+TEST
+
+<p align="center">
+  <img src="/assets/img/load_cell_drawing.png" alt="Load Cell Retractor Concept">
 </p>
 
 *Figure 2. Load-cell integration into the retractor assembly.*
