@@ -36,7 +36,7 @@ Vanderbilt University (May 2026)
 - Assisted in troubleshooting hardware issues during subsystem validation.
 
 **Undergraduate Research Assistant**<br>
-*Brigham Young University — Adams Lab — Provo, UT*<br>
+*Nematode Evolution Lab — Brigham Young University — Provo, UT*<br>
 *Dec 2021 – Aug 2023*
 - Designed and executed competitive exclusion experiments investigating interactions between Antarctic nematode species.
 - Extracted, cultured, and maintained nematode and bacterial populations from Antarctic soil samples for laboratory experimentation.
