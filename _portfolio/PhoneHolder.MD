@@ -15,7 +15,7 @@ toc_icon: bars
 
 Top-down modeling is a CAD workflow in which a design is developed by referencing shared geometry from a higher-level assembly or master layout. Rather than designing each component in isolation, the major interfaces are established first and then used to drive the dimensions and relationships of the individual parts. This approach is especially useful when several components must fit together precisely while remaining parametric.
 
-For this project, a top-down workflow was used to develop a phone holder that mounts to bicycle handlebars and supports quick orientation changes between portrait and landscape modes.
+For this project, a top-down workflow was used to develop a phone holder that mounted to bicycle handlebars and supported quick orientation changes between portrait and landscape modes.
 
 ## Project Overview
 
@@ -100,7 +100,7 @@ The holder was fabricated using filament 3D printing. This choice was appropriat
   <img src="/assets/img/back-of-assembled-phone-holder.jpg" alt="Back of Assembled Phone Holder">
 </p>
 
-The holder was assembled around the handlebar with M5 bolts and secured using the designed clamp interface. Once mounted, the phone could be inserted into the cradle and rotated between orientations until the detent engaged. The mechanisms in the final assembly effectively allowed for a stable, repeatable motion with enough holding force to resist vibration during riding.
+The holder was assembled around the handlebar with M5 bolts and secured using the integrated clamp interface. Once mounted, the phone could be inserted into the cradle and rotated between orientations until the detent engaged. The mechanisms in the final assembly effectively allowed for a stable, repeatable motion with enough holding force to resist vibration during riding.
 
 <p align="center">
   <img src="/assets/img/phone-holder-rotate-1.gif" alt="Phone Rotation">
