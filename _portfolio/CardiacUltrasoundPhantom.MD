@@ -18,7 +18,7 @@ Ultrasound phantoms are physical models that replicate human tissue properties f
 
 Low-cost phantoms have gained traction as an alternative, often using simple materials like gelatin, silicone, or latex to approximate acoustic properties. While many inexpensive designs successfully replicate static anatomy, fewer models capture dynamic physiological motion, which is critical for applications such as cardiac ultrasound training.
 
-This project explores the design of a low-cost cardiac ultrasound phantom capable of simulating basic systolic and diastolic chamber motion using accessible materials and simple fabrication methods.
+This project explored the design of a low-cost cardiac ultrasound phantom capable of simulating basic systolic and diastolic chamber motion using accessible materials and simple fabrication methods.
 
 ## Design Overview
 
@@ -67,7 +67,7 @@ Manual syringe actuation produced visible cyclic deformation of the chamber, ena
 
 ## Discussion
 
-This phantom demonstrates that effective dynamic ultrasound training tools can be produced at extremely low cost. While the model does not replicate full cardiac anatomy or physiological motion, it provides an accessible platform for introducing students to key imaging concepts such as chamber identification and probe positioning.
+This phantom demonstrated that effective dynamic ultrasound training tools can be produced at extremely low cost. While the model does not replicate full cardiac anatomy or physiological motion, it provides an accessible platform for introducing students to key imaging concepts such as chamber identification and probe positioning.
 
 Future iterations could improve realism in this design through:
 
