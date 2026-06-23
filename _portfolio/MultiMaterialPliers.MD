@@ -20,7 +20,7 @@ Print-in-place techniques have been used in many applications, including [hinges
 
 Material selection plays an important role in print-in-place designs, especially when motion or load transfer is involved. Common single-material solutions include PLA and PETG due to their dimensional stability and ease of printing, while nylon offers improved toughness and wear resistance for moving components. In multi-material print-in-place applications, combining rigid materials with flexible elastomers (such as TPU) enables integrated compliance, grip surfaces, and spring mechanisms.
 
-This project explores the design and fabrication of multi-material pliers that can be printed in-place (if using a multi-material FFF printer).
+This project explored the design and fabrication of multi-material pliers that could be printed in-place using a multi-material FFF printer.
 
 ## Iterative Process
 
@@ -78,7 +78,7 @@ The new iteration showed a considerable improvement in precision, reliably gripp
 | Grip Span (Open) | 23 mm |
 | Grip Span (Closed) | 17 mm |
 
-*The grip span is the distance between the ring and the handle. When the ring is pulled towards the handle to close the pliers, grip span decreases.*
+*The grip span is the distance between the ring and the handle. When the ring is pulled toward the handle to close the pliers, grip span decreases.*
 
 ## Print Settings
 
