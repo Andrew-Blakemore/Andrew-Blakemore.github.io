@@ -17,7 +17,7 @@ Measuring human gait provides valuable insight into injury recovery and neuromot
 
 Traditional systems such as force plates provide high accuracy but are immobile and expensive, while pressure insoles often lack spatial resolution or robustness. Standalone IMU-based solutions offer portable motion tracking but cannot capture plantar loading distributions. These limitations create a gap between laboratory analysis and real-world monitoring.
 
-This project explored a wearable, multi-sensor system that combines pressure sensing and inertial measurements in a compact, field-deployable platform.
+This project explored a wearable, multi-sensor system that combined pressure sensing and inertial measurements in a compact, field-deployable platform.
 
 ## System Overview
 
@@ -69,9 +69,9 @@ A compact microcontroller aggregates sensor streams and enables real-time proces
 
 The system was developed through iterative hardware and sensing experiments focused on balancing signal fidelity with wearability.
 
-One alternative approach investigated terrain classification using acoustic signatures from a miniature microphone. While promising in controlled environments, this method proved unreliable due to ambient noise sensitivity and inconsistent foot-ground coupling. The concept was ultimately abandoned in favor of IMU-based terrain sensing, which provided more robust results.
+One alternative approach investigated terrain classification using acoustic signatures from a miniature microphone. While promising in controlled environments, this method proved unreliable due to ambient noise sensitivity and inconsistent foot-ground coupling. The concept was abandoned in favor of IMU-based terrain sensing, which provided more robust results.
 
-Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases and peak loading events.
+Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases.
 
 <p align="center">
   <img src="/assets/img/dev2.jpg" alt="Prototype 1">
@@ -79,7 +79,7 @@ Both sensing modalities were validated independently before full integration int
 
 ## Measurable Output Metrics
 
-Preliminary testing produced several physiologically relevant metrics derived from combined pressure and motion data:
+Preliminary testing produced several metrics derived from combined pressure and motion data:
 
 - Force symmetry between left and right stance phases  
 - Peak plantar pressure estimates  
@@ -104,4 +104,4 @@ Future work will focus on:
 - Bluetooth data streaming and mobile visualization
 - Improved comfort, durability, and environmental robustness
 
-With further refinement, the platform could support clinical research, rehabilitation monitoring, and performance analysis.
+With further refinement, the platform could support clinical research and rehabilitation monitoring.
