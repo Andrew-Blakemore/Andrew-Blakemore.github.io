@@ -28,7 +28,7 @@ The goal of this project was to design and fabricate a microfluidic device capab
 
 The device was produced using SLA resin printing to create a mold, followed by PDMS casting and bonding to a glass substrate.
 
-The core geometry of the device includes:
+The core geometry of the device included:
 - Two inlet streams (particle-containing flow and buffer flow)
 - A pinched section where particles are laterally compressed
 - A broad expansion region where particles separate along streamlines
@@ -170,7 +170,7 @@ UV curing was then used to solidify the resin without causing warping.
   <img src="/assets/img/Mold_Final.jpg" alt="Final Mold">
 </p>
 
-The completed mold shows clean channel features suitable for PDMS casting.
+The completed mold exhibited clean channel features suitable for PDMS casting.
 
 ---
 
