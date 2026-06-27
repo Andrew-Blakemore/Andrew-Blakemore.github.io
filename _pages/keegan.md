@@ -221,7 +221,7 @@ author_profile: false
 
 <div class="keegan-blog-cta keegan-reveal">
   <a href="https://theworldofprosthetics.substack.com/" class="keegan-blog-button">
-    Follow the Journey →
+    Read the Stories →
   </a>
 </div>
 
