@@ -1,7 +1,7 @@
 ---
-title: "Keegan Traveling Fellow"
+title: "Keegan Traveling Fellow Debug"
 excerpt: "An interactive map of cities visited, with linked destination pages and a basic travel path."
-permalink: /keegan-traveling-fellowship/
+permalink: /keegan-traveling-fellowship-test/
 classes: wide custom-page
 layout: single
 author_profile: false
