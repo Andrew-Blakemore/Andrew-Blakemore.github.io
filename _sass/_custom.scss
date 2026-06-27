@@ -559,126 +559,76 @@
    ========================================================================== */
 
 .keegan-slides {
-
-  position: relative;
-  min-height: 420px;
-
+   position: relative;
+   min-height: 420px;
 }
 
 .keegan-slide {
-
-  position: absolute;
-
-  inset: 0;
-
-  display: flex;
-
-  align-items: center;
-
-  justify-content: center;
-
-  opacity: 0;
-
-  transition: opacity .8s ease;
-
-  pointer-events: none;
-
+   position: absolute;
+   inset: 0;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   opacity: 0;
+   transition: opacity .8s ease;
+   pointer-events: none;
 }
 
 .keegan-slide.active {
-
-  opacity: 1;
-
-  pointer-events: auto;
-
+   opacity: 1;
+   pointer-events: auto;
 }
 
 .keegan-slide-title {
-
-  text-align: center;
-
-  max-width: 900px;
-
-  padding: 2rem;
-
+   text-align: center;
+   max-width: 1200px;
+   width: 100%;
+   padding: 0 4rem;
 }
 
 .keegan-slide-title h1 {
-
-  color: white;
-
-  font-size: 4rem;
-
-  font-weight: 700;
-
-  margin-bottom: .5rem;
-
+   white-space: nowrap;
+   color: white;
+   font-size: clamp(3rem, 6vw, 5.5rem);
+   font-weight: 700;
+   margin-bottom: .5rem;
 }
 
 .keegan-slide-title p {
-
-  color: white;
-
-  font-size: 1.4rem;
-
-  line-height: 1.5;
-
+   color: white;
+   font-size: 1.4rem;
+   line-height: 1.5;
 }
 
 .keegan-slide-indicators {
-
-  position: absolute;
-
-  bottom: 24px;
-
-  left: 50%;
-
-  transform: translateX(-50%);
-
-  display: flex;
-
-  gap: .8rem;
-
+   position: absolute;
+   bottom: 24px;
+   left: 50%;
+   transform: translateX(-50%);
+   display: flex;
+   gap: .8rem;
 }
 
 .keegan-slide-indicators button {
-
-  width: 12px;
-
-  height: 12px;
-
-  border-radius: 50%;
-
-  border: none;
-
-  background: rgba(255,255,255,.45);
-
-  cursor: pointer;
-
-  transition: .25s;
-
+   width: 12px;
+   height: 12px;
+   border-radius: 50%;
+   border: none;
+   background: rgba(255,255,255,.45);
+   cursor: pointer;
+   transition: .25s;
 }
 
 .keegan-slide-indicators button.active {
-
-  background: white;
-
-  transform: scale(1.15);
-
+   background: white;
+   transform: scale(1.15);
 }
 
 @media (max-width: 768px) {
-
-  .keegan-slide-title h1 {
-
-    font-size: 2.6rem;
-
+   .keegan-slide-title h1 {
+      font-size: 2.6rem;
   }
-
-  .keegan-slide-title p {
-
-    font-size: 1.1rem;
-
+   .keegan-slide-title p {
+      font-size: 1.1rem;
   }
-
 }
