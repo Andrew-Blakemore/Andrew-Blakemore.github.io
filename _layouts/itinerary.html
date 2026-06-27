@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="travel-hero" style="background-image: url('{{ page.header.image | relative_url }}');">
+  <div class="travel-hero__overlay">
+    <div class="travel-hero__text">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+</div>
+
+<div id="main" role="main">
+  <article class="page travel-page" itemscope itemtype="https://schema.org/CreativeWork">
+
+    <div class="page__inner-wrap">
+
+      <section class="page__content travel-content reveal" itemprop="text">
+        {{ content }}
+      </section>
+
+    </div>
+
+  </article>
+</div>
+
+<script>
+const hero = document.querySelector('.travel-hero');
+
+window.addEventListener('scroll', () => {
+  const opacity = Math.max(0, 1 - window.scrollY / 350);
+  hero.style.opacity = opacity;
+});
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('is-visible');
+      observer.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.15 });
+
+document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+</script>
