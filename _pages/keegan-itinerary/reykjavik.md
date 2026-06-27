@@ -1,8 +1,8 @@
 ---
 title: "Reykjavík, Iceland"
 permalink: /keegan-itinerary/reykjavik/
-layout: single
-classes: wide
+layout: itinerary
+classes: wide custom-page
 author_profile: false
 header:
   image: /assets/img/keegan/reykjavik-cover.jpg
