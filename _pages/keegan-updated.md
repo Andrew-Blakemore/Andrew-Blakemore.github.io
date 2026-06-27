@@ -83,17 +83,6 @@ author_profile: false
   </div>
 </div>
 
-    <div class="keegan-slide-indicators">
-
-      <button class="active"></button>
-      <button></button>
-
-    </div>
-    
-  </div>
-  
-</div>
-
 <script>
 
 document.addEventListener("DOMContentLoaded", () => {
