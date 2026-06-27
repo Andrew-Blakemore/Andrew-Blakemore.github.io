@@ -209,14 +209,17 @@
 }
 
 .travel-content {
-  margin-top: 1rem;
+  max-width: 900px;
+  margin: 1rem auto 0 auto;
 
   opacity: 0;
   transform: translateY(40px);
 
-  transition:
-    opacity .7s ease,
-    transform .7s ease;
+  transition: opacity .7s ease, transform .7s ease;
+}
+
+.travel-content > :first-child {
+  margin-top: 0;
 }
 
 .travel-content.is-visible {
