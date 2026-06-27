@@ -79,10 +79,78 @@ author_profile: false
       <button></button>
 
     </div>
+
+  </div>
+</div>
+
+    <div class="keegan-slide-indicators">
+
+      <button class="active"></button>
+      <button></button>
+
+    </div>
     
   </div>
   
 </div>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+
+    const slides = document.querySelectorAll(".keegan-slide");
+
+    const dots = document.querySelectorAll(".keegan-slide-indicators button");
+
+    let current = 0;
+
+    function showSlide(index){
+
+        slides.forEach((slide,i)=>{
+
+            slide.classList.toggle("active",i===index);
+
+            dots[i].classList.toggle("active",i===index);
+
+        });
+
+        current=index;
+
+    }
+
+    dots.forEach((dot,index)=>{
+
+        dot.addEventListener("click",()=>{
+
+            showSlide(index);
+
+            resetTimer();
+
+        });
+
+    });
+
+    function next(){
+
+        showSlide((current+1)%slides.length);
+
+    }
+
+    let timer;
+
+    function resetTimer(){
+
+        clearInterval(timer);
+
+        timer=setInterval(next,7000);
+
+    }
+
+    resetTimer();
+
+});
+
+</script>
 
 <div class="custom-divider"></div>
 
