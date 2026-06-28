@@ -383,15 +383,10 @@
 }
 
 .custom-hero__overlay {
-  min-height: 70vh;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  padding: 4rem 2rem;
-
-  background: rgba(0, 0, 0, 0.5);
+   position: relative;
+   min-height: 70vh;
+   background: rgba(0,0,0,.5);
+   overflow: hidden;
 }
 
 .custom-hero__text {
@@ -558,25 +553,38 @@
    Keegan Hero Carousel
    ========================================================================== */
 
-.keegan-slides {
-   position: relative;
-   min-height: 420px;
-}
-
-.keegan-slide {
+.keegan-title-slide,
+.keegan-description-slide {
    position: absolute;
    inset: 0;
-   display: flex;
-   align-items: center;
-   justify-content: center;
    opacity: 0;
    transition: opacity .8s ease;
    pointer-events: none;
 }
-
-.keegan-slide.active {
+.keegan-title-slide.active,
+.keegan-description-slide.active {
    opacity: 1;
    pointer-events: auto;
+}
+
+.keegan-title-slide {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.keegan-description-slide {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.keegan-description-slide .custom-hero__text {
+   max-width: 1000px;
+   width: calc(100% - 4rem);
+   margin: 0 auto;
+   text-align: center;
 }
 
 .keegan-slide-title {
@@ -640,22 +648,4 @@
    .keegan-slide-title p {
       font-size: 1.1rem;
   }
-}
-
-.keegan-slide-description {
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   width: 100%;
-   height: 100%;
-}
-
-.keegan-slide-description .custom-hero__text {
-   max-width: 1000px;
-   width: 100%;
-   padding: 0 2rem;
-   margin: 0 auto;
-   text-align: center;
-   font-size: 1rem;
-   line-height: 1.5;
 }
