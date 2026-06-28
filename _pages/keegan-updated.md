@@ -34,7 +34,7 @@ author_profile: false
       </div>
 
       <!-- Slide 2 -->
-      <div class="keegan-slide">
+      <div class="keegan-slide keegan-slide-description">
 
         <div class="custom-hero__text">
 
@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         clearInterval(timer);
 
-        timer=setInterval(next,7000);
+        timer=setInterval(next,9000);
 
     }
 
