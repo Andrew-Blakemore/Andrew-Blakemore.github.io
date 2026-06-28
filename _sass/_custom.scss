@@ -587,6 +587,8 @@
 }
 
 .keegan-slide-title h1 {
+   color: #ffffff;
+   text-shadow: 0 2px 10px rgba(0,0,0,.55);
    white-space: nowrap;
    font-size: clamp(4.2rem, 5vw, 5.8rem);
    line-height: 1;
@@ -598,6 +600,13 @@
    color: white;
    font-size: 1.4rem;
    line-height: 1.5;
+}
+
+.keegan-slide-title p {
+   color: white;
+   white-space: nowrap;
+   font-size: clamp(1.15rem,1.5vw,1.45rem);
+   margin: 0 auto;
 }
 
 .keegan-slide-indicators {
@@ -631,4 +640,14 @@
    .keegan-slide-title p {
       font-size: 1.1rem;
   }
+}
+
+.keegan-slide-description {
+   justify-content: center;
+}
+
+.keegan-slide-description .custom-hero__text {
+   width: min(1000px,90vw);
+   margin: 0 auto;
+   text-align: center;
 }
