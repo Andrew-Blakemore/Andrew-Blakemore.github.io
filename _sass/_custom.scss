@@ -568,6 +568,8 @@
    display: flex;
    justify-content: center;
    align-items: center;
+
+   padding-bottom: 6rem;
 }
 
 .keegan-description-slide {
@@ -624,6 +626,22 @@
 }
 
 .keegan-slide-indicators button {
+   width: 12px;
+   height: 12px;
+   border-radius: 50%;
+   border: none;
+   background: rgba(255,255,255,.45);
+   cursor: pointer;
+   transition: .25s;
+}
+
+.keegan-slide-indicators button.active {
+   background: white;
+   transform: scale(1.15);
+}
+
+/*
+.keegan-slide-indicators button {
    width: 54px;
    height: 3px;
    border: none;
@@ -640,6 +658,7 @@
    background: white;
    transform: scaleX(1.05);
 }
+*/
 
 @media (max-width: 768px) {
    .keegan-slide-title h1 {
