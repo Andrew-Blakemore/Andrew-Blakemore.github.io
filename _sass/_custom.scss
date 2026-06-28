@@ -369,21 +369,18 @@
    ====================================================================== */
 
 .custom-hero {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-
-  min-height: 70vh;
-
-  background-image: url('/assets/img/keegan-hero.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  position: relative;
+   width: 100vw;
+   margin-left: calc(50% - 50vw);
+   min-height: 100svh;
+   background-image: url('/assets/img/keegan-hero.jpg');
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   position: relative;
 }
 
 .custom-hero__overlay {
-   min-height: 70vh;
+   min-height: 100svh;
    display: flex;align-items: center;justify-content: center;
    padding: 4rem 2rem;
    background: rgba(0, 0, 0, 0.5);
