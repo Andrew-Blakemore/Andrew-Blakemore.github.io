@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let timer;
   function resetTimer(){
     clearInterval(timer);
-    timer=setInterval(next,9000);
+    timer=setInterval(next,10000);
     }
   
   resetTimer();
