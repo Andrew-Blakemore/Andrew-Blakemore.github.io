@@ -780,3 +780,42 @@ body.travel-reading .masthead {
     background: white;
     box-shadow: 0 2px 10px rgba(0,0,0,.08);
 }
+
+/* ==========================================================
+   Floating masthead on itinerary pages
+========================================================== */
+
+body.layout--itinerary .masthead {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+
+    background: transparent !important;
+    border-bottom: 1px solid rgba(255,255,255,.25);
+    box-shadow: none;
+}
+
+body.layout--itinerary .masthead__inner-wrap,
+body.layout--itinerary .greedy-nav,
+body.layout--itinerary .greedy-nav .visible-links,
+body.layout--itinerary .greedy-nav .hidden-links {
+   background: transparent !important;
+}
+
+body.layout--itinerary .site-title,
+body.layout--itinerary .site-subtitle,
+body.layout--itinerary .greedy-nav a,
+body.layout--itinerary .search__toggle {
+    color: white !important;
+}
+
+.travel-page .page__inner-wrap{
+   padding: 5rem clamp(3rem, 7vw, 6rem);
+}
+
+.travel-page{
+   width:min(1200px, calc(100vw - 5rem));
+   margin:-60px auto 0;
+}
