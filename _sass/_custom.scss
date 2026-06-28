@@ -624,18 +624,21 @@
 }
 
 .keegan-slide-indicators button {
-   width: 12px;
-   height: 12px;
-   border-radius: 50%;
+   width: 54px;
+   height: 3px;
    border: none;
-   background: rgba(255,255,255,.45);
+   border-radius: 999px;
+   background: rgba(255,255,255,.22);
    cursor: pointer;
-   transition: .25s;
+   transition:
+      background .35s ease,
+      transform .35s ease;
 }
 
 .keegan-slide-indicators button.active {
+   height: 4px;
    background: white;
-   transform: scale(1.15);
+   transform: scaleX(1.05);
 }
 
 @media (max-width: 768px) {
