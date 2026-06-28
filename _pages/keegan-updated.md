@@ -14,30 +14,17 @@ author_profile: false
 
 <div class="custom-hero">
   <div class="custom-hero__overlay">
-
-    <div class="keegan-slides">
-
-      <!-- Slide 1 -->
-      <div class="keegan-slide active">
-
-        <div class="keegan-slide-title">
-
-          <h1>Designed for Living</h1>
-
-          <p>
-            Exploring the Boundaries of Everyday Life
-            with Modern Prosthetics
-          </p>
-
-        </div>
-
+    <div class="keegan-title-slide active">
+      <div class="keegan-slide-title">
+        <h1>Designed for Living</h1>
+        <p>
+          Exploring the Boundaries of Everyday Life with Modern Prosthetics
+        </p>
       </div>
-
-      <!-- Slide 2 -->
-      <div class="keegan-slide keegan-slide-description">
-
-        <div class="custom-hero__text">
-
+    </div>
+    
+    <div class="keegan-description-slide">
+      <div class="custom-hero__text">
           <p>
             As a
             <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">
@@ -66,13 +53,9 @@ author_profile: false
             Follow along as I explore how prosthetics shape independence,
             identity, and connection around the globe.
           </p>
-
         </div>
-
       </div>
-
-    </div>
-
+      
     <div class="keegan-slide-indicators">
 
       <button class="active"></button>
@@ -86,57 +69,34 @@ author_profile: false
 <script>
 
 document.addEventListener("DOMContentLoaded", () => {
-
-    const slides = document.querySelectorAll(".keegan-slide");
-
-    const dots = document.querySelectorAll(".keegan-slide-indicators button");
-
-    let current = 0;
-
-    function showSlide(index){
-
-        slides.forEach((slide,i)=>{
-
-            slide.classList.toggle("active",i===index);
-
-            dots[i].classList.toggle("active",i===index);
-
-        });
-
-        current=index;
-
-    }
-
-    dots.forEach((dot,index)=>{
-
-        dot.addEventListener("click",()=>{
-
-            showSlide(index);
-
-            resetTimer();
-
-        });
-
+  const slides = [document.querySelector(".keegan-title-slide"),document.querySelector(".keegan-description-slide")];
+  const dots = document.querySelectorAll(".keegan-slide-indicators button");
+  let current = 0;
+  function showSlide(index){
+    slides.forEach((slide,i)=>{
+      slide.classList.toggle("active",i===index);
+      dots[i].classList.toggle("active",i===index);
     });
-
-    function next(){
-
-        showSlide((current+1)%slides.length);
-
+    current=index;
+  }
+  
+  dots.forEach((dot,index)=>{
+    dot.addEventListener("click",()=>{
+      showSlide(index);
+      resetTimer();
+    });
+  });
+  function next(){
+    showSlide((current+1)%slides.length);
+  }
+  
+  let timer;
+  function resetTimer(){
+    clearInterval(timer);
+    timer=setInterval(next,9000);
     }
-
-    let timer;
-
-    function resetTimer(){
-
-        clearInterval(timer);
-
-        timer=setInterval(next,9000);
-
-    }
-
-    resetTimer();
-
+  
+  resetTimer();
 });
 
 </script>
