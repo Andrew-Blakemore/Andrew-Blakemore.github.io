@@ -659,11 +659,18 @@
 */
 
 @media (max-width: 768px) {
+   .keegan-nowrap {
+      white-space: normal;
+   }
    .keegan-slide-title h1 {
       font-size: 2.6rem;
   }
    .keegan-slide-title p {
       font-size: 1.1rem;
+      white-space: normal;
+      font-size: 1.15rem;
+      line-height: 1.35;
+      padding: 0 1rem;
   }
 }
 
