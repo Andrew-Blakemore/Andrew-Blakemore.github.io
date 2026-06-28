@@ -14,25 +14,92 @@ author_profile: false
 
 <div class="custom-hero">
   <div class="custom-hero__overlay">
-    <div class="custom-hero__text">
-      <p>
-        As a <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">2026–27 Keegan Traveling Fellow</a>, I’ll spend a year abroad exploring how prosthetics impact everyday life in communities throughout the world.
-      </p>
-
-      <p>
-        Along the way, I’ll connect with engineers, researchers, and clinicians to understand how these technologies are designed, as well as prosthetic users to learn how prostheses affect their way of life. Through photography and storytelling, I’ll document moments of daily life that often go unseen.
-      </p>
-
-      <p>
-        As part of my project, I am compiling an open-access Global Prosthetics Atlas that contains data from dozens of countries and interviews with prosthetic users, clinicians, engineers, and researchers across four continents.
-      </p>
-
-      <p>
-        Follow along as I explore how prosthetics shape independence, identity, and connection around the globe.
-      </p>
+    <div class="keegan-title-slide active">
+      <div class="keegan-slide-title">
+        <h1>Designed for Living</h1>
+        <p>
+          Exploring the Boundaries of Everyday Life with Modern Prosthetics
+        </p>
+      </div>
     </div>
+    
+    <div class="keegan-description-slide">
+      <div class="custom-hero__text">
+          <p>
+            As a
+            <a href="https://www.keegantravelingfellowship.org/andrew-blakemore">
+              2026–27 Keegan Traveling Fellow
+            </a>,
+            I'll spend a year abroad exploring how prosthetics impact everyday
+            life in communities throughout the world.
+          </p>
+
+          <p>
+            Along the way, I'll connect with engineers, researchers, and
+            clinicians to understand how these technologies are designed, as
+            well as prosthetic users to learn how prostheses affect their way
+            of life. Through photography and storytelling, I'll document
+            moments of daily life that often go unseen.
+          </p>
+
+          <p>
+            As part of my project, I am compiling an open-access Global
+            Prosthetics Atlas that contains data from dozens of countries and
+            interviews with prosthetic users, clinicians, engineers, and
+            researchers across four continents.
+          </p>
+
+          <p>
+            Follow along as I explore how prosthetics shape independence,
+            identity, and connection around the globe.
+          </p>
+        </div>
+      </div>
+      
+    <div class="keegan-slide-indicators">
+
+      <button class="active"></button>
+      <button></button>
+
+    </div>
+
   </div>
 </div>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+  const slides = [document.querySelector(".keegan-title-slide"),document.querySelector(".keegan-description-slide")];
+  const dots = document.querySelectorAll(".keegan-slide-indicators button");
+  let current = 0;
+  function showSlide(index){
+    slides.forEach((slide,i)=>{
+      slide.classList.toggle("active",i===index);
+      dots[i].classList.toggle("active",i===index);
+    });
+    current=index;
+  }
+  
+  dots.forEach((dot,index)=>{
+    dot.addEventListener("click",()=>{
+      showSlide(index);
+      resetTimer();
+    });
+  });
+  function next(){
+    showSlide((current+1)%slides.length);
+  }
+  
+  let timer;
+  function resetTimer(){
+    clearInterval(timer);
+    timer=setInterval(next,10000);
+    }
+  
+  resetTimer();
+});
+
+</script>
 
 <div class="custom-divider"></div>
 
