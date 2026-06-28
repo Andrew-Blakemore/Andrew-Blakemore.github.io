@@ -725,17 +725,18 @@
    right:0;
    bottom:0;
    
-   height:28vh;
+   height:22vh;
    
    background:linear-gradient(
       to bottom,
       rgba(255,255,255,0) 0%,
-      rgba(255,255,255,.08) 20%,
-      rgba(255,255,255,.25) 45%,
-      rgba(255,255,255,.55) 65%,
-      rgba(255,255,255,.85) 82%,
+      rgba(255,255,255,.03) 35%,
+      rgba(255,255,255,.08) 55%,
+      rgba(255,255,255,.18) 72%,
+      rgba(255,255,255,.40) 86%,
+      rgba(255,255,255,.75) 96%,
       #fff 100%
-    );
+   );
 }
 
 .travel-scroll-space{
@@ -755,9 +756,16 @@
    min-height:100vh;
 }
 
+.travel-page{
+   max-width:1200px;
+   margin:0 auto;
+}
+
 .travel-content{
-   padding-top:3rem;
-   padding-bottom:4rem;
+   padding:
+      4rem
+      clamp(2rem,6vw,5rem)
+      5rem;
 }
 
 .masthead {
