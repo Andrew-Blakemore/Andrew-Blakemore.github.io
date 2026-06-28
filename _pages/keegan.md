@@ -50,9 +50,7 @@ author_profile: false
           </p>
 
           <p>
-            <span class="keegan-nowrap">
               Follow along as I explore how prosthetics shape independence, identity, and connection around the globe.
-            </span>
           </p>
         </div>
       </div>
