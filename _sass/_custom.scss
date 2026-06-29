@@ -648,17 +648,16 @@
    --article-opacity:0;
    
    position:relative;
-   z-index:5;
+   z-index:10;
    width:min(1200px, calc(100vw - 5rem));
    margin:-60px auto 0;
    
    background:white;
-   border-radius:28px 28px 0 0;
-   
+   border-radius:28px;
    box-shadow:
       0 -25px 60px rgba(0,0,0,.12);
    
-   min-height:100vh;
+   min-height:auto;
    opacity:var(--article-opacity);
    transition:opacity .15s linear;
    
@@ -684,10 +683,9 @@ body.layout--itinerary .masthead {
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 1000;
+    z-index: 1;
 
     background: transparent !important;
-    border-bottom: 1px solid rgba(255,255,255,.25);
     box-shadow: none;
 }
 
