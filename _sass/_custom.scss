@@ -657,11 +657,21 @@
    box-shadow:
       0 -25px 60px rgba(0,0,0,.12);
    
-   min-height:auto;
+   min-height:100vh;
    opacity:var(--article-opacity);
    transition:opacity .15s linear;
    
    box-sizing:border-box;
+}
+
+.travel-page,
+.travel-page * {
+   position: relative;
+   z-index: 100;
+}
+
+body.layout--itinerary .masthead {
+   z-index: 1 !important;
 }
 
 .travel-content{
