@@ -27,9 +27,7 @@ layout: default
       </div>
 
     </div>
-
-    <div class="travel-mask"></div>
-
+    
   </div>
 
   <div class="travel-scroll-space"></div>
@@ -71,19 +69,13 @@ function updateScene(){
 
     hero.style.setProperty(
         "--hero-opacity",
-        1 - progress
+        1
     );
 
     article.style.setProperty(
         "--article-opacity",
         progress
     );
-  
-    if(progress > 0.95){
-      document.body.classList.add("travel-reading");
-    }else{
-      document.body.classList.remove("travel-reading");
-    }
 }
 
 updateScene();
