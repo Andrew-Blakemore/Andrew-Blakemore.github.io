@@ -841,3 +841,49 @@ body.layout--itinerary .search__toggle {
    background:white;
    transform:scale(1.2);
 }
+
+/* ==========================================================
+   Homepage About Section
+========================================================== */
+
+.home-about{
+   display:grid;
+   grid-template-columns:320px 1fr;
+   gap:4rem;
+   align-items:center;
+   width:min(1200px,90vw);
+   margin:5rem auto;
+}
+
+.home-about__image img{
+   width:100%;
+   display:block;
+   border-radius:18px;
+   box-shadow:0 12px 36px rgba(0,0,0,.15);
+}
+
+.home-about__content h2{
+   margin-top:0;
+   font-size:2.2rem;
+   margin-bottom:1rem;
+}
+
+.home-about__content p{
+   font-size:1.08rem;
+   line-height:1.75;
+   color:#555;
+   margin-bottom:1.5rem;
+}
+
+@media (max-width:900px){
+   .home-about{
+      grid-template-columns:1fr;
+      text-align:center;
+      gap:2rem;
+    }
+   
+   .home-about__image{
+      max-width:320px;
+      margin:0 auto;
+    }
+}
