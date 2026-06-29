@@ -7,7 +7,7 @@ layout: splash
 
     <!-- Keegan -->
     <div class="home-slide"
-          style="background-image:url('/assets/img/print-bed.jpg');">
+          style="background-image:url('/assets/img/globe-header.jpg');">
           
       <div class="home-slide-content">
 
