@@ -47,7 +47,10 @@ layout: splash
 
     <!-- Photography -->
     <div class="home-slide"
-          style="background-image:url('/assets/img/photography/Mustang_at_Night.jpg');">
+     style="
+       background-image:url('/assets/img/photography/Mustang_at_Night.jpg');
+       background-position:center 35%;
+     ">
           
       <div class="home-slide-content">
       
