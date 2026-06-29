@@ -732,3 +732,99 @@ body.layout--itinerary .search__toggle {
       5rem
       clamp(3.5rem, 6vw, 5rem) !important;
 }
+
+/* ==========================================================
+   Home Hero Carousel
+========================================================== */
+
+.home-hero{
+   width:100vw;
+   margin-left:calc(50% - 50vw);
+
+   height:70vh;
+
+   min-height:560px;
+   max-height:760px;
+
+   position:relative;
+
+   background-image:url("/assets/img/home-hero.jpg");
+
+   background-size:cover;
+   background-position:center;
+}
+
+.home-hero__overlay{
+   position:absolute;
+   inset:0;
+
+   background:rgba(0,0,0,.45);
+}
+
+.home-slide{
+   position:absolute;
+   inset:0;
+
+   display:flex;
+
+   justify-content:center;
+   align-items:center;
+
+   opacity:0;
+
+   transition:opacity .8s ease;
+
+   pointer-events:none;
+}
+
+.home-slide.active{
+   opacity:1;
+   pointer-events:auto;
+}
+
+.home-slide-content{
+   width:min(1200px,90vw);
+   text-align:left;
+   color:white;
+}
+
+.home-slide-content h1{
+   font-size:clamp(3rem,5vw,4.8rem);
+   margin-bottom:.8rem;
+}
+
+.home-slide-content p{
+   max-width:700px;
+   font-size:1.25rem;
+   line-height:1.6;
+   margin-bottom:2rem;
+}
+
+.home-slide-indicators{
+   position:absolute;
+   bottom:30px;
+   left:50%;
+   transform:translateX(-50%);
+   display:flex;
+   gap:.8rem;
+}
+
+.home-slide-indicators button{
+   width:12px;
+   height:12px;
+
+   border:none;
+
+   border-radius:50%;
+
+   background:rgba(255,255,255,.4);
+
+   cursor:pointer;
+
+   transition:.3s;
+}
+
+.home-slide-indicators button.active{
+   background:white;
+   transform:scale(1.2);
+}
