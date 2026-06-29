@@ -4,6 +4,24 @@ layout: splash
 ---
 <div class="home-hero">
   <div class="home-hero__overlay">
+
+    <!-- Keegan -->
+    <div class="home-slide">
+      <div class="home-slide-content">
+
+        <h1>Designed for Living</h1>
+
+        <p>
+          Follow a year-long journey exploring how prosthetics shape
+          everyday life across four continents.
+        </p>
+
+        <a href="/keegan-traveling-fellowship/" class="btn btn--light-outline">
+          Explore the Fellowship
+        </a>
+
+      </div>
+    </div>
     
     <!-- Engineering -->
     <div class="home-slide active">
@@ -40,25 +58,7 @@ layout: splash
 
       </div>
     </div>
-
-    <!-- Keegan -->
-    <div class="home-slide">
-      <div class="home-slide-content">
-
-        <h1>Designed for Living</h1>
-
-        <p>
-          Follow a year-long journey exploring how prosthetics shape
-          everyday life across four continents.
-        </p>
-
-        <a href="/keegan-traveling-fellowship/" class="btn btn--light-outline">
-          Explore the Fellowship
-        </a>
-
-      </div>
-    </div>
-
+    
     <div class="home-slide-indicators">
       <button class="active"></button>
       <button></button>
@@ -66,6 +66,45 @@ layout: splash
     </div>
   </div>
 </div>
+
+<script>
+
+document.addEventListener("DOMContentLoaded",()=>{
+  const slides=document.querySelectorAll(".home-slide");
+  const dots=document.querySelectorAll(".home-slide-indicators button");
+
+  let current=0;
+
+  function show(index){
+    slides.forEach((slide,i)=>{
+      slide.classList.toggle("active",i===index);
+      dots[i].classList.toggle("active",i===index);
+    });
+    
+    current=index;
+  }
+  
+  function next(){
+    show((current+1)%slides.length);
+  }
+  
+  dots.forEach((dot,index)=>{
+    dot.addEventListener("click",()=>{
+      show(index);
+      reset();
+    });
+  });
+  
+  let timer;
+  
+  function reset(){
+    clearInterval(timer);
+    timer=setInterval(next,9000);
+  }
+  
+  reset();
+});
+</script>
 
 feature_row:
   - image_path: assets/img/lamp.jpg
