@@ -1,5 +1,5 @@
 ---
-title: "At the Intersection of Design and Discovery"
+title: "Engineer. Photographer. World Traveler"
 layout: splash
 ---
 <div class="home-hero">
@@ -73,6 +73,45 @@ layout: splash
     </div>
   </div>
 </div>
+
+<div class="home-about">
+
+  <div class="home-about__image">
+
+    <img
+      src="/assets/img/Andrew_Blakemore_Headshot_1a.jpg"
+      alt="Andrew Blakemore"
+    >
+
+  </div>
+
+  <div class="home-about__content">
+
+    <h2>About Me</h2>
+
+    <p>
+      I'm a biomedical engineer with interests spanning medical device design,
+      additive manufacturing, photography, and global health. My work combines
+      engineering, design, and storytelling to explore how technology can
+      improve people's lives.
+    </p>
+
+    <p>
+      Whether designing medical devices, documenting communities through
+      photography, or studying prosthetics around the world as a Keegan
+      Traveling Fellow, I'm driven by curiosity and a desire to understand how
+      thoughtful design shapes everyday experiences.
+    </p>
+
+    <a href="/about/" class="btn btn--primary">
+      Learn More
+    </a>
+
+  </div>
+
+</div>
+
+<div class="custom-divider"></div>
 
 <script>
 
