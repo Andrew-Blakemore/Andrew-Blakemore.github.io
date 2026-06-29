@@ -6,7 +6,7 @@ layout: splash
   <div class="home-hero__overlay">
 
     <!-- Keegan -->
-    <div class="home-slide"
+    <div class="home-slide active"
           style="background-image:url('/assets/img/globe-header.jpg');">
           
       <div class="home-slide-content">
@@ -26,7 +26,7 @@ layout: splash
     </div>
     
     <!-- Engineering -->
-    <div class="home-slide active"
+    <div class="home-slide"
           style="background-image:url('/assets/img/print-bed.jpg');">
       
       <div class="home-slide-content">
