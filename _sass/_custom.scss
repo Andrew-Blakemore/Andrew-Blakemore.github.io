@@ -717,8 +717,9 @@ body.layout--itinerary .search__toggle {
 }
 
 .layout--itinerary .page__inner-wrap {
-   padding-left: clamp(3.5rem, 6vw, 5rem) !important;
-   padding-right: clamp(3.5rem, 6vw, 5rem) !important;
-   padding-top: 4rem !important;
-   padding-bottom: 5rem !important;
+   padding:
+      clamp(3.5rem, 6vw, 5rem)
+      clamp(3.5rem, 6vw, 5rem)
+      5rem
+      clamp(3.5rem, 6vw, 5rem) !important;
 }
