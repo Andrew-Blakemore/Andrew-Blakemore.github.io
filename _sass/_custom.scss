@@ -768,6 +768,10 @@ body.layout--itinerary .search__toggle {
 .home-slide{
    position:absolute;
    inset:0;
+   
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
 
    display:flex;
 
@@ -787,7 +791,7 @@ body.layout--itinerary .search__toggle {
 }
 
 .home-slide-content{
-   1400px,90vw
+   width:min(1400px,90vw);
    text-align:left;
    color:white;
 
