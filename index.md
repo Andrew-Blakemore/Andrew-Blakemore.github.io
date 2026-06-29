@@ -87,8 +87,6 @@ layout: splash
 
   <div class="home-about__content">
 
-    <h2>About Me</h2>
-
     <p>
       I'm a biomedical engineer with interests spanning medical device design,
       additive manufacturing, photography, and global health. My work combines
@@ -151,24 +149,3 @@ document.addEventListener("DOMContentLoaded",()=>{
   reset();
 });
 </script>
-
-feature_row:
-  - image_path: assets/img/lamp.jpg
-    alt: "Rewiring Exam Lights in Guatemala"
-    title: "Repairing Clinical Equipment in the Field"
-    excerpt: "Rewiring exam lights to restore patient care in Guatemala."
-  - image_path: assets/img/endo.jpg
-    alt: "Stryker 1288 HD Endoscopy Camera System"
-    title: "Diagnosing an Endoscopy Camera System"
-    excerpt: "Isolating failures in critical imaging hardware."
-  - image_path: assets/img/OR.jpg
-    alt: "Steris 4085 OR Table"
-    title: "Maintaining a Surgical OR Table"
-    excerpt: "Preventive maintenance to ensure safe operation. "
-  - image_path: assets/img/xray.jpg
-    alt: "Source-Ray PowerMax 1260 Portable X-ray System"
-    title: "Troubleshooting a Portable X-ray System"
-    excerpt: "Tracing faults to restore reliable imaging."
----
-
-{% include feature_row %}
