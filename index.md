@@ -48,9 +48,7 @@ layout: splash
     <!-- Photography -->
     <div class="home-slide"
      style="
-       background-image:url('/assets/img/Veteran's_Bridge_Cover.jpg');
-       background-position:center 35%;
-     ">
+       background-image:url('/assets/img/Veteran's_Bridge_Cover.jpg');">
           
       <div class="home-slide-content">
       
