@@ -27,13 +27,13 @@ layout: splash
     
     <!-- Engineering -->
     <div class="home-slide"
-          style="background-image:url('/assets/img/print-bed.jpg');">
+          style="background-image:url('/assets/img/pliers_present1.jpg');">
       
       <div class="home-slide-content">
         <h1>Engineering Solutions from Concept to Prototype</h1>
 
         <p>
-          Biomedical engineering projects spanning medical devices,
+          Engineering projects spanning medical devices,
           additive manufacturing, embedded systems, and product
           development.
         </p>
@@ -48,7 +48,7 @@ layout: splash
     <!-- Photography -->
     <div class="home-slide"
      style="
-       background-image:url('/assets/img/photography/Mustang_at_Night.jpg');
+       background-image:url('/assets/img/Veteran's_Bridge_Cover.jpg');
        background-position:center 35%;
      ">
           
