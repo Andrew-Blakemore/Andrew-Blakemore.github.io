@@ -756,13 +756,14 @@ body.layout--itinerary .search__toggle {
 .home-hero__overlay{
    position:absolute;
    inset:0;
-
-   background: linear-gradient(
-    to right,
-    rgba(0,0,0,.70) 0%,
-    rgba(0,0,0,.45) 45%,
-    rgba(0,0,0,.25) 100%
-);
+   
+   background:linear-gradient(
+      90deg,
+      rgba(0,0,0,.75) 0%,
+      rgba(0,0,0,.60) 30%,
+      rgba(0,0,0,.30) 60%,
+      rgba(0,0,0,.10) 100%
+    );
 }
 
 .home-slide{
