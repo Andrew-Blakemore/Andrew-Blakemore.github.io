@@ -6,7 +6,9 @@ layout: splash
   <div class="home-hero__overlay">
 
     <!-- Keegan -->
-    <div class="home-slide">
+    <div class="home-slide"
+          style="background-image:url('/assets/img/print-bed.jpg');">
+          
       <div class="home-slide-content">
 
         <h1>Designed for Living</h1>
@@ -24,7 +26,9 @@ layout: splash
     </div>
     
     <!-- Engineering -->
-    <div class="home-slide active">
+    <div class="home-slide active"
+          style="background-image:url('/assets/img/print-bed.jpg');">
+      
       <div class="home-slide-content">
         <h1>Engineering Solutions from Concept to Prototype</h1>
 
@@ -42,7 +46,9 @@ layout: splash
     </div>
 
     <!-- Photography -->
-    <div class="home-slide">
+    <div class="home-slide"
+          style="background-image:url('/assets/img/photography/Mustang_at_night.jpg');">
+          
       <div class="home-slide-content">
       
         <h1>Photography that Tells Stories</h1>
