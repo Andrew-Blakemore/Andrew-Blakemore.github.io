@@ -640,7 +640,11 @@
 }
 
 .travel-scroll-space{
-   height:100vh;
+   height:calc(100vh - 60px);
+}
+
+.travel-page{
+    margin:-60px auto 0;
 }
 
 .travel-page{
