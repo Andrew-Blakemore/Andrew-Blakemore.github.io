@@ -605,7 +605,7 @@
 .travel-hero{
    --hero-opacity:1;
    
-   position:fixed;
+   position:absolute;
    inset:0;
    
    background-size:cover;
@@ -740,5 +740,5 @@ body.layout--itinerary .search__toggle {
 
 body.layout--itinerary .page__footer {
    margin-top: 0 !important;
-   padding-top: 1rem;
+   padding-top: 0 !important;
 }
