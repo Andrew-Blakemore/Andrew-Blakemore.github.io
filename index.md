@@ -48,7 +48,7 @@ layout: splash
     <!-- Photography -->
     <div class="home-slide"
      style="
-       background-image:url('/assets/img/car-hero.jpg');">
+       background-image:url('/assets/img/photography/HAND_ON_FIRE.jpg');">
           
       <div class="home-slide-content">
       
@@ -80,7 +80,7 @@ layout: splash
   <div class="home-about__image">
 
     <img
-      src="/assets/img/Andrew_Blakemore_Headshot_1a.jpg"
+      src="/assets/img/Class-of-2026.jpg"
       alt="Andrew Blakemore"
     >
 
@@ -111,7 +111,7 @@ layout: splash
     <h2>Featured Work</h2>
 
     <p class="featured-subtitle">
-        A selection of engineering projects, photography, and travel stories.
+        A selection of some of my favorite engineering projects and travel stories.
     </p>
 
     <div class="featured-grid">
@@ -119,7 +119,7 @@ layout: splash
         <a class="featured-card"
            href="/portfolio/Pliers/">
 
-            <img src="/assets/img/pliers-cover.jpg">
+            <img src="/assets/img/pliers_present1.jpg">
 
             <div class="featured-card-content">
 
@@ -146,8 +146,8 @@ layout: splash
                 <h3>Reykjavík</h3>
 
                 <p>
-                    The first destination of my Keegan Traveling Fellowship
-                    exploring prosthetics in Iceland.
+                    The first destination of my Keegan Traveling Fellowship:
+                    Exploring prosthetics in Iceland.
                 </p>
 
                 <span>Explore →</span>
@@ -159,7 +159,7 @@ layout: splash
         <a class="featured-card"
            href="/portfolio/TissuePressureMonitoringRetractor/">
 
-            <img src="/assets/img/retractor_header.jpg">
+            <img src="/assets/img/retractor_teaser.jpg">
 
             <div class="featured-card-content">
 
