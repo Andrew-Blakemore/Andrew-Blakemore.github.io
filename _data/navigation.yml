@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /_pages/about
   - title: "Engineering Projects"
-    url: /portfolio/
+    url: /engineering-portfolio/
   - title: "Photography"
     url: /photography/
   - title: "Keegan Traveling Fellow"
