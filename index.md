@@ -1,5 +1,5 @@
 ---
-title: "Engineer. Photographer. World Traveler"
+title: "Andrew Blakemore | Biomedical Engineer"
 layout: splash
 ---
 <div class="home-hero">
@@ -30,7 +30,7 @@ layout: splash
           style="background-image:url('/assets/img/print-bed.jpg');">
       
       <div class="home-slide-content">
-        <h1>Engineering Solutions from Concept to Prototype</h1>
+        <h1>From Concept to Prototype</h1>
 
         <p>
           Engineering projects spanning medical devices,
@@ -74,6 +74,8 @@ layout: splash
   </div>
 </div>
 
+<div class="custom-divider"></div>
+
 <div class="home-about">
 
   <div class="home-about__image">
@@ -88,21 +90,11 @@ layout: splash
   <div class="home-about__content">
 
     <p>
-      I'm a biomedical engineer with interests spanning medical device design,
-      additive manufacturing, photography, and global health. My work combines
-      engineering, design, and storytelling to explore how technology can
-      improve people's lives.
+      I'm a biomedical engineer from Lexington, Kentucky, with experience in clinical technology and additive manufacturing. Beyond engineering, I'm also a photographer and a 2026–27 Keegan Traveling Fellow. Across these disciplines, I'm driven by a shared interest in thoughtful design, innovation, and the stories behind the people and technologies that shape everyday life.
     </p>
 
-    <p>
-      Whether designing medical devices, documenting communities through
-      photography, or studying prosthetics around the world as a Keegan
-      Traveling Fellow, I'm driven by curiosity and a desire to understand how
-      thoughtful design shapes everyday experiences.
-    </p>
-
-    <a href="/about/" class="btn btn--primary">
-      Learn More
+    <a href="/_pages/about/" class="btn btn--primary">
+      About Me
     </a>
 
   </div>
