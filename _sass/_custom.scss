@@ -738,20 +738,26 @@ body.layout--itinerary .search__toggle {
 ========================================================== */
 
 .home-hero{
-   width:100%;
-   margin-left:0;
 
-   height:65vh;
-   min-height:500px;
-   max-height:650px;
+    position: relative;
 
+    left: 50%;
+    right: 50%;
 
-   position:relative;
+    margin-left: -50vw;
+    margin-right: -50vw;
 
-   background-image:url("/assets/img/home-hero.jpg");
+    width: 100%;
+    max-width: 100vw;
 
-   background-size:cover;
-   background-position:center;
+    height: 65vh;
+    min-height: 500px;
+    max-height: 650px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
 
 .home-hero__overlay{
