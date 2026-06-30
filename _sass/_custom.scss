@@ -741,9 +741,10 @@ body.layout--itinerary .search__toggle {
    width:100vw;
    margin-left:calc(50% - 50vw);
 
-   height:58vh;
-   min-height:420px;
-   max-height:560px;
+   height:65vh;
+   min-height:500px;
+   max-height:650px;
+
 
    position:relative;
 
@@ -759,11 +760,12 @@ body.layout--itinerary .search__toggle {
    
    background:linear-gradient(
       90deg,
-      rgba(0,0,0,.75) 0%,
-      rgba(0,0,0,.60) 30%,
-      rgba(0,0,0,.30) 60%,
-      rgba(0,0,0,.10) 100%
-    );
+      rgba(0,0,0,.82) 0%,
+      rgba(0,0,0,.65) 35%,
+      rgba(0,0,0,.38) 65%,
+      rgba(0,0,0,.12) 100%
+   );
+   
 }
 
 .home-slide{
@@ -794,6 +796,7 @@ body.layout--itinerary .search__toggle {
 .home-slide-content{
    width:min(1400px,90vw);
    text-align:left;
+   margin-top:2rem;
    color:white;
 
    text-shadow:
