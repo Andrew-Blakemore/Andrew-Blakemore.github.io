@@ -27,7 +27,7 @@ layout: splash
     
     <!-- Engineering -->
     <div class="home-slide"
-          style="background-image:url('/assets/img/print-bed.jpg');">
+          style="background-image:url('/assets/img/engineering-hero.jpg');">
       
       <div class="home-slide-content">
         <h1>From Concept to Prototype</h1>
@@ -89,7 +89,7 @@ layout: splash
   <div class="home-about__content">
 
       <p>
-      Hi, my name is Andrew.
+      Hi! My name is Andrew.
     </p>
 
     <p>
@@ -123,10 +123,10 @@ layout: splash
 
             <div class="featured-card-content">
 
-                <h3>Parallel Action Pliers</h3>
+                <h3>Print-in-Place Pliers</h3>
 
                 <p>
-                    A custom-designed surgical instrument developed through
+                    Multi-material pliers developed through
                     iterative CAD and additive manufacturing.
                 </p>
 
