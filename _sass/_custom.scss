@@ -45,6 +45,11 @@
   text-align: center;
 }
 
+html,
+body{
+    overflow-x: hidden;
+}
+
 .custom-page 
 /* ======================================================================
    2. Shared Components
@@ -741,14 +746,9 @@ body.layout--itinerary .search__toggle {
 
     position: relative;
 
+    width: 100vw;
     left: 50%;
-    right: 50%;
-
-    margin-left: -50vw;
-    margin-right: -50vw;
-
-    width: 100%;
-    max-width: 100vw;
+    transform: translateX(-50%);
 
     height: 65vh;
     min-height: 500px;
