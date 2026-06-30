@@ -106,6 +106,80 @@ layout: splash
 
 <div class="custom-divider"></div>
 
+<section class="featured-pages">
+
+    <h2>Featured Work</h2>
+
+    <p class="featured-subtitle">
+        A selection of engineering projects, photography, and travel stories.
+    </p>
+
+    <div class="featured-grid">
+
+        <a class="featured-card"
+           href="/portfolio/Pliers/">
+
+            <img src="/assets/img/pliers-cover.jpg">
+
+            <div class="featured-card-content">
+
+                <h3>Parallel Action Pliers</h3>
+
+                <p>
+                    A custom-designed surgical instrument developed through
+                    iterative CAD and additive manufacturing.
+                </p>
+
+                <span>Read More →</span>
+
+            </div>
+
+        </a>
+
+        <a class="featured-card"
+           href="/keegan-itinerary/reykjavik/">
+
+            <img src="/assets/img/keegan/reykjavik-cover.jpg">
+
+            <div class="featured-card-content">
+
+                <h3>Reykjavík</h3>
+
+                <p>
+                    The first destination of my Keegan Traveling Fellowship
+                    exploring prosthetics in Iceland.
+                </p>
+
+                <span>Explore →</span>
+
+            </div>
+
+        </a>
+
+        <a class="featured-card"
+           href="/portfolio/TissuePressureMonitoringRetractor/">
+
+            <img src="/assets/img/retractor_header.jpg">
+
+            <div class="featured-card-content">
+
+                <h3>Tissue Pressure Monitoring Retractor</h3>
+
+                <p>
+                    A pressure-sensing cervical retractor developed alongside
+                    Medtronic Spine R&D.
+                </p>
+
+                <span>View Project →</span>
+
+            </div>
+
+        </a>
+
+    </div>
+
+</section>
+
 <script>
 
 document.addEventListener("DOMContentLoaded",()=>{
