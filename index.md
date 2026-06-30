@@ -89,7 +89,7 @@ layout: splash
   <div class="home-about__content">
 
       <p>
-      Hi! My name is Andrew.
+      Hi! My name is Andrew Blakemore.
     </p>
 
     <p>
