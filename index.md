@@ -38,7 +38,7 @@ layout: splash
           development.
         </p>
 
-        <a href="/portfolio/" class="btn btn--light-outline">
+        <a href="/engineering-portfolio/" class="btn btn--light-outline">
           View Engineering Projects
         </a>
         
