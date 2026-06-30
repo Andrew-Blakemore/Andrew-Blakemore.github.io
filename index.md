@@ -55,8 +55,7 @@ layout: splash
         <h1>Photography that Tells Stories</h1>
 
         <p>
-          Portrait, graduation, automotive, and documentary photography
-          focused on authentic moments and visual storytelling.
+          An assortment of photos capturing people and their stories through thoughtful composition and visual storytelling.
         </p>
 
         <a href="/photography/" class="btn btn--light-outline">
@@ -89,8 +88,12 @@ layout: splash
 
   <div class="home-about__content">
 
+      <p>
+      Hi, my name is Andrew.
+    </p>
+
     <p>
-      I'm a biomedical engineer from Lexington, Kentucky, with experience in clinical technology and additive manufacturing. Beyond engineering, I'm also a photographer and a 2026–27 Keegan Traveling Fellow. Across these disciplines, I'm driven by a shared interest in thoughtful design, innovation, and the stories behind the people and technologies that shape everyday life.
+      I'm a biomedical engineer from Lexington, Kentucky, with experience in clinical technology and additive manufacturing. Beyond engineering, I'm also a photographer and a 2026–27 Keegan Traveling Fellow. Across these disciplines, I'm driven by an interest in thoughtful design, innovation, and the stories behind the people and technologies that shape everyday life.
     </p>
 
     <a href="/_pages/about/" class="btn btn--primary">
