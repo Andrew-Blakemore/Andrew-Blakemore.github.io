@@ -8,3 +8,50 @@ layout: archive
 <div class="entries-{{ entries_layout }}">
   {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
 </div>
+
+{% if page.url == "/engineering-portfolio/" %}
+
+<div class="repair-gallery">
+
+    <h2>Clinical Equipment Refurbishment</h2>
+
+    <p class="repair-intro">
+        During my internship at Project C.U.R.E., I tested,
+        troubleshot, repaired, calibrated, and refurbished
+        medical equipment before it was deployed to hospitals
+        throughout the world.
+    </p>
+
+    <div class="repair-scroll">
+
+        <figure class="repair-card">
+            <img src="/assets/img/lamp.jpg">
+            <figcaption>
+                Rewiring exam lights to restore patient care.
+            </figcaption>
+        </figure>
+
+        <figure class="repair-card">
+            <img src="/assets/img/endo.jpg">
+            <figcaption>
+                Diagnosing a Stryker HD endoscopy camera.
+            </figcaption>
+        </figure>
+
+        <figure class="repair-card">
+            <img src="/assets/img/OR.jpg">
+            <figcaption>
+                Preventive maintenance on surgical OR tables.
+            </figcaption>
+        </figure>
+
+        <figure class="repair-card">
+            <img src="/assets/img/xray.jpg">
+            <figcaption>
+                Troubleshooting a portable X-ray system.
+            </figcaption>
+        </figure>
+
+    </div>
+
+</div>
