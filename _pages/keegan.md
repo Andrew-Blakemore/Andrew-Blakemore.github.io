@@ -156,7 +156,7 @@ document.addEventListener("DOMContentLoaded", () => {
       lon: -21.9426,
       url: "{{ '/keegan-itinerary/reykjavik/' | relative_url }}",
       link_enabled: true,
-      summary: "25/08/2026 - 27/08/2027",
+      summary: "August 25–27, 2026",
       route: true,
       current: false
     },
@@ -168,7 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
       lon: -0.1278,
       url: "{{ '/keegan-itinerary/london/' | relative_url }}",
       link_enabled: false,
-      summary: "27/8/2027 - 7/9/2026",
+      summary: "August 27 – September 8, 2026",
       route: true,
       current: false
     },
@@ -180,7 +180,7 @@ document.addEventListener("DOMContentLoaded", () => {
       lon: 13.405,
       url: "{{ '/keegan-itinerary/berlin/' | relative_url }}",
       link_enabled: false,
-      summary: "7/9/2026 - TBD",
+      summary: "September 8 – TBD, 2026",
       route: true,
       current: false
     },
