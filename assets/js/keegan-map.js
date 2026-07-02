@@ -167,12 +167,12 @@ document.addEventListener("DOMContentLoaded", () => {
       } else if (linkIsEnabled) {
         popupContent = `
           <strong>${idx + 1}. ${stop.name}</strong><br/>
-          <a href="${stop.url}">See more</a>
+          <a href="${stop.url}">Explore →</a>
         `;
       } else {
         popupContent = `
           <strong>${idx + 1}. ${stop.name}</strong><br/>
-          <span>See more coming soon</span>
+          <span>Coming Soon</span>
         `;
       }
 
