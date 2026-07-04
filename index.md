@@ -137,9 +137,9 @@ layout: splash
         </a>
 
         <a class="featured-card"
-           href="/keegan-itinerary/reykjavik/">
+           href="/keegan-itinerary/iceland/">
 
-            <img src="/assets/img/keegan/reykjavik-cover.jpg">
+            <img src="/assets/img/keegan/reykjavik.jpg">
 
             <div class="featured-card-content">
 
