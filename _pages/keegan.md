@@ -176,8 +176,8 @@ document.addEventListener("DOMContentLoaded", () => {
       leg: "europe",
       lat: 52.52,
       lon: 13.405,
-      url: "{{ '/keegan-itinerary/berlin/' | relative_url }}",
-      link_enabled: false,
+      url: "{{ '/keegan-itinerary/germany/' | relative_url }}",
+      link_enabled: true,
       summary: "September 8 – TBD, 2026",
       route: true,
       current: false
