@@ -165,7 +165,7 @@ document.addEventListener("DOMContentLoaded", () => {
       lat: 51.5074,
       lon: -0.1278,
       url: "{{ '/keegan-itinerary/united-kingdom/' | relative_url }}",
-      link_enabled: false,
+      link_enabled: true,
       summary: "August 27 – September 8, 2026",
       route: true,
       current: false
