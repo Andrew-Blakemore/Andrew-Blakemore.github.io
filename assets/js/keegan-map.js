@@ -159,7 +159,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       let popupContent;
       
-      if (stop.name === "Nashville") {
+      if (stop.name === "Kentucky, USA") {
         popupContent = `
           <strong>${idx + 1}. ${stop.name}</strong><br/>
           <span>Starting Point</span>
