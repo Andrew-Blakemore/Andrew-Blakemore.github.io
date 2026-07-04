@@ -120,59 +120,58 @@ document.addEventListener("DOMContentLoaded", () => {
   Drag to explore • Double-click to zoom
 </p>
 
-<!-- Short stops along the route included: Brussels, Vienna, and Dubrovnik. -->
-
 <div id="keegan-index" class="keegan-index keegan-reveal"></div>
 
 <script>
   window.keeganStops = [
     {
-      name: "Lexington",
+      name: "Kentucky, USA",
       country: "us",
       leg: "north-america",
       lat: 38.0406,
       lon: -84.5037,
-      summary: "Resting between travel legs.",
-      route: false,
+      link_enabled: false,
+      summary: "Starting Point",
+      route: true,
       current: false
     },
     {
-      name: "Nashville",
+      name: "Tennessee, USA",
       country: "us",
       leg: "north-america",
       lat: 36.1627,
       lon: -86.7816,
       link_enabled: false,
       summary: "Starting Point",
-      route: true,
+      route: false,
       current: true
     },
     {
-      name: "Reykjavík",
+      name: "Iceland",
       country: "is",
       leg: "europe",
       lat: 64.1466,
       lon: -21.9426,
-      url: "{{ '/keegan-itinerary/reykjavik/' | relative_url }}",
+      url: "{{ '/keegan-itinerary/iceland/' | relative_url }}",
       link_enabled: true,
       summary: "August 25–27, 2026",
       route: true,
       current: false
     },
     {
-      name: "London",
+      name: "United Kingdom",
       country: "gb",
       leg: "europe",
       lat: 51.5074,
       lon: -0.1278,
-      url: "{{ '/keegan-itinerary/london/' | relative_url }}",
+      url: "{{ '/keegan-itinerary/united-kingdom/' | relative_url }}",
       link_enabled: false,
       summary: "August 27 – September 8, 2026",
       route: true,
       current: false
     },
     {
-      name: "Berlin",
+      name: "Germany",
       country: "de",
       leg: "europe",
       lat: 52.52,
@@ -184,7 +183,7 @@ document.addEventListener("DOMContentLoaded", () => {
       current: false
     },
     {
-      name: "Rzeszów",
+      name: "Poland",
       country: "pl",
       leg: "europe",
       lat: 50.0413,
@@ -196,7 +195,7 @@ document.addEventListener("DOMContentLoaded", () => {
       current: false
     },
     {
-      name: "Istanbul",
+      name: "Turkey",
       country: "tr",
       leg: "europe",
       lat: 41.0082,
@@ -208,7 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
       current: false
     },
     {
-      name: "Athens",
+      name: "Greece",
       country: "gr",
       leg: "europe",
       lat: 37.9838,
@@ -220,7 +219,7 @@ document.addEventListener("DOMContentLoaded", () => {
       current: false
     },
     {
-      name: "Casablanca",
+      name: "Morocco",
       country: "ma",
       leg: "africa",
       lat: 33.5731,
@@ -232,7 +231,7 @@ document.addEventListener("DOMContentLoaded", () => {
       current: false
     },
     {
-      name: "Freetown",
+      name: "Sierra Leone",
       country: "sl",
       leg: "africa",
       lat: 8.4657,
@@ -244,7 +243,7 @@ document.addEventListener("DOMContentLoaded", () => {
       current: false
     },
     {
-      name: "Accra",
+      name: "Ghana",
       country: "gh",
       leg: "africa",
       lat: 5.6037,
@@ -256,7 +255,7 @@ document.addEventListener("DOMContentLoaded", () => {
       current: false
     },
     {
-      name: "Kigali",
+      name: "Rwanda",
       country: "rw",
       leg: "africa",
       lat: -1.9441,
@@ -268,7 +267,7 @@ document.addEventListener("DOMContentLoaded", () => {
       current: false
     },
     {
-      name: "Nairobi",
+      name: "Kenya",
       country: "ke",
       leg: "africa",
       lat: -1.2921,
