@@ -2,12 +2,20 @@
 main:
   - title: "About"
     url: /_pages/about
+    icon: "fas fa-user"
+
   - title: "Engineering Projects"
     url: /engineering-portfolio/
+    icon: "fas fa-cogs"
+
   - title: "Photography"
     url: /photography/
+    icon: "fas fa-camera"
+
   - title: "Keegan Traveling Fellow"
     url: /keegan-traveling-fellowship/
+    icon: "fas fa-globe-americas"
+    
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
