@@ -143,7 +143,7 @@ layout: splash
 
             <div class="featured-card-content">
 
-                <h3>Reykjavík</h3>
+                <h3>Reykjavík, Iceland</h3>
 
                 <p>
                     The first destination of my Keegan Traveling Fellowship:
