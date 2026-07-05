@@ -93,7 +93,7 @@ layout: splash
     </p>
 
     <p>
-      I’ve always been someone who loves wearing different hats. Whether I’m diving into a complex engineering problem, collaborating on a creative project, or planning a large-scale event, I’m happiest when I’m learning something new and bringing people of different perspectives together.
+      I’ve always been someone who loves wearing different hats. Whether I’m diving into a complex engineering problem, collaborating on a creative project, or planning a large-scale event, I’m most fulfilled when I’m learning something new and bringing people of different perspectives together.
     </p>
 
     <p>
