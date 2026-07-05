@@ -89,11 +89,11 @@ layout: splash
   <div class="home-about__content">
 
       <p>
-      Hi! My name is Andrew Blakemore.
+      Hi there! My name is Andrew Blakemore.
     </p>
 
     <p>
-      I'm a biomedical engineer from Lexington, Kentucky, with experience in clinical technology and additive manufacturing. Beyond engineering, I'm also a photographer and a 2026–27 Keegan Traveling Fellow. Across these disciplines, I'm driven by an interest in thoughtful design, innovation, and the stories behind the people and technologies that shape everyday life.
+      I'm a biomedical engineer from Lexington, Kentucky, and I’ve always been someone who loves wearing different hats. Whether I’m diving into a complex engineering problem, collaborating on a creative project, or helping coordinate a large-scale event, I’m happiest when I’m learning something new and bringing people together. For me, the most rewarding projects are the ones where I get to listen to different perspectives and make a real difference in someone's day-to-day life. Take a look around to see what I’ve been working on, and feel free to send me an email—I’d love to connect!
     </p>
 
     <a href="/_pages/about/" class="btn btn--primary">
