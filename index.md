@@ -97,7 +97,7 @@ layout: splash
     </p>
 
     <p>
-      Take a look around to see some of the projects I’ve been working on. And please, shoot me an email—I’d love to connect!
+      Take a look around to see what I’ve been working on, and feel free to shoot me an email—I’d love to connect!
     </p>
 
     <a href="/_pages/about/" class="btn btn--primary">
