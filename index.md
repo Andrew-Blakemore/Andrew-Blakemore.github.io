@@ -216,7 +216,7 @@ document.addEventListener("DOMContentLoaded",()=>{
   
   function reset(){
     clearInterval(timer);
-    timer=setInterval(next,7000);
+    timer=setInterval(next,5500);
   }
   
   reset();
