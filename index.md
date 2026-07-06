@@ -1,7 +1,6 @@
 ---
 title: "Andrew Blakemore – Biomedical Engineer"
 layout: splash
-seo_title: "Andrew Blakemore – Biomedical Engineer"
 ---
 <div class="home-hero">
   <div class="home-hero__overlay">
@@ -94,7 +93,7 @@ seo_title: "Andrew Blakemore – Biomedical Engineer"
     </p>
 
     <p>
-      I’ve always been someone who loves wearing different hats. Whether I’m diving into a complex engineering problem, collaborating on a creative project, or planning a large-scale event, I’m most fulfilled when I’m learning something new and bringing people of different perspectives together.
+      I’ve always been someone who loves wearing different hats. Whether I’m diving into a complex engineering problem, collaborating on a creative project, or planning a large-scale event, I’m at my best when I’m learning something new and bringing people of different perspectives together.
     </p>
 
     <p>
