@@ -1,4 +1,3 @@
-# main links
 main:
   - title: "About"
     url: /_pages/about
@@ -15,10 +14,3 @@ main:
   - title: "Keegan Fellowship"
     url: /keegan-traveling-fellowship/
     icon: "fas fa-globe-americas"
-    
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
