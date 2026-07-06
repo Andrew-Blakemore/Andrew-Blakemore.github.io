@@ -2,6 +2,15 @@
 
 <meta name="robots" content="noindex nofollow">
 
+{% if page.layout == "itinerary" and page.header.image %}
+  <link
+    rel="preload"
+    as="image"
+    href="{{ page.header.image | relative_url }}"
+    fetchpriority="high"
+  >
+{% endif %}
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
