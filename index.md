@@ -55,7 +55,7 @@ layout: splash
         <h1>Photography that Tells Stories</h1>
 
         <p>
-          An assortment of photos capturing people and their stories through thoughtful composition and visual storytelling.
+          An assortment of photos capturing people and their stories through thoughtful composition.
         </p>
 
         <a href="/photography/" class="btn btn--light-outline">
