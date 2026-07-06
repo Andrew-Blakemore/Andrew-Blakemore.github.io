@@ -1,6 +1,7 @@
 ---
 title: "Andrew Blakemore | Biomedical Engineer"
 layout: splash
+seo_title: "Andrew Blakemore | Biomedical Engineer"
 ---
 <div class="home-hero">
   <div class="home-hero__overlay">
