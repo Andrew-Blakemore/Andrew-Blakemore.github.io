@@ -7,7 +7,7 @@ layout: splash
 
     <!-- Keegan -->
     <div class="home-slide active"
-          style="background-image:url('/assets/img/globe-hero.jpg');">
+          style="background-image:url('/assets/img/heroes/travel.webp');">
           
       <div class="home-slide-content">
 
@@ -27,7 +27,7 @@ layout: splash
     
     <!-- Engineering -->
     <div class="home-slide"
-          style="background-image:url('/assets/img/engineering-hero.jpg');">
+          style="background-image:url('/assets/img/heroes/engineering.webp');">
       
       <div class="home-slide-content">
         <h1>From Concept to Prototype</h1>
@@ -48,7 +48,7 @@ layout: splash
     <!-- Photography -->
     <div class="home-slide"
      style="
-       background-image:url('/assets/img/photography/HAND_ON_FIRE.jpg');">
+       background-image:url('/assets/img/heroes/photo-feature.webp');">
           
       <div class="home-slide-content">
       
