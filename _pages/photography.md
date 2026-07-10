@@ -6,7 +6,7 @@ classes: wide custom-page
 author_profile: false
 ---
 
-<div class="custom-hero" style="background-image: url('/assets/img/photography-hero.jpg');">
+<div class="custom-hero" style="background-image: url('/assets/img/heroes/photography.webp');">
   <div class="custom-hero__overlay">
     <div class="custom-hero__text">
       <p>
