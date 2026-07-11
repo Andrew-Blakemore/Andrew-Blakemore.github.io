@@ -65,38 +65,49 @@ author_profile: false
 </div>
 
 <script>
-
 document.addEventListener("DOMContentLoaded", () => {
-  const slides = [document.querySelector(".keegan-title-slide"),document.querySelector(".keegan-description-slide")];
-  const dots = document.querySelectorAll(".keegan-slide-indicators button");
+  const slides = [
+    document.querySelector(".keegan-title-slide"),
+    document.querySelector(".keegan-description-slide")
+  ];
+
+  const dots = document.querySelectorAll(
+    ".keegan-slide-indicators button"
+  );
+
+  // Slide 0: Designed for Living title
+  // Slide 1: Description
+  const slideDurations = [5000, 15000];
+
   let current = 0;
-  function showSlide(index){
-    slides.forEach((slide,i)=>{
-      slide.classList.toggle("active",i===index);
-      dots[i].classList.toggle("active",i===index);
-    });
-    current=index;
+  let timer;
+
+  function scheduleNextSlide() {
+    clearTimeout(timer);
+
+    timer = setTimeout(() => {
+      showSlide((current + 1) % slides.length);
+    }, slideDurations[current]);
   }
-  
-  dots.forEach((dot,index)=>{
-    dot.addEventListener("click",()=>{
+
+  function showSlide(index) {
+    slides.forEach((slide, i) => {
+      slide.classList.toggle("active", i === index);
+      dots[i].classList.toggle("active", i === index);
+    });
+
+    current = index;
+    scheduleNextSlide();
+  }
+
+  dots.forEach((dot, index) => {
+    dot.addEventListener("click", () => {
       showSlide(index);
-      resetTimer();
     });
   });
-  function next(){
-    showSlide((current+1)%slides.length);
-  }
-  
-  let timer;
-  function resetTimer(){
-    clearInterval(timer);
-    timer=setInterval(next,10000);
-    }
-  
-  resetTimer();
-});
 
+  scheduleNextSlide();
+});
 </script>
 
 <div class="custom-divider"></div>
