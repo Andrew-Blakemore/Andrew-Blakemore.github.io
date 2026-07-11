@@ -127,7 +127,7 @@
 - thumbnail: "/assets/img/photography/thumbnails/Fish_Out_of_Water.webp"
   gallery: "/assets/img/photography/gallery/Fish_Out_of_Water.webp"
   title: "Fish Out of Water"
-  category: animals
+  category: portraits
   featured: true
   width: 800
   height: 800
@@ -154,7 +154,7 @@
   height: 800
 - thumbnail: "/assets/img/photography/thumbnails/HAND_ON_FIRE.webp"
   gallery: "/assets/img/photography/gallery/HAND_ON_FIRE.webp"
-  title: "Hand on Fire"
+  title: "HAND ON FIRE"
   category: portraits
   featured: true
   width: 800
@@ -211,7 +211,7 @@
 - thumbnail: "/assets/img/photography/thumbnails/Lamb_Chop.webp"
   gallery: "/assets/img/photography/gallery/Lamb_Chop.webp"
   title: "Lamb Chop"
-  category: animals
+  category: food
   featured: true
   width: 800
   height: 800
