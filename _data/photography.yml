@@ -1,0 +1,707 @@
+- thumbnail: "/assets/img/photography/thumbnails/Butterfly.webp"
+  gallery: "/assets/img/photography/gallery/Butterfly.webp"
+  title: "Butterfly"
+  category: portraits
+  featured: true
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Lost_in_the_Desert.webp"
+  gallery: "/assets/img/photography/gallery/Lost_in_the_Desert.webp"
+  title: "Lost in the Desert"
+  category: portraits
+  featured: true
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/CH_EH_Kirkland_2.webp"
+  gallery: "/assets/img/photography/gallery/CH_EH_Kirkland_2.webp"
+  title: "CH EH Kirkland 2"
+  category: graduation
+  featured: true
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Forest_Friend.webp"
+  gallery: "/assets/img/photography/gallery/Forest_Friend.webp"
+  title: "Forest Friend"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 468
+- thumbnail: "/assets/img/photography/thumbnails/Cyan_Fever.webp"
+  gallery: "/assets/img/photography/gallery/Cyan_Fever.webp"
+  title: "Cyan Fever"
+  category: portraits
+  featured: true
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Veteran's_Bridge.webp"
+  gallery: "/assets/img/photography/gallery/Veteran's_Bridge.webp"
+  title: "Veteran's Bridge"
+  category: cars
+  featured: true
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Keeneland_Girl.webp"
+  gallery: "/assets/img/photography/gallery/Keeneland_Girl.webp"
+  title: "Keeneland Girl"
+  category: portraits
+  featured: true
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/Lamb_Chop.webp"
+  gallery: "/assets/img/photography/gallery/Lamb_Chop.webp"
+  title: "Lamb Chop"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Y2K.webp"
+  gallery: "/assets/img/photography/gallery/Y2K.webp"
+  title: "Y2K"
+  category: portraits
+  featured: true
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Gone_in_the_Night.webp"
+  gallery: "/assets/img/photography/gallery/Gone_in_the_Night.webp"
+  title: "Gone in the Night"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Hot_Blooded.webp"
+  gallery: "/assets/img/photography/gallery/Hot_Blooded.webp"
+  title: "Hot Blooded"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/MT_EndSchoolZone_BW.webp"
+  gallery: "/assets/img/photography/gallery/MT_EndSchoolZone_BW.webp"
+  title: "MT EndSchoolZone BW"
+  category: graduation
+  featured: true
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/HAND_ON_FIRE.webp"
+  gallery: "/assets/img/photography/gallery/HAND_ON_FIRE.webp"
+  title: "Hand on Fire"
+  category: portraits
+  featured: true
+  width: 800
+  height: 573
+- thumbnail: "/assets/img/photography/thumbnails/Max.webp"
+  gallery: "/assets/img/photography/gallery/Max.webp"
+  title: "Max"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Nucleus.webp"
+  gallery: "/assets/img/photography/gallery/Nucleus.webp"
+  title: "Nucleus"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 1011
+- thumbnail: "/assets/img/photography/thumbnails/Garage_Lighting.webp"
+  gallery: "/assets/img/photography/gallery/Garage_Lighting.webp"
+  title: "Garage Lighting"
+  category: cars
+  featured: true
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/The_Dragon's_Hoard.webp"
+  gallery: "/assets/img/photography/gallery/The_Dragon's_Hoard.webp"
+  title: "The Dragon's Hoard"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 1028
+- thumbnail: "/assets/img/photography/thumbnails/NOCTA_2.webp"
+  gallery: "/assets/img/photography/gallery/NOCTA_2.webp"
+  title: "NOCTA, Rose Street Garage, Part 2"
+  category: portraits
+  featured: true
+  width: 800
+  height: 1422
+- thumbnail: "/assets/img/photography/thumbnails/Mustang_at_Night.webp"
+  gallery: "/assets/img/photography/gallery/Mustang_at_Night.webp"
+  title: "Mustang at Night"
+  category: cars
+  featured: true
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Red_Cap.webp"
+  gallery: "/assets/img/photography/gallery/Red_Cap.webp"
+  title: "Red Cap"
+  category: portraits
+  featured: true
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_9.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_9.webp"
+  title: "CH Wyatt 9"
+  category: graduation
+  featured: true
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Fish_Out_of_Water.webp"
+  gallery: "/assets/img/photography/gallery/Fish_Out_of_Water.webp"
+  title: "Fish Out of Water"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Seeing_Double.webp"
+  gallery: "/assets/img/photography/gallery/Seeing_Double.webp"
+  title: "Seeing Double"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CHTKMY.webp"
+  gallery: "/assets/img/photography/gallery/CHTKMY.webp"
+  title: "CHTKMY"
+  category: portraits
+  featured: true
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/A_Glimpse_into_the_Unknown.webp"
+  gallery: "/assets/img/photography/gallery/A_Glimpse_into_the_Unknown.webp"
+  title: "A Glimpse into the Unknown"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Alone_at_Last.webp"
+  gallery: "/assets/img/photography/gallery/Alone_at_Last.webp"
+  title: "Alone at Last"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Appetizer.webp"
+  gallery: "/assets/img/photography/gallery/Appetizer.webp"
+  title: "Appetizer"
+  category: miscellaneous
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Batman_Building.webp"
+  gallery: "/assets/img/photography/gallery/Batman_Building.webp"
+  title: "Batman Building"
+  category: cars
+  featured: false
+  width: 800
+  height: 1422
+- thumbnail: "/assets/img/photography/thumbnails/Bluegrass_Dog.webp"
+  gallery: "/assets/img/photography/gallery/Bluegrass_Dog.webp"
+  title: "Bluegrass Dog"
+  category: miscellaneous
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/CH_EH_Kirkland_1.webp"
+  gallery: "/assets/img/photography/gallery/CH_EH_Kirkland_1.webp"
+  title: "CH EH Kirkland 1"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/CH_EH_Kirkland_3.webp"
+  gallery: "/assets/img/photography/gallery/CH_EH_Kirkland_3.webp"
+  title: "CH EH Kirkland 3"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/CH_Kirkland_1.webp"
+  gallery: "/assets/img/photography/gallery/CH_Kirkland_1.webp"
+  title: "CH Kirkland 1"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Kirkland_2.webp"
+  gallery: "/assets/img/photography/gallery/CH_Kirkland_2.webp"
+  title: "CH Kirkland 2"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Kirkland_3.webp"
+  gallery: "/assets/img/photography/gallery/CH_Kirkland_3.webp"
+  title: "CH Kirkland 3"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/CH_Kirkland_4.webp"
+  gallery: "/assets/img/photography/gallery/CH_Kirkland_4.webp"
+  title: "CH Kirkland 4"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/CH_Kirkland_5.webp"
+  gallery: "/assets/img/photography/gallery/CH_Kirkland_5.webp"
+  title: "CH Kirkland 5"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_1.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_1.webp"
+  title: "CH Wyatt 1"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_2.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_2.webp"
+  title: "CH Wyatt 2"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_3.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_3.webp"
+  title: "CH Wyatt 3"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_4.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_4.webp"
+  title: "CH Wyatt 4"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_5.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_5.webp"
+  title: "CH Wyatt 5"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_6.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_6.webp"
+  title: "CH Wyatt 6"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_7.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_7.webp"
+  title: "CH Wyatt 7"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_8.webp"
+  gallery: "/assets/img/photography/gallery/CH_Wyatt_8.webp"
+  title: "CH Wyatt 8"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/Chevrolet_Camaro.webp"
+  gallery: "/assets/img/photography/gallery/Chevrolet_Camaro.webp"
+  title: "Chevrolet Camaro"
+  category: cars
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Chevrolet_Corvette_C7.webp"
+  gallery: "/assets/img/photography/gallery/Chevrolet_Corvette_C7.webp"
+  title: "Chevrolet Corvette C7"
+  category: cars
+  featured: false
+  width: 800
+  height: 467
+- thumbnail: "/assets/img/photography/thumbnails/Chevrolet_Corvette_C8.webp"
+  gallery: "/assets/img/photography/gallery/Chevrolet_Corvette_C8.webp"
+  title: "Chevrolet Corvette C8"
+  category: cars
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Chrysler_200.webp"
+  gallery: "/assets/img/photography/gallery/Chrysler_200.webp"
+  title: "Chrysler 200"
+  category: cars
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Crimson_Disc.webp"
+  gallery: "/assets/img/photography/gallery/Crimson_Disc.webp"
+  title: "Crimson Disc"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Derby.webp"
+  gallery: "/assets/img/photography/gallery/Derby.webp"
+  title: "Derby"
+  category: miscellaneous
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Dichotomy_Dog.webp"
+  gallery: "/assets/img/photography/gallery/Dichotomy_Dog.webp"
+  title: "Dichotomy Dog"
+  category: miscellaneous
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Downtown.webp"
+  gallery: "/assets/img/photography/gallery/Downtown.webp"
+  title: "Downtown"
+  category: cars
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Dreams_of_Flying.webp"
+  gallery: "/assets/img/photography/gallery/Dreams_of_Flying.webp"
+  title: "Dreams of Flying"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Driving_Through_the_615.webp"
+  gallery: "/assets/img/photography/gallery/Driving_Through_the_615.webp"
+  title: "Driving Through the 615"
+  category: cars
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/EH_Kirkland_1.webp"
+  gallery: "/assets/img/photography/gallery/EH_Kirkland_1.webp"
+  title: "EH Kirkland 1"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/EH_Kirkland_2.webp"
+  gallery: "/assets/img/photography/gallery/EH_Kirkland_2.webp"
+  title: "EH Kirkland 2"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/EH_Kirkland_3.webp"
+  gallery: "/assets/img/photography/gallery/EH_Kirkland_3.webp"
+  title: "EH Kirkland 3"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/EH_Kirkland_4.webp"
+  gallery: "/assets/img/photography/gallery/EH_Kirkland_4.webp"
+  title: "EH Kirkland 4"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/EH_Kirkland_5.webp"
+  gallery: "/assets/img/photography/gallery/EH_Kirkland_5.webp"
+  title: "EH Kirkland 5"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/EH_Kirkland_6.webp"
+  gallery: "/assets/img/photography/gallery/EH_Kirkland_6.webp"
+  title: "EH Kirkland 6"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/EH_Kirkland_7.webp"
+  gallery: "/assets/img/photography/gallery/EH_Kirkland_7.webp"
+  title: "EH Kirkland 7"
+  category: graduation
+  featured: false
+  width: 800
+  height: 640
+- thumbnail: "/assets/img/photography/thumbnails/EH_Wyatt_1.webp"
+  gallery: "/assets/img/photography/gallery/EH_Wyatt_1.webp"
+  title: "EH Wyatt 1"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/EH_Wyatt_2.webp"
+  gallery: "/assets/img/photography/gallery/EH_Wyatt_2.webp"
+  title: "EH Wyatt 2"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/EH_Wyatt_3.webp"
+  gallery: "/assets/img/photography/gallery/EH_Wyatt_3.webp"
+  title: "EH Wyatt 3"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/EH_Wyatt_4.webp"
+  gallery: "/assets/img/photography/gallery/EH_Wyatt_4.webp"
+  title: "EH Wyatt 4"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/EH_Wyatt_5.webp"
+  gallery: "/assets/img/photography/gallery/EH_Wyatt_5.webp"
+  title: "EH Wyatt 5"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/Home_Stretch.webp"
+  gallery: "/assets/img/photography/gallery/Home_Stretch.webp"
+  title: "Home Stretch"
+  category: miscellaneous
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Horse_and_Man.webp"
+  gallery: "/assets/img/photography/gallery/Horse_and_Man.webp"
+  title: "Horse and Man"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Hyundai_Genesis_Coupe.webp"
+  gallery: "/assets/img/photography/gallery/Hyundai_Genesis_Coupe.webp"
+  title: "Hyundai Genesis Coupe"
+  category: cars
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Keeneland_Bench.webp"
+  gallery: "/assets/img/photography/gallery/Keeneland_Bench.webp"
+  title: "Keeneland Bench"
+  category: portraits
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Keyboard.webp"
+  gallery: "/assets/img/photography/gallery/Keyboard.webp"
+  title: "Keyboard"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Lamp.webp"
+  gallery: "/assets/img/photography/gallery/Lamp.webp"
+  title: "Lamp"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Lexus_GS.webp"
+  gallery: "/assets/img/photography/gallery/Lexus_GS.webp"
+  title: "Lexus GS"
+  category: cars
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/MT_HankIngram.webp"
+  gallery: "/assets/img/photography/gallery/MT_HankIngram.webp"
+  title: "MT HankIngram"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/MT_KirklandSideSteps.webp"
+  gallery: "/assets/img/photography/gallery/MT_KirklandSideSteps.webp"
+  title: "MT KirklandSideSteps"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/MT_KirklandSteps.webp"
+  gallery: "/assets/img/photography/gallery/MT_KirklandSteps.webp"
+  title: "MT KirklandSteps"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/MT_PresentCap.webp"
+  gallery: "/assets/img/photography/gallery/MT_PresentCap.webp"
+  title: "MT PresentCap"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/MT_Wyatt_1.webp"
+  gallery: "/assets/img/photography/gallery/MT_Wyatt_1.webp"
+  title: "MT Wyatt 1"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1120
+- thumbnail: "/assets/img/photography/thumbnails/MT_Wyatt_2.webp"
+  gallery: "/assets/img/photography/gallery/MT_Wyatt_2.webp"
+  title: "MT Wyatt 2"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/MT_Wyatt_3.webp"
+  gallery: "/assets/img/photography/gallery/MT_Wyatt_3.webp"
+  title: "MT Wyatt 3"
+  category: graduation
+  featured: false
+  width: 800
+  height: 1200
+- thumbnail: "/assets/img/photography/thumbnails/Mustang_Era.webp"
+  gallery: "/assets/img/photography/gallery/Mustang_Era.webp"
+  title: "Mustang Era"
+  category: portraits
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/Nashville_Car_Meet.webp"
+  gallery: "/assets/img/photography/gallery/Nashville_Car_Meet.webp"
+  title: "Nashville Car Meet"
+  category: cars
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/NOCTA_1.webp"
+  gallery: "/assets/img/photography/gallery/NOCTA_1.webp"
+  title: "NOCTA, Rose Street Garage, Part 1"
+  category: portraits
+  featured: false
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/NOCTA_3.webp"
+  gallery: "/assets/img/photography/gallery/NOCTA_3.webp"
+  title: "NOCTA, Rose Street Garage, Part 3"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1368
+- thumbnail: "/assets/img/photography/thumbnails/NYC.webp"
+  gallery: "/assets/img/photography/gallery/NYC.webp"
+  title: "NYC"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/On_Top_of_the_World.webp"
+  gallery: "/assets/img/photography/gallery/On_Top_of_the_World.webp"
+  title: "On Top of the World"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/One_Call_Away.webp"
+  gallery: "/assets/img/photography/gallery/One_Call_Away.webp"
+  title: "One Call Away"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Paparazzi.webp"
+  gallery: "/assets/img/photography/gallery/Paparazzi.webp"
+  title: "Paparazzi"
+  category: portraits
+  featured: false
+  width: 800
+  height: 533
+- thumbnail: "/assets/img/photography/thumbnails/Pillars_of_Light.webp"
+  gallery: "/assets/img/photography/gallery/Pillars_of_Light.webp"
+  title: "Pillars of Light"
+  category: miscellaneous
+  featured: false
+  width: 800
+  height: 1422
+- thumbnail: "/assets/img/photography/thumbnails/Plating.webp"
+  gallery: "/assets/img/photography/gallery/Plating.webp"
+  title: "Plating"
+  category: miscellaneous
+  featured: false
+  width: 800
+  height: 640
+- thumbnail: "/assets/img/photography/thumbnails/Pondering.webp"
+  gallery: "/assets/img/photography/gallery/Pondering.webp"
+  title: "Pondering"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Rampage.webp"
+  gallery: "/assets/img/photography/gallery/Rampage.webp"
+  title: "Rampage"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Rising_Star.webp"
+  gallery: "/assets/img/photography/gallery/Rising_Star.webp"
+  title: "Rising Star"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Shark_on_Vacation.webp"
+  gallery: "/assets/img/photography/gallery/Shark_on_Vacation.webp"
+  title: "Shark on Vacation"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Shrouded_by_Light.webp"
+  gallery: "/assets/img/photography/gallery/Shrouded_by_Light.webp"
+  title: "Shrouded by Light"
+  category: miscellaneous
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Solace.webp"
+  gallery: "/assets/img/photography/gallery/Solace.webp"
+  title: "Solace"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1041
+- thumbnail: "/assets/img/photography/thumbnails/Sonder.webp"
+  gallery: "/assets/img/photography/gallery/Sonder.webp"
+  title: "Sonder"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Trapped.webp"
+  gallery: "/assets/img/photography/gallery/Trapped.webp"
+  title: "Trapped"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Violet_Fever.webp"
+  gallery: "/assets/img/photography/gallery/Violet_Fever.webp"
+  title: "Violet Fever"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Weightless.webp"
+  gallery: "/assets/img/photography/gallery/Weightless.webp"
+  title: "Weightless"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1422
+- thumbnail: "/assets/img/photography/thumbnails/Woman_Holding_Umbrella.webp"
+  gallery: "/assets/img/photography/gallery/Woman_Holding_Umbrella.webp"
+  title: "Woman Holding Umbrella"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
