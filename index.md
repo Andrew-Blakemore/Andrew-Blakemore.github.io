@@ -121,7 +121,7 @@ layout: splash
     <div class="featured-grid">
 
         <a class="featured-card"
-           href="/portfolio/Pliers/">
+           href="/portfolio/MultiMaterialPliers/">
 
             <img src="/assets/img/pliers_present1.jpg">
 
