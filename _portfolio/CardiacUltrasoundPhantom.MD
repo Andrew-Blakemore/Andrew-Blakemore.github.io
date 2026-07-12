@@ -2,8 +2,8 @@
 title: "Low-Cost Cardiac Ultrasound Phantom"
 excerpt: "A <$10 dynamic cardiac ultrasound phantom designed to simulate systolic and diastolic motion for accessible training."
 header:
-  image: /assets/img/diastole.png
-  teaser: /assets/img/tub1.jpg
+  image: /assets/img/projects/cardiac-ultrasound-phantom/phantom-diastole-ultrasound.webp
+  teaser: /assets/img/projects/cardiac-ultrasound-phantom/completed-phantom-thumbnail.webp
 
 toc: true
 toc_label: "Table of Contents"
@@ -38,19 +38,19 @@ This configuration produced a deformable, fluid-filled structure that could be i
 The phantom was constructed by tying off the fingers of a latex glove to form a sealed chamber and filling it with water to mimic a fluid-filled cardiac cavity. The chamber was placed in a plastic container with glue sticks attached to one side, which was then filled with gelatin that had been mixed with calcium chloride for improved structural stability. Tubing connected the chamber to a 20 mL syringe, allowing manual control of internal pressure and cyclic deformation.
 
 <p align="center">
-  <img src="/assets/img/fabrication.jpg" alt="Fabrication of Phantom">
+  <img src="/assets/img/projects/cardiac-ultrasound-phantom/gelatin-pouring-fabrication.webp" alt="Fabrication of Phantom">
 </p>
 
 The fabrication process required only inexpensive, widely available materials and was completed in less than 3 hours, making it suitable for resource-limited environments.
 
 <p align="center">
-  <img src="/assets/img/tub2.jpg" alt="Completed Phantom">
+  <img src="/assets/img/projects/cardiac-ultrasound-phantom/completed-cardiac-phantom.webp" alt="Completed Phantom">
 </p>
 
 ## Imaging Results
 
 <p align="center">
-  <img src="/assets/img/beat.gif" alt="Ultrasound Image">
+  <img src="/assets/videos/phantom-cardiac-cycle.gif" alt="Ultrasound Image">
 </p>
 
 Ultrasound imaging of the phantom successfully reproduced key visual features of cardiac scans, including:
@@ -60,7 +60,7 @@ Ultrasound imaging of the phantom successfully reproduced key visual features of
 - Acoustic shadowing from simulated ribs  
 
 <p align="center">
-  <img src="/assets/img/ultrasound.png" alt="Ultrasound of Phantom">
+  <img src="/assets/img/projects/cardiac-ultrasound-phantom/annotated-phantom-ultrasound.webp" alt="Ultrasound of Phantom">
 </p>
 
 Manual syringe actuation produced visible cyclic deformation of the chamber, enabling visualization of simulated systole and diastole. The chamber diameter decreased from approximately 7.0 cm in the relaxed state to 6.7 cm during compression, demonstrating repeatable dynamic motion detectable under ultrasound.
