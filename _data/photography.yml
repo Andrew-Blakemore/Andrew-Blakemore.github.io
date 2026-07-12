@@ -16,14 +16,14 @@
   gallery: "/assets/img/photography/gallery/Appetizer.webp"
   title: "Appetizer"
   category: miscellaneous
-  featured: true
+  featured: false
   width: 800
   height: 800
 - thumbnail: "/assets/img/photography/thumbnails/Batman_Building.webp"
   gallery: "/assets/img/photography/gallery/Batman_Building.webp"
   title: "Batman Building"
   category: cars
-  featured: true
+  featured: false
   width: 800
   height: 1422
 - thumbnail: "/assets/img/photography/thumbnails/Bluegrass_Dog.webp"
@@ -37,7 +37,7 @@
   gallery: "/assets/img/photography/gallery/Butterfly.webp"
   title: "Butterfly"
   category: portraits
-  featured: false
+  featured: true
   width: 800
   height: 1000
 - thumbnail: "/assets/img/photography/thumbnails/CH_EH_Kirkland_1.webp"
@@ -51,7 +51,7 @@
   gallery: "/assets/img/photography/gallery/CH_EH_Kirkland_2.webp"
   title: "CH EH Kirkland 2"
   category: graduation
-  featured: false
+  featured: true
   width: 800
   height: 1000
 - thumbnail: "/assets/img/photography/thumbnails/CH_EH_Kirkland_3.webp"
@@ -156,7 +156,7 @@
   gallery: "/assets/img/photography/gallery/CH_Wyatt_9.webp"
   title: "CH Wyatt 9"
   category: graduation
-  featured: false
+  featured: true
   width: 800
   height: 1000
 - thumbnail: "/assets/img/photography/thumbnails/Chevrolet_Camaro.webp"
@@ -205,14 +205,14 @@
   gallery: "/assets/img/photography/gallery/Cyan_Fever.webp"
   title: "Cyan Fever"
   category: portraits
-  featured: false
+  featured: true
   width: 800
   height: 1000
 - thumbnail: "/assets/img/photography/thumbnails/Derby.webp"
   gallery: "/assets/img/photography/gallery/Derby.webp"
   title: "Derby"
   category: miscellaneous
-  featured: true
+  featured: false
   width: 800
   height: 800
 - thumbnail: "/assets/img/photography/thumbnails/Dichotomy_Dog.webp"
@@ -226,7 +226,7 @@
   gallery: "/assets/img/photography/gallery/Downtown.webp"
   title: "Downtown"
   category: cars
-  featured: true
+  featured: false
   width: 800
   height: 450
 - thumbnail: "/assets/img/photography/thumbnails/Dreams_of_Flying.webp"
@@ -240,7 +240,7 @@
   gallery: "/assets/img/photography/gallery/Driving_Through_the_615.webp"
   title: "Driving Through the 615"
   category: cars
-  featured: true
+  featured: false
   width: 800
   height: 450
 - thumbnail: "/assets/img/photography/thumbnails/EH_Kirkland_1.webp"
@@ -366,7 +366,7 @@
   gallery: "/assets/img/photography/gallery/Home_Stretch.webp"
   title: "Home Stretch"
   category: miscellaneous
-  featured: true
+  featured: false
   width: 800
   height: 800
 - thumbnail: "/assets/img/photography/thumbnails/Horse_and_Man.webp"
@@ -380,7 +380,7 @@
   gallery: "/assets/img/photography/gallery/Hot_Blooded.webp"
   title: "Hot Blooded"
   category: miscellaneous
-  featured: false
+  featured: true
   width: 800
   height: 800
 - thumbnail: "/assets/img/photography/thumbnails/Hyundai_Genesis_Coupe.webp"
@@ -401,7 +401,7 @@
   gallery: "/assets/img/photography/gallery/Keeneland_Girl.webp"
   title: "Keeneland Girl"
   category: portraits
-  featured: false
+  featured: true
   width: 800
   height: 1200
 - thumbnail: "/assets/img/photography/thumbnails/Keyboard.webp"
@@ -436,7 +436,7 @@
   gallery: "/assets/img/photography/gallery/Lost_in_the_Desert.webp"
   title: "Lost in the Desert"
   category: portraits
-  featured: false
+  featured: true
   width: 800
   height: 450
 - thumbnail: "/assets/img/photography/thumbnails/Max.webp"
@@ -450,7 +450,7 @@
   gallery: "/assets/img/photography/gallery/MT_EndSchoolZone_BW.webp"
   title: "MT EndSchoolZone BW"
   category: graduation
-  featured: false
+  featured: true
   width: 800
   height: 1200
 - thumbnail: "/assets/img/photography/thumbnails/MT_HankIngram.webp"
@@ -534,7 +534,7 @@
   gallery: "/assets/img/photography/gallery/NOCTA_2.webp"
   title: "NOCTA, Rose Street Garage, Part 2"
   category: portraits
-  featured: false
+  featured: true
   width: 800
   height: 1422
 - thumbnail: "/assets/img/photography/thumbnails/NOCTA_3.webp"
@@ -555,7 +555,7 @@
   gallery: "/assets/img/photography/gallery/NYC.webp"
   title: "NYC"
   category: portraits
-  featured: true
+  featured: false
   width: 800
   height: 800
 - thumbnail: "/assets/img/photography/thumbnails/On_Top_of_the_World.webp"
@@ -583,7 +583,7 @@
   gallery: "/assets/img/photography/gallery/Pillars_of_Light.webp"
   title: "Pillars of Light"
   category: miscellaneous
-  featured: true
+  featured: false
   width: 800
   height: 1422
 - thumbnail: "/assets/img/photography/thumbnails/Plating.webp"
@@ -674,7 +674,7 @@
   gallery: "/assets/img/photography/gallery/Veteran's_Bridge.webp"
   title: "Veteran's Bridge"
   category: cars
-  featured: false
+  featured: true
   width: 800
   height: 450
 - thumbnail: "/assets/img/photography/thumbnails/Violet_Fever.webp"
