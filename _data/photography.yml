@@ -338,14 +338,14 @@
   gallery: "/assets/img/photography/gallery/Forest_Friend.webp"
   title: "Forest Friend"
   category: miscellaneous
-  featured: false
+  featured: true
   width: 800
   height: 468
 - thumbnail: "/assets/img/photography/thumbnails/Garage_Lighting.webp"
   gallery: "/assets/img/photography/gallery/Garage_Lighting.webp"
   title: "Garage Lighting"
   category: cars
-  featured: false
+  featured: true
   width: 800
   height: 1000
 - thumbnail: "/assets/img/photography/thumbnails/Gone_in_the_Night.webp"
@@ -443,7 +443,7 @@
   gallery: "/assets/img/photography/gallery/Max.webp"
   title: "Max"
   category: miscellaneous
-  featured: false
+  featured: true
   width: 800
   height: 800
 - thumbnail: "/assets/img/photography/thumbnails/MT_EndSchoolZone_BW.webp"
@@ -590,7 +590,7 @@
   gallery: "/assets/img/photography/gallery/Plating.webp"
   title: "Plating"
   category: miscellaneous
-  featured: true
+  featured: false
   width: 800
   height: 640
 - thumbnail: "/assets/img/photography/thumbnails/Pondering.webp"
