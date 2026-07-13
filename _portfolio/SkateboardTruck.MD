@@ -2,8 +2,8 @@
 title: "Generative Design Skateboard Truck"
 excerpt: "A generative design study of a lightweight skateboard truck hanger with an integrated motor mount, optimized for structural performance and reduced mass."
 header:
-  image: /assets/img/truck-header.JPG
-  teaser: /assets/img/printed-truck-attached.jpg
+  image: /assets/img/projects/skateboard-truck/generative-skateboard-truck-hero.webp
+  teaser: /assets/img/projects/skateboard-truck/installed-skateboard-truck-thumbnail.webp
 
 toc: true
 toc_label: "Table of Contents"
@@ -113,7 +113,7 @@ Material properties significantly influence generative outcomes.
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811869df322f4618689?mode=embed" width="640" height="480" allowfullscreen="true" frameborder="0"></iframe>
 
 <p align="center">
-  <img src="/assets/img/aluminum-render.PNG" width="400">
+  <img src="/assets/img/projects/skateboard-truck/aluminum-truck-design-render.webp" width="400">
 </p>
 
 The aluminum solution produced a more robust structure to compensate for its lower material strength.
@@ -125,7 +125,7 @@ The aluminum solution produced a more robust structure to compensate for its low
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811d31cba84866ec0e2?mode=embed" width="640" height="480" allowfullscreen="true" frameborder="0"></iframe>
 
 <p align="center">
-  <img src="/assets/img/steel-render.png" width="400">
+  <img src="/assets/img/projects/skateboard-truck/steel-truck-design-render.webp" width="400">
 </p>
 
 The steel solution resulted in a thinner geometry with less overall volume due to higher material strength.
@@ -143,7 +143,7 @@ The truck hanger was originally intended to be fabricated using nylon powder bed
 However, due to equipment constraints, the prototype was instead fabricated using PLA filament (FFF) on a Bambu H2C printer.
 
 <p align="center">
-  <img src="/assets/img/hanger-print-bed.jpg" width="400">
+  <img src="/assets/img/projects/skateboard-truck/truck-hanger-fff-print.webp" width="400">
 </p>
 
 This introduced several limitations:
@@ -156,8 +156,8 @@ This introduced several limitations:
 ## Assembly and Testing
 
 <p align="center">
-  <img src="/assets/img/printed-truck-alone.jpg" width="350">
-  <img src="/assets/img/printed-truck-attached.jpg" width="350">
+  <img src="/assets/img/projects/skateboard-truck/printed-truck-hanger-prototype.webp" width="350">
+  <img src="/assets/img/projects/skateboard-truck/installed-skateboard-truck-thumbnail.webp" width="350">
 </p>
 
 The printed hanger was assembled into the longboard system to verify the fit of the pivot and kingpin region, motor mount alignment, and clearance for the pulley and belt components.
@@ -165,11 +165,11 @@ The printed hanger was assembled into the longboard system to verify the fit of 
 ### Motion Validation
 
 <p align="center">
-  <img src="/assets/img/truck-turning.gif" width="400">
+  <img src="/assets/videos/truck-steering-motion.gif" width="400">
 </p>
 
 <p align="center">
-  <img src="/assets/img/gear-rotate-gif.gif" width="400">
+  <img src="/assets/videos/belt-drive-rotation.gif" width="400">
 </p>
 
 Testing confirmed adequate turning clearance and functional motor and belt rotation with no major interference issues.
