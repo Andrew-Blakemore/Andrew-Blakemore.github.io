@@ -103,7 +103,7 @@ The holder was fabricated using filament 3D printing. This choice was appropriat
 The holder was assembled around the handlebar with M5 bolts and secured using the integrated clamp interface. Once mounted, the phone could be inserted into the cradle and rotated between orientations until the detent engaged. The mechanisms in the final assembly effectively allowed for a stable, repeatable motion with enough holding force to resist vibration during riding.
 
 <p align="center">
-  <img src="/assets/img/phone-holder-rotate-1.gif" alt="Phone Rotation">
+  <img src="/assets/videos/phone-orientation-rotation.gif" alt="Phone Orientation Rotation">
 </p>
 
 ## Testing and Iteration
