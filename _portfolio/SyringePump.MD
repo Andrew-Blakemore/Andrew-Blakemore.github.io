@@ -2,18 +2,18 @@
 title: "Automated Syringe Pump"
 excerpt: "A low-cost, programmable syringe pump capable of accurate flow control for 10 mL and 20 mL syringes."
 header:
-  image: /assets/img/pump3.jpg
-  teaser: /assets/img/pump2_1.jpg
+  image: /assets/img/projects/syringe-pump/automated-syringe-pump-hero.webp
+  teaser: /assets/img/projects/syringe-pump/syringe-pump-thumbnail.webp
 gallery:
-  - url: /assets/img/syringe_compare.png
-    image_path: assets/img/syringe_compare.png
+  - url: /assets/img/projects/syringe-pump/syringe-pump-cad-comparison.webp
+    image_path: assets/img/projects/syringe-pump/syringe-pump-cad-comparison.webp
     alt: "Completed syringe pump and its CAD model"
-  - url: /assets/img/syringe_electrical.jpg
-    image_path: assets/img/syringe_electrical.jpg
+  - url: /assets/img/projects/syringe-pump/syringe-pump-electrical-schematic.webp
+    image_path: assets/img/projects/syringe-pump/syringe-pump-electrical-schematic.webp
     alt: "Electrical schematics of the syringe pump"
-  - url: /assets/img/inside.jpg
-    image_path: assets/img/inside.jpg
-    alt: "Components inside the housing"
+  - url: /assets/img/projects/syringe-pump/syringe-pump-internal-electronics.webp
+    image_path: assets/img/projects/syringe-pump/syringe-pump-internal-electronics.webp
+    alt: "Electronic components inside the housing"
 
 toc: true
 toc_label: "Table of Contents"
