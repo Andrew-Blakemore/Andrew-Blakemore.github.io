@@ -2,8 +2,8 @@
 title: "Multi-Material Pliers"
 excerpt: "Multi-material pliers with a press-fit assembly. No adhesives required!"
 header:
-  image: /assets/img/pliers_present1.jpg
-  teaser: /assets/img/pliers_cover1.jpg
+  image: /assets/img/projects/multi-material-pliers/multi-material-pliers-hero.webp
+  teaser: /assets/img/projects/multi-material-pliers/multi-material-pliers-thumbnail.webp
 
 toc: true
 toc_label: "Table of Contents"
@@ -31,13 +31,13 @@ To support this approach, PETG was chosen for the rigid components due to its st
 ### Iteration 1
 
 <p align="center">
-  <img src="/assets/img/it_1.jpg" alt="Iteration 1">
+  <img src="/assets/img/projects/multi-material-pliers/iteration-1-prototype.webp" alt="Iteration 1">
 </p>
 
 While the first prototype could open and close, a large amount of force was required to bring the tips into contact, and even when fully closed, the jaws often failed to align properly. The result was a staggered, uneven tip interface that made precisely gripping small objects difficult.
 
 <p align="center">
-  <img src="/assets/img/offsetg.gif" alt="Iteration 1 - Poor Alignment">
+  <img src="/assets/videos/iteration-1-jaw-misalignment.gif" alt="Iteration 1 - Poor Alignment">
 </p>
 
 To address these issues, the second iteration was designed with shorter prongs and a reduced thickness. These changes produced a tool that was noticeably smaller and lighter, while also reducing the stiffness of the compliant elements enough to improve responsiveness.
@@ -45,19 +45,19 @@ To address these issues, the second iteration was designed with shorter prongs a
 ### Iteration 2
 
 <p align="center">
-  <img src="/assets/img/it_2.jpg" alt="Iteration 2">
+  <img src="/assets/img/projects/multi-material-pliers/iteration-2-prototype.webp" alt="Iteration 2">
 </p>
 
 With these changes, the pliers closed much more smoothly and required significantly less force to operate. The reduced prong length improved alignment at the jaws, leading to better contact. The slimmer profile also made the tool feel less bulky during use. 
 
 <p align="center">
-  <img src="/assets/img/pliers_working.gif" alt="Iteration 2 - Better Alignment">
+  <img src="/assets/videos/iteration-2-jaw-alignment.gif" alt="Iteration 2 - Better Alignment">
 </p>
 
 The new iteration showed a considerable improvement in precision, reliably gripping small objects such as an M3 threaded insert with ease.
 
 <p align="center">
-  <img src="/assets/img/bit.jpg" alt="Iteration 2 - Application">
+  <img src="/assets/img/projects/multi-material-pliers/m3-threaded-insert-grip-test.webp" alt="Iteration 2 - Application">
 </p>
 
 ## Interactive CAD Model
