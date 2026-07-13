@@ -2,8 +2,8 @@
 title: "3D Printed Pickleball Paddle"
 excerpt: "A multi-material, 3D printed pickleball paddle that meets USA Pickleball guidelines for official play."
 header:
-  image: /assets/img/pickle-ban.jpg
-  teaser: assets/img/tease.JPG
+  image: /assets/img/projects/pickleball-paddle/pickleball-paddle-hero.webp
+  teaser: /assets/img/projects/pickleball-paddle/pickleball-paddle-thumbnail.webp
 
 toc: true
 toc_label: "Table of Contents"
@@ -41,7 +41,7 @@ The main paddle body was printed in ABS to provide rigidity while maintaining ma
 ## Assembly
 
 <p align="center">
-  <img src="/assets/img/full-paddle.jpg" alt="Complete Paddle">
+  <img src="/assets/img/projects/pickleball-paddle/assembled-pickleball-paddle.webp" alt="Complete Paddle">
 </p>
 
 The assembly was designed to be mechanically fastened and modular:
