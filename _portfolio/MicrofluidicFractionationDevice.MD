@@ -2,8 +2,8 @@
 title: "Microfluidic Pinch-Flow Fractionation"
 excerpt: "An SLA-printed mold for a PDMS microfluidic device that enables size-based particle separation using pinch-flow fractionation."
 header:
-  image: /assets/img/fluids_banner.jpg
-  teaser: /assets/img/fluidics_cover.JPG
+  image: /assets/img/projects/microfluidic-pinch-flow-fractionation/pinch-flow-device-hero.webp
+  teaser: /assets/img/projects/microfluidic-pinch-flow-fractionation/pinch-flow-device-thumbnail.webp
 
 toc: true
 toc_label: "Table of Contents"
@@ -135,7 +135,7 @@ The device was fabricated using SLA printing to produce a mold, followed by PDMS
 ### SLA Mold Fabrication
 
 <p align="center">
-  <img src="/assets/img/Mold_SLA_NO_COVER.jpg" alt="SLA Printed Mold">
+  <img src="/assets/img/projects/microfluidic-pinch-flow-fractionation/sla-printed-mold.webp" alt="SLA Printed Mold">
 </p>
 
 A Formlabs Form 4 printer was used to create the mold.
@@ -143,7 +143,7 @@ A Formlabs Form 4 printer was used to create the mold.
 ### Washing
 
 <p align="center">
-  <img src="/assets/img/Mold_Wash.jpg" alt="Mold Washing">
+  <img src="/assets/img/projects/microfluidic-pinch-flow-fractionation/mold-isopropyl-wash.webp" alt="Mold Washing">
 </p>
 
 After printing, the mold was washed in isopropyl alcohol to remove uncured resin.
@@ -151,7 +151,7 @@ After printing, the mold was washed in isopropyl alcohol to remove uncured resin
 ### Drying
 
 <p align="center">
-  <img src="/assets/img/Mold_Dry.jpg" alt="Mold Drying">
+  <img src="/assets/img/projects/microfluidic-pinch-flow-fractionation/mold-air-drying.webp" alt="Mold Drying">
 </p>
 
 The mold was dried to prevent contamination and ensure proper curing.
@@ -159,7 +159,7 @@ The mold was dried to prevent contamination and ensure proper curing.
 ### UV Curing
 
 <p align="center">
-  <img src="/assets/img/Mold_Cure.jpg" alt="Mold Curing">
+  <img src="/assets/img/projects/microfluidic-pinch-flow-fractionation/mold-uv-curing.webp" alt="Mold Curing">
 </p>
 
 UV curing was then used to solidify the resin without causing warping.
@@ -167,7 +167,7 @@ UV curing was then used to solidify the resin without causing warping.
 ### Final Mold
 
 <p align="center">
-  <img src="/assets/img/Mold_Final.jpg" alt="Final Mold">
+  <img src="/assets/img/projects/microfluidic-pinch-flow-fractionation/finished-sla-mold.webp" alt="Final Mold">
 </p>
 
 The completed mold exhibited clean channel features suitable for PDMS casting.
@@ -177,7 +177,7 @@ The completed mold exhibited clean channel features suitable for PDMS casting.
 ## Device Assembly
 
 <p align="center">
-  <img src="/assets/img/fluiidics_device_final.jpg" alt="Finished Device">
+  <img src="/assets/img/projects/microfluidic-pinch-flow-fractionation/assembled-pdms-device.webp" alt="Finished Device">
 </p>
 
 PDMS was poured over the mold, cured, and carefully removed. The device was then bonded to a glass slide to seal the channels.
@@ -187,7 +187,7 @@ PDMS was poured over the mold, cured, and carefully removed. The device was then
 ## Testing Setup
 
 <p align="center">
-  <img src="/assets/img/Device_Testing_Setup.jpg" alt="Testing Setup">
+  <img src="/assets/img/projects/microfluidic-pinch-flow-fractionation/dual-syringe-pump-test-setup.webp" alt="Testing Setup">
 </p>
 
 The device was tested using a dual-syringe pump setup to control buffer and particle flow rates.
@@ -217,7 +217,7 @@ This EPFF device serves as a reference for future iterations of my design:
 
 <p align="center">
   <video width="640" controls>
-    <source src="/assets/img/MicroFluidicsDemo.mp4" type="video/mp4">
+    <source src="/assets/videos/enhanced-pinch-flow-reference.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
