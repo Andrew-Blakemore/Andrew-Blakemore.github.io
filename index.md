@@ -123,7 +123,7 @@ layout: splash
         <a class="featured-card"
            href="/portfolio/MultiMaterialPliers/">
 
-            <img src="/assets/img/pliers_present1.jpg">
+            <img src="/assets/img/projects/multi-material-pliers/multi-material-pliers-hero.webp">
 
             <div class="featured-card-content">
 
