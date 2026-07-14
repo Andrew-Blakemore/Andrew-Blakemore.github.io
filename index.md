@@ -163,7 +163,7 @@ layout: splash
         <a class="featured-card"
            href="/portfolio/TissuePressureMonitoringRetractor/">
 
-            <img src="/assets/img/retractor_teaser.jpg">
+            <img src="/assets/img/projects/tissue-pressure-retractor/retractor-deployment-thumbnail.webp">
 
             <div class="featured-card-content">
 
