@@ -2,8 +2,8 @@
 title: "Tissue Pressure Monitoring Retractor"
 excerpt: "A pressure-sensing cervical retractor designed in collaboration with Medtronic Spine R&D for anterior cervical spine surgery."
 header:
-  image: /assets/img/retractor_header.jpg
-  teaser: /assets/img/retractor_teaser.jpg
+  image: /assets/img/projects/tissue-pressure-retractor/pressure-monitoring-retractor-hero.webp
+  teaser: /assets/img/projects/tissue-pressure-retractor/retractor-deployment-thumbnail.webp
 
 toc: true
 toc_label: "Table of Contents"
@@ -18,7 +18,7 @@ This project was completed in collaboration with Medtronic Spine R&D and focused
 The Trimline Retractor is a self-retaining surgical retractor designed to hold back the trachea, esophagus, muscles, and surrounding soft tissue, allowing surgeons to access the cervical spine. Once positioned, the device maintains retraction throughout the procedure while the surgeon performs the discectomy and fusion.
 
 <p align="center">
-  <img src="/assets/img/trimline_retractor_diagram.png" alt="Trimline Retractor">
+  <img src="/assets/img/projects/tissue-pressure-retractor/trimline-retractor-surgical-diagram.webp" alt="Trimline Retractor Surgical Diagram">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ The Trimline Retractor is a self-retaining surgical retractor designed to hold b
 
 <p align="center">
   <video width="640" controls>
-    <source src="/assets/img/Retractor_Video.mp4" type="video/mp4">
+    <source src="/assets/videos/trimline-retractor-deployment.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -76,7 +76,7 @@ Two sensing approaches were developed.
 The first concept integrated a strain-gauge load cell directly into the retractor rack. A structural component within the retractor assembly was replaced with a custom load cell designed to match the geometry of the original part.
 
 <p align="center">
-  <img src="/assets/img/Load_Cell_CAD.png" alt="Load Cell Concept">
+  <img src="/assets/img/projects/tissue-pressure-retractor/instrumented-retractor-load-cell-cad.webp" alt="Load Cell Concept">
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ The first concept integrated a strain-gauge load cell directly into the retracto
 Before pursuing a CNC-machined stainless steel design, the load-cell concept was validated using a rapid FFF prototype printed in PETG. The prototype replicated the geometry of the proposed load cell and was instrumented with strain gauges to evaluate the sensing approach before committing to metal fabrication.
 
 <p align="center">
-  <img src="/assets/img/Load_Cell_FFF_Prototype.jpg" alt="Load Cell FFF Prototype">
+  <img src="/assets/img/projects/tissue-pressure-retractor/instrumented-load-cell-fff-prototype.webp" alt="Load Cell FFF Prototype">
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ Before pursuing a CNC-machined stainless steel design, the load-cell concept was
 
 <p align="center">
   <video width="640" controls>
-    <source src="/assets/img/Load_Cell_FFF_Demo.mp4" type="video/mp4">
+    <source src="/assets/videos/load-cell-force-measurement-demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -115,7 +115,7 @@ As retraction force increased, the load cell experienced microscopic deformation
 The second concept incorporated an array of piezoelectric sensors directly into the retractor blade.
 
 <p align="center">
-  <img src="/assets/img/Retractor_Blade_CAD.png" alt="Retractor Blade Concept">
+  <img src="/assets/img/projects/tissue-pressure-retractor/pressure-sensing-retractor-blade-cad.webp" alt="Retractor Blade Concept">
 </p>
 
 <p align="center">
