@@ -80,7 +80,7 @@ layout: splash
   <div class="home-about__image">
 
     <img
-      src="/assets/img/Class-of-2026.jpg"
+      src="/assets/img/profile/homepage-portrait.webp"
       alt="Andrew Blakemore"
     >
 
