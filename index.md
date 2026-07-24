@@ -97,7 +97,7 @@ layout: splash
     </p>
     
     <p>
-    Take a look around to explore my work and travels. If something catches your interest, feel free to reach out—I’d love to connect.
+    Take a look around to explore my work and travels. If something catches your interest, feel free to reach out—I’d love to connect!
     </p>
     
     <a href="/_pages/about/" class="btn btn--primary">
