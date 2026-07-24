@@ -87,21 +87,21 @@ layout: splash
   </div>
 
   <div class="home-about__content">
-
+    
     <p>
-      Hi! My name is Andrew Blakemore.
+    Hi! My name is Andrew Blakemore.
     </p>
-
+    
     <p>
-      I’ve always been someone who loves wearing different hats. Whether I’m diving into a complex engineering problem, collaborating on a creative project, or planning a large-scale event, I’m at my best when I’m learning something new and bringing people of different perspectives together.
+    I’m a biomedical engineer, photographer, and lifelong learner who enjoys working at the intersection of technology and human experience. Whether I’m developing a medical device or documenting life through photography, I’m most energized by new challenges and perspectives.
     </p>
-
+    
     <p>
-      Take a look around to see what I’ve been working on, and feel free to shoot me an email—I’d love to connect!
+    Take a look around to explore my work and travels. If something catches your interest, feel free to reach out—I’d love to connect.
     </p>
-
+    
     <a href="/_pages/about/" class="btn btn--primary">
-      About Me
+    About Me
     </a>
 
   </div>
