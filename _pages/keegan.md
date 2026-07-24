@@ -1,4 +1,5 @@
 ---
+title: "Keegan Traveling Fellow"
 excerpt: "An interactive map of cities visited, with linked destination pages and a basic travel path."
 permalink: /keegan-traveling-fellowship/
 classes: wide custom-page
