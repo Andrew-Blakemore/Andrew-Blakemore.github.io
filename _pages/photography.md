@@ -1,7 +1,7 @@
 ---
-layout: single
 permalink: /photography/
 classes: wide custom-page
+layout: single
 author_profile: false
 ---
 
