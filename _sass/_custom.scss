@@ -372,7 +372,7 @@ body.photography-test-page .page__inner-wrap {
 .photo-camera-story {
   position: relative;
   width: 100vw;
-  height: 165svh;
+  height: 155svh;
   margin-left: calc(50% - 50vw);
   color: #111827;
   background: #fff;
@@ -626,7 +626,7 @@ body.photography-test-page .page__inner-wrap {
   position: relative;
   z-index: 12;
   width: min(1280px, calc(100vw - 3rem));
-  margin: -46svh auto 5rem;
+  margin: -52svh auto 5rem;
   padding: 0 0 clamp(2rem, 5vw, 4rem);
   border: 0;
   background: transparent;
@@ -694,7 +694,7 @@ body.photography-test-page .page__inner-wrap {
 
 @media (max-width: 760px) {
   .photo-camera-story {
-    height: 150svh;
+    height: 145svh;
   }
 
   .photo-camera-stage {
@@ -704,7 +704,7 @@ body.photography-test-page .page__inner-wrap {
   }
 
   .photography-gallery-placeholder {
-    margin-top: -34svh;
+    margin-top: -38svh;
   }
 
   .photography-gallery-placeholder__grid {
