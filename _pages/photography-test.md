@@ -1,8 +1,7 @@
 ---
-layout: single
-title: "Photography"
 permalink: /photography-test/
 classes: wide custom-page photography-test-page
+layout: single
 author_profile: false
 ---
 
