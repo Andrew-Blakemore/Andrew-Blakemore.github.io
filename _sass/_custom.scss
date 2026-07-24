@@ -626,7 +626,7 @@ body.photography-test-page .page__inner-wrap {
   position: relative;
   z-index: 12;
   width: min(1280px, calc(100vw - 3rem));
-  margin: -42svh auto 5rem;
+  margin: -46svh auto 5rem;
   padding: 0 0 clamp(2rem, 5vw, 4rem);
   border: 0;
   background: transparent;
@@ -704,7 +704,7 @@ body.photography-test-page .page__inner-wrap {
   }
 
   .photography-gallery-placeholder {
-    margin-top: -30svh;
+    margin-top: -34svh;
   }
 
   .photography-gallery-placeholder__grid {
