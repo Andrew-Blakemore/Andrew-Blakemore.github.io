@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Photography"
 permalink: /photography/
 classes: wide custom-page
 author_profile: false
