@@ -1,0 +1,111 @@
+// Scroll-driven assembly used by the Keegan fellowship prototype header.
+document.addEventListener("DOMContentLoaded", () => {
+  const story = document.getElementById("prosthetic-story");
+  if (!story) return;
+
+  const parts = {
+    socket: story.querySelector('[data-part="socket"]'),
+    knee: story.querySelector('[data-part="knee"]'),
+    pylon: story.querySelector('[data-part="pylon"]'),
+    foot: story.querySelector('[data-part="foot"]'),
+  };
+  const labels = story.querySelectorAll(".prosthetic-part__label");
+  const connections = story.querySelectorAll(
+    ".prosthetic-assembly__connections i"
+  );
+  const person = story.querySelector(".prosthetic-person");
+  const caption = story.querySelector(".prosthetic-assembly__caption");
+  const guide = story.querySelector(".prosthetic-assembly__guide");
+  const prompt = story.querySelector(".prosthetic-story__prompt");
+  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+
+  if (Object.values(parts).some((part) => !part)) return;
+
+  let frameRequested = false;
+
+  const clamp = (value, min = 0, max = 1) =>
+    Math.min(max, Math.max(min, value));
+
+  const ease = (value) => {
+    const bounded = clamp(value);
+    return 1 - Math.pow(1 - bounded, 3);
+  };
+
+  const stage = (progress, start, end) =>
+    ease((progress - start) / (end - start));
+
+  function setPart(part, x, y, rotation, amount) {
+    const remaining = 1 - amount;
+    part.style.transform = `
+      translate3d(
+        calc(-50% + ${x * remaining}px),
+        ${y * remaining}px,
+        0
+      )
+      rotate(${rotation * remaining}deg)
+    `;
+  }
+
+  function update() {
+    frameRequested = false;
+
+    const rect = story.getBoundingClientRect();
+    const distance = Math.max(story.offsetHeight - window.innerHeight, 1);
+    const progress = reducedMotion.matches ? 1 : clamp(-rect.top / distance);
+
+    const socketProgress = stage(progress, 0.05, 0.34);
+    const kneeProgress = stage(progress, 0.18, 0.47);
+    const pylonProgress = stage(progress, 0.31, 0.6);
+    const footProgress = stage(progress, 0.44, 0.72);
+    const assemblyProgress = stage(progress, 0.62, 0.82);
+    const personProgress = stage(progress, 0.75, 0.96);
+    const compact = window.innerWidth <= 700;
+
+    setPart(parts.socket, compact ? -190 : -285, 8, -8, socketProgress);
+    setPart(parts.knee, compact ? 112 : 220, -20, 9, kneeProgress);
+    setPart(parts.pylon, compact ? -178 : -240, 10, -6, pylonProgress);
+    setPart(parts.foot, compact ? 112 : 250, 24, 11, footProgress);
+
+    labels.forEach((label) => {
+      label.style.opacity = String(clamp(1 - assemblyProgress * 1.5));
+    });
+
+    connections.forEach((connection, index) => {
+      const connectionProgress = stage(
+        progress,
+        0.53 + index * 0.08,
+        0.65 + index * 0.08
+      );
+      connection.style.opacity = String(
+        Math.sin(connectionProgress * Math.PI) * 0.9
+      );
+      connection.style.transform = `
+        translate(-50%, -50%)
+        scale(${0.3 + connectionProgress * 0.9})
+      `;
+    });
+
+    guide.style.opacity = String(0.3 * (1 - personProgress));
+    person.style.opacity = String(personProgress * 0.82);
+    person.style.transform = `
+      translateX(-50%)
+      translateY(${(1 - personProgress) * 8}px)
+    `;
+    caption.style.opacity = String(stage(progress, 0.84, 0.97));
+    caption.style.transform = `
+      translate(-50%, ${(1 - personProgress) * 10}px)
+    `;
+    prompt.style.opacity = String(clamp(1 - progress * 5));
+  }
+
+  function requestUpdate() {
+    if (frameRequested) return;
+    frameRequested = true;
+    window.requestAnimationFrame(update);
+  }
+
+  update();
+  window.addEventListener("scroll", requestUpdate, { passive: true });
+  window.addEventListener("resize", requestUpdate);
+  reducedMotion.addEventListener?.("change", requestUpdate);
+});
