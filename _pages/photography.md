@@ -1,7 +1,7 @@
 ---
 title: "Photography"
 permalink: /photography/
-classes: wide custom-page photography-camera-page
+classes: wide custom-page photography-page
 layout: single
 author_profile: false
 ---
