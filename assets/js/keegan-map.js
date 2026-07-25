@@ -317,7 +317,10 @@ document.addEventListener("DOMContentLoaded", () => {
         drawRoute(overviewLatLngs, true);
         routeObserver.disconnect();
       },
-      { threshold: 0.02 }
+      {
+        threshold: 0.02,
+        rootMargin: "0px 0px -15% 0px"
+      }
     );
 
     routeObserver.observe(mapEl);
