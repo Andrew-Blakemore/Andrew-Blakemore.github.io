@@ -318,7 +318,10 @@ document.addEventListener("DOMContentLoaded", () => {
         revealObserver.unobserve(entry.target);
       });
     },
-    { threshold: 0.12 }
+    {
+      threshold: 0.02,
+      rootMargin: "0px 0px -15% 0px"
+    }
   );
 
   document
