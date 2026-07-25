@@ -1,4 +1,5 @@
 ---
+title: "Photography"
 permalink: /photography/
 classes: wide custom-page photography-camera-page
 layout: single
