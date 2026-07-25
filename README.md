@@ -152,4 +152,4 @@ Before publishing:
 
 ## License
 
-The website source and its photographs, writing, project documentation, and other original media are the property of Andrew Blakemore unless otherwise noted. Please do not reuse those materials without permission. Third-party libraries and map data remain subject to their respective licenses.
+The website source and its writing, project documentation, and other original media are the property of Andrew Blakemore unless otherwise noted. Please do not reuse those materials without permission. Third-party libraries and map data remain subject to their respective licenses.
