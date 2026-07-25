@@ -76,30 +76,20 @@ body{
 }
 
 .photography-divider {
-  position: relative;
-  width: min(1080px, 86vw);
-  height: 14px;
-  margin: 1.25rem auto 2.4rem;
-}
-
-.photography-divider::before {
-  content: "";
-  position: absolute;
-  top: 2px;
-  right: 0;
-  left: 0;
-  height: 10px;
+  width: min(920px, 78vw);
+  height: 1px;
+  margin: 1.4rem auto 2.5rem;
   background: linear-gradient(
     90deg,
     transparent,
-    rgba(71, 85, 105, 0.38) 7%,
-    rgba(30, 41, 59, 0.76) 50%,
-    rgba(71, 85, 105, 0.38) 93%,
+    rgba(71, 85, 105, 0.28) 12%,
+    rgba(51, 65, 85, 0.58) 50%,
+    rgba(71, 85, 105, 0.28) 88%,
     transparent
   );
-  clip-path: polygon(0 0, 100% 0, 50% 100%);
 }
 
+.photography-divider::before,
 .photography-divider::after {
   content: none;
 }
