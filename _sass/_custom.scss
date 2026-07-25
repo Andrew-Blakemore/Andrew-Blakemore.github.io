@@ -132,6 +132,9 @@ body{
 .photography-page .gallery-item {
   display: inline-block;
   width: 100%;
+  margin-bottom: 1rem;
+  line-height: 0;
+  vertical-align: top;
 }
 
 .photography-page .gallery-item[hidden] {
@@ -160,10 +163,10 @@ body{
 }
 
 .photography-page .gallery img {
-  width: 100%;
-  margin-bottom: 1rem;
-  border-radius: 0;
   display: block;
+  width: 100%;
+  margin-bottom: 0;
+  border-radius: 0;
   transition: transform 0.2s ease;
 }
 
