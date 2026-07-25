@@ -47,7 +47,7 @@ author_profile: false
 <section class="keegan-editorial-intro" aria-labelledby="keegan-introduction-title">
   <p class="keegan-editorial-intro__eyebrow">2026-27 Keegan Traveling Fellow</p>
   <h2 id="keegan-introduction-title">
-    One year exploring how prosthetics shape everyday life
+    A year exploring how prosthetics shape everyday life
   </h2>
   <p>
     Through conversations with prosthetic users, engineers, researchers, and
@@ -56,7 +56,7 @@ author_profile: false
       class="keegan-editorial-intro__project-link"
       href="https://www.keegantravelingfellowship.org/andrew-blakemore"
     ><em>Designed for Living</em></a>
-    will document how these technologies are created and what they make possible
+    will document how these devices are created and how they impact daily life
     in communities around the world.
   </p>
 </section>
