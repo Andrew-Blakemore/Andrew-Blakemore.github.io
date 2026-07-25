@@ -293,8 +293,6 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
 </script>
 
-<div class="custom-divider"></div>
-
 <div class="keegan-blog-cta keegan-reveal">
   <a href="https://theworldofprosthetics.substack.com/" class="keegan-blog-button">
     Read the Stories →
