@@ -320,7 +320,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       threshold: 0.02,
-      rootMargin: "0px 0px -25% 0px"
+      rootMargin: "0px 0px -30% 0px"
     }
   );
 
