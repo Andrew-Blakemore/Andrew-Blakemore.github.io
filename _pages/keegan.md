@@ -18,13 +18,13 @@ author_profile: false
     A year exploring how prosthetics shape everyday life
   </h2>
   <p>
-    Through conversations with prosthetic users, engineers, researchers, and
-    clinicians,
+    Through conversations with prosthetic users, engineers, clinicians, and
+    researchers,
     <a
       class="keegan-editorial-intro__project-link"
       href="https://www.keegantravelingfellowship.org/andrew-blakemore"
     ><em>Designed for Living</em></a>
-    will document how these devices are created and how they impact daily life
+    will document how these devices impact daily life
     in communities around the world.
   </p>
 </section>
