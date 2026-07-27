@@ -1,0 +1,96 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
+
+<div class="custom-divider"></div>
+
+{% if page.url == "/engineering-portfolio/" %}
+
+<div class="repair-gallery">
+
+    <h2>Clinical Equipment Refurbishment</h2>
+
+    <p class="repair-intro">
+    Through Vanderbilt's Biomedical Engineering travel-embedded course in
+    Guatemala and my work with Project C.U.R.E., I've gained hands-on experience
+    troubleshooting, repairing, calibrating, and refurbishing a wide
+    range of medical equipment in both clinical and warehouse settings. Read
+    more about the Guatemala experience on our
+    <a href="https://vubmeguatemala25.wordpress.com/" target="_blank" rel="noopener">
+        travel blog
+    </a>.
+    </p>
+
+    <div class="repair-carousel" data-repair-carousel aria-label="Clinical equipment refurbishment photographs">
+        <button
+            class="repair-carousel__button repair-carousel__button--previous"
+            type="button"
+            aria-label="Show previous refurbishment photograph"
+        >&lsaquo;</button>
+
+        <div class="repair-carousel__viewport" aria-live="polite">
+        <figure class="repair-slide">
+            <img
+                src="/assets/img/experience/biomedical-technician/medical-examination-lamp-repair.webp"
+                alt="Repairing a medical examination lamp"
+            >
+            <figcaption>
+                Repairing and rewiring a medical examination lamp
+            </figcaption>
+        </figure>
+
+        <figure class="repair-slide" hidden>
+            <img
+                src="/assets/img/experience/biomedical-technician/endoscopy-system-function-testing.webp"
+                alt="Testing an endoscopy imaging system"
+            >
+            <figcaption>
+                Performing functional testing on an endoscopy imaging system
+            </figcaption>
+        </figure>
+
+        <figure class="repair-slide" hidden>
+            <img
+                src="/assets/img/experience/biomedical-technician/operating-table-electrical-repair.webp"
+                alt="Diagnosing an operating table electrical system"
+            >
+            <figcaption>
+                Diagnosing the electrical system of an operating table
+            </figcaption>
+        </figure>
+
+        <figure class="repair-slide" hidden>
+            <img
+                src="/assets/img/experience/biomedical-technician/mobile-x-ray-system-testing.webp"
+                alt="Troubleshooting a mobile X-ray system"
+            >
+            <figcaption>
+                Troubleshooting a mobile X-ray imaging system
+            </figcaption>
+        </figure>
+        </div>
+
+        <button
+            class="repair-carousel__button repair-carousel__button--next"
+            type="button"
+            aria-label="Show next refurbishment photograph"
+        >&rsaquo;</button>
+
+        <p class="repair-carousel__status" aria-hidden="true">
+            <span data-repair-current>1</span>
+            <span>/</span>
+            <span data-repair-total>4</span>
+        </p>
+    </div>
+</div>
+
+<script src="{{ '/assets/js/engineering-repair-carousel.js' | relative_url }}"></script>
+
+{% endif %}
