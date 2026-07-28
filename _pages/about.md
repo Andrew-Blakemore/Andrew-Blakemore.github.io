@@ -27,7 +27,7 @@ author_profile: false
       then transferred into biomedical engineering after discovering a passion for
       hands-on problem-solving and design. I'm naturally curious and always enjoy
       exploring new places and perspectives. Outside of work, I love to
-      hike, read, cook, and watch college sports.
+      hike, read mystery novels, make fruit leather, and follow college sports.
     </p>
 
     <ul class="about-profile-meta" aria-label="Contact information">
