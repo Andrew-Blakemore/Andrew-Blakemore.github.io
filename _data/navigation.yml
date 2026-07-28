@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /_pages/about
+    url: /about/
     icon: "fas fa-user"
 
   - title: "Engineering Projects"
