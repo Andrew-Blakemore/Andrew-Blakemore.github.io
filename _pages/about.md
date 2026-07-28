@@ -1,6 +1,6 @@
 ---
 title: "About Andrew Blakemore"
-permalink: /about-test/
+permalink: /about/
 layout: single
 classes: wide custom-page about-test-page
 author_profile: false
