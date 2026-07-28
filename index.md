@@ -100,7 +100,7 @@ layout: splash
     Take a look around to explore my work and travels. If something catches your interest, feel free to reach out—I’d love to connect!
     </p>
     
-    <a href="/_pages/about/" class="btn btn--primary">
+    <a href="/about/" class="btn btn--primary">
     About Me
     </a>
 
