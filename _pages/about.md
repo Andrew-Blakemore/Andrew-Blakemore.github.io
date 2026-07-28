@@ -22,9 +22,9 @@ author_profile: false
     </h1>
 
     <p class="about-profile-hero__lede">
-      I’m a recent Vanderbilt graduate from Lexington, Kentucky. I began
-      my undergraduate studies at BYU as a biology major on the premed track, then
-      transferred into biomedical engineering after discovering a passion for
+      I’m a recent Vanderbilt University graduate from Lexington, Kentucky, USA.
+      I began my undergraduate studies as a biology major on the premed track,
+      then transferred into biomedical engineering after discovering a passion for
       hands-on problem-solving and design. I'm naturally curious and always enjoy
       exploring new places and perspectives. Outside of work, I love to
       hike, read, cook, and watch college sports.
