@@ -18,7 +18,7 @@ author_profile: false
     <p class="about-eyebrow">A Little More About Me</p>
 
     <h1 id="about-profile-title">
-      My background
+      My Background
     </h1>
 
     <p class="about-profile-hero__lede">
@@ -115,9 +115,9 @@ author_profile: false
     <article class="about-detail-card about-detail-card--education">
       <p class="about-eyebrow">Education</p>
       <h2>Vanderbilt University</h2>
-      <p class="about-detail-card__meta">BEng · May 2026</p>
+      <p class="about-detail-card__meta">May 2026</p>
       <ul>
-        <li>Biomedical Engineering, <em>cum laude</em></li>
+        <li>BEng in Biomedical Engineering, <em>cum laude</em></li>
         <li>Minor in Digital Fabrication</li>
       </ul>
     </article>
