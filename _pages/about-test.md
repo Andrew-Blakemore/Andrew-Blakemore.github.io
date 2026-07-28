@@ -22,10 +22,10 @@ author_profile: false
     </h1>
 
     <p class="about-profile-hero__lede">
-      I’m from Lexington, Kentucky, and a recent Vanderbilt graduate. I began
-      college at BYU as a biology major on the premedical track, then
-      transferred into biomedical engineering after discovering a stronger
-      interest in hands-on problem-solving and design. Outside of work, I enjoy
+      I’m a recent Vanderbilt graduate from Lexington, Kentucky. I began
+      my undergraduate studies at BYU as a biology major on the premed track, then
+      transferred into biomedical engineering after discovering a passion for
+      hands-on problem-solving and design. Outside of work, I enjoy
       hiking, reading, cooking, and exploring new places.
     </p>
 
@@ -48,10 +48,10 @@ author_profile: false
   <section class="about-section" aria-labelledby="about-experience-title">
     <div class="about-section-heading">
       <p class="about-eyebrow">Experience</p>
-      <h2 id="about-experience-title">Learning by building, testing, and listening.</h2>
+      <h2 id="about-experience-title">Engineering in Practice</h2>
       <p>
         My work has taken me from research laboratories to clinical settings,
-        with a consistent focus on careful problem-solving and useful outcomes.
+        with a consistent focus on practical solutions and real-world impact.
       </p>
     </div>
 
