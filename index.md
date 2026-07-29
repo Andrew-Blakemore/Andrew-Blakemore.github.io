@@ -94,7 +94,7 @@ layout: splash
       Curious by nature.
     </h2>
 
-    <p class="home-about__lede">
+    <p>
       I’m Andrew, a biomedical engineer and photographer drawn to the
       intersection of technology and human experience.
     </p>
