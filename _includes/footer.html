@@ -1,0 +1,30 @@
+<div class="portfolio-footer">
+  <div>
+    <a class="portfolio-footer__name" href="{{ '/' | relative_url }}">
+      Andrew Blakemore
+    </a>
+    <p>Biomedical engineering, photography, and stories from the road.</p>
+  </div>
+
+  <nav class="portfolio-footer__links" aria-label="Contact and social links">
+    <ul>
+      {% if site.footer.links %}
+        {% for link in site.footer.links %}
+          {% if link.label and link.url %}
+            <li>
+              <a href="{{ link.url }}" rel="me noopener noreferrer">
+                <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+                {{ link.label }}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </nav>
+</div>
+
+<div class="portfolio-footer__bottom">
+  <p>&copy; {{ site.time | date: '%Y' }} Andrew Blakemore. All rights reserved.</p>
+  <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+</div>
