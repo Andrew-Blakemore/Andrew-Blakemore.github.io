@@ -91,7 +91,7 @@ layout: splash
     <p class="home-about__eyebrow">A quick introduction</p>
 
     <h2>
-      Curious about how things work—and how people experience them.
+      Curious by nature.
     </h2>
 
     <p class="home-about__lede">
@@ -100,17 +100,13 @@ layout: splash
     </p>
 
     <p>
-      Whether I’m developing a medical device or documenting life through
-      photography, I’m most energized by unfamiliar challenges, thoughtful
-      collaboration, and perspectives that expand my own.
+      Whether I’m prototyping a new device, working behind a camera, or
+      navigating an unfamiliar place, I love to ask questions and see
+      where they lead.
     </p>
 
     <div class="home-about__actions">
       <a href="/about/" class="btn btn--primary">More About Me</a>
-      <a href="mailto:hello@andrew-blakemore.com" class="home-about__contact">
-        Get in Touch
-        <i class="fas fa-arrow-right" aria-hidden="true"></i>
-      </a>
     </div>
 
   </div>
