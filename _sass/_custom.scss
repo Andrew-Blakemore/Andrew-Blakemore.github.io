@@ -877,6 +877,16 @@ body.photography-page .page__inner-wrap {
 }
 
 @media (max-width: 760px) {
+  .photo-camera-story__prompt {
+    width: max-content;
+    max-width: calc(100vw - 2rem);
+    text-align: center;
+  }
+
+  .photo-camera-story__prompt span {
+    white-space: nowrap;
+  }
+   
   .photo-camera-story {
     height: 155svh;
   }
