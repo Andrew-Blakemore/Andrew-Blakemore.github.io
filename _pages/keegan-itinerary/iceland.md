@@ -1,6 +1,6 @@
 ---
 title: "Reykjavík, Iceland"
-permalink: /keegan-itinerary/iceland/
+permalink: /keegan-traveling-fellowship/iceland/
 layout: itinerary
 classes: wide custom-page
 author_profile: false
