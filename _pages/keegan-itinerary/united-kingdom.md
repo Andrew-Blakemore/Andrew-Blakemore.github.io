@@ -1,6 +1,6 @@
 ---
 title: "United Kingdom"
-permalink: /keegan-itinerary/united-kingdom/
+permalink: /keegan-traveling-fellowship/united-kingdom/
 layout: itinerary
 classes: wide custom-page
 author_profile: false
