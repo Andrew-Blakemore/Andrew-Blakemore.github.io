@@ -1,11 +1,11 @@
 ---
 title: "Nashville, Tennessee, United States"
-permalink: /keegan-itinerary/nashville/
+permalink: /keegan-traveling-fellowship/tennnessee/
 layout: itinerary
 classes: wide custom-page
 author_profile: false
 header:
-  image: /assets/img/travel/tennessee/fabco-finished-prosthetic-sockets-hero.webp
+  image: /assets/img/travel/tennessee/nashville-hero.webp
 ---
 
 <div class="itinerary-story">
