@@ -1,6 +1,6 @@
 ---
 title: "Germany"
-permalink: /keegan-itinerary/germany/
+permalink: /keegan-traveling-fellowship/germany/
 layout: itinerary
 classes: wide custom-page
 author_profile: false
