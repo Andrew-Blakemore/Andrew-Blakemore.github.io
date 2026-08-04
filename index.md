@@ -149,7 +149,7 @@ layout: splash
 
         <article class="featured-card">
         <a class="featured-card__link"
-           href="/keegan-itinerary/iceland/">
+           href="/keegan-traveling-fellowship/iceland/">
 
             <img src="/assets/img/travel/iceland/reykjavik-hero.webp">
 
