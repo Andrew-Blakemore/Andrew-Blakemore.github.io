@@ -1,6 +1,6 @@
 ---
 title: "Tennessee, United States"
-permalink: /keegan-itinerary/nashville/
+permalink: /keegan-traveling-fellowship/tennessee/
 layout: itinerary
 classes: wide custom-page
 author_profile: false
@@ -10,7 +10,7 @@ header:
 
 <div class="itinerary-story itinerary-story--tennessee">
   <header class="itinerary-story__intro">
-    <p class="itinerary-story__kicker">Tennessee field notes &middot; Designed for Living</p>
+    <p class="itinerary-story__kicker">Tennessee &middot; Designed for Living</p>
     <h2>Inside Tennessee&rsquo;s prosthetics network.</h2>
     <p class="itinerary-story__dek">
       Compared with a visit centered on a single clinic or manufacturer,
@@ -443,7 +443,7 @@ header:
   <footer class="itinerary-story__footer">
     <div>
       <p class="itinerary-story__eyebrow">An open field file</p>
-      <h2>Tennessee is the starting point, not a single visit.</h2>
+      <h2>Tennessee is the starting point.</h2>
       <p>
         Future entries will add clinical, manufacturing, adaptive-sport, and
         user perspectives from across the state as the project develops.
