@@ -13,14 +13,14 @@ header:
     <p class="itinerary-story__kicker">Tennessee &middot; Designed for Living</p>
     <h2>Inside Tennessee&rsquo;s prosthetics network.</h2>
 <p class="itinerary-story__dek">
-      Prosthetic clinics can be found across the country; what distinguishes
-      the Nashville&ndash;Chattanooga corridor is how many other parts of the
-      system sit nearby. Within a few hours are clinical practices, nationwide
-      central fabrication, adaptive-sport work, and a long-established
-      prosthetic and orthotic component manufacturer. That concentration makes
-      Tennessee an unusually useful place to trace how decisions move from
-      clinical design and fabrication through component engineering, fitting,
-      and everyday use.
+      Prosthetic clinics can be found across the United States, but the
+      Nashville&ndash;Chattanooga corridor is unique in its high concentration
+      of prosthetic infrastructure. Within only a few hours' drive, the region
+      hosts clinical practices, a nationwide central fabrication lab, several
+      adaptive lifestyle and community groups, and a long-established component
+      manufacturer. That concentration makes Tennessee an unusually useful
+      place to trace how decisions move from clinical design and fabrication
+      through component engineering, fitting, and everyday use.
     </p>
 
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Tennessee organizations">
@@ -56,12 +56,12 @@ header:
 
   <section class="itinerary-story__section itinerary-story__section--opening">
     <div class="itinerary-story__opening-copy">
-      <h2>Starting with the part made for one person.</h2>
+      <h2>Beginning with the end in mind.</h2>
       <p class="itinerary-story__lead">
-        Designed for Living follows prostheses into daily life, but understanding
-        that experience also means looking upstream. I visited FabCo to see how a
-        clinician's design becomes the custom interface between a person and the
-        rest of a prosthetic system.
+        <em>Designed for Living</em> follows prostheses into daily life, but to
+        get the full picture, we must first look upstream. I visited FabCo to see
+        how a clinician's design becomes the custom interface between a person and
+        the rest of a prosthetic system.
       </p>
       <p>
         FabCo is a prosthetics-only central fabrication facility in Nashville.
@@ -572,11 +572,12 @@ header:
 
   <footer class="itinerary-story__footer">
     <div>
-      <p class="itinerary-story__eyebrow">An open field file</p>
-      <h2>Tennessee is the starting point.</h2>
+      <p class="itinerary-story__eyebrow">An open file</p>
+      <h2>But wait, there's more...</h2>
       <p>
-        Future entries will add clinical, manufacturing, adaptive-sport, and
-        user perspectives from across the state as the project develops.
+        Stay tuned for more additions to the Tennessee entry, including
+        manufacturing and adaptive-sport perspectives. In the mean time,
+        check out some of the other places I've visited!
       </p>
     </div>
     <a class="itinerary-story__button" href="/keegan-traveling-fellowship/">
