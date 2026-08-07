@@ -13,14 +13,13 @@ header:
     <p class="itinerary-story__kicker">Tennessee &middot; Designed for Living</p>
     <h2>Inside Tennessee&rsquo;s prosthetics network.</h2>
 <p class="itinerary-story__dek">
-      Prosthetic clinics can be found across the United States, but the
-      Nashville&ndash;Chattanooga corridor is unique in its high concentration
-      of prosthetic infrastructure. Within only a few hours' drive, the region
-      hosts clinical practices, a nationwide central fabrication lab, several
-      adaptive lifestyle and community groups, and a long-established component
-      manufacturer. That concentration makes Tennessee an unusually useful
-      place to trace how decisions move from clinical design and fabrication
-      through component engineering, fitting, and everyday use.
+      In the United States, the Nashville&ndash;Chattanooga corridor is unique
+      in its high concentration of prosthetic infrastructure. Within only a few
+      hours' drive, the region hosts clinical practices, a nationwide central
+      fabrication lab, several adaptive lifestyle and community groups, and a
+      long-established component manufacturer. That concentration makes Tennessee
+      an unusually useful place to trace how decisions move from clinical design
+      and fabrication through component engineering, fitting, and everyday use.
     </p>
 
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Tennessee organizations">
@@ -576,7 +575,7 @@ header:
       </dl>
       <p class="itinerary-story__visit-status">
         <strong>Coming soon</strong>
-        <span>Adaptive-sport field notes will follow the planned Winter 2027 visit.</span>
+        <span>Planning for Winter 2026-27 visit.</span>
       </p>
     </section>
 
@@ -601,7 +600,7 @@ header:
       </dl>
       <p class="itinerary-story__visit-status">
         <strong>Coming soon</strong>
-        <span>Manufacturing field notes will follow the planned Winter 2027 visit.</span>
+        <span>Planning for Winter 2026-27 visit.</span>
       </p>
     </section>
   </div>
@@ -623,7 +622,7 @@ header:
       <p class="itinerary-story__eyebrow">An open file</p>
       <h2>But wait, there's more...</h2>
       <p>
-        Stay tuned for some updates to the Tennessee entry. In the mean time,
+        Stay tuned for some updates to the Tennessee entry. In the meantime,
         check out other parts of my project.
       </p>
     </div>
