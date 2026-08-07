@@ -17,10 +17,10 @@ header:
       in its high concentration of prosthetic infrastructure. Within only a few
       hours' drive, the region hosts clinical practices, a nationwide central
       fabrication lab, several adaptive lifestyle and community groups, and a
-      long-established component manufacturer. That concentration makes Tennessee
+      long-established component manufacturer. This concentration makes Tennessee
       an unusually useful place to trace how decisions move from clinical design
-      and fabrication through component engineering, fitting, and everyday use.
-    </p>
+      and fabrication through fitting and everyday use.
+  </p>
 
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Tennessee organizations">
       <a class="is-active" href="#fabco-visit">FabCo</a>
@@ -78,15 +78,14 @@ header:
   <figure class="itinerary-story__body-copy">
     <img
       src="/assets/img/travel/tennessee/socket-fabrication.webp"
-      alt="Several finished prosthetic sockets standing at fabrication workstations"
+      alt="Several prosthetic sockets standing at fabrication workstations"
       width="1600"
       height="1200"
       loading="lazy"
       decoding="async"
     >
     <figcaption>
-      Finished sockets at FabCo make the central idea visible: the process may be
-      repeatable, but the geometry, materials, and details are individual.
+      The socket fabrication process may be repeatable, but the geometry, materials, and details are individual.
     </figcaption>
   </figure>
 
@@ -305,7 +304,7 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>My insights fron the visit.</h2>
+      <h2>My insights from the visit.</h2>
       <p class="itinerary-story__lead">
         Following the same device across the shop made it clear that fabrication
         depends on more than completing a checklist. Throughout the morning,
@@ -392,13 +391,6 @@ header:
         component failures, and personal preferences become most useful when
         that information can travel back through the network.
       </p>
-    </div>
-  </section>
-
-  <section class="itinerary-story__section">
-    <div>
-      <h2>This wor.</h2>
-
     </div>
   </section>
 
@@ -575,7 +567,6 @@ header:
       </dl>
       <p class="itinerary-story__visit-status">
         <strong>Coming soon</strong>
-        <span>Planning for Winter 2026-27 visit.</span>
       </p>
     </section>
 
@@ -600,7 +591,6 @@ header:
       </dl>
       <p class="itinerary-story__visit-status">
         <strong>Coming soon</strong>
-        <span>Planning for Winter 2026-27 visit.</span>
       </p>
     </section>
   </div>
