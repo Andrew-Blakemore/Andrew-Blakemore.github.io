@@ -13,13 +13,13 @@ header:
     <p class="itinerary-story__kicker">Tennessee &middot; Designed for Living</p>
     <h2>Inside Tennessee&rsquo;s prosthetics network.</h2>
 <p class="itinerary-story__dek">
-      In the United States, the Nashville&ndash;Chattanooga corridor is unique
+      The Nashville&ndash;Chattanooga corridor in Tennessee is unique
       in its high concentration of prosthetic infrastructure. Within only a few
-      hours' drive, the region hosts clinical practices, a nationwide central
-      fabrication lab, several adaptive lifestyle and community groups, and a
-      long-established component manufacturer. This concentration makes Tennessee
-      an unusually useful place to trace how decisions move from clinical design
-      and fabrication through fitting and everyday use.
+      hours' drive, the region hosts many clinics, a central fabrication facility,
+      several adaptive lifestyle organizations, and a leading global manufacturer of
+      prosthetics. This concentration makes Tennessee a useful setting to
+      trace how decisions made in clinics and manufacturing facilities shape the final
+      device, and ultimately the experience of the person who uses it.
   </p>
 
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Tennessee organizations">
@@ -57,20 +57,21 @@ header:
     <div class="itinerary-story__opening-copy">
       <h2>Beginning with the end in mind.</h2>
       <p class="itinerary-story__lead">
-        <em>Designed for Living</em> follows prostheses into daily life, but to
-        get the full picture, we must first look upstream. I visited FabCo to see
-        how a clinician's design becomes the custom interface between a person and
-        the rest of a prosthetic system.
+        <em>Designed for Living</em> explores how prostheses shape everyday life.
+        Before turning to that experience, however, I wanted to take a step back
+        and see where it begins. At FabCo, I followed a clinician’s design through
+        the fabrication process as it became a custom socket.
       </p>
       <p>
-        FabCo is a prosthetics-only central fabrication facility in Nashville.
-        Clinics send casts, scans, models, test sockets, and instructions; the
-        shop turns that clinical information into custom devices that return to
-        the prosthetist for fitting. On the floor, the work moved through areas
-        for plaster and model preparation, plastic thermoforming, lamination,
-        machining, finishing, and assembly. The rooms separated dusty, hot, and
-        chemical processes, while each socket carried the same individual shape
-        from one stage to the next.
+        FabCo is a prosthetics-only central fabrication facility in Nashville,
+        Tennessee, where clinics send casts, scans, test sockets, and detailed
+        instructions. Technicians use these materials to build a custom device,
+        which is then returned to the prosthetist for fitting. Each job moves
+        through a series of specialized processes involving model preparation,
+        plastic thermoforming, lamination, machining, finishing, and assembly.
+        The work is distributed across a variety of dedicated rooms, including
+        an area for creating plaster models, a space lined with grinders and
+        cutting tools, and another equipped with rows of ovens for thermoforming.
       </p>
     </div>
   </section>
@@ -85,7 +86,7 @@ header:
       decoding="async"
     >
     <figcaption>
-      The socket fabrication process may be repeatable, but the geometry, materials, and details are individual.
+      The socket fabrication process may be repeatable, but the geometry and materials used for each device are personalized.
     </figcaption>
   </figure>
 
