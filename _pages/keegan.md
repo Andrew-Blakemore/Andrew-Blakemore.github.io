@@ -63,7 +63,7 @@ author_profile: false
       lon: -84.5037,
       link_enabled: false,
       summary: "Starting Point",
-      route: true,
+      route: false,
       current: false
     },
     {
@@ -72,9 +72,10 @@ author_profile: false
       leg: "north-america",
       lat: 36.1627,
       lon: -86.7816,
-      link_enabled: false,
+      url: "{{ '/keegan-traveling-fellowship/tennessee/' | relative_url }}",
+      link_enabled: true,
       summary: "Starting Point",
-      route: false,
+      route: true,
       current: false
     },
     {
