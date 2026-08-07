@@ -97,16 +97,15 @@ header:
       <h2>A general pathway for lower-limb socket fabrication.</h2>
       <p class="itinerary-story__lead">
         Once I understood how the shop was organized, the fabrication
-        sequence became easier to follow. A typical lower-limb pathway begins
-        with a record of the person’s anatomy and a rectified model. That
-        geometry may first be used to fabricate a diagnostic socket so the
+        sequence became easier to follow. A typical lower-limb pathway
+        begins with a rectified model of the patient’s residual limb anatomy.
+        That geometry is first used to fabricate a temporary diagnostic socket so the
         prosthetist can evaluate and refine the design. Once the design is
-        approved, a new definitive socket is fabricated from it; the diagnostic
-        socket does not become the definitive one. The two stages may even be
-        completed by different central fabrication facilities. The exact process
-        varies with limb level, suspension
-        method, material, clinical approach, and the individual, so the
-        pathway below is best understood as a general guide rather than
+        optimized, a new definitive socket is fabricated using stronger, more
+        durable materials. The two stages may even be completed by different
+        central fabrication facilities, and the exact process varies with limb level,
+        suspension method, material, clinical approach, and the individual. As a result,
+        the pathway described below is best understood as a general guide rather than
         a fixed recipe for every FabCo job.
       </p>
     </div>
@@ -121,8 +120,9 @@ header:
         <div>
           <h3>Negative impression</h3>
           <p>
-            A prosthetist records the residual limb’s shape with a cast or digital scan,
-            along with measurements and clinical observations.
+            A prosthetist records the residual limb’s shape
+            with a cast or digital scan, along with measurements
+            and clinical observations.
           </p>
         </div>
       </div>
@@ -131,7 +131,8 @@ header:
         <div>
           <h3>Positive model &amp; rectification</h3>
           <p>
-            The negative cast is filled to create a positive plaster model.
+            The negative cast is sent to central fabrication
+            and filled to create a positive plaster model.
             The model is then modified to add relief and
             support where the socket design requires it.
           </p>
@@ -147,7 +148,7 @@ header:
           <h3>Thermoformed diagnostic socket</h3>
           <p>
             Clear thermoplastic is vacuum formed over the model to create a
-            temporary, separate socket. The prosthetist uses it during clinical
+            temporary diagnostic socket. The prosthetist uses this socket during a clinical
             fitting to evaluate fit, pressure, suspension, and alignment and to
             identify any changes the design requires.
           </p>
@@ -159,10 +160,9 @@ header:
           <h3>Definitive socket &amp; wet lamination</h3>
           <p>
             Once the diagnostic design is approved, a new definitive socket is
-            fabricated from that geometry rather than from the diagnostic socket
-            itself. In a laminated design, reinforcing textiles are arranged over
-            a prepared model and consolidated with resin under vacuum. Some
-            designs use multiple walls or laminations.
+            fabricated from that geometry. In a laminated design, reinforcing
+            carbon fiber strips are arranged over a prepared model and consolidated
+            with resin under vacuum. Some designs use multiple walls or laminations.
           </p>
         </div>
       </div>
@@ -187,8 +187,8 @@ header:
           <h3>Clinical fitting &amp; dynamic alignment</h3>
           <p>
             Back at the clinic, the prosthetist evaluates comfort and movement
-            with the user, adjusts alignment, and continues refining the system
-            as it is used in real life.
+            with the user, adjusts alignment, and continues refining the prosthetic
+            system as it is used in real life.
           </p>
         </div>
       </div>
