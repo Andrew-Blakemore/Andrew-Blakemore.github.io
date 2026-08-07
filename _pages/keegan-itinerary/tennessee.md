@@ -367,19 +367,19 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>New tools have to prove themselves.</h2>
+      <h2>New tech has to prove itself.</h2>
       <p class="itinerary-story__lead">
         FabCo’s experience with new technology showed how innovation can strengthen
         an established manufacturing process. The facility has adopted faster carving
         equipment and scanning software that can preserve socket geometry as an STL file
-        for records. These technologies improve efficiency and documentation while keeping
+        for their records. These technologies improve efficiency and documentation while keeping
         other work in the skilled hands of technicians.
       </p>
       <p>
-        Not every innovation is ready for routine use, however. FabCo acquired a 3D printer for
-        diagnostic sockets several years ago, but inconsistent results and time-consuming
+        Not every innovation is ready for routine use, however. Not too long ago, FabCo acquired
+        a 3D printer for producing diagnostic sockets, but inconsistent results and time-consuming
         troubleshooting kept it from becoming part of regular production. This experience
-        was not a rejection of additive manufacturing. Rather, it illustrated how reliable a new
+        was not a rejection of additive manufacturing. Rather, it illustrates how reliable a new
         technology must become before it can replace traditional techniques that have been
         refined and proven over time.
       </p>
@@ -391,14 +391,14 @@ header:
       <h2>Glimpsing the bigger picture.</h2>
       <p class="itinerary-story__lead">
         By the end of the visit, FabCo felt much less like a standalone fabrication facility
-        and more like one node in a national network. The team knew clinicians I had
+        and more like one node in a national network. The team knew prosthetists I had
         previously shadowed, exchanged techniques with other specialists,
         consulted on R&D projects involving companies such as WillowWood and Fillauer,
         and maintained close relationships with local amputees and amputee organizations.
       </p>
       <p>
         These relationships matter because a prosthesis crosses several kinds
-        of expertise before it reaches the person who will use it: clinical evaluation,
+        of expertise before it reaches the person who will use it: initial evaluation,
         design, fabrication, component engineering, fitting, and long-term
         adjustment. The person experiences the completed system, not the
         organizational boundaries behind it. Comfort problems, activity goals,
