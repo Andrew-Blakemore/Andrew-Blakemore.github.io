@@ -593,7 +593,7 @@ header:
         </div>
         <div>
           <dt>Scope</dt>
-          <dd>Prosthetic &amp; orthotic manufacturing</dd>
+          <dd>Prosthetic &amp; manufacturing</dd>
         </div>
         <div>
           <dt>Visit timing</dt>
