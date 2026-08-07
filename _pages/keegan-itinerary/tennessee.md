@@ -283,11 +283,11 @@ header:
         decoding="async"
       >
       <figcaption>
-        The technician spreads throughout the interior of the prosthetic socket model.
+        The FabCo technician laminating a socket.
       </figcaption>
     </figure>
     <div class="itinerary-story__process-note">
-      <h3>One fabricator follows the job.</h3>
+      <h3>A technician for every job.</h3>
       <p>
         The work I observed was not organized as an assembly line with a new
         person taking over at every station. A job was primarily assigned to one
@@ -304,24 +304,9 @@ header:
     </div>
   </div>
 
-  <figure class="itinerary-story__body-copy">
-    <img
-      src="/assets/img/travel/tennessee/thermoplastic-socket-forming.webp"
-      alt="A FabCo fabricator heating and forming thermoplastic over a socket model"
-      width="1200"
-      height="900"
-      loading="lazy"
-      decoding="async"
-    >
-    <figcaption>
-      Heated thermoplastic is formed around a model under vacuum to preserve
-      the designed shape.
-    </figcaption>
-  </figure>
-
   <section class="itinerary-story__section">
     <div>
-      <h2>What the process revealed.</h2>
+      <h2>My insights fron the visit.</h2>
       <p class="itinerary-story__lead">
         Following the same device across the shop made it clear that fabrication
         depends on more than completing a checklist. Throughout the morning,
@@ -340,6 +325,21 @@ header:
       </p>
     </div>
   </section>
+
+    <figure class="itinerary-story__body-copy">
+    <img
+      src="/assets/img/travel/tennessee/thermoplastic-socket-forming.webp"
+      alt="A FabCo fabricator heating and forming thermoplastic over a socket model"
+      width="1200"
+      height="900"
+      loading="lazy"
+      decoding="async"
+    >
+    <figcaption>
+      Heated thermoplastic is formed around a model under vacuum to preserve
+      the designed shape.
+    </figcaption>
+  </figure>
 
   <div class="itinerary-story__detail">
     <div>
@@ -376,7 +376,7 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>The workshop is connected to a much larger system.</h2>
+      <h2>Glimpsing the bigger picture.</h2>
       <p class="itinerary-story__lead">
         By the end of the visit, FabCo’s floor felt less like an isolated vendor
         than one node in a national network. The team knew clinicians I had
@@ -398,13 +398,8 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>The consequences leave the workshop.</h2>
-      <p class="itinerary-story__lead">
-        A finished socket can look simple beside a microprocessor knee or
-        powered hand. Yet its geometry and workmanship influence whether the
-        whole system can be worn comfortably, maintained, trusted, and made
-        ordinary enough to recede into the background of daily life.
-      </p>
+      <h2>This wor.</h2>
+
     </div>
   </section>
 
@@ -415,6 +410,12 @@ header:
       <p>
         It transfers forces while protecting living tissue, so manufacturing
         quality is inseparable from comfort, mobility, and confidence.
+      </p>
+      <p class="itinerary-story__lead">
+        A finished socket can look simple beside a microprocessor knee or
+        powered hand. Yet its geometry and workmanship influence whether the
+        whole system can be worn comfortably, maintained, trusted, and made
+        ordinary enough to recede into the background of daily life.
       </p>
   <style>
     /* Tennessee field-note refinements */
@@ -620,10 +621,10 @@ header:
   <footer class="itinerary-story__footer">
     <div>
       <p class="itinerary-story__eyebrow">An open file</p>
-      <h2>Tennessee is just the behinning...</h2>
+      <h2>But wait, there's more...</h2>
       <p>
-        Stay tuned for more additions to the Tennessee entry. In the mean time,
-        check out other parts of my project!
+        Stay tuned for some updates to the Tennessee entry. In the mean time,
+        check out other parts of my project.
       </p>
     </div>
     <a class="itinerary-story__button" href="/keegan-traveling-fellowship/">
@@ -818,12 +819,12 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Amputee Blade Runners",
       label: "Planned visit",
-      copy: "Adaptive-sport field notes are expected after a Winter 2027 visit."
+      copy: "Planning a Winter 2026-27 visit."
     },
     {
       name: "Fillauer",
       label: "Planned visit",
-      copy: "Manufacturing field notes are expected after a Winter 2027 visit."
+      copy: "Planning a Winter 2026-27 visit."
     }
   ].forEach(function (visit) {
     const facts = findVisitFacts(visit.name);
