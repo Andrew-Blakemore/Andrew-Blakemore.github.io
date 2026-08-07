@@ -594,23 +594,22 @@ header:
   <aside class="itinerary-story__next" id="future-tennessee-visits">
     <div>
       <p class="itinerary-story__eyebrow">Questions carried forward</p>
-      <h2>What I’ll look for in the next Tennessee visits.</h2>
+      <h2>What I’ll look for in future visits.</h2>
     </div>
     <ul>
       <li>How does feedback from users move through clinicians and back to the fabrication bench?</li>
       <li>Where do newer manufacturing methods improve consistency, access, or customization?</li>
-      <li>How do design priorities change across daily life, work, recreation, and adaptive sport?</li>
+      <li>How do design priorities change across daily life, work, recreation, and more?</li>
     </ul>
   </aside>
 
   <footer class="itinerary-story__footer">
     <div>
       <p class="itinerary-story__eyebrow">An open file</p>
-      <h2>But wait, there's more...</h2>
+      <h2>Tennessee is just the behinning...</h2>
       <p>
-        Stay tuned for more additions to the Tennessee entry, including
-        manufacturing and adaptive-sport perspectives. In the mean time,
-        check out some of the other places I've visited!
+        Stay tuned for more additions to the Tennessee entry. In the mean time,
+        check out other parts of my project!
       </p>
     </div>
     <a class="itinerary-story__button" href="/keegan-traveling-fellowship/">
