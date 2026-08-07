@@ -15,7 +15,7 @@ header:
 <p class="itinerary-story__dek">
       The Nashville&ndash;Chattanooga corridor in Tennessee is unique
       in its high concentration of prosthetic infrastructure. Within only a few
-      hours' drive, the region hosts many clinics, a central fabrication facility,
+      hours' drive, the region hosts numerous clinics, a central fabrication facility,
       several adaptive lifestyle organizations, and a leading global manufacturer of
       prosthetics. This concentration makes Tennessee a useful setting to
       trace how decisions made in clinics and manufacturing facilities shape the final
@@ -58,17 +58,17 @@ header:
       <h2>Beginning with the end in mind.</h2>
       <p class="itinerary-story__lead">
         <em>Designed for Living</em> explores how prostheses shape everyday life.
-        Before turning to that experience, however, I wanted to take a step back
-        and see where it begins. At FabCo, I followed a clinician’s design through
-        the fabrication process as it became a custom socket.
+        Before turning to that perspective, however, I wanted to take a step back
+        and start at the beginning. At FabCo, I followed a clinician’s design through
+        the fabrication process as it became a custom prosthetic socket.
       </p>
       <p>
         FabCo is a prosthetics-only central fabrication facility in Nashville,
         Tennessee, where clinics send casts, scans, test sockets, and detailed
         instructions. Depending on the request, technicians fabricate either a
-        diagnostic socket for clinical evaluation or a separate definitive socket
-        based on a design that has already been approved. The completed socket is
-        then returned to the prosthetist. Each job moves
+        diagnostic socket for clinical evaluation or a definitive socket
+        based on an approved design. The completed socket is then returned to the
+        prosthetist. Each job moves
         through a series of specialized processes involving model preparation,
         plastic thermoforming, lamination, machining, finishing, and assembly.
         The work is distributed across a variety of dedicated rooms, including
@@ -161,7 +161,7 @@ header:
           <p>
             Once the diagnostic design is approved, a new definitive socket is
             fabricated from that geometry. In a laminated design, reinforcing
-            carbon fiber strips are arranged over a prepared model and consolidated
+            carbon fiber is arranged over a prepared model and consolidated
             with resin under vacuum. Some designs use multiple walls or laminations.
           </p>
         </div>
@@ -173,7 +173,7 @@ header:
       <div class="itinerary-story__process-step">
         <span>05</span>
         <div>
-          <h3>Trim, finish &amp; alignment transfer</h3>
+          <h3>Trim &amp; finish</h3>
           <p>
             Trim lines are cut, edges and surfaces are refined, and the component
             position established with the diagnostic setup can be reproduced in
@@ -232,8 +232,8 @@ header:
           decoding="async"
         >
         <figcaption>
-          Excess material is cut away after forming, bringing the socket to its
-          prescribed boundaries.
+          Remaining plaster from the original mold is chipped away,
+          clearing out the internal cavity of the socket.
         </figcaption>
       </figure>
 
@@ -262,7 +262,7 @@ header:
           decoding="async"
         >
         <figcaption>
-          Finishing smooths out the socket edge to make for a comfortable fit.
+          Finishing smooths out the socket edge to make for a more comfortable fit.
         </figcaption>
       </figure>
     </div>
@@ -304,7 +304,7 @@ header:
         each new surface, trim line, and material layer with what came before.
       </p>
       <p>
-        That continuity matters because a socket is not a generic shell. It is
+        That continuity matters because a socket is not a generic shell; it is
         built around one residual limb and one clinical plan. Keeping the same
         set of eyes on the device helps preserve those details while still
         allowing a second technician to offer another opinion when something
@@ -315,21 +315,20 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>Insights from my visit.</h2>
+      <h2>An eye for detail.</h2>
       <p class="itinerary-story__lead">
         Following the same device across the shop made it clear that fabrication
         depends on more than just completing a checklist. Throughout the morning,
         technicians paused to inspect surfaces and brought uncertain work over to others
         for a second opinion. A change in color, a blemish, a rough patch, or an unexpected
-        depression could reveal where something had gone wrong earlier in fabrication, such as
-        where an air bubble had become trapped during lamination. Recognizing these subtle irregularities
-        and tracing them back to their source reflected the technicians’ practiced attention to
-        detail.
+        indentation could point to a problem earlier in fabrication, such as an air bubble
+        trapped during lamination. Recognizing these subtle irregularities and tracing them
+        back to their source reflected the technicians’ practiced attention to detail.
       </p>
       <p>
         The speed of those diagnoses came by way of experience. While written
-        procedures establish a procedure, it is repetition that teaches a technician
-        what normal variation looks like, where a defect began, and whether it
+        procedures establish a protocol, it is repetition that teaches a technician
+        what normal variation looks like, where a defect begins, and whether it
         can be corrected without compromising the device. That practical
         knowledge is shared through questions on the floor, phone calls, shop
         visits, conferences, and candid feedback across organizations.
@@ -354,15 +353,15 @@ header:
 
   <div class="itinerary-story__detail">
     <div>
-      <h3 class="tn-framework-title">The process is a framework, not a universal recipe.</h3>
+      <h3 class="tn-framework-title">Upper limbs expand the fabrication framework.</h3>
     </div>
     <p>
-      Lower-limb sockets often move through established fabrication sequences,
-      although every shape is still individual. Upper-limb and specialty
-      devices can vary more widely because the unique control method, component placement,
-      suspension, range of motion, appearance, and intended task all inform
-      the problem. The shop therefore adheres to a flexible framework rather
-      than one recipe for every device.
+      Lower-limb sockets often move through more consistent fabrication sequences,
+      although every design is still individual. Upper-limb and specialty devices tend
+      to follow less uniform pathways, as decisions about control method, component
+      placement, suspension, range of motion, appearance, and intended use all shape
+      the design. The shop therefore adheres to a flexible framework rather than one
+      recipe for upper limb device.
     </p>
   </div>
 
