@@ -78,7 +78,7 @@ header:
 
   <figure class="itinerary-story__body-copy">
     <img
-      src="/assets/img/travel/tennessee/fabco-finished-prosthetic-sockets-hero.webp"
+      src="/assets/img/travel/tennessee/socket-fabrication.webp"
       alt="Several finished prosthetic sockets standing at fabrication workstations"
       width="1600"
       height="1200"
@@ -201,7 +201,7 @@ header:
       <figure class="repair-slide">
         <img
           src="/assets/img/travel/tennessee/socket-lamination-setup.webp"
-          alt="A FabCo fabricator preparing a prosthetic socket for lamination"
+          alt="A FabCo technician preparing a prosthetic socket for lamination"
           width="1200"
           height="1600"
           loading="lazy"
@@ -215,8 +215,8 @@ header:
 
       <figure class="repair-slide" hidden>
         <img
-          src="/assets/img/travel/tennessee/prosthetic-socket-trimming.webp"
-          alt="A FabCo fabricator trimming excess material from a prosthetic socket"
+          src="/assets/img/travel/tennessee/socket-chipping-out.webp"
+          alt="A FabCo technician trimming excess material from a prosthetic socket"
           width="1200"
           height="1600"
           loading="lazy"
@@ -230,16 +230,30 @@ header:
 
       <figure class="repair-slide" hidden>
         <img
-          src="/assets/img/travel/tennessee/prosthetic-socket-belt-sanding.webp"
-          alt="A FabCo fabricator smoothing a prosthetic socket on a belt sander"
+          src="/assets/img/travel/tennessee/socket-belt-sanding.webp"
+          alt="A FabCo technician smoothing a prosthetic socket on a belt sander"
           width="1200"
           height="1600"
           loading="lazy"
           decoding="async"
         >
         <figcaption>
-          Sanding and edge finishing remove rough transitions before inspection
+          Sanding removes rough transitions before inspection
           and assembly.
+        </figcaption>
+      </figure>
+
+      <figure class="repair-slide">
+        <img
+          src="/assets/img/travel/tennessee/socket-edge-finishing.webp"
+          alt="A FabCo technician applying the finish on the edge of a prosthetic socket"
+          width="1200"
+          height="1600"
+          loading="lazy"
+          decoding="async"
+        >
+        <figcaption>
+          Finishing removes the final rough area on the socket edge.
         </figcaption>
       </figure>
     </div>
@@ -254,14 +268,15 @@ header:
       <button class="repair-carousel__dot is-active" type="button" data-repair-dot="0" aria-label="Show photograph 1" aria-current="true"></button>
       <button class="repair-carousel__dot" type="button" data-repair-dot="1" aria-label="Show photograph 2"></button>
       <button class="repair-carousel__dot" type="button" data-repair-dot="2" aria-label="Show photograph 3"></button>
+      <button class="repair-carousel__dot" type="button" data-repair-dot="3" aria-label="Show photograph 4"></button>
     </div>
   </div>
 
   <div class="itinerary-story__feature itinerary-story__feature--uncropped">
     <figure class="itinerary-story__feature-image">
       <img
-        src="/assets/img/travel/tennessee/socket-trim-line-marking.webp"
-        alt="A FabCo fabricator marking trim lines on a prosthetic socket model"
+        src="/assets/img/travel/tennessee/fabco-technician.webp"
+        alt="A FabCo technician marking trim lines on a prosthetic socket model"
         width="1400"
         height="1867"
         loading="lazy"
