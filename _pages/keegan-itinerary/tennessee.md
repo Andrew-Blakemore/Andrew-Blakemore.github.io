@@ -65,7 +65,7 @@ header:
       <p>
         FabCo is a prosthetics-only central fabrication facility in Nashville,
         Tennessee, where clinics send casts, scans, test sockets, and detailed
-        instructions. Technicians use these materials to build a custom device,
+        instructions. Technicians use these materials to build either a test socket or a definitive socket,
         which is then returned to the prosthetist for fitting. Each job moves
         through a series of specialized processes involving model preparation,
         plastic thermoforming, lamination, machining, finishing, and assembly.
@@ -92,14 +92,16 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>A general lower-limb socket fabrication pathway.</h2>
+      <h2>A general pathway for lower-limb socket fabrication.</h2>
       <p class="itinerary-story__lead">
-        Once I understood how the shop was arranged, the sequence became easier
-        to follow. A lower-limb socket commonly moves from captured anatomy to a
-        rectified model, a diagnostic version, and then a definitive device.
-        The details change with limb level, suspension, material, prescription,
-        clinic, and person, so the pathway below is a guide rather than a claim
-        that every FabCo job follows the same recipe.
+        Once I understood how the shop was organized, the fabrication
+        sequence became easier to follow. A lower-limb socket typically
+        progresses from a record of the person’s anatomy to a rectified
+        model, then to a diagnostic socket and finally, t%$a definitive
+        device. The exact process varies with limb level, suspension
+        method, material, clinical approach, and the individual, so the
+        pathway below is best understood as a general guide rather than
+        a fixed recipe for every FabCo job.
       </p>
     </div>
   </section>
@@ -111,9 +113,9 @@ header:
       <div class="itinerary-story__process-step">
         <span>01</span>
         <div>
-          <h3>Negative impression or digital scan</h3>
+          <h3>Negative impression</h3>
           <p>
-            A prosthetist records the residual limb’s shape with a cast or scan,
+            A prosthetist records the residual limb’s shape with a cast or test socket,
             along with measurements and clinical observations.
           </p>
         </div>
@@ -123,8 +125,8 @@ header:
         <div>
           <h3>Positive model &amp; rectification</h3>
           <p>
-            A negative cast may be filled to create a positive plaster model.
-            The model—or its digital equivalent—is modified to add relief and
+            The negative cast is filled to create a positive plaster model.
+            The model is then modified to add relief and
             support where the socket design requires it.
           </p>
         </div>
@@ -138,9 +140,7 @@ header:
         <div>
           <h3>Thermoformed diagnostic socket</h3>
           <p>
-            Clear thermoplastic is vacuum formed over the model so fit,
-            pressure, suspension, and alignment can be evaluated and revised
-            during a supervised clinical fitting.
+            Clear thermoplastic is vacuum formed over the model.
           </p>
         </div>
       </div>
@@ -151,8 +151,7 @@ header:
           <p>
             Once fit is confirmed, reinforcing textiles are arranged over a
             prepared model and consolidated with resin under vacuum. Some
-            designs use multiple walls or laminations; others use a definitive
-            thermoplastic construction instead.
+            designs use multiple walls or laminations.
           </p>
         </div>
       </div>
@@ -165,8 +164,7 @@ header:
         <div>
           <h3>Trim, finish &amp; alignment transfer</h3>
           <p>
-            Trim lines are cut, edges and surfaces are refined, hardware is
-            installed, and the component position established in the test setup
+            Trim lines are cut, edges and surfaces are refined, and the component position established in the test setup
             can be transferred to the definitive socket.
           </p>
         </div>
@@ -289,15 +287,15 @@ header:
       <h3>A technician for every job.</h3>
       <p>
         The work I observed was not organized as an assembly line with a new
-        person taking over at every station. A job was primarily assigned to one
-        fabricator, who carried it through the major stages and could compare
+        person taking over at every station. Each job was primarily assigned to one
+        technician, who carried it through the major stages and could compare
         each new surface, trim line, and material layer with what came before.
       </p>
       <p>
         That continuity matters because a socket is not a generic shell. It is
         built around one residual limb and one clinical plan. Keeping the same
         set of eyes on the device helps preserve those details while still
-        allowing a second fabricator to offer another opinion when something
+        allowing a second technician to offer another opinion when something
         looks wrong.
       </p>
     </div>
@@ -305,18 +303,20 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>My insights from the visit.</h2>
+      <h2>Insights from my visit.</h2>
       <p class="itinerary-story__lead">
         Following the same device across the shop made it clear that fabrication
-        depends on more than completing a checklist. Throughout the morning,
-        fabricators paused to inspect surfaces and brought uncertain work over
-        for another set of eyes. A change in color, a pocket of trapped air, or
-        an edge that missed its intended line could point back to a particular
-        moment in forming or lamination.
+        depends on more than just completing a checklist. Throughout the morning,
+        technicians paused to inspect surfaces and brought uncertain work over to others
+        for a second opinion. A change in color, a blemish, a rough patch, or an unexpected
+        depression could reveal where something had gone wrong earlier in fabrication, such as
+        where an air bubble had become trapped during lamination. Recognizing these subtle irregularities
+        and tracing them back to their source reflected the technicians’ practiced attention to
+        detail.
       </p>
       <p>
-        The speed of those diagnoses came from accumulated examples. Written
-        procedures establish a sequence, but repetition teaches a fabricator
+        The speed of those diagnoses came by way of experience. While written
+        procedures establish a procedure, it is repetition that teaches a technician
         what normal variation looks like, where a defect began, and whether it
         can be corrected without compromising the device. That practical
         knowledge is shared through questions on the floor, phone calls, shop
@@ -342,33 +342,35 @@ header:
 
   <div class="itinerary-story__detail">
     <div>
-      <h3>The sequence is a framework, not a universal recipe.</h3>
+      <h3>The process is a framework, not a universal recipe.</h3>
     </div>
     <p>
       Lower-limb sockets often move through established fabrication sequences,
       although every shape is still individual. Upper-limb and specialty
-      devices can vary more widely because control method, component placement,
-      suspension, range of motion, appearance, and the intended task all change
-      the problem. The shop therefore relies on a flexible framework rather
+      devices can vary more widely because the unique control method, component placement,
+      suspension, range of motion, appearance, and intended task all inform
+      the problem. The shop therefore adheres to a flexible framework rather
       than one recipe for every device.
     </p>
   </div>
 
   <section class="itinerary-story__section">
     <div>
-      <h2>New tools have to earn a place in the workflow.</h2>
+      <h2>New tools have to prove themselves.</h2>
       <p class="itinerary-story__lead">
-        That reliance on practiced judgment does not mean the process is fixed.
-        FabCo has incorporated faster digital carving and scanning that can
-        preserve socket geometry as an STL file. These tools improve speed and
-        documentation while leaving inspection and finishing in human hands.
+        FabCo’s experience with new technology showed how innovation can strengthen
+        an established manufacturing process. The facility has adopted faster carving
+        equipment and scanning software that can preserve socket geometry as an STL file
+        for records. These technologies improve efficiency and documentation while keeping
+        other work in the skilled hands of technicians.
       </p>
       <p>
-        A 3D printer intended for test sockets offered a useful contrast. In the
-        shop’s experience, inconsistent results kept it from becoming part of
-        routine production. The observation was not a rejection of additive
-        manufacturing; it was a reminder that a tool affecting fit must be
-        repeatable on an ordinary production day, not only in an ideal trial.
+        Not every innovation is ready for routine use, however. FabCo acquired a 3D printer for
+        diagnostic sockets several years ago, but inconsistent results and time-consuming
+        troubleshooting kept it from becoming part of regular production. This experience
+        was not a rejection of additive manufacturing. Rather, it illustrated how reliable a new
+        technology must become before it can replace traditional techniques that have been
+        refined and proven over time.
       </p>
     </div>
   </section>
@@ -377,15 +379,15 @@ header:
     <div>
       <h2>Glimpsing the bigger picture.</h2>
       <p class="itinerary-story__lead">
-        By the end of the visit, FabCo’s floor felt less like an isolated vendor
-        than one node in a national network. The team knew clinicians I had
-        previously shadowed, contributed to adaptive-sport work, exchanged
-        techniques with other specialists, and discussed projects involving
-        companies such as WillowWood and Fillauer.
+        By the end of the visit, FabCo felt much less like a standalone fabrication facility
+        and more like one node in a national network. The team knew clinicians I had
+        previously shadowed, exchanged techniques with other specialists,
+        consulted on R&D projects involving companies such as WillowWood and Fillauer,
+        and maintained close relationships with local amputees and amputee organizations.
       </p>
       <p>
-        Those relationships matter because a prosthesis crosses several kinds
-        of expertise before it reaches the person who will use it: evaluation,
+        These relationships matter because a prosthesis crosses several kinds
+        of expertise before it reaches the person who will use it: clinical evaluation,
         design, fabrication, component engineering, fitting, and long-term
         adjustment. The person experiences the completed system, not the
         organizational boundaries behind it. Comfort problems, activity goals,
@@ -398,11 +400,7 @@ header:
   <div class="itinerary-story__findings">
     <article>
       <span>01</span>
-      <h3>The socket is a human interface.</h3>
-      <p>
-        It transfers forces while protecting living tissue, so manufacturing
-        quality is inseparable from comfort, mobility, and confidence.
-      </p>
+      <h3>The foundation of the prosthetic system.</h3>
       <p class="itinerary-story__lead">
         A finished socket can look simple beside a microprocessor knee or
         powered hand. Yet its geometry and workmanship influence whether the
