@@ -243,7 +243,7 @@ header:
         </figcaption>
       </figure>
 
-      <figure class="repair-slide">
+      <figure class="repair-slide" hidden>
         <img
           src="/assets/img/travel/tennessee/socket-edge-finishing.webp"
           alt="A FabCo technician applying the finish on the edge of a prosthetic socket"
@@ -253,7 +253,7 @@ header:
           decoding="async"
         >
         <figcaption>
-          Finishing removes the final rough area on the socket edge.
+          Finishing smooths out the socket edge to make for a comfortable fit.
         </figcaption>
       </figure>
     </div>
@@ -276,15 +276,14 @@ header:
     <figure class="itinerary-story__feature-image">
       <img
         src="/assets/img/travel/tennessee/fabco-technician.webp"
-        alt="A FabCo technician marking trim lines on a prosthetic socket model"
+        alt="A FabCo technician laminating a prosthetic socket model"
         width="1400"
         height="1867"
         loading="lazy"
         decoding="async"
       >
       <figcaption>
-        Marked trim lines guide the fabricator as excess material is removed
-        without losing the intended socket geometry.
+        The technician spreads throughout the interior of the prosthetic socket model.
       </figcaption>
     </figure>
     <div class="itinerary-story__process-note">
