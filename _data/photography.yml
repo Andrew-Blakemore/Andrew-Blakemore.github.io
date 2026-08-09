@@ -103,13 +103,13 @@
   featured: true
   width: 800
   height: 573
-- thumbnail: "/assets/img/photography/thumbnails/Perplexed.webp"
-  gallery: "/assets/img/photography/gallery/Perplexed.webp"
-  title: "Perplexed"
+- thumbnail: "/assets/img/photography/thumbnails/Red_Cap.webp"
+  gallery: "/assets/img/photography/gallery/Red_Cap.webp"
+  title: "Red Cap"
   category: portraits
   featured: true
   width: 800
-  height: 1120
+  height: 1000
 - thumbnail: "/assets/img/photography/thumbnails/Max.webp"
   gallery: "/assets/img/photography/gallery/Max.webp"
   title: "Max"
@@ -138,13 +138,13 @@
   featured: true
   width: 800
   height: 1028
-- thumbnail: "/assets/img/photography/thumbnails/Red_Cap.webp"
-  gallery: "/assets/img/photography/gallery/Red_Cap.webp"
-  title: "Red Cap"
+- thumbnail: "/assets/img/photography/thumbnails/Perplexed.webp"
+  gallery: "/assets/img/photography/gallery/Perplexed.webp"
+  title: "Perplexed"
   category: portraits
   featured: true
   width: 800
-  height: 1000
+  height: 1120
 - thumbnail: "/assets/img/photography/thumbnails/Mustang_at_Night.webp"
   gallery: "/assets/img/photography/gallery/Mustang_at_Night.webp"
   title: "Mustang at Night"
