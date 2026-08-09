@@ -138,20 +138,6 @@
   featured: true
   width: 800
   height: 1028
-- thumbnail: "/assets/img/photography/thumbnails/NOCTA_2.webp"
-  gallery: "/assets/img/photography/gallery/NOCTA_2.webp"
-  title: "NOCTA, Rose Street Garage, Part 2"
-  category: portraits
-  featured: true
-  width: 800
-  height: 1422
-- thumbnail: "/assets/img/photography/thumbnails/Mustang_at_Night.webp"
-  gallery: "/assets/img/photography/gallery/Mustang_at_Night.webp"
-  title: "Mustang at Night"
-  category: cars
-  featured: true
-  width: 800
-  height: 450
 - thumbnail: "/assets/img/photography/thumbnails/Red_Cap.webp"
   gallery: "/assets/img/photography/gallery/Red_Cap.webp"
   title: "Red Cap"
@@ -159,6 +145,20 @@
   featured: true
   width: 800
   height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Mustang_at_Night.webp"
+  gallery: "/assets/img/photography/gallery/Mustang_at_Night.webp"
+  title: "Mustang at Night"
+  category: cars
+  featured: true
+  width: 800
+  height: 450
+- thumbnail: "/assets/img/photography/thumbnails/NOCTA_2.webp"
+  gallery: "/assets/img/photography/gallery/NOCTA_2.webp"
+  title: "NOCTA, Rose Street Garage, Part 2"
+  category: portraits
+  featured: true
+  width: 800
+  height: 1422
 - thumbnail: "/assets/img/photography/thumbnails/CH_Wyatt_9.webp"
   gallery: "/assets/img/photography/gallery/CH_Wyatt_9.webp"
   title: "CH Wyatt 9"
