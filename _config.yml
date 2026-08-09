@@ -52,9 +52,12 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          : lunr
+
+lunr:
+  search_within_pages: true
 
 # SEO Related
 google_site_verification :  # Replace this with your ID, or delete
