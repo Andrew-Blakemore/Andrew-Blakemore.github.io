@@ -58,6 +58,19 @@ author_profile: false
 
     <div class="about-timeline">
       <article class="about-timeline-item">
+        <div class="about-timeline-item__date">Aug 2026–Aug 2027</div>
+        <div class="about-timeline-item__body">
+          <p class="about-timeline-item__type">Clinical Intern</p>
+          <h3>Legacy Prosthetics</h3>
+          <p class="about-timeline-item__location">Lexington, Kentucky</p>
+          <ul>
+            <li>Supported patients throughout prosthetic consultations, fitting, and follow-up care.</li>
+            <li>Assembled preparatory prostheses and gained hands-on experience with alignment and adjustment procedures.</li>
+          </ul>
+        </div>
+      </article>
+      
+      <article class="about-timeline-item">
         <div class="about-timeline-item__date">May–Aug 2026</div>
         <div class="about-timeline-item__body">
           <p class="about-timeline-item__type">Clinical Intern</p>
