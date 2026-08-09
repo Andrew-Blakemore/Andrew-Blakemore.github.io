@@ -68,7 +68,7 @@ A compact microcontroller aggregated sensor streams and enabled real-time proces
 Before integration with the insole, the sensing and processing electronics were assembled on development boards so that individual channels could be tested and adjusted.
 
 <p align="center">
-  <img src="/assets/img/projects/gait-analysis-device/gait-analysis-electronics-prototype.png" alt="Prototype electronics for the wearable gait analysis system">
+  <img src="/assets/img/projects/gait-analysis-device/gait-analysis-electronics-prototype.webp" alt="Prototype electronics for the wearable gait analysis system">
 </p>
 
 ## Iterative Prototyping and Validation
@@ -83,7 +83,7 @@ Benchtop testing also confirmed that the pressure channels responded as loads we
 
 <p align="center">
   <video controls playsinline preload="metadata" width="100%" aria-label="Pressure sensor response during a benchtop validation trial">
-    <source src="/assets/img/projects/gait-analysis-device/pressure-sensor-validation.mp4" type="video/mp4">
+    <source src="/assets/videos/pressure-sensor-validation.mp4" type="video/mp4">
     Your browser does not support embedded video.
   </video>
 </p>
