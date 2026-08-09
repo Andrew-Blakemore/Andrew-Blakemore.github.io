@@ -68,17 +68,17 @@
   featured: true
   width: 800
   height: 800
-- thumbnail: "/assets/img/photography/thumbnails/Y2K.webp"
-  gallery: "/assets/img/photography/gallery/Y2K.webp"
-  title: "Y2K"
-  category: portraits
-  featured: true
-  width: 800
-  height: 800
 - thumbnail: "/assets/img/photography/thumbnails/Gone_in_the_Night.webp"
   gallery: "/assets/img/photography/gallery/Gone_in_the_Night.webp"
   title: "Gone in the Night"
   category: miscellaneous
+  featured: true
+  width: 800
+  height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Y2K.webp"
+  gallery: "/assets/img/photography/gallery/Y2K.webp"
+  title: "Y2K"
+  category: portraits
   featured: true
   width: 800
   height: 800
@@ -173,13 +173,6 @@
   featured: true
   width: 800
   height: 800
-- thumbnail: "/assets/img/photography/thumbnails/Seeing_Double.webp"
-  gallery: "/assets/img/photography/gallery/Seeing_Double.webp"
-  title: "Seeing Double"
-  category: miscellaneous
-  featured: true
-  width: 800
-  height: 1200
 - thumbnail: "/assets/img/photography/thumbnails/CHTKMY.webp"
   gallery: "/assets/img/photography/gallery/CHTKMY.webp"
   title: "CHTKMY"
@@ -187,6 +180,13 @@
   featured: true
   width: 800
   height: 800
+- thumbnail: "/assets/img/photography/thumbnails/Seeing_Double.webp"
+  gallery: "/assets/img/photography/gallery/Seeing_Double.webp"
+  title: "Seeing Double"
+  category: miscellaneous
+  featured: true
+  width: 800
+  height: 1200
 - thumbnail: "/assets/img/photography/thumbnails/Rising_Star.webp"
   gallery: "/assets/img/photography/gallery/Rising_Star.webp"
   title: "Rising Star"
