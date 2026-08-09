@@ -58,14 +58,14 @@ author_profile: false
 
     <div class="about-timeline">
       <article class="about-timeline-item">
-        <div class="about-timeline-item__date">Aug 2026–Aug 2027</div>
+        <div class="about-timeline-item__date">Aug 2026–Present</div>
         <div class="about-timeline-item__body">
-          <p class="about-timeline-item__type">Clinical Intern</p>
-          <h3>Legacy Prosthetics</h3>
-          <p class="about-timeline-item__location">Lexington, Kentucky</p>
+          <p class="about-timeline-item__type">Keegan Traveling Fellow</p>
+          <h3>Michael B. Keegan Traveling Fellowship</h3>
+          <p class="about-timeline-item__location">International · Four continents</p>
           <ul>
-            <li>Supported patients throughout prosthetic consultations, fitting, and follow-up care.</li>
-            <li>Assembled preparatory prostheses and gained hands-on experience with alignment and adjustment procedures.</li>
+            <li>Conducting a year-long, self-directed exploration of how prostheses shape everyday life across different cultural, clinical, and manufacturing contexts.</li>
+            <li>Documenting perspectives from prosthetic users, clinicians, engineers, researchers, manufacturers, and community organizations through interviews, photography, and field reports.</li>
           </ul>
         </div>
       </article>
