@@ -257,20 +257,6 @@
   featured: false
   width: 800
   height: 1000
-- thumbnail: "/assets/img/photography/thumbnails/Dreams_of_Flying.webp"
-  gallery: "/assets/img/photography/gallery/Dreams_of_Flying.webp"
-  title: "Dreams of Flying"
-  category: portraits
-  featured: false
-  width: 800
-  height: 800
-- thumbnail: "/assets/img/photography/thumbnails/Lamp.webp"
-  gallery: "/assets/img/photography/gallery/Lamp.webp"
-  title: "Lamp"
-  category: portraits
-  featured: false
-  width: 800
-  height: 1000
 - thumbnail: "/assets/img/photography/thumbnails/Alone_at_Last.webp"
   gallery: "/assets/img/photography/gallery/Alone_at_Last.webp"
   title: "Alone at Last"
@@ -278,6 +264,20 @@
   featured: false
   width: 800
   height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Lamp.webp"
+  gallery: "/assets/img/photography/gallery/Lamp.webp"
+  title: "Lamp"
+  category: portraits
+  featured: false
+  width: 800
+  height: 1000
+- thumbnail: "/assets/img/photography/thumbnails/Dreams_of_Flying.webp"
+  gallery: "/assets/img/photography/gallery/Dreams_of_Flying.webp"
+  title: "Dreams of Flying"
+  category: portraits
+  featured: false
+  width: 800
+  height: 800
 - thumbnail: "/assets/img/photography/thumbnails/Grounded.webp"
   gallery: "/assets/img/photography/gallery/Grounded.webp"
   title: "Grounded"
