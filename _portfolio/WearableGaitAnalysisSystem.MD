@@ -2,8 +2,8 @@
 title: "Wearable Gait Analysis System"
 excerpt: "A lightweight, wearable system combining pressure sensing and IMU data to quantify gait symmetry and classify terrain in real time."
 header:
-  image: /assets/img/walk2.jpg
-  teaser: /assets/img/dev2.jpg
+  image: /assets/img/projects/gait-analysis-device/running-gait-hero.webp
+  teaser: /assets/img/projects/gait-analysis-device/wearable-gait-sensor-prototype.webp
 
 toc: true
 toc_label: "Table of Contents"
@@ -24,7 +24,7 @@ This project explored a wearable, multi-sensor system that combined pressure sen
 The device consists of a pressure-mapped insole paired with a 3-axis inertial measurement unit (IMU) and a microcontroller for real-time data acquisition and analysis. By integrating force and motion sensing, the system captures complementary biomechanical information that enables more robust gait characterization than either modality alone.
 
 <p align="center">
-  <img src="/assets/img/architecture.png" alt="System Architecture">
+  <img src="/assets/img/projects/gait-analysis-device/gait-analysis-signal-path.webp" alt="System Architecture">
 </p>
 
 Pressure sensors embedded within the insole measure plantar loading patterns during stance phases, enabling estimation of force symmetry and peak pressure distribution. Simultaneously, the IMU captures acceleration signatures used for terrain classification, step timing, and other gait dynamics.
@@ -44,7 +44,7 @@ By targeting both clinical and performance contexts, the design supports rehabil
 ## Key Technical Components
 
 <p align="center">
-  <img src="/assets/img/Key Technical Components.png" alt="Key Technical Components">
+  <img src="/assets/img/projects/gait-analysis-device/gait-analysis-hardware-connections.webp" alt="Key Technical Components">
 </p>
 
 The hardware architecture integrates several core subsystems:
@@ -56,7 +56,7 @@ A flexible set of force-sensitive elements embedded within the insole measures l
 Signal conditioning circuitry amplifies and filters the raw pressure signals, enabling accurate digitization while maintaining low noise and minimal drift.
 
 <p align="center">
-  <img src="/assets/img/AFE.png" alt="Analog Front End">
+  <img src="/assets/img/projects/gait-analysis-device/pressure-sensor-analog-front-end.webp" alt="Analog Front End">
 </p>
 
 **Inertial Measurement Unit (IMU)**  
@@ -74,7 +74,7 @@ One alternative approach investigated terrain classification using acoustic sign
 Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases.
 
 <p align="center">
-  <img src="/assets/img/dev2.jpg" alt="Prototype 1">
+  <img src="/assets/img/projects/gait-analysis-device/wearable-gait-sensor-prototype.webp" alt="Prototype Gait Analysis System">
 </p>
 
 ## Measurable Output Metrics
@@ -88,7 +88,7 @@ Preliminary testing produced several metrics derived from combined pressure and 
 - Terrain-dependent gait signatures 
 
 <p align="center">
-  <img src="/assets/img/gait_plot.jpg" alt="Gait Data">
+  <img src="/assets/img/projects/gait-analysis-device/heel-strike-toe-off-acceleration-plot.webp" alt="Gait Data">
 </p>
 
 These outputs demonstrate the system’s ability to provide quantitative gait insights using a minimally instrumented wearable platform.
