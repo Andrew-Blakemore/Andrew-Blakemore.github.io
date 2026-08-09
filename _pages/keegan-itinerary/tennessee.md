@@ -449,7 +449,7 @@ header:
         </div>
         <div>
           <dt>Scope</dt>
-          <dd>Prosthetic &amp; manufacturing</dd>
+          <dd>Prosthetic manufacturing</dd>
         </div>
         <div>
           <dt>Visit timing</dt>
