@@ -2406,7 +2406,6 @@ body.layout--itinerary .search__toggle {
 /* Hero carousel */
 
 .home-hero{
-
     position: relative;
     box-sizing: border-box;
 
@@ -2424,7 +2423,15 @@ body.layout--itinerary .search__toggle {
 
     border-bottom: 1px solid rgba(77, 130, 157, 0.24);
     box-shadow: 0 14px 34px rgba(38, 54, 64, 0.08);
+}
 
+@media (min-width: 901px) {
+  .home-hero {
+    height: calc(100vh - var(--home-masthead-height, 72px));
+    height: calc(100dvh - var(--home-masthead-height, 72px));
+    min-height: 0;
+    max-height: none;
+  }
 }
 
 .home-hero__overlay{
