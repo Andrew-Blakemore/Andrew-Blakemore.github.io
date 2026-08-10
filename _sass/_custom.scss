@@ -424,16 +424,18 @@ body.keegan-page .page__inner-wrap {
 }
 
 .keegan-editorial-intro__eyebrow {
-  width: 100%;
-  max-width: 780px;
-  margin: 0 0 0.85rem;
-  margin-left: auto;
-  margin-right: auto;
-  color: #4d829d;
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+   width: 100%;
+   max-width: 780px;
+   margin: 0 0 0.85rem;
+   margin-left: auto;
+   margin-right: auto;
+   color: #4d829d;
+   font-size: 0.72rem;
+   font-weight: 700;
+   letter-spacing: 0.16em;
+   text-transform: uppercase;
+   white-space: nowrap;
+   text-align: center;
 }
 
 .keegan-editorial-intro h2 {
