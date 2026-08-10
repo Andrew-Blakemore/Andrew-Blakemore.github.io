@@ -15,7 +15,12 @@ author_profile: false
 <section class="keegan-editorial-intro" aria-labelledby="keegan-introduction-title">
   <p class="keegan-editorial-intro__eyebrow">2026-27 Keegan Traveling Fellow</p>
   <h2 id="keegan-introduction-title">
-    A year exploring how prosthetics shape everyday life
+    <span class="keegan-editorial-intro__title-line">
+      A year exploring how prosthetics
+    </span>
+    <span class="keegan-editorial-intro__title-line">
+      shape everyday life
+    </span>
   </h2>
   <p>
     Through conversations with prosthetic users, engineers, clinicians, and
