@@ -39,7 +39,7 @@ This system was designed with three primary goals:
 - Classify terrain using acceleration signatures
 - Enable lightweight, portable deployment
 
-By targeting both clinical and performance contexts, the design supported rehabilitation tracking and field-based biomechanical analysis.
+By targeting both clinical and performance contexts, the design supported both rehabilitation tracking and field-based biomechanical analysis.
 
 ## Key Technical Components
 
@@ -65,7 +65,7 @@ A 3-axis IMU captured acceleration data used for both terrain classification and
 **Microcontroller and Data Interface**  
 A compact microcontroller aggregated sensor streams and enabled real-time processing, with USB connectivity used for prototyping and validation.
 
-Before integration with the insole, the sensing and processing electronics were assembled on development boards so that individual channels could be tested and adjusted.
+Before integration with the insole, the sensing and processing electronics were assembled on perfboards so that individual channels could be tested and adjusted.
 
 <p align="center">
   <img src="/assets/img/projects/gait-analysis-device/gait-analysis-electronics-prototype.webp" alt="Prototype electronics for the wearable gait analysis system">
@@ -77,7 +77,7 @@ The system was developed through iterative hardware and sensing experiments focu
 
 One alternative approach investigated terrain classification using acoustic signatures from a miniature microphone. While promising in controlled environments, this method proved unreliable due to ambient noise sensitivity and inconsistent foot-ground coupling. The concept was abandoned in favor of IMU-based terrain sensing, which provided more robust results.
 
-Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between stance phases.
+Both sensing modalities were validated independently before full integration into the wearable system. IMU testing demonstrated consistent acceleration signatures across walking trials, enabling reliable step segmentation and surface-dependent pattern recognition. Pressure measurements were calibrated against known loads to verify responsiveness and repeatability. The selected sensor configuration showed stable readings during walking, with clear distinctions between consecutive stance and swing phases.
 
 Benchtop testing also confirmed that the pressure channels responded as loads were applied and released. The video below shows the sensor output changing during one of these validation trials.
 
@@ -110,13 +110,13 @@ These outputs demonstrated the system’s ability to provide quantitative gait i
 
 ## Limitations and Future Work
 
-While the proof-of-concept system successfully demonstrated hybrid sensing, several limitations remained. The hardware prototype was bulkier than ideal for long-term wear, and not all sensor placements performed equally well across subjects.
+While the proof-of-concept system successfully demonstrated hybrid sensing, several limitations remained. The hardware prototype was bulkier than ideal for long-term wear, and some sensor placements underperformed on certain subjects.
 
 Future work would focus on:
 
 - Optimized sensor placement and mechanical integration
 - Miniaturized electronics and compact power solutions
 - Bluetooth data streaming and mobile visualization
-- Improved comfort, durability, and environmental robustness
+- Improved comfort and environmental robustness
 
-With further refinement, the platform could support clinical research and rehabilitation monitoring.
+With further refinement, the platform could support clinical research and rehabilitation monitoring applications.
