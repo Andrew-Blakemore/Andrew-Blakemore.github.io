@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<div class="travel-scene">
+
+  <div
+    class="travel-hero"
+    style="background-image:url('{{ page.header.image | relative_url }}');"
+  >
+    <div class="travel-hero__overlay">
+
+      <div class="travel-hero__text">
+
+        {% assign parts = page.title | split: ", " %}
+
+        <h1>{{ parts[0] }}</h1>
+
+        {% if parts.size > 1 %}
+        <p>
+          {% for part in parts offset:1 %}
+            {{ part }}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </p>
+        {% endif %}
+
+      </div>
+
+    </div>
+    
+  </div>
+
+  <div class="travel-scroll-space"></div>
+
+  <div id="main" role="main">
+
+    <article class="page travel-page">
+
+      <div class="page__inner-wrap">
+
+        <section
+          class="page__content travel-content reveal"
+          itemprop="text"
+        >
+{{ content }}
+
+        </section>
+
+      </div>
+
+    </article>
+
+  </div>
+
+</div>
+
+<script src="{{ '/assets/js/itinerary-story.js' | relative_url }}?v=20260809"></script>
+<script src="{{ '/assets/js/single-photo-carousel.js' | relative_url }}?v=20260808"></script>
