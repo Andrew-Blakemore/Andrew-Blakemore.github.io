@@ -452,7 +452,9 @@ body.keegan-page .page__inner-wrap {
 
 .keegan-editorial-intro__title-line {
   display: block;
+  width: 100%;
   white-space: nowrap;
+  text-align: center;
 }
 
 @media (max-width: 600px) {
