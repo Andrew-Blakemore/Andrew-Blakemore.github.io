@@ -198,6 +198,20 @@ layout: splash
 <script>
 
 document.addEventListener("DOMContentLoaded",()=>{
+  const masthead = document.querySelector(".masthead");
+  
+  if (masthead) {
+    const updateMastheadHeight = () => {
+      document.documentElement.style.setProperty(
+        "--home-masthead-height",
+        `${masthead.getBoundingClientRect().height}px`
+      );
+    };
+      
+      updateMastheadHeight();
+      new ResizeObserver(updateMastheadHeight).observe(masthead);
+    }
+  
   const slides=document.querySelectorAll(".home-slide");
   const dots=document.querySelectorAll(".home-slide-indicators button");
 
