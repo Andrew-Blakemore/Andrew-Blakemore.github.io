@@ -479,8 +479,8 @@ header:
       <p class="itinerary-story__eyebrow">An open file</p>
       <h2>But wait, there's more...</h2>
       <p>
-        Stay tuned for some updates to the Tennessee entry. In the meantime,
-        check out other parts of my project.
+        Stay tuned for updates to the Tennessee entry. In the meantime,
+        check out the other stops on my journey.
       </p>
     </div>
     <a class="itinerary-story__button" href="/keegan-traveling-fellowship/">
