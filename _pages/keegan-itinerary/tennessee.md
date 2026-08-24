@@ -58,7 +58,7 @@ header:
   <section class="itinerary-story__section itinerary-story__section--opening">
     <div class="itinerary-story__opening-copy">
       <h2>Beginning with the end in mind.</h2>
-      <p class="itinerary-story__lead">
+      <p>
         <em>Designed for Living</em> explores how prostheses shape everyday life.
         Before turning to that perspective, however, I wanted to take a step back
         and start at the beginning. At FabCo, I followed a clinician’s design through
@@ -97,7 +97,7 @@ header:
   <section class="itinerary-story__section">
     <div>
       <h2>A general pathway for lower-limb socket fabrication.</h2>
-      <p class="itinerary-story__lead">
+      <p>
         Once I understood how the shop was organized, the fabrication
         sequence became easier to follow. A typical lower-limb pathway
         begins with a rectified model of the patient’s residual limb anatomy.
@@ -318,7 +318,7 @@ header:
   <section class="itinerary-story__section">
     <div>
       <h2>An eye for detail.</h2>
-      <p class="itinerary-story__lead">
+      <p>
         Following the same device across the shop made it clear that fabrication
         depends on more than just completing a checklist. Throughout the morning,
         technicians paused to inspect surfaces and brought uncertain work over to others
@@ -370,7 +370,7 @@ header:
   <section class="itinerary-story__section">
     <div>
       <h2>New tech has to prove itself.</h2>
-      <p class="itinerary-story__lead">
+      <p>
         FabCo’s experience with new technology showed how innovation can strengthen
         an established manufacturing process. The facility has adopted faster carving
         equipment and scanning software that can preserve socket geometry as an STL file
@@ -391,7 +391,7 @@ header:
   <section class="itinerary-story__section">
     <div>
       <h2>Glimpsing the bigger picture.</h2>
-      <p class="itinerary-story__lead">
+      <p>
         By the end of the visit, FabCo felt much less like a standalone fabrication facility
         and more like one node in a national network. The team knew prosthetists I had
         previously shadowed, exchanged techniques with other specialists,
