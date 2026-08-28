@@ -119,6 +119,14 @@ Iceland is a surprisingly important place in the history of modern prosthetics. 
     <div>
       <h2>Under the Hood</h2>
       <p>
+        After our conversation, we went up to the lab for a behind-the-scenes look at some of the products Össur manufactures. We primarily toured the sections dedicated to Navii, Proprio Foot, and Power Knee.
+      </p>
+
+      <p>
+        The design of Navii is unique in several ways. Most notably, it uses magnetorheological (MR) fluid rather than a conventional hydraulic system to control resistance. MR fluid is a type of “smart” fluid containing magnetic particles suspended in a carrier fluid. When exposed to a magnetic field, the particles organize into structures that increase the fluid’s resistance to flow. By changing the magnetic field, the system can therefore change how strongly the knee resists movement. MR fluid is somewhat similar to ferrofluid, though conventional MR fluids generally use micron-scale magnetic particles, whereas ferrofluids typically use nanoparticles.
+      </p>
+
+      <p>
         TO BE CONTINUED
       </p>
     </div>
