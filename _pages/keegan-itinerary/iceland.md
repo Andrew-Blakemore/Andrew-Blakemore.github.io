@@ -11,7 +11,7 @@ header:
 <div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
   <header class="itinerary-story__intro">
     <p class="itinerary-story__kicker">Iceland &middot; Designed for Living</p>
-    <h2>Prosthetics in Iceland</h2>
+    <h2>From Iceland, Around the World</h2>
 <p class="itinerary-story__dek">
 Iceland is an important place in the history of modern prosthetics. Despite its small population, the country is home to Össur, one of the world’s largest prosthetics companies. The company was founded in 1971 by Össur Kristinsson, an Icelandic prosthetist and amputee who developed the Iceross silicone liner after recognizing the need for a more comfortable interface between the residual limb and prosthetic socket. That seemingly simple innovation became the foundation of a company that would eventually grow into a global leader in prosthetic technology.
   </p>
