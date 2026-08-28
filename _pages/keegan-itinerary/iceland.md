@@ -52,7 +52,7 @@ Iceland is a surprisingly important place in the history of modern prosthetics. 
 
   <section class="itinerary-story__section itinerary-story__section--opening">
     <div class="itinerary-story__opening-copy">
-      <h2>The prosthetics landscape</h2>
+      <h2>The Prosthetics Landscape</h2>
       <p>
         I met with a product design engineer working in R&D at Össur in Reykjavík, where he has worked extensively on the Navii bionic knee. With a background in mechanical engineering, his work has primarily focused on the actuator, the component responsible for controlling the knee’s resistance and movement. The Navii is quite fascinating—rather than relying on conventional hydraulic resistance, it uses magnetorheological (MR) fluid that responds to a magnetic field, allowing the knee to change its resistance in response to the user’s movement and environment. In the broadest sense, Navii occupies a similar space in the market to Ottobock’s C-Leg, although the technologies and designs differ considerably.
       </p>
@@ -114,3 +114,13 @@ Iceland is a surprisingly important place in the history of modern prosthetics. 
       </p>
     </div>
   </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>Under the Hood</h2>
+      <p>
+        TO BE CONTINUED
+      </p>
+    </div>
+  </section>
+</div>
