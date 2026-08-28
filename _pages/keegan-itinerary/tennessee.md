@@ -355,7 +355,7 @@ header:
 
   <div class="itinerary-story__detail itinerary-story__detail--balanced">
     <div>
-      <h3 class="itinerary-story__detail-title">Upper limbs Expand the Fabrication Framework</h3>
+      <h3 class="itinerary-story__detail-title">Upper Limbs Expand the Fabrication Framework</h3>
     </div>
     <p>
       Lower-limb sockets often move through more consistent fabrication sequences,
