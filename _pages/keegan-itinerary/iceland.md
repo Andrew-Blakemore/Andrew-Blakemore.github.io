@@ -19,6 +19,13 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 Össur’s significance extends well beyond its origins. The company has played a major role in the development of modern prosthetic technology, from silicone liners to carbon-fiber feet. Its history includes several significant developments in bionic prosthetics. Today, Össur remains headquartered in Reykjavík and is part of Embla Medical, the Iceland-based parent organization that also encompasses several other mobility-related companies and brands. Össur continues to conduct R&D and manufacturing in Iceland.
   </p>
 
+      <aside class="itinerary-story__note" aria-label="Field note">
+      <p class="itinerary-story__note-label"><strong>Field Note</strong></p>
+      <p class="itinerary-story__note-text">
+        <em>This account reflects my own observations and interpretations as an independent observer. It does not represent the views, opinions, or positions of Össur, Embla Medical, or their employees. Any statements or perspectives attributed to individuals I spoke with are presented as I understood them from our conversations and should not be interpreted as official statements on behalf of the organizations. This account has not been written, reviewed, or endorsed by Össur or Embla Medical.</em>
+      </p>
+    </aside>
+
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Iceland organizations" data-itinerary-visit-nav>
       <a class="is-active" href="#Össur-visit">Össur</a>
     </nav>
