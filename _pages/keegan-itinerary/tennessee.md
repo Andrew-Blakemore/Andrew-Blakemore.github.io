@@ -10,7 +10,7 @@ header:
 
 <div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
   <header class="itinerary-story__intro">
-    <p class="itinerary-story__kicker">Tennessee &middot; Designed for Living</p>
+    <p class="itinerary-story__kicker">Tennessee, USA &middot; Designed for Living</p>
     <h2>Inside Tennessee&rsquo;s prosthetics network.</h2>
 <p class="itinerary-story__dek">
       The Nashville&ndash;Chattanooga corridor in Tennessee is unique
