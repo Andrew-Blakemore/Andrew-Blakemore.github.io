@@ -25,7 +25,7 @@ header:
       <aside class="itinerary-story__note" aria-label="Field note">
       <p class="itinerary-story__note-label"><strong>Field Note</strong></p>
       <p class="itinerary-story__note-text">
-        <em>This account reflects my own observations and interpretations as an independent observer. It does not represent the views, opinions, or positions of FabCo Prosthetic Designs, Amputee Blade Runners, Fillauer, or their employees. Any statements or perspectives attributed to individuals I spoke with are presented as I understood them from our conversations and should not be interpreted as official statements on behalf of the organizations. This account has not been written, reviewed, or endorsed by FabCo Prosthetic Designs, Amputee Blade Runners, or Fillauer.</em>
+        <em>This account reflects my own observations and interpretations as an independent observer. It does not represent the views, opinions, or positions of the organizations or individuals discussed here. Any statements or perspectives attributed to people I spoke with are presented as I understood them from our conversations and should not be interpreted as official statements on behalf of their organizations. This account has not been written, reviewed, or endorsed by the organizations discussed.</em>
       </p>
     </aside>
 
