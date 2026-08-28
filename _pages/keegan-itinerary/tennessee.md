@@ -22,6 +22,13 @@ header:
       device, and ultimately the experience of the person who uses it.
   </p>
 
+      <aside class="itinerary-story__note" aria-label="Field note">
+      <p class="itinerary-story__note-label"><strong>Field Note</strong></p>
+      <p class="itinerary-story__note-text">
+        <em>This account reflects my own observations and interpretations as an independent observer. It does not represent the views, opinions, or positions of FabCo Prosthetic Designs, Amputee Blade Runners, Fillauer, or their employees. Any statements or perspectives attributed to individuals I spoke with are presented as I understood them from our conversations and should not be interpreted as official statements on behalf of the organizations. This account has not been written, reviewed, or endorsed by FabCo Prosthetic Designs, Amputee Blade Runners, or Fillauer.</em>
+      </p>
+    </aside>
+
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Tennessee organizations" data-itinerary-visit-nav>
       <a class="is-active" href="#fabco-visit">FabCo</a>
       <a href="#abr-visit">Amputee Blade Runners</a>
