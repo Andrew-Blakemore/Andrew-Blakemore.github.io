@@ -1264,6 +1264,26 @@ body.layout--itinerary .search__toggle {
   line-height: 1.75;
 }
 
+.itinerary-story__note {
+  margin: 2rem 0 2.5rem;
+  padding: 1.25rem 1.5rem;
+  border-left: 3px solid currentColor;
+  background: rgba(0, 0, 0, 0.035);
+  font-size: 0.88em;
+  line-height: 1.6;
+}
+
+.itinerary-story__note-label {
+  margin: 0 0 0.5rem;
+  font-size: 0.8em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.itinerary-story__note-text {
+  margin: 0;
+}
+
 .itinerary-story__facts {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
