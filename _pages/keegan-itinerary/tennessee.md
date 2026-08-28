@@ -57,7 +57,7 @@ header:
 
   <section class="itinerary-story__section itinerary-story__section--opening">
     <div class="itinerary-story__opening-copy">
-      <h2>Beginning with the end in mind.</h2>
+      <h2>Beginning with the end in mind</h2>
       <p>
         <em>Designed for Living</em> explores how prostheses shape everyday life.
         Before turning to that perspective, however, I wanted to take a step back
@@ -96,7 +96,7 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>A general pathway for lower-limb socket fabrication.</h2>
+      <h2>A general pathway for lower-limb socket fabrication</h2>
       <p>
         Once I understood how the shop was organized, the fabrication
         sequence became easier to follow. A typical lower-limb pathway
@@ -298,7 +298,7 @@ header:
       </figcaption>
     </figure>
     <div class="itinerary-story__process-note">
-      <h3>A technician for every job.</h3>
+      <h3>A technician for every job</h3>
       <p>
         The work I observed was not organized as an assembly line with a new
         person taking over at every station. Each job was primarily assigned to one
@@ -317,7 +317,7 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>An eye for detail.</h2>
+      <h2>An eye for detail</h2>
       <p>
         Following the same device across the shop made it clear that fabrication
         depends on more than just completing a checklist. Throughout the morning,
@@ -355,7 +355,7 @@ header:
 
   <div class="itinerary-story__detail itinerary-story__detail--balanced">
     <div>
-      <h3 class="itinerary-story__detail-title">Upper limbs expand the fabrication framework.</h3>
+      <h3 class="itinerary-story__detail-title">Upper limbs expand the fabrication framework</h3>
     </div>
     <p>
       Lower-limb sockets often move through more consistent fabrication sequences,
@@ -369,7 +369,7 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>New tech has to prove itself.</h2>
+      <h2>New tech has to prove itself</h2>
       <p>
         FabCo’s experience with new technology showed how innovation can strengthen
         an established manufacturing process. The facility has adopted faster carving
@@ -390,7 +390,7 @@ header:
 
   <section class="itinerary-story__section">
     <div>
-      <h2>Glimpsing the bigger picture.</h2>
+      <h2>Glimpsing the bigger picture</h2>
       <p>
         By the end of the visit, FabCo felt much less like a standalone fabrication facility
         and more like one node in a national network. The team knew prosthetists I had
@@ -465,7 +465,7 @@ header:
   <aside class="itinerary-story__next" id="future-tennessee-visits">
     <div>
       <p class="itinerary-story__eyebrow">Questions carried forward</p>
-      <h2>What I’ll look for in future visits.</h2>
+      <h2>What I’ll look for in future visits:</h2>
     </div>
     <ul>
       <li>How does feedback from users move through clinicians and back to the fabrication bench?</li>
