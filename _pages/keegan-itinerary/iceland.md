@@ -69,24 +69,20 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
       </p>
 
       <p>
-        Össur also works with highly experienced "Super Users" to test its products in demanding real-world conditions. These users effectively push the devices toward their limits. One "Super User," for example, is a Paralympic runner. There is something valuable about this kind of testing that is difficult to reproduce in a laboratory. A device can perform perfectly under controlled conditions and still behave differently when subjected to the unpredictability and intensity of someone’s actual life. By working with users who place unusually high demands on their prostheses, engineers can learn not only what works, but where a product first begins to fail.
+        Össur also works with highly experienced "Super Users" to test its products in demanding real-world conditions. These users effectively push the devices toward their limits. There is something valuable about this kind of testing that is difficult to reproduce in a laboratory. A device can perform perfectly under controlled conditions and still behave differently when subjected to the unpredictability and intensity of someone’s actual life. By working with users who place unusually high demands on their prostheses, engineers can learn not only what works, but where a product first begins to fail.
       </p>
 
     <figure class="itinerary-story__body-copy">
   <img
     src="/assets/img/travel/iceland/Aimee-Mullins.webp"
-    alt="Aimee Mullins competing in the 1996 Atlanta Paralympic Games using carbon-fiber running prostheses (left) and serving as Chef de Mission of Team USA at London 2012 (right)."
+    alt="Aimee Mullins competing in the 1996 Atlanta Paralympic Games using carbon-fiber running prostheses (left) and serving as Chef de Mission of Team USA in the 2012 London Games (right)."
     width="1536"
     height="1024"
     loading="lazy"
     decoding="async"
   >
   <figcaption>
-    Aimee Mullins was the first person to test the carbon-fiber running prostheses modeled after the hind legs of a cheetah, first developed in 1984
-    by Van Phillips. Her experience as an athlete
-    helped demonstrate what was possible when prosthetic design was driven by the demands of
-    performance rather than by the goal of reproducing a human leg. The technology later became
-    part of Össur&rsquo;s Cheetah line following the company&rsquo;s acquisition of Flex-Foot in 2000.
+    As an early pioneer in high-performance field testing, athlete Aimee Mullins was the first to race on Van Phillips’ revolutionary carbon-fiber sprint blades in the mid-1990s. By testing the prototype outside the lab, her intense athletic demands reshaped prosthetic design by proving that performance, rather than just human anatomy, could drive engineering principles. This breakthrough technology became the foundation of Össur’s iconic Cheetah line after it's acquisition of Flex-Foot in 2000.
     <span class="itinerary-story__source">
       Photograph: International Paralympic Committee (IPC), via
       <a href="https://www.paralympic.org/" target="_blank" rel="noopener noreferrer">Paralympic.org</a>.
@@ -94,8 +90,8 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
   </figcaption>
 </figure>
 
-
       <p>
+
         Because Navii is already on the market, much of the current R&D work being carried out by Össur engineers focuses on improving the device for future iterations, with a particular emphasis on extending its lifespan.
       </p>
 
