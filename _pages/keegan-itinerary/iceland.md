@@ -141,8 +141,8 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
   <img
     src="/assets/img/travel/iceland/Rheo-Knee.webp"
     alt="A dark gray Össur Rheo Knee"
-    width="900"
-    height="900"
+    width="1200"
+    height="1200"
     loading="lazy"
     decoding="async"
   >
