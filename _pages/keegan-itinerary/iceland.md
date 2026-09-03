@@ -90,6 +90,8 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
   </figcaption>
 </figure>
 
+<br>
+
       <p>
 
         Because Navii is already on the market, much of the current R&D work being carried out by Össur engineers focuses on improving the device for future iterations, with a particular emphasis on extending its lifespan.
