@@ -137,6 +137,30 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
         One example is the relationship between the Navii and the Rheo Knee. To understand the development of the Navii, it helps to look at its predecessor: the Rheo Knee, Össur’s original MR fluid model. While the Navii represents the next generation of this MR technology, it was designed to expand Össur’s portfolio rather than replace the original line. The two systems serve distinct needs and are not interchangeable. For instance, in the US, because the Navii introduces full waterproofing and caters to higher activity levels, it carries different insurance authorization criteria. If a patient does not meet the strict lifestyle or activity metrics required by their provider to approve the Navii, they risk being denied. By keeping the standard Rheo Knee on the market concurrently, Össur prevents this gap, ensuring that users can still qualify for an microprocessor knee even if they don't meet the specific insurance requirements for the newer model.
       </p>
 
+<figure class="itinerary-story__body-copy">
+  <img
+    src="/assets/img/travel/iceland/Rheo-Knee.webp"
+    alt="A dark gray Össur Rheo Knee"
+    width="900"
+    height="900"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption>
+    The original Össur Rheo Knee features an accessible manual lock and weatherproofing designed specifically to secure and stabilize users during low-to-moderate activity.
+    <span class="itinerary-story__source">
+      Image: Össur, via
+      <a
+        href="https://www.ossur.com/nl-nl/prosthetics/knieen/rheo-knee"
+        target="_blank"
+        rel="noopener noreferrer"
+      >Ossur.com</a>.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
+
       <p>
         I was surprised by how conscious the engineer was of the ethical complications surrounding prosthetic reimbursement. In the US, the clinician selecting a prosthetic component is often operating within a reimbursement system in which unique products and configurations can be reimbursed by different amounts. This creates a possibile conflict of interest: a clinician or provider could, in principle, have a financial incentive to select a more highly reimbursed component even when another option might be more appropriate for the patient. I was struck that this was not simply an issue of clinical ethics or healthcare policy, but something that an engineer working on the other side of the system was also aware of. I still don't fully understand how manufacturers can attempt to account for this complication when designing and marketing products, though it is something I want to investigate further.
       </p>
