@@ -84,7 +84,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
   <figcaption>
     As an early pioneer in high-performance field testing, athlete Aimee Mullins was the first to race on Van Phillips’ revolutionary carbon-fiber sprint blades in the mid-1990s. By testing the prototype outside the lab, her intense athletic demands reshaped prosthetic design by proving that performance, rather than just human anatomy, could drive engineering principles. This breakthrough technology became the foundation of Össur’s iconic Cheetah line after it's acquisition of Flex-Foot in 2000.
     <span class="itinerary-story__source">
-      Photograph: International Paralympic Committee (IPC), via
+      Image: International Paralympic Committee (IPC), via
       <a href="https://www.paralympic.org/" target="_blank" rel="noopener noreferrer">Paralympic.org</a>.
     </span>
   </figcaption>
@@ -117,7 +117,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
     the structurally dense, airtight peripheral seal required for secure socket
     suspension.
     <span class="itinerary-story__source">
-      Photograph: Össur, via
+      Image: Össur, via
       <a
         href="https://www.ossur.com/en-gb/prosthetics/liners/aerofit-seal-in"
         target="_blank"
