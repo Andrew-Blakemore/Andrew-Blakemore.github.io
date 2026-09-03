@@ -96,6 +96,26 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
         While we were talking, we also discussed some broader themes regarding prosthetic manufacturing. One such theme that I've been particularly interested in, given my background, is the role of additive manufacturing in this field. I've noticed several companies, particularly in the upper-limb space, using 3D printing as part of their prosthetic fabrication process. At Össur, however, 3D printing is primarily utilized to produce prototypes and test aspects such as fit and geometry. While some specialized interface components, like the AeroFit Seal-In® liner, do utilize 3D printing in their final production, conventional processes like injection molding remain far more practical and economical for high-volume manufacturing.
       </p>
 
+    <figure class="itinerary-story__body-copy">
+  <img
+    src="/assets/img/travel/iceland/AeroFit_Seal-In®.webp"
+    alt="An exploded diagram of the AeroFit Seal-In liner material layers. On the left, bubbles escape through a perforated silicone layer, passing through a porous knitted mesh layer and an integrated fabric backing. On the right, a dark textured outer layer features a central circular valve mechanism with a large white arrow pointing outward to indicate the direction of expelled airflow."
+    width="1200"
+    height="675"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption>
+    The AeroFit Seal-In liner is manufactured using 3D printing to deposit medical-grade silicone into a precise, multi-layered mesh structure featuring over 100,000 micro-perforations. This approach radically transforms traditional liner design by replacing solid, sweat-trapping silicone sheets with a highly breathable, porous matrix. The resulting design leverages the user’s natural movement during walking to act as a mini-pump, actively expelling humid air and pulling in fresh air to control temperature and moisture on the skin. This 3D-printed layout achieves high breathability and sweat-wicking performance without sacrificing the structurally dense, airtight peripheral seal required for secure socket suspension.
+    <span class="itinerary-story__source">
+      Photograph: Össur, via
+      <a href="https://www.ossur.com/en-ca/prosthetics/liners/aerofit-seal-in)" target="_blank" rel="noopener noreferrer">Ossur.com</a>.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
+
       <p>
         We also discussed the extent to which healthcare systems influence the products Össur chooses to design. In the United States, prosthetic care is deeply entangled with insurance reimbursement, and I was curious as to whether those constraints extend upstream into engineering and product development. They do. In the US, reimbursement rules and coding, including Medicare L-codes, can influence how products are designed and brought to market. Össur itself describes reimbursement as an important factor in the broader prosthetics market.
       </p>
