@@ -107,8 +107,8 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
   >
   <figcaption>
     The AeroFit Seal-In liner is manufactured using 3D printing to deposit medical-grade
-    silicone into a precise, multi-layered mesh structure featuring over 100,000
-    micro-perforations. This approach radically transforms traditional liner design by
+    silicone into a multi-layered mesh structure featuring over 100,000
+    micro-perforations. This approach transforms traditional liner design by
     replacing solid, sweat-trapping silicone sheets with a highly breathable, porous
     matrix. The resulting design leverages the user&rsquo;s natural movement during
     walking to act as a mini-pump, actively expelling humid air and pulling in fresh
