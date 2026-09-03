@@ -93,11 +93,6 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 <br>
 
       <p>
-
-        Because Navii is already on the market, much of the current R&D work being carried out by Össur engineers focuses on improving the device for future iterations, with a particular emphasis on extending its lifespan.
-      </p>
-
-      <p>
         While we were talking, we also discussed some broader themes regarding prosthetic manufacturing. One such theme that I've been particularly interested in, given my background, is the role of additive manufacturing in this field. I've noticed several companies, particularly in the upper-limb space, using 3D printing as part of their prosthetic fabrication process. At Össur, however, 3D printing is primarily utilized to produce prototypes and test aspects such as fit and geometry. While some specialized interface components, like the AeroFit Seal-In® liner, do utilize 3D printing in their final production, conventional processes like injection molding remain far more practical and economical for high-volume manufacturing.
       </p>
 
