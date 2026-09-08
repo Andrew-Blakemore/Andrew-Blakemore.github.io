@@ -166,8 +166,44 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
       </p>
 
       <p>
-        The engineer described a recent trend, particularly in the US and Europe, toward users making prostheses more visible and aesthetically expressive rather than trying to conceal them. Össur has had success with Navii covers in colors inspired by Icelandic nature (see the Earth Echoes covers). The prosthesis becomes something to be displayed rather than hidden.
-      </p>
+  The engineer also described a broader shift toward users making their prostheses more
+  visible and aesthetically expressive rather than trying to conceal them. This is not
+  entirely new. Prosthetic users have been personalizing sockets and cosmetic covers for
+  years, using patterns graphic designs to make their devices feel more like
+  an expression of themselves. What seems to be changing is how explicitly this idea is
+  being incorporated into the design of the prosthetic components themselves. Össur's
+  Earth Echoes covers for Navii, for example, are available in colors inspired by
+  Icelandic landscapes, turning what might otherwise be a purely protective component
+  into something that can be selected and displayed as part of a user's appearance.
+</p>
+
+<figure class="itinerary-story__body-copy">
+  <img
+    src="/assets/img/travel/iceland/Earth-Echoes-covers.webp"
+    alt="Five Navii prosthetic knee covers in white, blue, red, green, and black"
+    width="1536"
+    height="922"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption>
+    Released in 2025, Össur's Earth Echoes covers for Navii are offered in five colors inspired by
+    Icelandic landscapes. While personalization of prosthetic sockets and cosmetic
+    covers has existed for decades, products like these show how aesthetic expression
+    is increasingly being incorporated directly into the design of commercial
+    prosthetic components.
+    <span class="itinerary-story__source">
+      Image: Össur, via
+      <a
+        href="https://www.ossur.com/en-gb/prosthetics/explore-navii"
+        target="_blank"
+        rel="noopener noreferrer"
+      >Ossur.com</a>.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
 
       <p>
         But he then told me a story in which a user in South Africa had described how prosthetic legs were stolen off users in broad daylight because of their high resale value. Advanced prosthetic legs can cost tens of thousands of dollars, making them valuable targets for theft. In places where this is a concern, users deliberately conceal their prostheses rather than draw attention to them.
