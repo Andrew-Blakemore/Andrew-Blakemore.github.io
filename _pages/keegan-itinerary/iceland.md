@@ -188,8 +188,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
   >
   <figcaption>
     Released in 2025, Össur's Earth Echoes covers for Navii are offered in five colors inspired by
-    Icelandic landscapes. While personalization of prosthetic sockets and cosmetic
-    covers has existed for decades, products like these show how aesthetic expression
+    Icelandic landscapes. While personalization of prosthetic sockets has existed for decades, products like these show how aesthetic expression
     is increasingly being incorporated directly into the design of commercial
     prosthetic components.
     <span class="itinerary-story__source">
