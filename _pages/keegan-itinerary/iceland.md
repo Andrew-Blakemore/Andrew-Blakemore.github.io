@@ -232,7 +232,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
   <section class="itinerary-story__section">
     <div>
-      <h2>Under the Hood</h2>
+      <h2>Inside the Lab</h2>
       <p>
         After our conversation, we went up to the lab for a behind-the-scenes look at some of the products Össur manufactures. We primarily toured the sections dedicated to Navii, Proprio Foot, and Power Knee.
       </p>
