@@ -231,19 +231,177 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
   </section>
 
   <section class="itinerary-story__section">
-    <div>
-      <h2>Inside the Lab</h2>
-      <p>
-        After our conversation, we went up to the lab for a behind-the-scenes look at some of the products Össur manufactures. We primarily toured the sections dedicated to Navii, Proprio Foot, and Power Knee.
-      </p>
+  <div>
+    <h2>Inside the Lab</h2>
 
-      <p>
-        The design of Navii is unique in several ways. Most notably, it uses magnetorheological (MR) fluid rather than a conventional hydraulic system to control resistance. MR fluid is a type of “smart” fluid containing magnetic particles suspended in a carrier fluid. When exposed to a magnetic field, the particles organize into structures that increase the fluid’s resistance to flow. By changing the magnetic field, the system can therefore change how strongly the knee resists movement. MR fluid is somewhat similar to ferrofluid, though conventional MR fluids generally use micron-scale magnetic particles, whereas ferrofluids typically use nanoparticles.
-      </p>
+    <p>
+      After our conversation, we went upstairs to the lab for a closer look at some of the products being developed and assembled at Össur. Before that moment, I only knew these technologies as the final products I routinely saw patients fitted with in the clinic. In the lab, however, those products were suddenly deconstructed into motors, circuit boards, metal plates, wires, bearings, and a number of other materials. It was a useful change in perspective. A prosthetic knee that feels almost inscrutable from the outside becomes much easier to understand once someone starts taking it apart in front of you.
+    </p>
 
-      <p>
-        TO BE CONTINUED
-      </p>
-    </div>
-  </section>
+    <p>
+      Navii was probably the best example of this. Unlike many microprocessor knees that use hydraulic systems to regulate resistance, Navii uses magnetorheological, or MR, fluid. MR fluid contains tiny magnetic particles suspended in a carrier liquid. Without a magnetic field, those particles move relatively freely. Apply a field and they begin to organize along the field lines, making the fluid much more resistant to shear. Because of this change in behavior, its resistance can be changed extremely quickly by altering the strength of the magnetic field.
+    </p>
+
+    <p>
+      That is what allows the knee to continually alter how freely it bends. Sensors monitor information about the knee’s motion and loading, while the control system changes the electrical current sent through the actuator. That current produces the magnetic field, which changes the behavior of the MR fluid and therefore the amount of resistance at the joint. A process that sounds almost abstract when written out becomes surprisingly intuitive once the internal hardware is sitting in someone’s hand.
+    </p>
+
+<figure class="itinerary-story__body-copy">
+  <img
+    src="/assets/img/travel/iceland/mr-actuator-blade-stack.webp"
+    alt="Close-up of the stacked metal rotor and stator elements from an Össur magnetorheological prosthetic knee actuator."
+    width="1536"
+    height="2048"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption>
+    A close look at the stacked metal elements inside an Össur magnetorheological knee actuator. Rotating plates are stacked extremely close together with thin layers of MR fluid occupying the gaps between them. Changing the magnetic field alters how strongly that fluid resists shearing as the plates move past one another.
+    <span class="itinerary-story__source">
+      Photo: Andrew Blakemore, Össur headquarters, Reykjavík.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
+
+    <p>
+      I was shown a disassembled Navii knee actuator, a similar application of the same basic MR principle used in the Rheo Knee. What had looked to me at first like a dense stack of metal rings was actually a series of alternating rotating and stationary elements. MR fluid occupies the very small spaces between them. As the knee bends, those surfaces move relative to one another and shear the fluid between them. An electromagnetic coil creates a magnetic field through this stack. Increase the field and the fluid resists that shearing motion more strongly; reduce it and the joint can move more freely.
+    </p>
+
+    <p>
+      The knee's sensors continuously provide information about how the joint is moving and being loaded. Its control system uses that information to determine how much resistance is needed, then adjusts the electrical current sent to the actuator's electromagnetic coil. Changing that current changes the strength of the magnetic field, which changes how strongly the MR fluid resists motion. Seeing the components separately made the system much easier for me to picture: sensors measuring what is happening, software deciding how the knee should respond, and the actuator producing the physical resistance.
+    </p>
+
+<figure class="itinerary-story__body-copy">
+  <video
+    controls
+    preload="metadata"
+    playsinline
+    style="width: 100%; height: auto;"
+  >
+    <source src="/assets/videos/mr-fluid-demonstration.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>
+    A demonstration of magnetorheological fluid behavior when a magnetic field is not present. When a magnetic field is applied, the magnetic particles in suspension resist movement and the fluid's viscosity increases.
+    <span class="itinerary-story__source">
+      Video: Andrew Blakemore, Össur headquarters, Reykjavík.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
+
+    <p>
+      From there we moved through other parts of the bionics lab. I saw components for the Power Knee, which approaches the mechanics of knee movement very differently. Navii primarily controls resistance: it decides how much the knee should oppose motion at a given moment. The Power Knee contains a motor that can actively add motion, including assistance during walking, standing up, and climbing stairs. Seeing the two products near one another made the distinction between different kinds of “bionic knees” much more concrete. The phrase can make them sound like variations of the same technology, when mechanically they may be solving the problem in very different ways.
+    </p>
+
+    <p>
+      I also got to handle the internal actuator from a Proprio Foot. The foot is a microprocessor-controlled ankle-foot system that can actively change the ankle angle as someone walks. During swing, the ankle dorsiflexes to lift the toes farther from the ground and reduce the chance of catching them. It can also detect changes in terrain and adjust the ankle position for slopes, and the user can change its alignment for different shoe heel heights. Those functions are easy enough to describe. What surprised me was how compact the mechanism responsible for them actually was.
+    </p>
+
+<figure class="itinerary-story__body-copy">
+  <img
+    src="/assets/img/travel/iceland/proprio-foot-actuator.webp"
+    alt="Internal Proprio Foot actuator held in a person's hand, showing its bearings, electronics, cylindrical housing, and black flexible bellows."
+    width="1536"
+    height="2048"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption>
+    The internal actuator from a Proprio Foot. The compact assembly drives the ankle mechanism that changes the foot's angle during walking and when adapting to different terrain.
+    <span class="itinerary-story__source">
+      Photo: Andrew Blakemore, Össur headquarters, Reykjavík.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
+
+    <p>
+      Holding that actuator was one of the moments that made my visit feel less like a generic site tour and more of an immersive design review. From the outside, a powered ankle can feel like a single object performing a sophisticated task. Open it up and the sophistication is distributed across a collection of relatively ordinary things: bearings, a motor, sensors, electronics, mechanical linkages, software. None of those pieces is particularly meaningful on its own. What matters is how precisely they have to work together, thousands of times a day, while attached to a person.
+    </p>
+
+    <p>
+      That last point became more important as we moved through the testing areas. Verification and testing seemed to sit behind almost every stage of the process. A prosthetic component does not simply need to work once; it has to repeat the same motion under load again and again, while dealing with impacts, changing temperatures, moisture, dirt, and the unpredictability of daily use. For something like a knee or ankle, a failure is not just an inconvenient product defect. Someone may literally be standing on it when it happens.
+    </p>
+
+<figure class="itinerary-story__body-copy">
+  <video
+    controls
+    preload="metadata"
+    playsinline
+    style="width: 100%; height: auto;"
+  >
+    <source src="/assets/videos/proprio-foot-testing.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>
+    A Proprio Foot operating in a laboratory test fixture. Repeated verification allows engineers to observe how the ankle mechanism behaves through controlled cycles before the product reaches a user.
+    <span class="itinerary-story__source">
+      Video: Andrew Blakemore, Össur headquarters, Reykjavík.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
+
+    <p>
+      The cost of these devices kept lingering in the back of my mind as I walked through the lab. Microprocessor knees such as Navii and C-Leg can cost tens of thousands of dollars once they become part of a complete prosthetic system. During the visit, I heard a story about a woman who had inherited her father's house and ultimately sold it so that she could afford a microprocessor knee. I cannot independently verify the details of that story, but it has stayed with me. A house and a prosthetic knee are difficult things to place on the same scale, yet for someone who believes the device could fundamentally change how she moves through the world, that trade can apparently become imaginable.
+    </p>
+
+    <p>
+      Toward the end of the visit, we went back downstairs into the manufacturing area. It felt completely different from the quieter engineering spaces upstairs: a large open floor filled with machines, workstations, equipment, and the constant noise of production. Parts that begin as drawings or prototypes eventually have to become reproducable on a broader scale, and this was where that transition became visible.
+    </p>
+
+    <p>
+      Some operations were highly automated, including machining processes used to turn raw material into conplex components. I had spent much of the visit thinking about sophisticated control algorithms and smart materials, but the manufacturing floor was a reminder that advanced prosthetics still depend on an enormous amount of ordinary industrial discipline.
+    </p>
+
+<figure class="itinerary-story__body-copy">
+  <img
+    src="/assets/img/travel/iceland/carbon-foot-manufacturing.webp"
+    alt="Display showing carbon-fiber prosthetic foot components at several stages of manufacturing, from unfinished carbon structures to completed foot assemblies."
+    width="2048"
+    height="1536"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption>
+    Carbon-fiber prosthetic foot components shown at different stages of production. The display traces the progression from formed carbon structures through cutting and finishing steps toward the assembled prosthetic foot.
+    <span class="itinerary-story__source">
+      Photo: Andrew Blakemore, Össur headquarters, Reykjavík.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
+
+    <p>
+      That may have been the most useful thing about seeing the facility in person. It is easy to talk about a “bionic leg” as though intelligence somehow lives inside it. Walking through the lab and manufacturing floor made it feel much less mysterious. The intelligence is spread across hundreds of decisions: how a sensor interprets movement, how software responds, how a magnetic field changes a fluid, how tightly two pieces of metal are machined, how an actuator is filled, and how many times the final assembly is tested before somebody is asked to trust it with their weight.
+    </p>
+
+    <figure class="itinerary-story__body-copy">
+  <img
+    src="/assets/img/travel/iceland/ossur-hq-visit.webp"
+    alt="Andrew standing inside Össur headquarters in Reykjavík beside Össur signage."
+    width="2048"
+    height="1536"
+    loading="lazy"
+    decoding="async"
+  >
+  <figcaption>
+    Inside Össur's headquarters in Reykjavík during my visit to learn more about the company's prosthetic technologies and product development.
+    <span class="itinerary-story__source">
+      Photo: Andrew Blakemore, Össur headquarters, Reykjavík.
+    </span>
+  </figcaption>
+</figure>
+
+<br>
+
+  </div>
+</section>
 </div>
