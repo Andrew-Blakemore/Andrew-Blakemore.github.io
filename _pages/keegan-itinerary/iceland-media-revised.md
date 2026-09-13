@@ -1,6 +1,6 @@
 ---
 title: "Reykjavík, Iceland"
-permalink: /keegan-traveling-fellowship/iceland/
+permalink: /keegan-traveling-fellowship/iceland-test/
 layout: itinerary
 classes: wide custom-page
 author_profile: false
@@ -13,10 +13,10 @@ header:
     <p class="itinerary-story__kicker">Iceland &middot; Designed for Living</p>
     <h2>From Iceland, Around the World</h2>
     <p class="itinerary-story__dek">
-      Iceland occupies an outsized place in modern prosthetics. Despite a population smaller than many American cities, it is home to Össur, a company whose products are used around the world. Össur was founded in 1971 by Icelandic prosthetist Össur Kristinsson; the silicone liner technology he developed would become an important part of the company's early growth.
+      Iceland has played a surprisingly large role in modern prosthetics. Despite having a population smaller than many American cities, it is home to Össur, one of the largest prosthetic manufacturers in the world. The company was founded in 1971 by Icelandic prosthetist and amputee Össur Kristinsson, whose work with silicone liners helped establish the company before it expanded into prosthetic knees, feet, and other components.
     </p>
     <p class="itinerary-story__dek">
-      I came to Reykjavík interested in what happens farther upstream from the clinics and fabrication facilities I had already seen. How does an engineer designing a prosthetic knee learn what users need? And how much of that design is really an engineering problem, as opposed to a healthcare, manufacturing, cultural, or economic one? A visit to Össur's headquarters complicated those questions almost immediately.
+      I came to Reykjavík interested in what happens farther upstream from the clinics and fabrication facilities I had already seen. How does an engineer designing a prosthetic knee learn what users need? And how much of that design is really an engineering problem, as opposed to a healthcare, manufacturing, cultural, or economic one? My visit to Össur's headquarters brought me to the root of those questions almost immediately.
     </p>
 
     <aside class="itinerary-story__note" aria-label="Field note">
@@ -51,7 +51,7 @@ header:
           I met with a product design engineer in Össur's R&amp;D department who has worked extensively on Navii, the company's magnetorheological microprocessor knee (MPK). His mechanical-engineering work has focused particularly on the actuator: the part of the knee that produces and controls resistance as the joint bends.
         </p>
         <p>
-          Before the visit, I had been thinking about engineers and prosthetic users as opposite ends of a chain. A user experiences the device every day; an engineer in Reykjavík may be designing one tiny part inside it. I wanted to know how information travels back up that chain. When something feels wrong on a hill in Germany, for example, how does that observation ever reach the people writing firmware or redesigning the next knee?
+          Before the visit, I had been thinking about engineers and prosthetic users as opposite ends of a chain. A user experiences the device every day, while an engineer in Reykjavík may be designing one tiny part inside it. I wanted to know how information travels back up that chain. When something feels wrong on a hill in Germany, for instance, how does that observation ever reach the people writing firmware or redesigning the next knee?
         </p>
       </div>
     </section>
