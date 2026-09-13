@@ -401,6 +401,33 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 </figure>
 
 <br>
+<p>
+  What I am taking away from Iceland is a stronger habit of looking past the finished device. I now find myself asking not only what a prosthesis can do, but what design decisions made that possible, what tradeoffs those decisions create, and how those choices might look different from the perspectives of engineers, clinicians, and users.
+</p>
+
+<aside class="itinerary-story__next" id="future-iceland-questions">
+  <div>
+    <p class="itinerary-story__eyebrow">Questions carried forward</p>
+    <h2>What I’ll look for in future visits:</h2>
+  </div>
+  <ul>
+    <li>When clinicians choose between passive and microprocessor-controlled components, what user needs most strongly influence that decision?</li>
+    <li>When a new prosthetic technology performs well technically, what determines whether it is actually available to the people who could benefit from it?</li>
+  </ul>
+</aside>
+
+<footer class="itinerary-story__footer">
+  <div>
+    <p class="itinerary-story__eyebrow">The journey continues</p>
+    <h2>Following the technology into practice</h2>
+    <p>
+      In the next stops, I’ll be paying closer attention to how engineering choices are translated into clinical decisions and everyday use.
+    </p>
+  </div>
+  <a class="itinerary-story__button" href="/keegan-traveling-fellowship/">
+    Return to the journey <i class="fas fa-arrow-right" aria-hidden="true"></i>
+  </a>
+</footer>
 
   </div>
 </section>
