@@ -89,7 +89,7 @@ header:
 
   <figure class="itinerary-story__body-copy">
     <img
-      src="/assets/img/travel/tennessee/socket-fabrication.webp"
+      src="/assets/img/keegan/tennessee/socket-fabrication.webp"
       alt="Several prosthetic sockets standing at fabrication workstations"
       width="1600"
       height="1200"
@@ -218,7 +218,7 @@ header:
     <div class="single-photo-carousel__viewport" aria-live="polite">
       <figure class="single-photo-slide is-portrait">
         <img
-          src="/assets/img/travel/tennessee/socket-lamination-setup.webp"
+          src="/assets/img/keegan/tennessee/socket-lamination-setup.webp"
           alt="A FabCo technician preparing a prosthetic socket for lamination"
           width="1200"
           height="1600"
@@ -233,7 +233,7 @@ header:
 
       <figure class="single-photo-slide is-portrait" hidden>
         <img
-          src="/assets/img/travel/tennessee/socket-chipping-out.webp"
+          src="/assets/img/keegan/tennessee/socket-chipping-out.webp"
           alt="A FabCo technician trimming excess material from a prosthetic socket"
           width="1200"
           height="1600"
@@ -248,7 +248,7 @@ header:
 
       <figure class="single-photo-slide is-portrait" hidden>
         <img
-          src="/assets/img/travel/tennessee/socket-belt-sanding.webp"
+          src="/assets/img/keegan/tennessee/socket-belt-sanding.webp"
           alt="A FabCo technician smoothing a prosthetic socket on a belt sander"
           width="1200"
           height="1600"
@@ -263,7 +263,7 @@ header:
 
       <figure class="single-photo-slide is-portrait" hidden>
         <img
-          src="/assets/img/travel/tennessee/socket-edge-finishing.webp"
+          src="/assets/img/keegan/tennessee/socket-edge-finishing.webp"
           alt="A FabCo technician applying the finish on the edge of a prosthetic socket"
           width="1200"
           height="1600"
@@ -293,7 +293,7 @@ header:
   <div class="itinerary-story__feature itinerary-story__feature--uncropped">
     <figure class="itinerary-story__feature-image">
       <img
-        src="/assets/img/travel/tennessee/fabco-technician.webp"
+        src="/assets/img/keegan/tennessee/fabco-technician.webp"
         alt="A FabCo technician laminating a prosthetic socket model"
         width="1400"
         height="1867"
@@ -347,7 +347,7 @@ header:
 
     <figure class="itinerary-story__body-copy">
     <img
-      src="/assets/img/travel/tennessee/thermoplastic-socket-forming.webp"
+      src="/assets/img/keegan/tennessee/thermoplastic-socket-forming.webp"
       alt="A FabCo fabricator heating and forming thermoplastic over a socket model"
       width="1200"
       height="900"

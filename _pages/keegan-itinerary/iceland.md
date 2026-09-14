@@ -5,7 +5,7 @@ layout: itinerary
 classes: wide custom-page
 author_profile: false
 header:
-  image: /assets/img/travel/iceland/reykjavik-hero.webp
+  image: /assets/img/keegan/iceland/reykjavik-hero.webp
 ---
 
 <div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
@@ -74,7 +74,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
     <figure class="itinerary-story__body-copy">
   <img
-    src="/assets/img/travel/iceland/Aimee-Mullins.webp"
+    src="/assets/img/keegan/iceland/Aimee-Mullins.webp"
     alt="Aimee Mullins competing in the 1996 Atlanta Paralympic Games using carbon-fiber running prostheses (left) and serving as Chef de Mission of Team USA in the 2012 London Games (right)."
     width="1536"
     height="1024"
@@ -98,7 +98,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
 <figure class="itinerary-story__body-copy">
   <img
-    src="/assets/img/travel/iceland/AeroFit_Seal-In®.webp"
+    src="/assets/img/keegan/iceland/AeroFit_Seal-In®.webp"
     alt="An exploded diagram of the AeroFit Seal-In liner material layers. On the left, bubbles escape through a perforated silicone layer, passing through a porous knitted mesh layer and an integrated fabric backing. On the right, a dark textured outer layer features a central circular valve mechanism with a large white arrow pointing outward to indicate the direction of expelled airflow."
     width="1200"
     height="675"
@@ -139,7 +139,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
 <figure class="itinerary-story__body-copy">
   <img
-    src="/assets/img/travel/iceland/Rheo-Knee.webp"
+    src="/assets/img/keegan/iceland/Rheo-Knee.webp"
     alt="A dark gray Össur Rheo Knee"
     width="1200"
     height="1200"
@@ -179,7 +179,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
 <figure class="itinerary-story__body-copy">
   <img
-    src="/assets/img/travel/iceland/Earth-Echoes-covers.webp"
+    src="/assets/img/keegan/iceland/Earth-Echoes-covers.webp"
     alt="Five Navii prosthetic knee covers in white, blue, red, green, and black"
     width="1536"
     height="922"
@@ -248,7 +248,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
 <figure class="itinerary-story__body-copy">
   <img
-    src="/assets/img/travel/iceland/mr-actuator-blade-stack.webp"
+    src="/assets/img/keegan/iceland/mr-actuator-blade-stack.webp"
     alt="Close-up of the stacked metal rotor and stator elements from an Össur magnetorheological prosthetic knee actuator."
     width="1536"
     height="2048"
@@ -303,7 +303,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
 <figure class="itinerary-story__body-copy">
   <img
-    src="/assets/img/travel/iceland/proprio-foot-actuator.webp"
+    src="/assets/img/keegan/iceland/proprio-foot-actuator.webp"
     alt="Internal Proprio Foot actuator held in a person's hand, showing its bearings, electronics, cylindrical housing, and black flexible bellows."
     width="1536"
     height="2048"
@@ -362,7 +362,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
 <figure class="itinerary-story__body-copy">
   <img
-    src="/assets/img/travel/iceland/carbon-foot-manufacturing.webp"
+    src="/assets/img/keegan/iceland/carbon-foot-manufacturing.webp"
     alt="Display showing carbon-fiber prosthetic foot components at several stages of manufacturing, from unfinished carbon structures to completed foot assemblies."
     width="2048"
     height="1536"
@@ -385,7 +385,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
 
     <figure class="itinerary-story__body-copy">
   <img
-    src="/assets/img/travel/iceland/ossur-hq-visit.webp"
+    src="/assets/img/keegan/iceland/ossur-hq-visit.webp"
     alt="Andrew standing inside Össur headquarters in Reykjavík beside Össur signage."
     width="2048"
     height="1536"

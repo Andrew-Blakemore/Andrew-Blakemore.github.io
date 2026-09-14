@@ -5,7 +5,7 @@ layout: itinerary
 classes: wide custom-page
 author_profile: false
 header:
-  image: /assets/img/travel/united-kingdom/london-hero.webp
+  image: /assets/img/keegan/united-kingdom/london-hero.webp
 ---
 
 <div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
