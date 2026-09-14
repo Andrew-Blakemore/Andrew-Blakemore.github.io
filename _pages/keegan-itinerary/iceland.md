@@ -280,7 +280,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
     playsinline
     style="width: 100%; height: auto;"
   >
-    <source src="/assets/videos/mr-fluid-demonstration.mp4" type="video/mp4">
+    <source src="/assets/videos/keegan/mr-fluid-demonstration.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption>
@@ -335,7 +335,7 @@ Iceland is an important place in the history of modern prosthetics. Despite its 
     playsinline
     style="width: 100%; height: auto;"
   >
-    <source src="/assets/videos/proprio-foot-testing.mp4" type="video/mp4">
+    <source src="/assets/videos/keegan/proprio-foot-testing.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption>
