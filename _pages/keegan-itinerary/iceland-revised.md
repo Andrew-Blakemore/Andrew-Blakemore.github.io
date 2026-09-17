@@ -13,10 +13,10 @@ header:
     <p class="itinerary-story__kicker">Iceland &middot; Designed for Living</p>
     <h2>From Iceland, Around the World</h2>
 <p class="itinerary-story__dek">
-I came to Iceland curious about how a country with such a small population had helped shape prosthetic technology around the world. Much of that story leads back to Össur, founded in 1971 by Icelandic prosthetist and amputee Össur Kristinsson. His work on the Iceross silicone liner addressed an intimate, everyday problem: making the interface between a residual limb and a prosthetic socket more comfortable. That starting point stayed with me during my visit. Behind a company now known for advanced prosthetic technology was a problem rooted in the experience of wearing a prosthesis.
+I came to Iceland curious about how a country with such a small population had helped shape prosthetic technology around the world. Much of that story leads back to Össur, founded in 1971 by Icelandic prosthetist and amputee Össur Kristinsson. Kristinsson's work on the Iceross silicone liner addressed an intimate, everyday problem by making the interface between a residual limb and a prosthetic socket more comfortable. That starting point stayed with me during my visit as I came to see how behind a company now known for advanced prosthetic technology was a problem rooted in the experience of wearing a prosthesis.
   </p>
 <p class="itinerary-story__dek">
-Össur’s work has since expanded across silicone liners, carbon-fiber feet, and bionic prosthetics. It remains headquartered in Reykjavík, where it carries out research, development, and manufacturing as part of Embla Medical, an Iceland-based organization that brings together several mobility companies and brands. Visiting offered a chance to follow a part of prosthetic care I had mostly encountered from the clinical side: the decisions and work that happen before a finished device reaches the person who will use it.
+Össur’s work has since expanded across silicone liners and prosthetic components. It remains headquartered in Reykjavík, where it carries out R&D and manufacturing as part of Embla Medical, an Iceland-based organization that brings together several mobility companies and brands. My visit offered a chance to follow a part of prosthetic care I had mostly encountered from the clinical side: the decisions and work that happen before a finished device reaches the person who will use it.
   </p>
 
       <aside class="itinerary-story__note" aria-label="Field note">
@@ -65,7 +65,7 @@ I came to Iceland curious about how a country with such a small population had h
       </p>
 
       <p>
-        One of my first questions was how feedback from prosthetic users reaches the R&D team. I expected clinicians to be involved, but wanted to understand what happens after they report a problem or suggest a change. The engineer described how feedback from certified prosthetists and orthotists (CPOs), who fit and work with these products, can inform firmware updates and future development. One example made that connection tangible: feedback from CPOs in Germany had contributed to an update to Navii’s behavior when walking up inclines. An experience on a slope could make its way back into the software controlling the knee.
+        One of my first questions was how feedback from prosthetic users reaches the R&D team. I expected clinicians to be involved, but wanted to understand what happens after they report a problem or suggest a change. The engineer described how feedback from certified prosthetists and orthotists (CPOs), who fit and work with these products, can inform firmware updates and future development. For instance, he told me about how feedback from CPOs in Germany had refently contributed to an update to Navii’s behavior when walking up inclines. A patient's experience on a slope could make its way back into the software controlling the knee.
       </p>
 
       <p>
