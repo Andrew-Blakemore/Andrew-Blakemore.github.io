@@ -16,7 +16,7 @@ header:
 I came to Iceland curious about how a country with such a small population has helped shape prosthetic technology around the world. Much of that story leads back to Össur, founded in 1971 by Icelandic prosthetist and amputee Össur Kristinsson. Kristinsson's work on the Iceross silicone liner addressed an intimate, everyday problem by making the interface between a residual limb and a prosthetic socket more comfortable. That starting point stayed with me during my visit as I came to see how, behind a company now known for advanced prosthetic technology, was a problem rooted in the experience of wearing a prosthesis.
   </p>
 <p class="itinerary-story__dek">
-Össur’s work has since expanded across silicone liners and prosthetic components. It remains headquartered in Reykjavík, where it carries out R&D and manufacturing as part of Embla Medical, an Iceland-based organization that comprises several mobility companies and brands. My visit offered a chance to follow the decisions and work that happen before a finished device reaches the person who will use it, a part of prosthetic care I have often encountered from the clinical side.
+Össur’s work has since expanded across silicone liners and prosthetic components. It remains headquartered in Reykjavík, where it carries out R&D and manufacturing as part of Embla Medical, an Iceland-based organization that comprises several mobility companies. My visit offered a chance to follow the decisions and work that happen before a finished device reaches the person who will use it, a part of prosthetic care I have encountered often from the clinical side.
   </p>
 
       <aside class="itinerary-story__note" aria-label="Field note">
@@ -65,11 +65,11 @@ I came to Iceland curious about how a country with such a small population has h
       </p>
 
       <p>
-        One of my first questions was how feedback from prosthetic users reaches the R&D team. I expected clinicians to be involved, but wanted to understand what happens after they report a problem or suggest a change. The engineer described how feedback from certified prosthetists and orthotists (CPOs), who fit and work with these products, can inform firmware updates and future development. For instance, he told me about how feedback from CPOs in Germany had refently contributed to an update to Navii’s behavior when walking up inclines. A patient's experience on a slope could make its way back into the software controlling the knee.
+        One of my first questions was how feedback from prosthetic users reaches the R&D team. I knew clinicians were involved, but wanted to understand what happens after they report a problem or suggest a change. The engineer described how feedback from certified prosthetists and orthotists (CPOs), who fit and work with these products, can inform firmware updates and future development. For instance, he told me about how feedback from CPOs in Germany had recently contributed to an update to Navii’s behavior when walking up inclines. A patient's experience on a slope could make its way back into the software controlling the knee.
       </p>
 
       <p>
-        He also described Össur’s work with highly experienced “Super Users,” who test products under demanding conditions. Their role helped me think about what a laboratory can and cannot tell an engineer. Controlled testing can isolate a movement or load; everyday life combines them in less predictable ways. Users who push their prostheses hard can reveal limits that might otherwise remain hidden. I found myself wondering how those lessons sit alongside feedback from people whose priorities are quieter but just as consequential: comfort, confidence, and getting through an ordinary day.
+        He also described Össur’s work with highly experienced “Super Users,” who test products under demanding conditions. Their role prompted me to think about the role of a lab in prosthetic development. While controlled testing in a lab can isolate a movement or load, everyday life combines them in less predictable ways. Users who push their prostheses hard can reveal limits that might otherwise remain hidden. I found myself wondering how those insights pair with feedback from people whose priorities are quieter but just as consequential, such as comfort and confidence.
       </p>
 
     <figure class="itinerary-story__body-copy">
@@ -93,7 +93,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        From feedback, our conversation moved to fabrication. Given my engineering background, I was especially interested in where additive manufacturing fits into the process. I had seen companies, particularly in upper-limb prosthetics, incorporate 3D printing into their work. The engineer described its main role at Össur as making prototypes and testing fit and geometry. Some specialized products, such as the AeroFit Seal-In® liner, also use it in production, while established methods such as injection molding remain practical for making large quantities. It was a useful reminder that a manufacturing method has to make sense for the particular part and the scale at which it will be produced.
+        Our conversation gradually moved from feedback to fabrication. Given my engineering background, I was especially interested in where additive manufacturing fits into the prosthetic landscape. I had seen several companies, particularly in upper-limb prosthetics market, incorporate 3D printing into their work. The engineer described its main role at Össur as making prototypes and testing fit and geometry. Some specialized products, such as the AeroFit Seal-In® liner, also use it in production, while established methods such as injection molding remain practical for making large quantities. It was a useful reminder that a manufacturing method has to make sense for the particular part and the scale at which it will be produced.
       </p>
 
 <figure class="itinerary-story__body-copy">
