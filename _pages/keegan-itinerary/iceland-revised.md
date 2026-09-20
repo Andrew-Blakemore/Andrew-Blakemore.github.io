@@ -209,11 +209,11 @@ I came to Iceland curious about how a country with such a small population has h
       </p>
 
       <p>
-        What does a commitment to mobility require during war? Continuing to supply clinics may help people who have no responsibility for their government’s actions. Continuing commercial activity can also raise concerns about supporting a state waging a war of aggression. Withdrawing carries consequences of its own for people who need care. I found it difficult to separate the moral weight of opposing a war from the needs of an individual trying to regain mobility.
+        This raises a complex question about the obligations of a medical technology company during war. Is mobility a human right that should remain protected regardless of political circumstances? Should a company continue supplying prosthetic technology to clinics in a country whose government is responsible for a war of aggression? Or does continuing commercial activity risk indirectly supporting a state that is committing serious human rights violations? At the same time, withdrawing from a market can mean that ordinary people lose access to technology that could profoundly affect their mobility and independence.
       </p>
 
       <p>
-        I did not leave with a settled position. I left with a clearer sense of how much lies behind the question of where a prosthesis is sold. These devices sit at the intersection of medical care and commerce, and decisions about their distribution can directly impact someone’s independence. It is a question I want to keep discussing from different perspectives throughout the year.
+        There is no simple answer here. What interests me is that prosthetic technology sits in a particularly uncomfortable place within this debate. These are medical devices, but they are also commercial products, and their distribution is inseparable from geopolitics, economics, and questions of access. A decision about where a company will or will not sell a prosthetic is ultimately also a decision about who gets access to mobility. I hope to continue exploring this question throughout the duration of my travels.
       </p>
     </div>
   </section>
@@ -223,15 +223,11 @@ I came to Iceland curious about how a country with such a small population has h
     <h2>Understanding What's Inside</h2>
 
     <p>
-      Upstairs in the lab, the conversation became much more technical. In clinical settings, I had mostly encountered prostheses as finished products fitted to patients. In the lab, the microprocessor devices became motors, circuit boards, metal plates and wires. Seeing the parts laid out changed the way I understood the whole. A knee that had seemed difficult to decipher from the outside started to make sense as someone walked me through what was inside.
+      Upstairs in the lab, the conversation became much more technical. In clinical settings, I had mostly encountered prostheses as finished products fitted to patients. In the lab, the microprocessor devices became motors, circuit boards, metal plates, and wires. Seeing the parts laid out changed the way I understood the whole products. A knee that had seemed difficult to decipher from the outside started to make sense as someone walked me through what was inside.
     </p>
 
     <p>
-      Navii was the clearest example. The MR fluid we had discussed earlier contains tiny magnetic particles suspended in a liquid. Without a magnetic field, the particles move relatively freely. When a field is applied, they align in ways that make the fluid resist shearing more strongly. Changing the field changes that resistance, giving the knee a way to adjust how freely it bends.
-    </p>
-
-    <p>
-      I was intrigued by how that material behavior responds to someone’s movement. Sensors track the knee’s motion and loading, and the control system adjusts electrical current to change the magnetic field. Each part of the process has to translate into the next: movement into information, information into a control response, and that response into resistance at the joint.
+      Navii was the clearest example. The MR fluid we had discussed earlier contains tiny magnetic particles suspended in a liquid. Without a magnetic field, the particles move relatively freely. When a field is applied, they align in ways that make the fluid resist shearing more strongly. Changing the field alters that resistance, giving the knee a way to adjust how freely it bends.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -244,7 +240,7 @@ I came to Iceland curious about how a country with such a small population has h
     decoding="async"
   >
   <figcaption>
-    A close look at the stacked metal elements inside an Össur magnetorheological knee actuator. Rotating plates are stacked extremely close together with thin layers of MR fluid occupying the gaps between them. Changing the magnetic field alters how strongly that fluid resists shearing as the plates move past one another.
+    A close look at the stacked metal elements inside an Össur magnetorheological knee actuator. Rotating plates are stacked close together with thin layers of MR fluid occupying the gaps between them. Changing the magnetic field alters how strongly that fluid resists shearing as the plates move past one another.
     <span class="itinerary-story__source">
       Photo: Andrew Blakemore, Össur headquarters, Reykjavík.
     </span>
@@ -258,7 +254,7 @@ I came to Iceland curious about how a country with such a small population has h
     </p>
 
     <p>
-      Seeing those pieces separately also helped me understand how much coordination the finished knee conceals. The plates alone cannot respond to a step, instead they depend on measurements, software, and a carefully controlled magnetic field. I could follow each part in isolation, but making them work together reliably was a different level of engineering. That was what I began to appreciate more fully in the lab.
+      Seeing those pieces separately also helped me understand how much coordination the finished knee conceals. The plates alone cannot respond to a step, instead they depend on software and a carefully controlled magnetic field. I could follow each part in isolation, but making them work together reliably was a much more complex level of engineering.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -282,7 +278,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      Nearby, I saw components for the Power Knee, which approaches movement differently. Where Navii regulates resistance, the Power Knee uses a motor to contribute power, including assistance with standing up and climbing stairs. Under a similar outward form, engineers can take quite different approaches to supporting movement, with different implications for the person using the device.
+      Nearby, I saw components for the Power Knee, which approaches movement differently. Where Navii regulates resistance, the Power Knee uses a motor to contribute power, including assistance with actions like standing up and climbing stairs. I thought the Power Knee beautifully demonstrated how even though two products can look very similar, engineers can take vastly different approaches to how each supports movement, with different implications for the person using the device.
     </p>
 
     <p>
@@ -309,7 +305,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      Verification seemed to sit behind almost every stage of work at Össur. A knee or ankle has to keep functioning through repeated loading and the impacts, moisture, dirt, and temperature changes of daily use. Watching a mechanism cycle in a test fixture, it was easy to see the importance of repetition testing, given how someone would eventually trust the device with their weight.
+      Verification seemed to sit behind almost every stage of work at Össur. A knee or ankle has to keep functioning through repeated loading and the impacts, moisture, dirt, and temperature changes of daily use. Watching a mechanism cycle in a test fixture, it was easy to see the importance of repetitive testing, given how someone would eventually trust the device with their weight.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -333,7 +329,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      Toward the end of the visit, we went back downstairs and briefly toured a manufacturing area. Compared to the quieter engineering spaces, the open floor felt busy and loud. It was filled with numerous machines and manufacturing equipment. Here, many of the components comprising the devices I had seen upstairs, along with other components that I hadn't seen, were produced. Some operations were highly automated, such as the machining of raw material into complex components with a CNC turn-mill. All in all, this floor emphasized the importance of precision and repeatability in prosthetic manufacturing.
+      Toward the end of the visit, we went back downstairs and briefly toured a manufacturing area. Compared to the quieter engineering spaces, the open floor felt busy and loud. It was filled with numerous machines and manufacturing equipment. Here, many of the components comprising the devices I had seen upstairs, along with other components that I hadn't seen, were produced. Some operations were highly automated, such as the machining of raw material into complex components via a CNC turn-mill. All in all, this floor reiterated the importance of precision and repeatability in prosthetic manufacturing.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -356,7 +352,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      By the end, the term “bionic leg” felt much less mysterious to me. The visit gave me a better sense of the work behind the moment when someone first puts their weight on a prosthesis and takes a step.
+      By the end of my visit, the term “bionic leg” felt much less mysterious to me. This experience gave me a better sense of the work behind the moment when someone first puts their weight on a prosthesis and begins their journey towards walking again.
     </p>
 
     <figure class="itinerary-story__body-copy">
@@ -378,7 +374,7 @@ I came to Iceland curious about how a country with such a small population has h
 
 <br>
 <p>
-  I left Iceland with more appreciation for that engineering, and more questions about what happens beyond it. Understanding how a knee works is one part of understanding its place in someone’s life. Whether they can obtain it, feel safe wearing it, and find it useful in their own surroundings matters too. As I continue this fellowship, I want to follow those connections from the design decisions inside a device to the experiences of the people who live with them.
+  I left Iceland with more appreciation for prosthetic engineering and more questions about what happens beyond it. Understanding how a knee works is one part of understanding its place in someone’s life. Whether they can obtain it, feel safe wearing it, and find it useful in their own surroundings matters too. As I continue this fellowship, I want to follow those connections from the design decisions inside a device to the experiences of the people who live with them.
 </p>
 
 <aside class="itinerary-story__next" id="future-iceland-questions">
