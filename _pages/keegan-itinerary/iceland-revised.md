@@ -162,7 +162,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        I was also struck by the engineer’s awareness of the ethical tensions around reimbursement. We discussed how financial incentives within a payment system might influence component selection, and what happens when those incentives do not align neatly with a patient’s needs. I would need a much fuller understanding of costs and reimbursement to assess that tension myself, but still, I was surprised to hear the issue raised by someone working in product development. I left wondering how manufacturers account for these pressures in the way they design and market devices, and where their ability to influence the outcome ends.
+        I was also intrigued by the engineer’s awareness of the ethical tensions around reimbursement. We discussed how financial incentives within a payment system might influence component selection, and what happens when those incentives do not align neatly with a patient’s needs. I would need a much fuller understanding of costs and reimbursement to assess that tension myself, but still, I was surprised to hear the issue raised by someone working in product development. I left wondering how manufacturers account for these pressures in the way they design and market devices, and where their ability to influence the outcome ends.
       </p>
 
       <p>
@@ -197,15 +197,15 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        Then he shared an account that complicated that picture. A user in South Africa had told him about prosthetic legs being stolen from people in broad daylight because of their resale value. I did not witness this or independently verify the account, and I cannot say how widespread it is. But the possibility was enough to make me reconsider what visibility might mean. Where a person fears theft, concealing a valuable prosthesis could be a practical decision about safety.
+        Then he shared an account that contradicted that picture. A user in South Africa had told him about microprocessor prosthetic legs being stolen off people in broad daylight because of their resale value. I did not witness this or independently verify the account, and I cannot say how widespread it is. But the possibility was enough to make me reconsider what visibility might mean. Where a person fears theft, concealing a valuable prosthesis could be a practical decision about safety.
       </p>
 
       <p>
-        I kept thinking about those two parts of the conversation together: a cover chosen to be seen, and a device someone might feel compelled to hide. Aesthetic choice depends on the circumstances in which it is made. Economics, safety, and the surrounding social environment can all shape how comfortable someone feels drawing attention to a prosthesis. The same component can carry very different meanings once it leaves the place where it was designed.
+        I kept thinking about those two parts of the conversation together, how in one place a cover chosen to be seen, and a device someone might feel compelled to hide. Aesthetic choice depends on the circumstances in which it is made. Economics, safety, and the surrounding social environment can all shape how comfortable someone feels drawing attention to a prosthesis. The same component can carry very different meanings once it leaves the place where it was designed.
       </p>
 
       <p>
-        That also challenged an assumption I had brought to the fellowship. I hoped to meet microprocessor knee users in demanding environments and learn how their devices held up to wear and tear. I had been thinking mainly about physical conditions. This story prompted a different question: what might it mean for someone to discuss or display an expensive prosthesis in the first place? As I continue traveling, I want to be more attentive to the circumstances that shape what people feel comfortable sharing with me.
+        That also challenged an assumption I had made regarding my fellowship. I hoped to meet microprocessor knee users in demanding environments and learn how their devices held up to wear and tear. I had been thinking mainly about physical conditions. This story prompted a different question: what might it mean for someone to discuss or display an expensive prosthesis in the first place? As I continue traveling, I want to be more attentive to the circumstances that shape what people feel comfortable sharing with me.
       </p>
 
       <p>
