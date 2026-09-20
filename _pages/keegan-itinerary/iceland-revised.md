@@ -13,7 +13,7 @@ header:
     <p class="itinerary-story__kicker">Iceland &middot; Designed for Living</p>
     <h2>From Iceland, Around the World</h2>
 <p class="itinerary-story__dek">
-I came to Iceland curious about how a country with such a small population has helped shape prosthetic technology around the world. Much of that story leads back to Össur, founded in 1971 by Icelandic prosthetist and amputee Össur Kristinsson. Kristinsson's work on the Iceross silicone liner addressed an intimate, everyday problem by making the interface between a residual limb and a prosthetic socket more comfortable. That starting point stayed with me during my visit as I came to see how, behind a company now known for advanced prosthetic technology, was a background rooted in the experience of wearing a prosthesis.
+I came to Iceland curious about how a country with such a small population has helped shape prosthetic technology around the world. Much of that story leads back to Össur, founded in 1971 by Icelandic prosthetist and amputee Össur Kristinsson. Kristinsson's work on the Iceross silicone liner addressed an intimate, everyday problem by making the interface between a residual limb and a prosthetic socket more comfortable.
   </p>
 <p class="itinerary-story__dek">
 Össur’s work has since expanded across silicone liners and prosthetic components. It remains headquartered in Reykjavík, where it carries out R&D and manufacturing as part of Embla Medical, an Iceland-based organization that comprises several mobility companies. My visit offered a chance to follow the decisions and work that happen before a finished device reaches the person who will use it, a part of prosthetic care I have encountered often from the clinical side.
@@ -93,7 +93,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        Our conversation gradually moved from the subject of user feedback to fabrication. Given my engineering background, I was especially interested in where additive manufacturing fits into the prosthetic landscape. I had seen several companies, particularly in upper-limb prosthetics market, incorporate 3D printing into their work. The engineer described how Össur primarily utilized it to make prototype components for testing fit and geometry. Some specialized products, such as the AeroFit Seal-In® liner, use 3D printing in production, though most products rely on established methods such as injection molding that remain practical for making large quantities. This was a useful reminder that a manufacturing method has to make sense for the particular part and the scale at which it must be produced.
+        Our conversation gradually moved from the subject of user feedback to fabrication. Given my engineering background, I was especially interested in where additive manufacturing fits into the prosthetic landscape. I had seen several companies, particularly in the upper-limb prosthetics market, incorporate 3D printing into their work. The engineer described how Össur primarily utilized it to make prototype components for testing fit and geometry. Some specialized products, such as the AeroFit Seal-In® liner, use 3D printing in production, though most products rely on established methods such as injection molding that remain practical for making large quantities. This was a useful reminder that a manufacturing method has to make sense for the particular part and the scale at which it must be produced.
       </p>
 
 <figure class="itinerary-story__body-copy">
@@ -106,13 +106,11 @@ I came to Iceland curious about how a country with such a small population has h
     decoding="async"
   >
   <figcaption>
-    The AeroFit Seal-In liner is manufactured using 3D printing to deposit medical-grade
-    silicone into a multi-layered mesh structure featuring over 100,000
-    micro-perforations. This approach transforms traditional liner design by
+    The AeroFit Seal-In liner uses 3D-printed silicone to create a breathable structure. Paired with a vented socket, it forms part of Össur’s AeroFit system, designed to help manage humidity at the skin. This approach transforms traditional liner design by
     replacing solid, sweat-trapping silicone sheets with a highly breathable, porous
     matrix. The resulting design leverages the user&rsquo;s natural movement during
     walking to act as a mini-pump, actively expelling humid air and pulling in fresh
-    air to control temperature and moisture on the skin. This 3D-printed layout
+    air to control temperature and moisture on the skin. This system
     achieves high breathability and sweat-wicking performance without sacrificing
     the structurally dense, airtight peripheral seal required for secure socket
     suspension.
@@ -134,7 +132,7 @@ I came to Iceland curious about how a country with such a small population has h
       </p>
 
       <p>
-        I think this can be better understood if we look at the relationship between the Navii and its predecessor, the Rheo Knee, and how they are sold in the United States. Both use a similar MR fluid mechanism to control knee resistance, but Navii offers additional features, such as being fully waterproof. However, while the Navii's suitability for more demanding activities may matter greatly to some users, many may not meet the criteria necessary to obtain one through their insurer. Thus, keeping the Rheo Knee available on the market can preserve another option for microprocessor-controlled care. This helped me see how knowledge of reimbursement policies can influence both the features engineers develop and the decisions companies make about which existing products to keep available. I also took this as an example of why technological progress does not necessarily look like a clean handoff from one generation of products to the next.
+        I think this can be better understood if we look at the relationship between the Navii and its predecessor, the Rheo Knee, and how they are sold in the United States. Both use a similar MR fluid mechanism to control knee resistance, but Navii offers additional features, such as being fully waterproof. However, while the Navii's suitability for more demanding activities may matter greatly to some users, many may not meet the criteria necessary to obtain one through their insurer. As I understood the engineer’s explanation, keeping the Rheo Knee available alongside Navii helps preserve options for users with different needs and reimbursement circumstances. This helped me see how insurance considerations can influence both product development and decisions about which existing devices remain available. I also took this as an example of why technological progress does not necessarily look like a clean handoff from one generation of products to the next.
       </p>
 
 <figure class="itinerary-story__body-copy">
@@ -147,7 +145,7 @@ I came to Iceland curious about how a country with such a small population has h
     decoding="async"
   >
   <figcaption>
-    The original Össur Rheo Knee features an accessible manual lock and weatherproofing designed specifically to secure and stabilize users during low-to-moderate activity.
+    The Össur Rheo Knee features an accessible manual lock and weatherproofing designed specifically to secure and stabilize users during low-to-moderate activity.
     <span class="itinerary-story__source">
       Image: Össur, via
       <a
@@ -172,7 +170,7 @@ I came to Iceland curious about how a country with such a small population has h
 <figure class="itinerary-story__body-copy">
   <img
     src="/assets/img/keegan/iceland/Earth-Echoes-covers.webp"
-    alt="Five Navii prosthetic knee covers in white, blue, red, green, and black"
+    alt="Five Navii prosthetic knee covers in light gray, blue, red, green, and black"
     width="1536"
     height="922"
     loading="lazy"
@@ -223,7 +221,7 @@ I came to Iceland curious about how a country with such a small population has h
     <h2>Understanding What's Inside</h2>
 
     <p>
-      Upstairs in the lab, the conversation became much more technical. In clinical settings, I had mostly encountered prostheses as finished products fitted to patients. In the lab, the microprocessor devices became motors, circuit boards, metal plates, and wires. Seeing the parts laid out changed the way I understood the whole products. A knee that had seemed difficult to decipher from the outside started to make sense as someone walked me through what was inside.
+      Upstairs in the lab, the conversation became much more technical. In clinical settings, I had mostly encountered prostheses as finished products fitted to patients. In the lab, the microprocessor devices became motors, circuit boards, metal plates, and wires. Seeing the parts laid out changed the way I understood the finished products. A knee that had seemed difficult to decipher from the outside started to make sense as someone walked me through what was inside.
     </p>
 
     <p>
@@ -254,7 +252,7 @@ I came to Iceland curious about how a country with such a small population has h
     </p>
 
     <p>
-      Seeing those pieces separately also helped me understand how much coordination the finished knee conceals. The plates alone cannot respond to a step, instead they depend on software and a carefully controlled magnetic field. I could follow each part in isolation, but making them work together reliably was a much more complex level of engineering.
+      Seeing those pieces separately also helped me understand how much coordination the finished knee conceals. The plates alone cannot respond to a step; they depend on software and a carefully controlled magnetic field. I could follow each part in isolation, but making them work together reliably was a much more complex level of engineering.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -383,7 +381,7 @@ I came to Iceland curious about how a country with such a small population has h
     <h2>What I’ll look for in future visits:</h2>
   </div>
   <ul>
-    <li>When clinicians choose between passive and microprocessor-controlled components, what user needs most strongly influence that decision?</li>
+    <li>When clinicians choose between non-microprocessor and microprocessor-controlled knees, what user needs most strongly influence that decision?</li>
     <li>When a new prosthetic technology performs well technically, what determines whether it is actually available to the people who could benefit from it?</li>
   </ul>
 </aside>
