@@ -220,18 +220,18 @@ I came to Iceland curious about how a country with such a small population has h
 
   <section class="itinerary-story__section">
   <div>
-    <h2>Inside the Lab</h2>
+    <h2>Understanding What's Inside</h2>
 
     <p>
-      Upstairs, the conversation became much more tangible. In clinical settings, I had mostly encountered these technologies as finished products fitted to patients. In the lab, they became motors, circuit boards, metal plates, wires, and bearings. Seeing the parts laid out changed the way I understood the whole. A knee that had seemed difficult to decipher from the outside started to make sense as someone walked me through what was inside.
+      Upstairs in the lab, the conversation became much more technical. In clinical settings, I had mostly encountered prostheses as finished products fitted to patients. In the lab, the microprocessor devices became motors, circuit boards, metal plates and wires. Seeing the parts laid out changed the way I understood the whole. A knee that had seemed difficult to decipher from the outside started to make sense as someone walked me through what was inside.
     </p>
 
     <p>
-      Navii was the clearest example. The MR fluid we had discussed contains tiny magnetic particles suspended in a liquid. Without a magnetic field, the particles move relatively freely. When a field is applied, they align in ways that make the fluid resist shearing more strongly. Changing the field changes that resistance, giving the knee a way to adjust how freely it bends.
+      Navii was the clearest example. The MR fluid we had discussed earlier contains tiny magnetic particles suspended in a liquid. Without a magnetic field, the particles move relatively freely. When a field is applied, they align in ways that make the fluid resist shearing more strongly. Changing the field changes that resistance, giving the knee a way to adjust how freely it bends.
     </p>
 
     <p>
-      What intrigued me was how that material behavior becomes a response to someone’s movement. Sensors track the knee’s motion and loading, and the control system adjusts electrical current to change the magnetic field. Each part of the process has to translate into the next: movement into information, information into a control response, and that response into resistance at the joint.
+      I was intrigued by how that material behavior responds to someone’s movement. Sensors track the knee’s motion and loading, and the control system adjusts electrical current to change the magnetic field. Each part of the process has to translate into the next: movement into information, information into a control response, and that response into resistance at the joint.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -254,11 +254,11 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      The disassembled actuator helped me picture where this happens. What first looked like a dense stack of metal rings was a series of alternating rotating and stationary elements, with very small gaps for the MR fluid. As the knee bends, the surfaces move past one another, shearing the fluid between them. An electromagnetic coil changes how strongly the fluid resists that movement. The mechanism gave a physical shape to an explanation that had felt abstract a few minutes earlier.
+      The disassembled actuator helped me picture where this happens. What first looked like a dense stack of metal rings was a series of alternating rotating and stationary elements, with very small gaps for the MR fluid. As the knee bends, the surfaces move past one another, shearing the fluid between them. An electromagnetic coil changes how strongly the fluid resists that movement.
     </p>
 
     <p>
-      Seeing those pieces separately also helped me understand how much coordination the finished knee conceals. The plates alone cannot respond to a step; they depend on measurements, software, and a carefully controlled magnetic field. I could follow each part in isolation, but making them work together reliably was a different level of engineering. That was what I began to appreciate more fully in the lab.
+      Seeing those pieces separately also helped me understand how much coordination the finished knee conceals. The plates alone cannot respond to a step, instead they depend on measurements, software, and a carefully controlled magnetic field. I could follow each part in isolation, but making them work together reliably was a different level of engineering. That was what I began to appreciate more fully in the lab.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -282,7 +282,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      Nearby, I saw components for the Power Knee, which approaches movement differently. Where Navii regulates resistance, the Power Knee uses a motor to contribute power, including assistance with walking, standing up, and climbing stairs. Seeing the two systems close together made “bionic knee” feel like a much less specific label. Under a similar outward form, engineers can take quite different approaches to supporting movement, with different implications for the person using the device.
+      Nearby, I saw components for the Power Knee, which approaches movement differently. Where Navii regulates resistance, the Power Knee uses a motor to contribute power, including assistance with standing up and climbing stairs. Under a similar outward form, engineers can take quite different approaches to supporting movement, with different implications for the person using the device.
     </p>
 
     <p>
@@ -309,11 +309,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      Holding it gave me a kind of understanding I had not gotten from looking at the finished foot. Bearings, a motor, electronics, and mechanical connections were all packed into a compact assembly. Each was familiar enough on its own; the challenge was getting them to work precisely together, repeatedly, while attached to a person. I found myself looking at the small components with much more respect for what was being asked of them.
-    </p>
-
-    <p>
-      That thought followed me into the testing areas. Verification seemed to sit behind almost every stage of the work. A knee or ankle has to keep functioning through repeated loading and the impacts, moisture, dirt, and temperature changes of daily use. Watching a mechanism cycle in a test fixture, it was easy to see repetition. The reason for that repetition felt more personal: someone would eventually trust the device with their weight.
+      Verification seemed to sit behind almost every stage of work at Össur. A knee or ankle has to keep functioning through repeated loading and the impacts, moisture, dirt, and temperature changes of daily use. Watching a mechanism cycle in a test fixture, it was easy to see the importance of repetition testing, given how someone would eventually trust the device with their weight.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -337,15 +333,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      Even as I began to appreciate the work behind these devices, I kept returning to their cost. During the visit, I heard about a woman who had reportedly sold a house inherited from her father to afford a microprocessor knee. I cannot independently verify the details, but the story stayed with me. I do not know her circumstances well enough to interpret that decision. What it left me asking was how the promise of greater mobility could come to require such an enormous tradeoff, and what happens to people who have no comparable option.
-    </p>
-
-    <p>
-      Toward the end of the visit, we returned downstairs to the manufacturing area. After the quieter engineering spaces, the open floor felt busy and loud, filled with machines, workstations, and production equipment. Here, the designs I had been learning about had to be reproduced consistently. The transition from an idea to a part that can be made again and again was suddenly visible.
-    </p>
-
-    <p>
-      Some operations were highly automated, including machining raw material into complex components. I had spent much of the day drawn to smart materials and control systems. The manufacturing floor brought my attention to precision, repeatability, and the work of making each part match its design. Those details are easy to overlook when discussing a new technology, yet the finished device depends on them.
+      Toward the end of the visit, we went back downstairs and briefly toured a manufacturing area. Compared to the quieter engineering spaces, the open floor felt busy and loud. It was filled with numerous machines and manufacturing equipment. Here, many of the components comprising the devices I had seen upstairs, along with other components that I hadn't seen, were produced. Some operations were highly automated, such as the machining of raw material into complex components with a CNC turn-mill. All in all, this floor emphasized the importance of precision and repeatability in prosthetic manufacturing.
     </p>
 
 <figure class="itinerary-story__body-copy">
@@ -368,7 +356,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
     <p>
-      By then, “bionic leg” felt much less mysterious to me. I could begin to see the decisions within it: how movement is measured, how software responds, how closely metal surfaces fit, and how an assembly is tested. What had looked like a single sophisticated object was the result of many people getting many details right. The visit gave me a better sense of the work behind the moment when someone puts their weight on a prosthesis and takes a step.
+      By the end, the term “bionic leg” felt much less mysterious to me. The visit gave me a better sense of the work behind the moment when someone first puts their weight on a prosthesis and takes a step.
     </p>
 
     <figure class="itinerary-story__body-copy">
