@@ -59,7 +59,7 @@ I came to Iceland curious about how a country with such a small population has h
 
   <section class="itinerary-story__section itinerary-story__section--opening">
     <div class="itinerary-story__opening-copy">
-      <h2>The Prosthetics Landscape</h2>
+      <h2>A Conversation About Design and Access</h2>
       <p>
         My visit began with a conversation with a product design engineer in Össur’s R&D team. With a background in mechanical engineering, he had worked extensively on the actuator that controls resistance in the Navii bionic knee. Navii uses magnetorheological (MR) fluid, which responds to a magnetic field, to adjust how freely the knee moves. It occupies a broadly similar space to Ottobock’s C-Leg, but takes a different mechanical approach. I was interested in the technology itself, and just as curious about how an engineer working on one component stays connected to the experience of the person wearing the whole device.
       </p>
@@ -162,11 +162,11 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        I was also intrigued by the engineer’s awareness of the ethical tensions around reimbursement. We discussed how financial incentives within a payment system might influence component selection, and what happens when those incentives do not align neatly with a patient’s needs. I would need a much fuller understanding of costs and reimbursement to assess that tension myself, but still, I was surprised to hear the issue raised by someone working in product development. I left wondering how manufacturers account for these pressures in the way they design and market devices, and where their ability to influence the outcome ends.
+        I was also intrigued by the engineer’s awareness of the ethical tensions around reimbursement. We discussed how financial incentives within a payment system might influence component selection by a clinician, and what happens when those incentives do not align neatly with a patient’s needs. I would need a much deeper understanding of costs and reimbursement to assess that tension myself, but still, I was surprised to hear the issue raised by someone working in product development. I left wondering how manufacturers account for these pressures in the way they design and market devices, and where their ability to influence the outcome ends.
       </p>
 
       <p>
-  The conversation then turned to how a prosthesis looks, or rather, how a user chooses to style their prosthesis. The engineer described growing interest in making devices expressive and noticeable. Users have long personalized sockets and covers with colors and patterns over the past several decades. What interested me here was how that choice was becoming part of the components themselves. Össur’s Earth Echoes covers for Navii, inspired by Icelandic landscapes, provide a good example. A protective cover becomes something a person can choose as part of their appearance just as it also provide protection for the components underneath.
+  The conversation then turned to how a prosthesis looks. The engineer described a growing interest among manufacturers in making devices more visually expressive. Users have long personalized their sockets and covers with colors and patterns. What seems to be changing is how manufacturers are building those choices into their own product designs. Össur’s Earth Echoes covers for Navii, with colors inspired by Icelandic landscapes, offer one example. Alongside protecting the components underneath, these covers give users another way to make their prosthesis feel like their own.
 </p>
 
 <figure class="itinerary-story__body-copy">
@@ -197,15 +197,11 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        Then he shared an account that contradicted that picture. A user in South Africa had told him about microprocessor prosthetic legs being stolen off people in broad daylight because of their resale value. I did not witness this or independently verify the account, and I cannot say how widespread it is. But the possibility was enough to make me reconsider what visibility might mean. Where a person fears theft, concealing a valuable prosthesis could be a practical decision about safety.
+        As we talked about self-expression, he shared a story that gave me pause. A user in a developing country had told him about microprocessor prosthetic legs being stolen from people in broad daylight because of their high resale value. I did not witness this or independently verify the account, and I cannot say how widespread it is. Still, the contrast made me reflect. Some people can personalize their prostheses and wear them openly, while others may feel compelled to conceal them. Choosing whether to make a prosthesis visible can be as much about someone’s surroundings as their personal preferences.
       </p>
 
       <p>
-        I kept thinking about those two parts of the conversation together, how in one place a cover chosen to be seen, and a device someone might feel compelled to hide. Aesthetic choice depends on the circumstances in which it is made. Economics, safety, and the surrounding social environment can all shape how comfortable someone feels drawing attention to a prosthesis. The same component can carry very different meanings once it leaves the place where it was designed.
-      </p>
-
-      <p>
-        That also challenged an assumption I had made regarding my fellowship. I hoped to meet microprocessor knee users in demanding environments and learn how their devices held up to wear and tear. I had been thinking mainly about physical conditions. This story prompted a different question: what might it mean for someone to discuss or display an expensive prosthesis in the first place? As I continue traveling, I want to be more attentive to the circumstances that shape what people feel comfortable sharing with me.
+        This comparison illustrates what prosthetic care might look like elsewhere in the world. In the clinics I had spent time in, microprocessor knees were a familiar sight. They were expensive, but there were avenues through which people could obtain them. I expect such devices won't be as widespread in parts of the world where both their cost and the risks of wearing them might limit their use. Will I encounter them there at all? Who knows. This was a good reminder that the care I had seen so far might represent a much narrower view of prosthetics than I had fully appreciated.
       </p>
 
       <p>
@@ -217,7 +213,7 @@ I came to Iceland curious about how a country with such a small population has h
       </p>
 
       <p>
-        I did not leave with a settled position. I left with a clearer sense of how much lies behind the question of where a prosthesis is sold. These devices sit at the intersection of medical care and commerce, and decisions about their distribution can reach directly into someone’s independence. It is a question I want to keep listening to from different perspectives throughout the year.
+        I did not leave with a settled position. I left with a clearer sense of how much lies behind the question of where a prosthesis is sold. These devices sit at the intersection of medical care and commerce, and decisions about their distribution can directly impact someone’s independence. It is a question I want to keep discussing from different perspectives throughout the year.
       </p>
     </div>
   </section>
