@@ -13,7 +13,7 @@ header:
     <p class="itinerary-story__kicker">Iceland &middot; Designed for Living</p>
     <h2>From Iceland, Around the World</h2>
 <p class="itinerary-story__dek">
-I came to Iceland curious about how a country with such a small population has helped shape prosthetic technology around the world. Much of that story leads back to Össur, founded in 1971 by Icelandic prosthetist and amputee Össur Kristinsson. Kristinsson's work on the Iceross silicone liner addressed an intimate, everyday problem by making the interface between a residual limb and a prosthetic socket more comfortable. That starting point stayed with me during my visit as I came to see how, behind a company now known for advanced prosthetic technology, was a problem rooted in the experience of wearing a prosthesis.
+I came to Iceland curious about how a country with such a small population has helped shape prosthetic technology around the world. Much of that story leads back to Össur, founded in 1971 by Icelandic prosthetist and amputee Össur Kristinsson. Kristinsson's work on the Iceross silicone liner addressed an intimate, everyday problem by making the interface between a residual limb and a prosthetic socket more comfortable. That starting point stayed with me during my visit as I came to see how, behind a company now known for advanced prosthetic technology, was a background rooted in the experience of wearing a prosthesis.
   </p>
 <p class="itinerary-story__dek">
 Össur’s work has since expanded across silicone liners and prosthetic components. It remains headquartered in Reykjavík, where it carries out R&D and manufacturing as part of Embla Medical, an Iceland-based organization that comprises several mobility companies. My visit offered a chance to follow the decisions and work that happen before a finished device reaches the person who will use it, a part of prosthetic care I have encountered often from the clinical side.
@@ -61,15 +61,15 @@ I came to Iceland curious about how a country with such a small population has h
     <div class="itinerary-story__opening-copy">
       <h2>A Conversation About Design and Access</h2>
       <p>
-        My visit began with a conversation with a product design engineer in Össur’s R&D team. With a background in mechanical engineering, he had worked extensively on the actuator that controls resistance in the Navii bionic knee. Navii uses magnetorheological (MR) fluid, which responds to a magnetic field, to adjust how freely the knee moves. It occupies a broadly similar space to Ottobock’s C-Leg, but takes a different mechanical approach. I was interested in the technology itself, and just as curious about how an engineer working on one component stays connected to the experience of the person wearing the whole device.
+        My visit began with a conversation with a product design engineer in Össur’s R&D team. With a background in mechanical engineering, he had worked extensively on the actuator that controls resistance in the Navii bionic knee. Navii uses magnetorheological (MR) fluid, which responds to a magnetic field to adjust how freely the knee moves. It occupies a broadly similar space to Ottobock’s C-Leg, but takes a different mechanical approach. Prior to our conversation, I was interested in learning about both the technology itself and how an engineer working on one component stays connected to the experience of the person wearing the whole device.
       </p>
 
       <p>
-        One of my first questions was how feedback from prosthetic users reaches the R&D team. I knew clinicians were involved, but wanted to understand what happens after they report a problem or suggest a change. The engineer described how feedback from certified prosthetists and orthotists (CPOs), who fit and work with these products, can inform firmware updates and future development. For instance, he told me about how feedback from CPOs in Germany had recently contributed to an update to Navii’s behavior when walking up inclines. A patient's experience on a slope could make its way back into the software controlling the knee.
+        One of my first questions was how feedback from prosthetic users reaches the R&D team. I knew clinicians were involved, but wanted to understand what happens after they report a problem or suggest a change. The engineer described how feedback from certified prosthetists and orthotists (CPOs), who fit and work with these products, can inform firmware updates and future development. For instance, he told me about how feedback from CPOs in Germany had recently led to an update to Navii’s behavior when walking up inclines. This is how a person's experience on a slope could make its way back to engineers who can then modify the software controlling the knee.
       </p>
 
       <p>
-        He also described Össur’s work with highly experienced “Super Users,” who test products under demanding conditions. Their role prompted me to think about the role of a lab in prosthetic development. While controlled testing in a lab can isolate a movement or load, everyday life combines them in less predictable ways. Users who push their prostheses hard can reveal limits that might otherwise remain hidden. I found myself wondering how those insights pair with feedback from people whose priorities are quieter but just as consequential, such as comfort and confidence.
+        He also described Össur’s work with highly experienced “Super Users,” who test products under demanding conditions. Their role prompted me to think about the purpose of a laboratory in prosthetic development. While controlled testing in a lab can isolate a movement or load, everyday life combines them in less predictable ways. Users who push their prostheses hard can reveal limits that might otherwise remain hidden. I found myself wondering how those insights pair with feedback from people whose priorities are quieter but just as consequential, such as comfort and confidence.
       </p>
 
     <figure class="itinerary-story__body-copy">
@@ -93,7 +93,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        Our conversation gradually moved from the subject of user feedback to fabrication. Given my engineering background, I was especially interested in where additive manufacturing fits into the prosthetic landscape. I had seen several companies, particularly in upper-limb prosthetics market, incorporate 3D printing into their work. The engineer described how Össur primarily utilized it to make prototype conmponents for testing fit and geometry. Some specialized products, such as the AeroFit Seal-In® liner, use 3D printing in production, though most products rely on established methods such as injection molding that remain practical for making large quantities. This was a useful reminder that a manufacturing method has to make sense for the particular part and the scale at which it must be produced.
+        Our conversation gradually moved from the subject of user feedback to fabrication. Given my engineering background, I was especially interested in where additive manufacturing fits into the prosthetic landscape. I had seen several companies, particularly in upper-limb prosthetics market, incorporate 3D printing into their work. The engineer described how Össur primarily utilized it to make prototype components for testing fit and geometry. Some specialized products, such as the AeroFit Seal-In® liner, use 3D printing in production, though most products rely on established methods such as injection molding that remain practical for making large quantities. This was a useful reminder that a manufacturing method has to make sense for the particular part and the scale at which it must be produced.
       </p>
 
 <figure class="itinerary-story__body-copy">
@@ -166,7 +166,7 @@ I came to Iceland curious about how a country with such a small population has h
       </p>
 
       <p>
-  The conversation then turned to how a prosthesis looks. The engineer described a growing interest among manufacturers in making devices more visually expressive. Users have long personalized their sockets and covers with colors and patterns. What seems to be changing is how manufacturers are building those choices into their own product designs. Össur’s Earth Echoes covers for Navii, with colors inspired by Icelandic landscapes, offer one example. Alongside protecting the components underneath, these covers give users another way to make their prosthesis feel like their own.
+  The conversation then turned to how a prosthesis looks. The engineer described a growing interest among manufacturers in making devices more visually expressive. Users have long personalized their sockets and covers with colors and patterns. What seems to be changing is how manufacturers are building those choices into their own product designs. Össur’s Earth Echoes covers for Navii, with colors inspired by Icelandic landscapes, offer one good example. Alongside protecting the components underneath, these covers give users another way to make their prosthesis feel like their own.
 </p>
 
 <figure class="itinerary-story__body-copy">
@@ -197,19 +197,19 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        As we talked about self-expression, he shared a story that gave me pause. A user in a developing country had told him about microprocessor prosthetic legs being stolen from people in broad daylight because of their high resale value. I did not witness this or independently verify the account, and I cannot say how widespread it is. Still, the contrast made me reflect. Some people can personalize their prostheses and wear them openly, while others may feel compelled to conceal them. Choosing whether to make a prosthesis visible can be as much about someone’s surroundings as their personal preferences.
+        As we continued talking about self-expression, the engineer shared a story that gave me pause. A user in a developing country had told him about microprocessor prosthetic legs being stolen from people in broad daylight because of their high resale value. I could not independently verify this account, nor can I say how widespread it is. Still, the contrast made me reflect. Some people can personalize their prostheses and wear them openly, while others may feel compelled to conceal them. Choosing whether to make a prosthesis visible can be as much about someone’s surroundings as their personal preferences.
       </p>
 
       <p>
-        This comparison illustrates what prosthetic care might look like elsewhere in the world. In the clinics I had spent time in, microprocessor knees were a familiar sight. They were expensive, but there were avenues through which people could obtain them. I expect such devices won't be as widespread in parts of the world where both their cost and the risks of wearing them might limit their use. Will I encounter them there at all? Who knows. This was a good reminder that the care I had seen so far might represent a much narrower view of prosthetics than I had fully appreciated.
+        This comparison sheds light on the disparities in prosthetic care around the world. In the clinics I have spent time in, microprocessor knees were a familiar sight. They were expensive, but there were avenues through which people could obtain them. I expect such devices won't be as widespread in parts of the world where both their cost and the risks of wearing them might limit their use. Will I encounter them much in these regions? Who knows. This was a good reminder that the care I have seen so far represents a much narrower view of prosthetics than I have fully appreciated.
       </p>
 
       <p>
-        Before heading upstairs to the labs, we discussed another difficult aspect of access: the choices prosthetics companies make during war. Our conversation touched on Össur’s suspension of sales to Russia following the invasion of Ukraine, Ottobock’s continued involvement in the Russian market in a changed capacity, and both companies’ support for prosthetic care in Ukraine. I came away less focused on comparing individual corporate decisions than on the obligations that make those decisions so difficult.
+        Before heading upstairs to the lab, we discussed another difficult aspect of access: the choices prosthetics companies make during war. Our conversation touched on Össur’s suspension of sales to Russia following the invasion of Ukraine, Ottobock’s continued involvement in the Russian market (albeit in a changed capacity), and both companies’ support for prosthetic care in Ukraine. I came away less focused on comparing individual corporate decisions than on the obligations that make those decisions so difficult.
       </p>
 
       <p>
-        What does a commitment to mobility require in that situation? Continuing to supply clinics may help people who have no responsibility for their government’s actions. Continuing commercial activity can also raise concerns about supporting a state waging a war of aggression. Withdrawing carries consequences of its own for people who need care. I found it difficult to separate the moral weight of opposing a war from the needs of an individual trying to regain mobility.
+        What does a commitment to mobility require during war? Continuing to supply clinics may help people who have no responsibility for their government’s actions. Continuing commercial activity can also raise concerns about supporting a state waging a war of aggression. Withdrawing carries consequences of its own for people who need care. I found it difficult to separate the moral weight of opposing a war from the needs of an individual trying to regain mobility.
       </p>
 
       <p>
