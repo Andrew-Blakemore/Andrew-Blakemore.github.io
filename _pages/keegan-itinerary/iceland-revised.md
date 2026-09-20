@@ -162,11 +162,11 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        I was also struck by the engineer’s awareness of the ethical tensions around reimbursement. We discussed how financial incentives within a payment system might influence component selection, and what happens when those incentives do not align neatly with a patient’s needs. I would need a much fuller understanding of costs and reimbursement to assess that tension myself. Still, it was revealing to hear it raised by someone working in product development. I left wondering how manufacturers account for these pressures in the way they design and market devices, and where their ability to influence the outcome ends.
+        I was also struck by the engineer’s awareness of the ethical tensions around reimbursement. We discussed how financial incentives within a payment system might influence component selection, and what happens when those incentives do not align neatly with a patient’s needs. I would need a much fuller understanding of costs and reimbursement to assess that tension myself, but still, I was surprised to hear the issue raised by someone working in product development. I left wondering how manufacturers account for these pressures in the way they design and market devices, and where their ability to influence the outcome ends.
       </p>
 
       <p>
-  The conversation then turned to something more visible: how a prosthesis looks. The engineer described growing interest in making devices expressive and noticeable. Users have long personalized sockets and covers with colors and patterns; what interested me here was how that choice was becoming part of the components themselves. Össur’s Earth Echoes covers for Navii, inspired by Icelandic landscapes, offer one example. A protective cover becomes something a person can choose as part of their appearance. It brought the conversation back to a question that runs through my project: what helps a device feel like someone’s own?
+  The conversation then turned to how a prosthesis looks, or rather, how a user chooses to style their prosthesis. The engineer described growing interest in making devices expressive and noticeable. Users have long personalized sockets and covers with colors and patterns over the past several decades. What interested me here was how that choice was becoming part of the components themselves. Össur’s Earth Echoes covers for Navii, inspired by Icelandic landscapes, provide a good example. A protective cover becomes something a person can choose as part of their appearance just as it also provide protection for the components underneath.
 </p>
 
 <figure class="itinerary-story__body-copy">
