@@ -11,8 +11,8 @@ header:
 <div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
   <header class="itinerary-story__intro">
     <p class="itinerary-story__kicker">United Kingdom &middot; Designed for Living</p>
-    <h2>The Care Around the Prosthesis</h2>
-    <p class="itinerary-story__dek">In Iceland, I had looked inside prosthetic devices. In the UK, my attention shifted toward the care around them: who fits a prosthesis, who helps someone learn to use it, and how those people work together. Conversations with Dorset Orthopaedic clinicians and a visit to their Amersham clinic gave me a closer look at that relationship.</p>
+    <h2>Prosthetic Care in the UK</h2>
+    <p class="itinerary-story__dek">In Iceland, I investigated how certain prosthetic components were designed and manufactured. In the UK, my attention shifted more toward clinical care and the relationship between a prosthetist, physiotherapist, and prosthetic user. Conversations with Dorset Orthopaedic clinicians and a visit to their Amersham clinic gave me a closer look at this relationship.</p>
     <p class="itinerary-story__dek">These encounters are part of a wider exploration of prosthetic care in the UK, from rehabilitation and funding to veterans’ support and the representation of limb difference in art. Each offers a different perspective on how a prosthesis becomes part of someone’s life.</p>
     <aside class="itinerary-story__note" aria-label="Field note">
       <p class="itinerary-story__note-label"><strong>Field Note</strong></p>
@@ -30,7 +30,7 @@ header:
           <div><dt>Organization</dt><dd>Dorset Orthopaedic</dd></div>
           <div><dt>City</dt><dd>Amersham</dd></div>
           <div><dt>Scope</dt><dd>Teams conversation &amp; clinic visit</dd></div>
-          <div><dt>Date visited/called</dt><dd></dd></div>
+          <div><dt>Date visited</dt><dd></dd></div>
         </dl>
       </section>
       <section class="itinerary-story__visit-profile" id="physiotherapy-visit" data-itinerary-visit="physiotherapy" hidden>
@@ -38,7 +38,7 @@ header:
           <div><dt>Organization</dt><dd>Dorset Orthopaedic</dd></div>
           <div><dt>City</dt><dd>Glasgow</dd></div>
           <div><dt>Scope</dt><dd>Clinical care &amp; osseointegration rehabilitation</dd></div>
-          <div><dt>Date visited/called</dt><dd></dd></div>
+          <div><dt>Date called</dt><dd></dd></div>
         </dl>
       </section>
       <section class="itinerary-story__visit-profile" id="blesma-visit" data-itinerary-visit="blesma" hidden>
@@ -46,7 +46,7 @@ header:
           <div><dt>Organization</dt><dd>Blesma</dd></div>
           <div><dt>City</dt><dd></dd></div>
           <div><dt>Scope</dt><dd>Veterans’ perspectives &amp; prosthetic support</dd></div>
-          <div><dt>Date visited/called</dt><dd></dd></div>
+          <div><dt>Date called</dt><dd></dd></div>
         </dl>
       </section>
       <section class="itinerary-story__visit-profile" id="va-visit" data-itinerary-visit="va" hidden>
@@ -54,7 +54,7 @@ header:
           <div><dt>Organization</dt><dd>Victoria and Albert Museum</dd></div>
           <div><dt>City</dt><dd>London</dd></div>
           <div><dt>Scope</dt><dd>Photography &amp; limb difference</dd></div>
-          <div><dt>Date visited/called</dt><dd></dd></div>
+          <div><dt>Date visited</dt><dd></dd></div>
         </dl>
       </section>
     </div>
