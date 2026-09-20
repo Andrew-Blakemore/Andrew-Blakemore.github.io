@@ -93,7 +93,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        Our conversation gradually moved from feedback to fabrication. Given my engineering background, I was especially interested in where additive manufacturing fits into the prosthetic landscape. I had seen several companies, particularly in upper-limb prosthetics market, incorporate 3D printing into their work. The engineer described its main role at Össur as making prototypes and testing fit and geometry. Some specialized products, such as the AeroFit Seal-In® liner, also use it in production, while established methods such as injection molding remain practical for making large quantities. It was a useful reminder that a manufacturing method has to make sense for the particular part and the scale at which it will be produced.
+        Our conversation gradually moved from the subject of user feedback to fabrication. Given my engineering background, I was especially interested in where additive manufacturing fits into the prosthetic landscape. I had seen several companies, particularly in upper-limb prosthetics market, incorporate 3D printing into their work. The engineer described how Össur primarily utilized it to make prototype conmponents for testing fit and geometry. Some specialized products, such as the AeroFit Seal-In® liner, use 3D printing in production, though most products rely on established methods such as injection molding that remain practical for making large quantities. This was a useful reminder that a manufacturing method has to make sense for the particular part and the scale at which it must be produced.
       </p>
 
 <figure class="itinerary-story__body-copy">
@@ -130,7 +130,7 @@ I came to Iceland curious about how a country with such a small population has h
 <br>
 
       <p>
-        Questions about how a device gets made soon became questions about whether someone can obtain it. I wanted to know how far the influence of insurance reaches into product development. From our conversation, I understood that reimbursement considerations, including the US coding system, can enter the process well before a clinician selects a component. I had tended to think of access as something negotiated after the engineering was finished. Here, it seemed to be part of the environment in which the engineering happens.
+        Our discussion about additive manufacturing at Össur soon transformed into a conversation about ... (medical billing or something similar?). I wanted to know how far the influence of insurance reaches into product development. From our conversation, I understood that reimbursement considerations, including the US coding system, can enter the process well before a clinician selects a component. I had tended to think of access as something negotiated after the engineering was finished. Here, it seemed to be part of the environment in which the engineering happens.
       </p>
 
       <p>
