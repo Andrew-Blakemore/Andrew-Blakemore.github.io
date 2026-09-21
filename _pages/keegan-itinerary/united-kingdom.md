@@ -111,6 +111,8 @@ header:
         <span class="itinerary-story__source">Photo: author, Dorset Orthopaedic, Amersham.</span>
       </figcaption>
     </figure>
+    <br>
+
       <p>
         A prosthetist talked me through the fitting process. As at the clinic in Kentucky, the team might work through two or three transparent check sockets while refining a patient’s fit. These temporary sockets allow clinicians to assess contact and comfort before making a costly definitive version. He explained that patients using them outside the clinic needed close review, often weekly, because the durability of the material can vary depending on the person’s weight and how they use the limb. In some cases, the team reinforced a check socket with carbon fiber for extra support. I had seen fiberglass reinforcement before, but carbon fiber reinforcement was new to me.
       </p>
@@ -233,6 +235,8 @@ header:
         <span class="itinerary-story__source">Photo: author, Dorset Orthopaedic, Amersham.</span>
       </figcaption>
     </figure>
+    <br>
+
       <p>
         While the physiotherapist led exercises, a prosthetist made adjustments to the patient’s leg upstairs. When she returned with it, he put it on and began walking with both clinicians watching. The physiotherapist moved in front of and behind him, offering cues about his movement. She referred back to the muscles they had just worked on and encouraged him to bring that awareness into his steps. At the same time, the prosthetist asked how the knee’s resistance felt and considered its response during different tasks.
       </p>
@@ -278,7 +282,7 @@ header:
         In Iceland, I had been drawn to the coordination of mechanical parts and software. Amersham showed me another kind of coordination, in this case between a prosthetist and physiotherapist. The device remained central, but its effectiveness depended on this relationship. Before I left, the physiotherapist pointed toward changes she hoped to see shape the prosthetic landscape in the near future, including developments in osseointegration, scanning technology, device robustness, and battery life. Those conversations will be worth returning to.
       </p>
     <figure class="itinerary-story__body-copy">
-      <img src="/assets/img/keegan/united-kingdom/clinic-visit-with-physiotherapist.webp"
+      <img src="/assets/img/keegan/united-kingdom/andrew-and-kat-amersham-clinic.webp"
         alt="The author and the physiotherapist standing beside the Dorset Orthopaedic display in Amersham." width="2560" height="3413"
         loading="lazy" decoding="async"
         style="display: block; width: 100%; height: auto; max-height: none; aspect-ratio: auto; object-fit: contain;">
@@ -328,7 +332,7 @@ header:
       </p>
       </div>
       <figure class="itinerary-story__body-copy">
-        <img src="/assets/img/keegan/united-kingdom/tree-of-life-mirrored-portrait.webp"
+        <img src="/assets/img/keegan/united-kingdom/mari-katayama-tree-of-life-mirrored-portrait.webp"
           alt="The artist surrounded by handsewn forms and mirrors in a photograph from tree of life." width="1152" height="1536"
           loading="lazy" decoding="async"
           style="display: block; width: 100%; height: auto; max-height: none; aspect-ratio: auto; object-fit: contain;">
@@ -342,7 +346,7 @@ header:
       </p>
       </div>
       <figure class="itinerary-story__body-copy">
-        <img src="/assets/img/keegan/united-kingdom/tree-of-life-portrait-detail.webp"
+        <img src="/assets/img/keegan/united-kingdom/mari-katayama-tree-of-life-portrait-detail.webp"
           alt="Detail of a tree of life photograph, showing the artist, her prostheses, and reflected handsewn forms." width="1152" height="1536"
           loading="lazy" decoding="async"
           style="display: block; width: 100%; height: auto; max-height: none; aspect-ratio: auto; object-fit: contain;">
