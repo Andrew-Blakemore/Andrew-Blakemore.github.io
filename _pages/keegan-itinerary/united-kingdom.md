@@ -331,6 +331,8 @@ header:
         The series grew from the artist’s interest in how images can be reproduced and reshaped, and how other people’s expectations shape our relationship with our bodies. She built the mirrored setting in her studio and photographed herself, taking control of both sides of the camera. As <a href="https://www.yutakakikutakegallery.com/exhibitions/tree-of-life/" target="_blank" rel="noopener noreferrer">her gallery’s account of the work</a> explains, that choice also explores the power a photographer holds over the person being photographed.
       </p>
       </div>
+
+      <br>
       <figure class="itinerary-story__body-copy">
         <img src="/assets/img/keegan/united-kingdom/mari-katayama-tree-of-life-mirrored-portrait.webp"
           alt="The artist surrounded by handsewn forms and mirrors in a photograph from tree of life." width="1152" height="1536"
