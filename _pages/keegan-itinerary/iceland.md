@@ -22,7 +22,7 @@ I came to Iceland curious about how a country with such a small population has h
       <aside class="itinerary-story__note" aria-label="Field note">
       <p class="itinerary-story__note-label"><strong>Field Note</strong></p>
       <p class="itinerary-story__note-text">
-        <em>This account reflects my own observations and interpretations as an independent observer. It does not represent the views, opinions, or positions of Össur, Embla Medical, or their employees. Any statements or perspectives attributed to individuals I spoke with are presented as I understood them from our conversations and should not be interpreted as official statements on behalf of the organizations. This account has not been reviewed or endorsed by Össur or Embla Medical.</em>
+        <em>This account reflects my own observations and interpretations as an independent observer. It does not represent the views, opinions, or positions of Össur, Embla Medical, or their employees. Any statements or perspectives attributed to individuals I spoke with are presented as I understood them from our conversations and should not be interpreted as official statements on behalf of the organizations. Names of the people I met have been omitted. This account has not been reviewed or endorsed by Össur or Embla Medical.</em>
       </p>
     </aside>
 
