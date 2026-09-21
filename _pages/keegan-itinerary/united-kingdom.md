@@ -65,10 +65,10 @@ header:
       <div class="itinerary-story__opening-copy">
       <h2>A Conversation, Then a Clinic</h2>
       <p>
-        Before visiting Amersham, I met a physiotherapist at Dorset Orthopaedic over Teams. She had previously worked in an NHS service before moving into private care. I wanted to understand what that move had changed about her work. Much of our conversation came back to something deceptively simple: having a prosthetist nearby.
+        Before visiting Amersham, I met a physiotherapist at Dorset Orthopaedic over Teams. She had previously worked in an NHS service before moving into private care. I wanted to understand what that move had changed about her work.
       </p>
       <p>
-        The physiotherapist described working alongside prosthetists during component trials and rehabilitation, including trials of microprocessor feet. If a patient struggled with a movement, they could assess it together. The physiotherapist could explain what she was seeing, and the prosthetist could consider whether the fit, alignment, or component settings contributed to it. A question did not have to wait for a message to reach another practice.
+        The physiotherapist described working alongside a prosthetist during component trials and rehabilitation, including trials of microprocessor feet. If a patient struggled with a movement, they could assess it together. The physiotherapist could explain what she was seeing, and the prosthetist could consider whether the fit, alignment, or component settings contributed to it. A question did not have to wait for a message to reach another practice.
       </p>
       <p>
         That stood out because of situations I had encountered in the US. Sometimes a patient’s discomfort began with something as basic as difficulty putting the prosthesis on correctly. If that problem went unresolved, wearing the device became less appealing, and rehabilitation suffered. A therapist unfamiliar with that particular prosthesis might struggle to identify what needed changing. The patient could spend weeks working around a problem that someone else on their care team knew how to address.
