@@ -23,7 +23,7 @@ author_profile: false
     </span>
   </h2>
   <p>
-    Through conversations with prosthetic users, engineers, clinicians, researchers, and
+    Through conversations with prosthetic users, engineers, clinicians, and
     advocates,
     <a
       class="keegan-editorial-intro__project-link"
