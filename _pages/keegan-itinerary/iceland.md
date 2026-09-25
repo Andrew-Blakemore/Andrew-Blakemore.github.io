@@ -374,6 +374,8 @@ I came to Iceland curious about how a country with such a small population has h
 <p>
   I left Iceland with more appreciation for prosthetic engineering and more questions about what happens beyond it. Understanding how a knee works is one part of understanding its place in someone’s life. Whether they can obtain it, feel safe wearing it, and find it useful in their own surroundings matters too. As I continue this fellowship, I want to follow those connections from the design decisions inside a device to the experiences of the people who live with them.
 </p>
+  </div>
+</section>
 
 <footer class="itinerary-story__footer">
   <div>
@@ -387,7 +389,4 @@ I came to Iceland curious about how a country with such a small population has h
     Return to the journey <i class="fas fa-arrow-right" aria-hidden="true"></i>
   </a>
 </footer>
-
-  </div>
-</section>
 </div>
