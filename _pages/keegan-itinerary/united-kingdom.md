@@ -290,13 +290,6 @@ header:
         <span class="itinerary-story__source">Photo: author, Dorset Orthopaedic, Amersham.</span>
       </figcaption>
     </figure>
-      <aside class="itinerary-story__next" id="future-amersham-questions">
-        <div><p class="itinerary-story__eyebrow">Questions carried forward</p><h2>What I’ll look for in future visits:</h2></div>
-        <ul>
-          <li>How do funding and ownership influence the choices available to clinicians and patients?</li>
-          <li>Which changes in fabrication reduce the time and travel required to reach a comfortable fit?</li>
-        </ul>
-      </aside>
       </div>
     </section>
   </div>
