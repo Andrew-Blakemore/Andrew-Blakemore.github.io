@@ -351,4 +351,17 @@ header:
       </figure>
     </section>
   </div>
+
+    <footer class="itinerary-story__footer">
+    <div>
+      <p class="itinerary-story__eyebrow">An open file</p>
+      <h2>Coming soon...</h2>
+      <p>
+        I'm off to Central Europe to learn more about prosthetic care in Germany!
+      </p>
+    </div>
+    <a class="itinerary-story__button" href="/keegan-traveling-fellowship/">
+      Return to the journey <i class="fas fa-arrow-right" aria-hidden="true"></i>
+    </a>
+  </footer>
 </div>
