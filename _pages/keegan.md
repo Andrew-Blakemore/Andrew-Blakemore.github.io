@@ -19,7 +19,7 @@ author_profile: false
       A year exploring how
     </span>
     <span class="keegan-editorial-intro__title-line">
-      prosthetics shape everyday life
+      prosthetics shape daily life
     </span>
   </h2>
   <p>
@@ -29,7 +29,7 @@ author_profile: false
       class="keegan-editorial-intro__project-link"
       href="https://www.keegantravelingfellowship.org/andrew-blakemore"
     ><em>Designed for Living</em></a>
-    documents how these devices impact daily life
+    documents how these devices impact everyday life
     in diverse communities around the world.
   </p>
 </section>
