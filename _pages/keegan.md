@@ -29,8 +29,8 @@ author_profile: false
       class="keegan-editorial-intro__project-link"
       href="https://www.keegantravelingfellowship.org/andrew-blakemore"
     ><em>Designed for Living</em></a>
-    will document how these devices impact daily life
-    in communities around the world.
+    documents how these devices impact daily life
+    in diverse communities around the world.
   </p>
 </section>
 
