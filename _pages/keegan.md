@@ -16,10 +16,10 @@ author_profile: false
   <p class="keegan-editorial-intro__eyebrow">2026-27 Keegan Traveling Fellow</p>
   <h2 id="keegan-introduction-title">
     <span class="keegan-editorial-intro__title-line">
-      A year exploring how prosthetics
+      A year exploring how
     </span>
     <span class="keegan-editorial-intro__title-line">
-      shape everyday life
+      prosthetics shape everyday life
     </span>
   </h2>
   <p>
