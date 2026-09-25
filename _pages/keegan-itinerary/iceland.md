@@ -375,17 +375,6 @@ I came to Iceland curious about how a country with such a small population has h
   I left Iceland with more appreciation for prosthetic engineering and more questions about what happens beyond it. Understanding how a knee works is one part of understanding its place in someone’s life. Whether they can obtain it, feel safe wearing it, and find it useful in their own surroundings matters too. As I continue this fellowship, I want to follow those connections from the design decisions inside a device to the experiences of the people who live with them.
 </p>
 
-<aside class="itinerary-story__next" id="future-iceland-questions">
-  <div>
-    <p class="itinerary-story__eyebrow">Questions carried forward</p>
-    <h2>What I’ll look for in future visits:</h2>
-  </div>
-  <ul>
-    <li>When clinicians choose between non-microprocessor and microprocessor-controlled knees, what user needs most strongly influence that decision?</li>
-    <li>When a new prosthetic technology performs well technically, what determines whether it is actually available to the people who could benefit from it?</li>
-  </ul>
-</aside>
-
 <footer class="itinerary-story__footer">
   <div>
     <p class="itinerary-story__eyebrow">The journey continues</p>
