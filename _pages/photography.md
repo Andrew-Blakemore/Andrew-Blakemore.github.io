@@ -75,7 +75,7 @@ author_profile: false
   <aside class="photography-instagram" aria-labelledby="photography-instagram-title">
     <div class="photography-instagram__content">
       <p class="photography-instagram__eyebrow">Beyond the gallery</p>
-      <h2 id="photography-instagram-title">More frames—and a little motion.</h2>
+      <h2 id="photography-instagram-title">More frames and a little motion.</h2>
       <p>
         Follow along for additional photographs, recent work, and drone
         videography that you won&rsquo;t find in this collection.
