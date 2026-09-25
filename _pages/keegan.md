@@ -23,8 +23,8 @@ author_profile: false
     </span>
   </h2>
   <p>
-    Through conversations with prosthetic users, engineers, clinicians, and
-    researchers,
+    Through conversations with prosthetic users, engineers, clinicians, researchers, and
+    advocates,
     <a
       class="keegan-editorial-intro__project-link"
       href="https://www.keegantravelingfellowship.org/andrew-blakemore"
