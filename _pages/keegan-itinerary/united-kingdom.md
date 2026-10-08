@@ -303,16 +303,133 @@ header:
       </div>
     </section>
   </div>
-  <div class="itinerary-story__visit-content" data-itinerary-visit="blesma" hidden>
-    <section class="itinerary-story__section itinerary-story__section--opening">
-      <div class="itinerary-story__opening-copy">
+   <div class="itinerary-story__visit-content" data-itinerary-visit="blesma" hidden>
+  <section class="itinerary-story__section itinerary-story__section--opening">
+    <div class="itinerary-story__opening-copy">
       <h2>A Veterans’ Perspective</h2>
       <p>
-        Write-up to follow.
-      </p>
+        I spoke with the Prosthetics Support Officer at Blesma, a charity supporting limbless veterans. His role involves helping members navigate the prosthetic services available to them and resolving problems with their care. His understanding of prosthetic provision allows him to work between veterans and limb centres. Much of that work involves listening to what someone is struggling with, communicating those needs to the people responsible for their care, and following up when the system has not delivered what they need.
+        </p>
+        <p>
+          My conversations at Dorset Orthopaedic had focused largely on what happened within a clinic. This conversation widened that view to the contracts and funding decisions surrounding an appointment, and to the advocacy sometimes needed to make those arrangements work for an individual.
+        </p>
       </div>
     </section>
-  </div>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>Communication, Contracts, and Clinical Choice</h2>
+      <p>
+        One key recurring theme of my fellowship project is the importance of communication in prosthetic care. A patient’s needs must pass between several people, and the longer that chain becomes, the more opportunities there are for something to be misunderstood or lost.
+      </p>
+      <p>
+        In some private clinics, the prosthetist, physiotherapist, and sometimes even the technician can join the same consultation. Everyone hears what the patient needs and understands their part in making it happen. This was familiar from what I had seen at Amersham, where fitting and rehabilitation happened with both clinicians watching the same movements and responding to the same feedback.
+      </p>
+      <p>
+        Larger caseloads and the organization of some NHS teams can make that coordination much harder. Professionals may work in separate departments, with physiotherapists based on another floor or sometimes even in another building altogether. Even when everyone is working toward the same goal, the patient’s care can become divided into separate appointments and separate conversations.
+      </p>
+      <p>
+        England has 35 specialist NHS prosthetic centres, but the experience can vary considerably between them. A national service specification determines what services are expected to provide. The local arrangements for delivering that care, however, depend on the NHS organization and, where a private provider is involved, the contract under which that provider operates. Those contracts help regulate staffing, responsibilities, and costs.
+      </p>
+      <p>
+        A company bidding for a contract might promise to deliver the service for less money without reducing access or the care offered. One way a manufacturer-owned provider can lower its costs is by using more of its own components. A manufacturer can supply its own clinical business at a different price from the price charged to an outside practice, creating a financial incentive to keep prescriptions within its product range.
+      </p>
+      <p>
+        For instance, if an outside manufacturer’s foot cost £3,000 and the provider could supply its own for £1,500, the apparent saving would be attractive. The important question, though, is whether that alternative actually meets the patient’s needs. A lower price offers little value if that device performs poorly for the person using it. The support officer emphasized that, in many cases, a foot could be half the price because it was twice as bad.
+      </p>
+      <p>
+        This led back to freedom of prescription, another recurring topic in my project. A company’s promise to preserve clinical choice does not necessarily ensure that clinicians feel free to exercise it. My contact spoke about instances in which clinicians received calls or emails from managers questioning why they had selected another manufacturer’s component. Repeated scrutiny can become pressure to prescribe the company’s own products, even without an explicit written ban on alternatives.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>A Race to the Bottom</h2>
+      <p>
+        Competition driven too heavily by price risks becoming a “race to the bottom.” A lower contract price can look like a saving while gradually reducing the resources or flexibility available to patients. Depending on how a service is assessed, that deterioration can be difficult to see.
+      </p>
+      <p>
+        Appointment numbers are one example. Suppose a contract between an NHS limb centre and a private provider stipulates that the provider must accommodate at least 1,000 appointments per year. If 100 patients each return 10 times because their problems are not being resolved, the provider can record 1,000 appointments. That figure shows activity, but it does not show how many people have received an effective solution. While repeated visits are often a necessary part of prosthetic care and orthotic rehabilitation, an excessive number of returns due to poorly fitting components or recurring issues actually signals an inefficient use of resources and a decline in patient outcomes.
+      </p>
+      <p>
+        NHS England’s service specification does include expectations for quality and outcomes, including socket comfort. The concern is what happens when the practical emphasis falls on delivering a volume of appointments rather than on whether those appointments improve someone’s life. A busy service and an effective service are not automatically the same thing.
+      </p>
+      <p>
+        The NHS is not one organization with a single budget. Public funding moves through commissioning arrangements into individual providers and services, each managing its own financial pressures. A lower-cost contract can therefore appeal to an NHS trust trying to meet many competing needs. The difficulty lies in ensuring that reducing expenses within one budget does not leave the patient to pick up the consequences.
+      </p>
+      <p>
+        Staffing can also be influenced by similar pressures. Consider a scenario in which a contractor loses two prosthetists. This saves roughly £100,000 in annual salaries while its contract income remains unchanged. If those positions remain unfilled, the saving comes with a larger workload for the remaining team. A reduction in payroll can therefore appear financially beneficial even though the service loses experience and capacity.
+      </p>
+      <p>
+        In cases like this, prosthetists can find themselves being asked to do more with less for more people. In that environment, experienced clinicians may reach the point where they no longer want to work at a limb centre and instead transition into private care. Their departure then makes the workload harder for the colleagues who remain, creating another reason for people to leave and further perpetuating the “race to the bottom.”
+      </p>
+      <p>
+        While the NHS prosthetic care network successfully supports the vast majority of patients most of the time, these systemic pressures reveal its current vulnerabilities. The service operates admirably under standard conditions, but highly complex cases or exceptionally active patients can test the system to its limits. When these specialized needs interact with an already strained network, the resulting friction exposes the danger of a volume-driven model and shows how a “race to the bottom” detrimentally impacts patients who depend on exceptional care.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>On Veterans</h2>
+      <p>
+        Veterans who experience limb loss as a result of military service are eligible for special prosthetic funding. Conversely, a veteran whose amputation resulted from an unrelated condition would generally access prosthetic care through the usual NHS arrangements. For example, a veteran who lost a leg due to an IED blast while deployed on active duty would qualify for this specialized funding, while a veteran who lost a leg due to vascular or diabetic complications unrelated to service would not.
+      </p>
+      <p>
+        For eligible veterans in England, the limb centre can apply to the Veterans’ Prosthetics Panel for additional funding. The panel was established in 2012 to help veterans access clinically appropriate prostheses of a standard comparable to those provided during military rehabilitation. Applications come through the NHS service rather than directly from the veteran.
+      </p>
+      <p>
+        This funding can expand the range of components available while the person continues to receive care from the same NHS team. One example from our conversation involved a veteran who received a Genium X4 rather than the standard C-Leg more commonly offered through routine provision. The primary distinction is the funding available for an individual prescription, rather than a separate clinic or an automatic entitlement to a particular knee.
+      </p>
+      <p>
+        In the officer’s experience, this mechanism generally works well. The extra funding does not, however, create more appointments or give the clinical team more time. Some cases from his work involved waits of six to eight weeks to return to a limb centre, followed by another three or four months of appointments to resolve the problem. Even though eligible veterans may have the money for a great prosthesis, the service needed to make it usable can remain stretched.
+      </p>
+      <p>
+        In exceptional cases, NHS-funded care can be arranged through a private provider when repeated attempts within the existing service have not met the veteran’s needs. This offers a way forward for people spending considerable time moving back and forth through appointments without reaching a workable result.
+      </p>
+      <p>
+        One case from the officer’s work involved a veteran who had lost both legs above the knee in Afghanistan while in his early twenties. An approved package of prosthetic care cost just under £200,000. According to the officer, that decision reflected the country’s commitment to meeting the needs of someone injured through military service. His role in that case was to help turn that commitment into care the veteran could actually receive.
+      </p>
+      <p>
+        Such private referrals are rare. The officer recalled only a couple dozen over his six years on the job. By his account, NHS services had managed the needs of the vast majority of veterans. However, this additional route still mattered significantly because it gave those with particularly difficult circumstances somewhere else to turn.
+      </p>
+      <p>
+        Our conversation also covered access to military rehabilitation services. During the conflicts in Iraq and Afghanistan, the Ministry of Defence’s prosthetic teams had developed extensive experience treating complex injuries and fitting difficult sockets. But as the number of newly injured personnel fell, there were fewer opportunities to maintain that experience through regular clinical practice.
+      </p>
+      <p>
+        This left two services with complementary needs: NHS centres had some veterans whose complex care was proving difficult to accommodate, while the military service had capacity and a reason to continue seeing those kinds of patients. According to the officer, Blesma brought representatives from the NHS and the Ministry of Defence together in London to discuss an arrangement that could help both.
+      </p>
+      <p>
+        The resulting approach allowed selected veterans to return to military specialists through the Complex Prosthetics Assessment Clinic. The service opened to veterans at Headley Court in 2016 and later moved with the Defence Medical Rehabilitation Centre to Stanford Hall. It gave NHS teams a route to additional expertise while helping military clinicians maintain their experience with complex prosthetic cases.
+      </p>
+      <p>
+        Access was deliberately focused. When the arrangement was introduced, Blesma described eligibility as including a War Pension or Armed Forces Compensation Scheme award for a service-attributable amputation, together with previous treatment as a prosthetics patient at Headley Court since 2006, when its in-house prosthetics service began. Referral came from the NHS limb centre and depended on the complexity of the person’s needs and the difficulties they were experiencing.
+      </p>
+      <p>
+        Obtaining a referral to either private or military prosthetic services from an NHS prosthetist can require care in how the conversation is framed. In many cases, a referral request can reflect the excessive time and resources that a case requires rather than a lack of clinical skill. A prosthetist may have the expertise to help but lack enough time in a crowded schedule to resolve a particularly difficult problem.
+      </p>
+      <p>
+        Acknowledging that distinction is part of the officer’s advocacy work. Seeking additional support can give the veteran a better chance of progress while reducing pressure on a team with many other patients to see. His role involves helping those discussions move toward a referral and the relevant funding approval.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>Raising Awareness</h2>
+      <p>
+        Raising the profile of prosthetics and orthotics is an important part of Blesma’s work. These services connect with many other areas of healthcare, including diabetes care, trauma surgery, rehabilitation, and chronic care management. Their contribution continues well beyond the initial treatment of an injury, affecting whether someone can move comfortably, return to work, and remain independent.
+      </p>
+      <p>
+         Within the NHS, prosthetics and orthotics have historically been considered 'Cinderella services' because they are chronically underfunded, widely misunderstood, and frequently relegated to a low priority compared to high-profile fields like oncology or cardiology. This neglect is both financial and physical. Many limb centres are tucked away in hospital basements, far from the spotlight and funding given to major specialties.
+      </p>
+      <p>
+        To combat this perspective, Blesma has sought to raise the profile of prosthetics services at multiple levels by working with several audiences. Within the profession, this involves helping clinicians feel that their skills are recognized and valued. At the government level, it involves arguing for the importance of prosthetic care and the resources required to provide it well. With the public, it involves making the work more visible so that more people might consider entering the profession.
+      </p>
+    </div>
+  </section>
+</div>
   <div class="itinerary-story__visit-content" data-itinerary-visit="va" hidden>
     <section class="itinerary-story__section itinerary-story__section--opening">
       <div class="itinerary-story__opening-copy">
