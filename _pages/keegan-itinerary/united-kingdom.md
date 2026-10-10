@@ -20,7 +20,7 @@ header:
     </aside>
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="United Kingdom experiences" data-itinerary-visit-nav>
       <a class="is-active" href="#amersham-visit">Amersham Clinic</a>
-      <a href="#physiotherapy-visit">Glasgow Conversation</a>
+      <a href="#glasgow-visit">Glasgow Conversation</a>
       <a href="#blesma-visit">Blesma</a>
       <a href="#va-visit">V&amp;A</a>
     </nav>
@@ -33,7 +33,7 @@ header:
           <div><dt>Date visited</dt><dd>September 1, 2026</dd></div>
         </dl>
       </section>
-      <section class="itinerary-story__visit-profile" id="physiotherapy-visit" data-itinerary-visit="physiotherapy" hidden>
+      <section class="itinerary-story__visit-profile" id="glasgow-visit" data-itinerary-visit="glasgow" hidden>
         <dl class="itinerary-story__facts">
           <div><dt>Organization</dt><dd>Dorset Orthopaedic</dd></div>
           <div><dt>City</dt><dd>Glasgow</dd></div>
