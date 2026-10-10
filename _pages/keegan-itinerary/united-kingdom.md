@@ -36,7 +36,7 @@ header:
       <section class="itinerary-story__visit-profile" id="glasgow-visit" data-itinerary-visit="glasgow" hidden>
         <dl class="itinerary-story__facts">
           <div><dt>Organization</dt><dd>Dorset Orthopaedic</dd></div>
-          <div><dt>City</dt><dd>Virtual (based in Glasgow)</dd></div>
+          <div><dt>City</dt><dd>Glasgow (virtual conversation)</dd></div>
           <div><dt>Scope</dt><dd>Clinical care &amp; osseointegration rehabilitation</dd></div>
           <div><dt>Date called</dt><dd>September 16, 2026</dd></div>
         </dl>
@@ -44,7 +44,7 @@ header:
       <section class="itinerary-story__visit-profile" id="blesma-visit" data-itinerary-visit="blesma" hidden>
         <dl class="itinerary-story__facts">
           <div><dt>Organization</dt><dd>Blesma</dd></div>
-          <div><dt>City</dt><dd>Virtual (based in Chelmsford</dd></div>
+          <div><dt>City</dt><dd>Chelmsford (virtual conversation)</dd></div>
           <div><dt>Scope</dt><dd>Veterans’ perspectives</dd></div>
           <div><dt>Date called</dt><dd>September 21, 2026</dd></div>
         </dl>
