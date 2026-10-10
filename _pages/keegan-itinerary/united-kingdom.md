@@ -36,7 +36,7 @@ header:
       <section class="itinerary-story__visit-profile" id="glasgow-visit" data-itinerary-visit="glasgow" hidden>
         <dl class="itinerary-story__facts">
           <div><dt>Organization</dt><dd>Dorset Orthopaedic</dd></div>
-          <div><dt>City</dt><dd>Glasgow</dd></div>
+          <div><dt>City</dt><dd>Virtual (based in Glasgow)</dd></div>
           <div><dt>Scope</dt><dd>Clinical care &amp; osseointegration rehabilitation</dd></div>
           <div><dt>Date called</dt><dd>September 16, 2026</dd></div>
         </dl>
@@ -44,7 +44,7 @@ header:
       <section class="itinerary-story__visit-profile" id="blesma-visit" data-itinerary-visit="blesma" hidden>
         <dl class="itinerary-story__facts">
           <div><dt>Organization</dt><dd>Blesma</dd></div>
-          <div><dt>City</dt><dd></dd></div>
+          <div><dt>City</dt><dd>Virtual (based in Chelmsford</dd></div>
           <div><dt>Scope</dt><dd>Veterans’ perspectives</dd></div>
           <div><dt>Date called</dt><dd>September 21, 2026</dd></div>
         </dl>
@@ -434,7 +434,7 @@ header:
     <div class="itinerary-story__opening-copy">
       <h2>A Veterans’ Perspective</h2>
       <p>
-        I spoke with the Prosthetics Support Officer at Blesma, a charity supporting limbless veterans. His role involves helping members navigate the prosthetic services available to them and resolving problems with their care. His understanding of prosthetic provision allows him to work between veterans and limb centres. Much of that work involves listening to what someone is struggling with, communicating those needs to the people responsible for their care, and following up when the system has not delivered what they need.
+        I arranged a Teams call with the Prosthetics Support Officer at Blesma, a charity supporting limbless veterans. His role involves helping members navigate the prosthetic services available to them and resolving problems with their care. His understanding of prosthetic provision allows him to work between veterans and limb centres. Much of that work involves listening to what someone is struggling with, communicating those needs to the people responsible for their care, and following up when the system has not delivered what they need.
         </p>
         <p>
           My conversations at Dorset Orthopaedic had focused largely on what happened within a clinic. This conversation widened that view to the contracts and funding decisions surrounding an appointment, and to the advocacy sometimes needed to make those arrangements work for an individual.
