@@ -46,7 +46,7 @@ header:
           <div><dt>Organization</dt><dd>Blesma</dd></div>
           <div><dt>City</dt><dd></dd></div>
           <div><dt>Scope</dt><dd>Veterans’ perspectives</dd></div>
-          <div><dt>Date called</dt><dd>September 21, 2026 (scheduled)</dd></div>
+          <div><dt>Date called</dt><dd>September 21, 2026</dd></div>
         </dl>
       </section>
       <section class="itinerary-story__visit-profile" id="va-visit" data-itinerary-visit="va" hidden>
