@@ -293,16 +293,142 @@ header:
       </div>
     </section>
   </div>
-  <div class="itinerary-story__visit-content" data-itinerary-visit="physiotherapy" hidden>
-    <section class="itinerary-story__section itinerary-story__section--opening">
-      <div class="itinerary-story__opening-copy">
-      <h2>Glasgow Conversation</h2>
+  <div class="itinerary-story__visit-content" data-itinerary-visit="glasgow" hidden>
+  <section class="itinerary-story__section itinerary-story__section--opening">
+    <div class="itinerary-story__opening-copy">
+      <h2>A Scottish Perspective on Prosthetic Care</h2>
       <p>
-        Write-up to follow. Teams conversation with a Dorset physiotherapist and prosthetist about clinical care and osseointegration rehabilitation.
+        I arranged a Teams call with a physiotherapist and a prosthetist at Dorset Orthopaedic’s clinic near Glasgow. Both had worked in the NHS limb centre system before moving into private practice. Our conversation covered the organization of prosthetic care in Scotland, the opportunities and limitations of osseointegration, and some of the everyday problems that new technology still needs to solve.
       </p>
-      </div>
-    </section>
-  </div>
+      <p>
+        The Glasgow clinic is smaller than the Amersham clinic I had visited. It is one of Dorset’s newest clinics, having opened about three years before our call. Unlike Amersham, the Glasgow clinic does not have full in-house fabrication capabilities because it is a smaller facility.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>The Scottish NHS</h2>
+      <p>
+        Private prosthetic care in Scotland is broadly similar to private care in England, but the public systems have an important structural difference. In Scotland, NHS prosthetic services are delivered in-house, with clinicians employed directly by the NHS. Many English limb centres instead contract private companies to provide some or all of their prosthetic services. In those centres, colleagues working alongside one another may have different employers. For example, a physiotherapist might be employed by the NHS while the prosthetist works for the contractor.
+      </p>
+      <p>
+        Direct NHS employment changes the pressures surrounding a prescription. Clinicians still have to work within public budgets and funding criteria, but they are not also working toward a private contractor’s commercial targets. This creates a different relationship between the organization funding the care, the clinician selecting the components, and the manufacturers supplying them.
+      </p>
+      <p>
+        Both clinicians I spoke with preferred an arrangement in which the whole team was employed by the NHS. They valued the independence this could provide when selecting components and viewed NHS pay and employment conditions favorably compared with some contracted services. However, they also acknowledged a disadvantage. In their experience, addressing persistent performance problems could take considerably longer within NHS employment procedures than within a private contractor. Their preference for the in-house model came with an awareness of its limitations.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>Space for Individual Care</h2>
+      <p>
+        One of the clearest differences between their previous NHS roles and private practice was the amount of time available for each patient. In a busy NHS clinic, a prosthetist often manages three or four overlapping appointments at once. This constant switching can turn the day into a form of clinical firefighting, where their attention is perpetually pulled toward the next immediate crisis rather than proactive care.
+      </p>
+      <p>
+        This leaves limited uninterrupted time to work through an issue carefully. A clinician might recognize that a fit or movement could be improved but have little opportunity to keep observing and adjusting. At the Glasgow clinic, appointments are generally one-to-one, allowing the clinicians to stay with the person and concentrate on the problem in front of them.
+      </p>
+      <p>
+        That time also allows rehabilitation to extend beyond the clinic. One woman with a transfemoral amputation was able to work with the team at a running track, giving them an opportunity to assess her prosthesis in the setting where she wanted to use it. Accompanying someone for this kind of session would have been difficult to accommodate in their previous NHS roles.
+      </p>
+      <p>
+        I also asked how the physiotherapist and prosthetist worked together when a patient was not in the room. Their collaboration includes discussing fees for reports and visiting case managers or professional contacts together. At other times, their responsibilities separate naturally. The physiotherapist might spend several hours walking with a patient while the prosthetist remains available at the clinic.
+      </p>
+      <p>
+        Their working relationship seemed comfortable and open. Each understood the boundaries of their expertise and was willing to acknowledge limitations or hear feedback from the other. Sharing a building made collaboration easier, but the quality of that collaboration also depended on being able to question an approach and recognize when the other person was better placed to help.
+      </p>
+      <p>
+        Private practice also brings commercial expectations. Both clinicians have sales targets and can receive bonuses for reaching them. Additional physiotherapy can be charged for, making the amount of rehabilitation provided both a clinical and a business consideration. As I spoke with the prosthetist, however, he indicated that the target was not his main motivation. He wanted patients to be able to take part in the things they enjoy, like running or going to concerts.
+      </p>
+      <p>
+        This reminded me of the link between reimbursement and prescribing, a recurring theme in my project discussions. In the United States, L-codes identify prosthetic components and features for billing, and the reimbursement attached to a prescription can affect a provider’s financial incentives. The UK practice does not operate through that US billing framework, and the clinicians’ bonuses are not tied to L-codes. Commercial pressure still exists, but a general revenue target is different from an incentive tied to the reimbursement available for a particular component or feature that may not be so beneficial for a patient.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>Osseointegration and Everyday Life</h2>
+      <p>
+        The physiotherapist had considerable experience with rehabilitation following osseointegration, a procedure that allows a prosthesis to attach to an implant anchored in the residual bone rather than being held on by a conventional socket. I was particularly interested in how this technique impacts recovery, both for the patient and for the clinicians helping them return to everyday activities.
+      </p>
+      <p>
+        Many people pursue osseointegration for practical reasons. One patient’s socket would repeatedly lose its hold after only a few minutes of walking because of excessive sweating. Following osseointegration, he went on to complete a 15-mile charity walk. For many people who choose to undergo this procedure, the appeal lies in avoiding the hassle of repeatedly removing and refitting a socket throughout the day.
+      </p>
+      <p>
+        However, eliminating the socket introduces a different set of responsibilities because the new connection must pass directly through the skin. This permanent opening requires ongoing care and may produce drainage that needs to be managed with dressings. Because of this, some people find the idea of an implant extending through their skin difficult to stomach, even if the procedure would resolve their socket-related issues.
+      </p>
+      <p>
+        Anyone considering osseointegration must carefully consider their activity goals. Because high-impact activities place heavy loads on the implant and surrounding bone, they increase the risk of bruising or fractures. The risk of infection at the skin opening must also be carefully managed. Ultimately, specific restrictions depend on the individual's implant system and their surgical team’s guidance. Anyone considering the procedure should fully understand how these limitations might affect the activities they hope to enjoy.
+      </p>
+      <p>
+        The prosthetist’s opinion of osseointegration had changed over time. Five years before our conversation, he would have been much more likely to advise against it because of the risks. By the time we spoke, he considered it a reasonable option for certain patients, especially those with transfemoral amputations. In some cases, he believed it was clearly the right choice.
+      </p>
+      <p>
+        He also saw considerable potential in upper-limb applications. With upper-limb prosthetics, osseointegration intersects with implanted electrodes and other improved ways of obtaining signals to control a prosthesis. While a more secure physical connection and a more reliable control interface address different challenges, their development could certainly complement one another.
+      </p>
+      <p>
+        While the initial surgery for osseointegration is expensive, its long-term costs often match socket-based care. Although osseointegration eliminates the need for routine socket replacements every five years, it introduces other ongoing expenses. External components and connectors still require regular maintenance, and implant revisions remain a separate, unpredictable factor. Ultimately, both approaches can incur significant long-term clinical and material costs.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>Rehabilitation After Osseointegration</h2>
+      <p>
+        I asked how rehabilitation after osseointegration differed from rehabilitation with a conventional socket. Many of the exercises and goals remain similar, but the early stages of osseointegration rehabilitation require particular attention to healing and to the amount of force passing through the implant.
+      </p>
+      <p>
+        Patients begin with a prescribed loading program before progressing to unrestricted walking. A scale can be used to measure the force applied through a training attachment connected to the implant. Pressing the attachment onto the scale gives the patient feedback on how much weight they are applying, allowing their clinician to increase the load in a controlled way as healing progresses. The duration and progression depend on the surgical protocol and the individual patient.
+      </p>
+      <p>
+        Walking is introduced gradually, with support tapering off as the patient gains strength and control. Patients typically start with two crutches or a walker. For those using a microprocessor knee, initial settings can be restricted to assist rehabilitation, then unlocked as ability and confidence grow. The ultimate goal is to build independence safely without overloading the healing limb.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>Innovation and Practical Challenges</h2>
+      <p>
+        Our discussion shifted toward digital scanning and 3D printing. As I've mentioned in previous write-ups, 3D printing has massive implications for increasing accessibility in the prosthetics field. Because a single trip to the clinic could take six hours or more for patients living in rural areas, an appointment just to take a cast can require a full day on the road. These patients then have to repeat that grueling journey weeks later once the socket is ready to try. The possibility of shortening that process makes 3D printing particularly appealing to a prosthetist. Scanning, printing, and fitting a socket within a shorter time frame could reduce both travel and the time spent waiting between stages of care. Even though the clinic in Glasgow does not currently 3D print its sockets, this technology is steadily evolving into a more practical approach for everyday prosthetic care.
+      </p>
+      <p>
+        I asked the prosthetist and physiotherapist about the biggest challenges in prosthetic care. The physiotherapist’s answer was simpler than I expected and focused on something I had not anticipated: sweat.
+      </p>
+      <p>
+        Even a liner costing upwards of £1,000 can leave a patient covered in sweat, which inhibits the suspension of the prosthesis, allowing it to slowly slip off. The earlier example of the man whose socket repeatedly lost its hold shows how severely this can limit someone’s mobility.
+      </p>
+      <p>
+        If the interface between the body and prosthesis is unsound, the capabilities of the knee or foot become much less reliable. A liner that manages moisture effectively and remains secure could make an enormous difference to everyday use.
+      </p>
+      <p>
+        Can moisture be pulled away from the skin and collected somewhere, or allowed to escape through a more breathable material? Addressing these challenges requires exploring multiple avenues, from advanced moisture-wicking materials to active ventilation systems. Developing these solutions is especially critical for individuals living in extremely hot and humid climates, where heat-induced suspension failure poses a much greater daily obstacle.
+      </p>
+    </div>
+  </section>
+
+  <section class="itinerary-story__section">
+    <div>
+      <h2>Building Care That Can Be Sustained</h2>
+      <p>
+        Our discussion then turned to international access to prosthetic and orthotic care, focusing specifically on the need for affordable silicone liners and broader local services capable of supporting chronic care. Providing a prosthetic device is only the first step. True care requires a lasting local infrastructure to fit, maintain, repair, and adapt the device as the individual's needs change over time.
+      </p>
+      <p>
+        Both clinicians emphasized the need to develop a sustainable local workforce and industry in developing regions. Currently, many developing communities rely solely on prosthetic donations from countries with more established prosthetic care. While these donations meet immediate, urgent needs, patients still require adjustments, replacement parts, new sockets, and ongoing rehabilitation long after the initial fitting. Only a permanent local service can keep these prostheses functional and give patients a reliable place to turn when problems arise.
+      </p>
+      <p>
+        Digital fabrication could help address some of these gaps. Reducing the time and travel between assessment and fitting would be valuable wherever services are difficult to reach. However, a printed socket is only effective when integrated into a comprehensive care model that includes clinical assessment, fitting, rehabilitation, and long-term follow-up. Streamlining production is just one piece of building truly accessible care.
+      </p>
+      <p>
+        I left our conversation thinking about the dual paths of progress in prosthetics. While high-tech medical breakthroughs grab headlines, everyday practical improvements can be just as transformative for daily usability. These developments target entirely different challenges, raising the question of how we should best balance advanced engineering with the immediate, practical needs of the user.
+      </p>
+    </div>
+  </section>
+</div>
    <div class="itinerary-story__visit-content" data-itinerary-visit="blesma" hidden>
   <section class="itinerary-story__section itinerary-story__section--opening">
     <div class="itinerary-story__opening-copy">
