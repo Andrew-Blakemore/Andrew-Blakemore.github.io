@@ -32,6 +32,9 @@ author_profile: false
     documents how these devices impact everyday life
     in diverse communities around the world.
   </p>
+  <p>
+    But this year is about more than a single project. Alongside my research, I am documenting experiences that take me beyond the world of prosthetics—from teaching and volunteering to working alongside people in entirely different settings. These experiences offer another way to understand the places I visit and the people who call them home.
+  </p>
 </section>
 
 <div class="keegan-filter-wrap">
