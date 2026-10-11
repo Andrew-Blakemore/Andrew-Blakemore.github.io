@@ -128,7 +128,7 @@ author_profile: false
       lon: 13.405,
       url: "{{ '/keegan-traveling-fellowship/germany/' | relative_url }}",
       link_enabled: true,
-      summary: "September 8 – TBD, 2026",
+      summary: "September 8 – September 26, 2026",
       route: true,
       current: false
     },
@@ -140,7 +140,7 @@ author_profile: false
       lon: 21.9990,
       url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
       link_enabled: false,
-      summary: "TBD",
+      summary: "September 26 - October 3, 2026",
       // Story examples are hidden until their writeup pages are published.
       experiences: [
         {
@@ -162,7 +162,7 @@ author_profile: false
       lon: 28.9784,
       url: "{{ '/keegan-itinerary/istanbul/' | relative_url }}",
       link_enabled: false,
-      summary: "TBD",
+      summary: "October 3 – October 25, 2026",
       experiences: [
         {
           title: "Working on an olive farm",
@@ -183,7 +183,7 @@ author_profile: false
       lon: -7.5898,
       url: "{{ '/keegan-itinerary/casablanca/' | relative_url }}",
       link_enabled: false,
-      summary: "TBD",
+      summary: "October 25 – TBD, 2026",
       route: true,
       current: false
     },
@@ -231,7 +231,7 @@ author_profile: false
       lon: 36.8219,
       url: "{{ '/keegan-itinerary/kenya/' | relative_url }}",
       link_enabled: false,
-      summary: "TBD",
+      summary: "TBD – February 16, 2027",
       route: true,
       current: false
     }
