@@ -8,4 +8,5 @@ header:
   image: /assets/img/keegan/turkey/datça-hero.webp
 ---
 
-This page will be updated following my visit to Istanbul, where I'll ... .
+
+
