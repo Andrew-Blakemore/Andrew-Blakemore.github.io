@@ -27,6 +27,7 @@ header:
       <img src="{{ '/assets/img/keegan/turkey/vineyard-at-sunset.webp' | relative_url }}" alt="Rows of grapevines beneath a sunset sky, with wooded hills surrounding the farm." width="1536" height="1152" loading="lazy" decoding="async">
       <figcaption>Sunset over the vineyard. A pretty good place to end a long journey.</figcaption>
     </figure>
+    <br>
     <p>The ecofarm was tucked into a valley, with vineyards, fruit trees, and bungalows embedded into a working farm. It grew grapes, olives, almonds, lemons, and mandarins commercially, alongside a sprawling kitchen garden full of tomatoes, cucumbers, peppers, and herbs.</p>
   </section>
 
@@ -40,6 +41,7 @@ header:
       </video>
       <figcaption>Bringing the olives down, with sheets underneath to catch the harvest.</figcaption>
     </figure>
+    <br>
     <p>Harvesting was only part of the job. Throughout the harvest, we also processed the olives into oil, and I helped assemble, operate, and clean the machinery. The olives moved from the grove into a very different setting, with conveyors and processing equipment taking over where our harvesting tools had left off.</p>
     <p>This part appealed to the engineer in me. I was getting to work with the machines as well as see what came out of them. And, of course, making oil also meant cleaning up afterward. That belongs in the story too, even if it is less likely to make it onto the label of a bottle.</p>
     <figure class="itinerary-story__body-copy">
@@ -49,11 +51,13 @@ header:
       </video>
       <figcaption>From the grove to the machinery, another part of the journey toward olive oil.</figcaption>
     </figure>
+    <br>
     <p>During processing, I learned more about how the timing of the harvest shapes the oil. Olives picked early, while still green, tend to produce a bold, grassy oil with some bitterness and a peppery kick. They generally yield less oil, but it is often richer in the natural antioxidant compounds that help preserve its freshness. As olives ripen, turning purple and eventually almost black, they yield more oil with a milder, rounder flavor, sometimes with buttery notes.</p>
     <figure class="itinerary-story__body-copy">
       <img src="{{ '/assets/img/keegan/turkey/olives-in-hand.webp' | relative_url }}" alt="Three green, mottled purple, and dark olives resting in an open hand above a bin of harvested olives." width="1536" height="1152" loading="lazy" decoding="async">
       <figcaption>A handful of the harvest, with plenty more waiting behind it.</figcaption>
     </figure>
+    <br>
     <p>Once the harvest ended, I spent a few days pruning the olive trees, clearing away some of the lower growth. After all the gathering and processing, this was a satisfying change of pace. There was something nice about being able to stand back and see the difference in a single tree.</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 1.25rem; margin: 2rem auto; max-width: 820px;">
       <figure>
