@@ -35,7 +35,7 @@ header:
     <p>My main job was bringing in the harvest. My team spread large sheets beneath the trees, then worked through the branches with the zeytin hasat makineleri, shaking and combing the olives loose so they fell onto the fabric below. From there, we gathered them up and moved on to the next tree. The idea was simple enough, but the work quickly turned grueling as we hauled the gear through steep, overgrown terrace plots.</p>
     <figure class="itinerary-story__body-copy">
       <video controls playsinline preload="metadata" aria-label="Harvesting olives onto sheets beneath the trees" style="display: block; width: 100%; max-width: 420px; max-height: 640px; border-radius: 18px; background: #18201a;">
-        <source src="{{ '/assets/videos/keegan/turkey/olive-harvest.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/assets/videos/keegan/olive-harvest.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support embedded video. <a href="{{ '/assets/videos/keegan/turkey/olive-harvest.mp4' | relative_url }}">Watch the olive harvest.</a>
       </video>
       <figcaption>Bringing the olives down, with sheets underneath to catch the harvest.</figcaption>
@@ -45,7 +45,7 @@ header:
     <figure class="itinerary-story__body-copy">
       <video controls playsinline preload="metadata" aria-label="Olives moving through the farm’s oil-processing equipment" style="display: block; width: 100%; max-height: 620px; border-radius: 18px; background: #18201a;">
         <source src="{{ '/assets/videos/keegan/turkey/olive-processing.mp4' | relative_url }}" type="video/mp4">
-        Your browser does not support embedded video. <a href="{{ '/assets/videos/keegan/turkey/olive-processing.mp4' | relative_url }}">Watch the olive processing.</a>
+        Your browser does not support embedded video. <a href="{{ '/assets/videos/keegan/olive-processing.mp4' | relative_url }}">Watch the olive processing.</a>
       </video>
       <figcaption>From the grove to the machinery, another part of the journey toward olive oil.</figcaption>
     </figure>
