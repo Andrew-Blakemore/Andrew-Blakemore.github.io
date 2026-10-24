@@ -24,7 +24,7 @@ header:
     <h2 id="finding-the-farm">A Few Connections Later</h2>
     <p>Getting there took a few more connections than the friend-of-a-friend variety. After my time in Poland, I traveled to Berlin and flew from BER to DLM, on Turkey’s southwestern coast. From there, I took a coach to Marmaris, then a dolmuş, a shared minibus, to Datça. The farm was still another 30 kilometers or so to the west-northwest. I caught a lift to the closest village then trekked the rest of the way myself. As I neared my destination, I was greeted by orderly rows of grapevines and scattered olive trees.</p>
     <figure class="itinerary-story__body-copy">
-      <img src="{{ '/assets/img/keegan/turkey/1000011412.jpg' | relative_url }}" alt="Rows of grapevines beneath a sunset sky, with wooded hills surrounding the farm." width="1536" height="1152" loading="lazy" decoding="async">
+      <img src="{{ '/assets/img/keegan/turkey/vineyard-at-sunset.webp' | relative_url }}" alt="Rows of grapevines beneath a sunset sky, with wooded hills surrounding the farm." width="1536" height="1152" loading="lazy" decoding="async">
       <figcaption>Sunset over the vineyard. A pretty good place to end a long journey.</figcaption>
     </figure>
     <p>The ecofarm was tucked into a valley, with vineyards, fruit trees, and bungalows embedded into a working farm. It grew grapes, olives, almonds, lemons, and mandarins commercially, alongside a sprawling kitchen garden full of tomatoes, cucumbers, peppers, and herbs.</p>
@@ -51,17 +51,17 @@ header:
     </figure>
     <p>During processing, I learned more about how the timing of the harvest shapes the oil. Olives picked early, while still green, tend to produce a bold, grassy oil with some bitterness and a peppery kick. They generally yield less oil, but it is often richer in the natural antioxidant compounds that help preserve its freshness. As olives ripen, turning purple and eventually almost black, they yield more oil with a milder, rounder flavor, sometimes with buttery notes.</p>
     <figure class="itinerary-story__body-copy">
-      <img src="{{ '/assets/img/keegan/turkey/1000011185.jpg' | relative_url }}" alt="Three green, mottled purple, and dark olives resting in an open hand above a bin of harvested olives." width="1536" height="1152" loading="lazy" decoding="async">
+      <img src="{{ '/assets/img/keegan/turkey/olives-in-hand.webp' | relative_url }}" alt="Three green, mottled purple, and dark olives resting in an open hand above a bin of harvested olives." width="1536" height="1152" loading="lazy" decoding="async">
       <figcaption>A handful of the harvest, with plenty more waiting behind it.</figcaption>
     </figure>
     <p>Once the harvest ended, I spent a few days pruning the olive trees, clearing away some of the lower growth. After all the gathering and processing, this was a satisfying change of pace. There was something nice about being able to stand back and see the difference in a single tree.</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 1.25rem; margin: 2rem auto; max-width: 820px;">
       <figure>
-        <img src="{{ '/assets/img/keegan/turkey/1000011294.jpg' | relative_url }}" alt="An olive tree before pruning, with dense leafy growth around the lower trunk." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
+        <img src="{{ '/assets/img/keegan/turkey/olive-tree-before-pruning.webp' | relative_url }}" alt="An olive tree before pruning, with dense leafy growth around the lower trunk." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
         <figcaption>Before pruning.</figcaption>
       </figure>
       <figure>
-        <img src="{{ '/assets/img/keegan/turkey/1000011299.jpg' | relative_url }}" alt="The olive tree after pruning, with its lower trunks exposed and cut branches on the ground." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
+        <img src="{{ '/assets/img/keegan/turkey/olive-tree-after-pruning.webp' | relative_url }}" alt="The olive tree after pruning, with its lower trunks exposed and cut branches on the ground." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
         <figcaption>After pruning.</figcaption>
       </figure>
     </div>
