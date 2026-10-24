@@ -8,20 +8,28 @@ header:
   image: /assets/img/keegan/turkey/datça-hero.webp
 ---
 
-<div class="itinerary-story itinerary-story--field-report">
+<div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
   <header class="itinerary-story__intro">
     <p class="itinerary-story__kicker">Turkey &middot; Beyond the Project</p>
-    <h2>An Olive Farm in Southwestern Turkey</h2>
-    <p class="itinerary-story__dek">I can’t recall exactly how the discussion went. A friend of a friend mentioned an opportunity, and somewhere between that conversation and my arrival in Turkey, I signed myself up for the olive harvest. It was a true roll of the dice, yet far too intriguing an experience to pass up. And that is how I ended up spending my first two weeks in the country working on a farm on the Datça peninsula.</p>
-    <dl class="itinerary-story__facts">
-      <div><dt>Place</dt><dd>Near Datça, Turkey</dd></div>
-      <div><dt>Experience</dt><dd>Life on an olive farm</dd></div>
-      <div><dt>Time on the farm</dt><dd>Two weeks</dd></div>
-    </dl>
+    <h2>In Turkey</h2>
+    <p class="itinerary-story__dek">I can’t recall exactly how the discussion went. A friend of a friend mentioned an opportunity they'd heard of, and somewhere between that conversation and my arrival in Turkey, I signed myself up for an olive harvest. I normally try to avoid rolling the dice like this, but this was far too intriguing of an experience to pass up. That is how I ended up spending my first two weeks in the country working on a farm on the Datça peninsula.</p>
+    <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Turkey experiences" data-itinerary-visit-nav>
+      <a class="is-active" href="#knidia-visit">Knidia</a>
+    </nav>
+    <div class="itinerary-story__visit-profiles" data-itinerary-visit-group>
+      <section class="itinerary-story__visit-profile" id="knidia-visit" data-itinerary-visit="knidia">
+        <dl class="itinerary-story__facts">
+          <div><dt>Host</dt><dd>Knidia Ecofarm</dd></div>
+          <div><dt>City</dt><dd>Near Datça</dd></div>
+          <div><dt>Activity</dt><dd>Olive Harvest</dd></div>
+          <div><dt>Duration</dt><dd>Two weeks</dd></div>
+        </dl>
+      </section>
+    </div>
   </header>
 
   <section class="itinerary-story__section itinerary-story__section--opening" aria-labelledby="finding-the-farm">
-    <h2 id="finding-the-farm">A Few Connections Later</h2>
+    <h2 id="finding-the-farm">An Olive Farm in Southwestern Turkey</h2>
     <p>Getting there took a few more connections than the friend-of-a-friend variety. After my time in Poland, I traveled to Berlin and flew from BER to DLM, on Turkey’s southwestern coast. From there, I took a coach to Marmaris, then a dolmuş, a shared minibus, to Datça. The farm was still another 30 kilometers or so to the west-northwest. I caught a lift to the closest village then trekked the rest of the way myself. As I neared my destination, I was greeted by orderly rows of grapevines and scattered olive trees.</p>
     <figure class="itinerary-story__body-copy">
       <img src="{{ '/assets/img/keegan/turkey/vineyard-at-sunset.webp' | relative_url }}" alt="Rows of grapevines beneath a sunset sky, with wooded hills surrounding the farm." width="1536" height="1152" loading="lazy" decoding="async">
