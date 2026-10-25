@@ -158,10 +158,10 @@ author_profile: false
       name: "Turkey",
       country: "tr",
       leg: "europe",
-      lat: 41.0082,
-      lon: 28.9784,
-      url: "{{ '/keegan-itinerary/istanbul/' | relative_url }}",
-      link_enabled: false,
+      lat: 36.7118,
+      lon: 27.3912,
+      url: "{{ '/keegan-itinerary/turkey.md' | relative_url }}",
+      link_enabled: true,
       summary: "October 3 – October 25, 2026",
       experiences: [
         {
@@ -169,7 +169,7 @@ author_profile: false
           place: "Near Datça",
           type: "beyond",
           url: "{{ '/keegan-traveling-fellowship/turkey-olive-farm/' | relative_url }}",
-          published: false
+          published: true
         }
       ],
       route: true,
