@@ -11,7 +11,7 @@ header:
 <div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
   <header class="itinerary-story__intro">
     <p class="itinerary-story__kicker">Turkey &middot; Beyond the Project</p>
-    <h2>When in Turkey</h2>
+    <h2>Following a Lead in Turkey</h2>
     <p class="itinerary-story__dek">I can’t recall exactly how the discussion went down. A friend of a friend mentioned an opportunity they knew of, and somewhere between that conversation and my arrival in Turkey, I signed myself up for an olive harvest. I typically avoid rolling the dice like that when it comes to living accommodations, but the experience was far too intriguing to pass up. That is how I ended up spending my first two weeks in the country working on a farm on the Datça peninsula.</p>
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Turkey experiences" data-itinerary-visit-nav>
       <a class="is-active" href="#knidia-visit">Knidia</a>
