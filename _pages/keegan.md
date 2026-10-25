@@ -144,7 +144,7 @@ author_profile: false
       // Story examples are hidden until their writeup pages are published.
       experiences: [
         {
-          title: "Tutoring at an English immersion camp",
+          title: "Tutoring at an English immersion program",
           place: "Poznań",
           type: "beyond",
           url: "{{ '/keegan-traveling-fellowship/poland-english-camp/' | relative_url }}",
@@ -167,7 +167,7 @@ author_profile: false
         {
           title: "Working on an olive farm",
           type: "beyond",
-          url: "{{ '/keegan-traveling-fellowship/turkey-olive-farm/' | relative_url }}",
+          url: "{{ '/keegan-traveling-fellowship/turkey/' | relative_url }}",
           published: true
         }
       ],
