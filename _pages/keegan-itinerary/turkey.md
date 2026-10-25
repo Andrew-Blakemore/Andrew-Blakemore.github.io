@@ -43,7 +43,7 @@ header:
         <source src="{{ '/assets/videos/keegan/olive-harvest.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support embedded video. <a href="{{ '/assets/videos/keegan/turkey/olive-harvest.mp4' | relative_url }}">Watch the olive harvest.</a>
       </video>
-      <figcaption>Bringing the olives down, with sheets underneath to catch the harvest.</figcaption>
+      <figcaption>Bringing the olives down, with sheets underneath to catch the harvest</figcaption>
     </figure>
     <br>
     <p>But this was only part of the job. Throughout the harvest, we also processed the olives into oil, and I helped assemble, operate, and clean the machinery.</p>
@@ -52,7 +52,7 @@ header:
         <source src="{{ '/assets/videos/keegan/olive-processing.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support embedded video. <a href="{{ '/assets/videos/keegan/olive-processing.mp4' | relative_url }}">Watch the olive processing.</a>
       </video>
-      <figcaption>From the grove to the machinery, another part of the journey toward olive oil.</figcaption>
+      <figcaption>From the grove to the machinery, another part of the journey toward olive oil</figcaption>
     </figure>
     <br>
     <p>During processing, I learned more about how the timing of the harvest shapes the oil. Olives picked early, while still green, tend to produce a bold, grassy oil with some bitterness and a peppery kick. They generally yield less oil, but it is often richer in the natural antioxidant compounds that help preserve its freshness. As olives ripen, turning purple and eventually almost black, they yield more oil with a milder, rounder flavor, sometimes with buttery notes.</p>
@@ -65,11 +65,11 @@ header:
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 1.25rem; margin: 2rem auto; max-width: 820px;">
       <figure>
         <img src="{{ '/assets/img/keegan/turkey/olive-tree-before-pruning.webp' | relative_url }}" alt="An olive tree before pruning, with dense leafy growth around the lower trunk." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
-        <figcaption>Before pruning.</figcaption>
+        <figcaption>Before pruning</figcaption>
       </figure>
       <figure>
         <img src="{{ '/assets/img/keegan/turkey/olive-tree-after-pruning.webp' | relative_url }}" alt="The olive tree after pruning, with its lower trunks exposed and cut branches on the ground." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
-        <figcaption>After pruning.</figcaption>
+        <figcaption>After pruning</figcaption>
       </figure>
     </div>
     <p>Two weeks hardly made me an olive farmer, but they gave me a much more personal connection to something I had known very little about. I'm grateful I stayed long enough to take part in multiple facets of the experience, from bringing down the fruit to working with the processing equipment and tending the trees afterward.</p>
@@ -77,13 +77,19 @@ header:
 
   <section class="itinerary-story__section" aria-labelledby="istanbul">
     <h2 id="istanbul">From Olive Groves to the Big City</h2>
-    <p>After leaving the farm, I headed to Istanbul for a few days with some of the other workers. The harvest had brought us together, and we weren’t quite ready to go our separate ways. Our time in the city included an outing I would not have thought to put on my Turkey itinerary: IKEA.</p>
+    <p>After leaving the farm, some of the other workers and I headed to Istanbul for a few days with some of the other workers. It's funny how a couple weeks of demanding physical labor can bring the unlikeliest of acquaintances together.</p>
     <figure class="itinerary-story__body-copy" style="max-width: 465px;">
-      <img src="{{ '/assets/img/keegan/turkey/galata-tower.webp' | relative_url }}" alt="Two fellow farm workers and I posing by the Galata Tower." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
-      <figcaption>In Istanbul with fellow farm workers from Arizona, USA, and Moscow, Russia. Our friend from Moscow had never been to IKEA, so we took it upon ourselves to show him around.</figcaption>
+      <img src="{{ '/assets/img/keegan/turkey/galata-tower.webp' | relative_url }}" alt="Two fellow farm workers and I posing by the Galata Tower" width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
+      <figcaption>Taken in the European side of Istanbul</figcaption>
     </figure>
     <br>
-    <p>I’m still not entirely sure how a friend-of-a-friend introduction led me from Poland to an olive grove and then to showing someone around IKEA in Istanbul. But I’m glad I followed it. Some parts of this trip take a great deal of planning. This one began with a conversation, and I like where it took me.</p>
+    <p>I would be remiss if I didn't mention our sidequest to IKEA. Our friend from Russia had never been (IKEA permanently withdrew from Russia by halting operations and selling all of its corporate assets following the country's invasion of Ukraine in 2022), so we were honor bound to introduce him to the Labrynth. Suffice it to say that he left with many souvenirs, and us with full bellies from meatballs aplenty.</p>
+    <figure class="itinerary-story__body-copy" style="max-width: 465px;">
+      <img src="{{ '/assets/img/keegan/turkey/ikea-trip.webp' | relative_url }}" alt="Two fellow farm workers posing by IKEA" width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
+      <figcaption>A sight for sore eyes</figcaption>
+    </figure>
+    <br>
+    <p>I’m still not entirely sure how a friend-of-a-friend introduction led me from Poland to an olive grove and then to showing someone around IKEA in Istanbul, but I’m glad I followed through with it. Some parts of this trip take a great deal of planning. Others do not. I'm learning through my travels to live more flexibly and take advantage of all these wacky, sporadic, spur of the moment opportunities that...</p>
   </section>
 
   <footer class="itinerary-story__footer">
