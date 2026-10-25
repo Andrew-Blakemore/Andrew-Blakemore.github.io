@@ -14,7 +14,7 @@ header:
     <h2>Following a Lead in Turkey</h2>
     <p class="itinerary-story__dek">I can’t recall exactly how the discussion went down. A friend of a friend mentioned an opportunity they knew of, and somewhere between that conversation and my arrival in Turkey, I signed myself up for an olive harvest. I typically avoid rolling the dice like that when it comes to living accommodations, but the experience was far too intriguing to pass up. That is how I ended up spending my first two weeks in the country working on a farm on the Datça peninsula.</p>
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Turkey experiences" data-itinerary-visit-nav>
-      <a class="is-active" href="#knidia-visit">Knidia</a>
+      <a class="is-active" href="#knidia-visit">Knidia Ecofarm</a>
     </nav>
     <div class="itinerary-story__visit-profiles" data-itinerary-visit-group>
       <section class="itinerary-story__visit-profile" id="knidia-visit" data-itinerary-visit="knidia">
@@ -78,11 +78,11 @@ header:
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 1.25rem; margin: 2rem auto; max-width: 820px;">
         <figure>
           <img src="{{ '/assets/img/keegan/turkey/olive-tree-before-pruning.webp' | relative_url }}" alt="An olive tree before pruning, with dense leafy growth around the lower trunk." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
-          <figcaption style="text-align: center;">Before pruning</figcaption>
+          <figcaption style="display: block; width: 100%; text-align: center;">Before pruning</figcaption>
         </figure>
         <figure>
           <img src="{{ '/assets/img/keegan/turkey/olive-tree-after-pruning.webp' | relative_url }}" alt="The olive tree after pruning, with its lower trunks exposed and cut branches on the ground." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
-          <figcaption style="text-align: center;">After pruning</figcaption>
+          <figcaption style="display: block; width: 100%; text-align: center;">After pruning</figcaption>
         </figure>
       </div>
       <p>Two weeks hardly made me an olive farmer, but they gave me a much more personal connection to something I had known very little about. I'm grateful I stayed long enough to take part in multiple facets of the experience, from bringing down the fruit to working with the processing equipment and tending the trees afterward.</p>
