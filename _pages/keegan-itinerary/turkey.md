@@ -50,7 +50,7 @@ header:
       </figure>
       <br>
       <p>The ecofarm was tucked into a valley, with vineyards, fruit trees, and bungalows embedded into a working farm. It grew grapes, olives, almonds, lemons, and mandarins commercially, alongside a sprawling kitchen garden full of tomatoes, cucumbers, peppers, and herbs.</p>
-      <p>My main job was bringing in the harvest. My team spread large sheets beneath the trees, then worked through the branches with the zeytin hasat makineleri, shaking and combing the olives loose so they fell onto the fabric below. From there, we gathered them up and moved on to the next tree. The idea was simple enough, but the work quickly turned grueling as the terrain shifted from a flat, sparse field to steep, overgrown terrace plots.</p>
+      <p>My main job was bringing in the harvest. My team spread large sheets beneath the trees, then worked through the branches with the <em>zeytin hasat makineleri</em>, shaking and combing the olives loose so they fell onto the fabric below. From there, we gathered them up and moved on to the next tree. The idea was simple enough, but the work quickly turned grueling as the terrain shifted from a flat, sparse field to steep, overgrown terrace plots.</p>
       <figure class="itinerary-story__body-copy">
         <video controls playsinline preload="metadata" aria-label="Harvesting olives onto sheets beneath the trees" style="display: block; width: 100%; max-width: 420px; max-height: 640px; border-radius: 18px; background: #18201a;">
           <source src="{{ '/assets/videos/keegan/olive-harvest.mp4' | relative_url }}" type="video/mp4">
@@ -90,7 +90,7 @@ header:
 
     <section class="itinerary-story__section" aria-labelledby="istanbul">
       <h2 id="istanbul">From Olive Groves to the Big City</h2>
-      <p>After leaving the farm, some of the other workers, from Moscow, Russia, and Arizona, USA, and I headed to Istanbul for a few days. It's funny how a couple of weeks of demanding physical labor can bring the unlikeliest of acquaintances together.</p>
+      <p>After leaving the farm, some of the other workers, from Moscow, Russia, and Arizona, USA, and I headed to Istanbul for a few days. It's funny how a couple of weeks of demanding physical labor can bring together the unlikeliest of companions.</p>
       <figure class="itinerary-story__body-copy" style="max-width: 465px;">
         <img src="{{ '/assets/img/keegan/turkey/galata-tower.webp' | relative_url }}" alt="Two fellow farm workers and me posing by the Galata Tower" width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
         <figcaption>Taken on the European side of Istanbul</figcaption>
