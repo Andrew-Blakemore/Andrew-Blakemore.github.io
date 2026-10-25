@@ -83,20 +83,20 @@ header:
       <figcaption>Taken in the European side of Istanbul</figcaption>
     </figure>
     <br>
-    <p>I would be remiss if I didn't mention our sidequest to IKEA. Our friend from Russia had never been (IKEA permanently withdrew from Russia by halting operations and selling all of its corporate assets following the country's invasion of Ukraine in 2022), so we were honor bound to introduce him to the Labrynth. Suffice it to say that he left with many souvenirs, and us with full bellies from meatballs aplenty.</p>
+    <p>I would be remiss if I didn't mention our sidequest to IKEA. Our friend from Russia had never been (IKEA permanently withdrew from Russia following the country's invasion of Ukraine in 2022), so we were honor bound to introduce him to the Labrynth. Suffice it to say, he left with many souvenirs, and we all left with bellies full of meatballs.</p>
     <figure class="itinerary-story__body-copy" style="max-width: 465px;">
       <img src="{{ '/assets/img/keegan/turkey/ikea-trip.webp' | relative_url }}" alt="Two fellow farm workers posing by IKEA" width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
       <figcaption>A sight for sore eyes</figcaption>
     </figure>
     <br>
-    <p>I’m still not entirely sure how a friend-of-a-friend introduction led me from Poland to an olive grove and then to showing someone around IKEA in Istanbul, but I’m glad I followed through with it. Some parts of this trip take a great deal of planning. Others do not. I'm learning through my travels to live more flexibly and take advantage of all these wacky, sporadic, spur of the moment opportunities that...</p>
+    <p>I’m still not entirely sure how a friend-of-a-friend introduction led me from Poland to an olive grove and then to showing someone around IKEA in Istanbul, but I’m glad I followed through with it. Some parts of this trip take a great deal of planning. Others do not. Through my travels, I’m learning to leave a little more room for the unexpected and say yes to the strange, spur-of-the-moment opportunities that might become some of my favorite memories.</p>
   </section>
 
   <footer class="itinerary-story__footer">
     <div>
       <p class="itinerary-story__eyebrow">Beyond the Project</p>
-      <h2>Along the Way</h2>
-      <p>More places, people, and experiences from my fellowship travels.</p>
+      <h2>That's a Wrap</h2>
+      <p>Turkey marked my final stop in Europe. Follow along as I cross the Mediterranean to Morocco and begin the African leg of my fellowship.</p>
     </div>
     <a class="itinerary-story__button" href="{{ '/keegan-traveling-fellowship/' | relative_url }}">Back to the journey <span aria-hidden="true">&rarr;</span></a>
   </footer>
