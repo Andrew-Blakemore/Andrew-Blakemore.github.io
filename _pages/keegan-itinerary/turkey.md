@@ -78,11 +78,11 @@ header:
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 1.25rem; margin: 2rem auto; max-width: 820px;">
         <figure>
           <img src="{{ '/assets/img/keegan/turkey/olive-tree-before-pruning.webp' | relative_url }}" alt="An olive tree before pruning, with dense leafy growth around the lower trunk." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
-          <figcaption>Before pruning</figcaption>
+          <figcaption style="text-align: center;">Before pruning</figcaption>
         </figure>
         <figure>
           <img src="{{ '/assets/img/keegan/turkey/olive-tree-after-pruning.webp' | relative_url }}" alt="The olive tree after pruning, with its lower trunks exposed and cut branches on the ground." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
-          <figcaption>After pruning</figcaption>
+          <figcaption style="text-align: center;">After pruning</figcaption>
         </figure>
       </div>
       <p>Two weeks hardly made me an olive farmer, but they gave me a much more personal connection to something I had known very little about. I'm grateful I stayed long enough to take part in multiple facets of the experience, from bringing down the fruit to working with the processing equipment and tending the trees afterward.</p>
