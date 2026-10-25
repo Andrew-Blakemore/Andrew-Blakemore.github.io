@@ -161,12 +161,11 @@ author_profile: false
       lat: 36.7118,
       lon: 27.3912,
       url: "{{ '/keegan-itinerary/turkey.md' | relative_url }}",
-      link_enabled: true,
+      link_enabled: false,
       summary: "October 3 – October 25, 2026",
       experiences: [
         {
           title: "Working on an olive farm",
-          place: "Near Datça",
           type: "beyond",
           url: "{{ '/keegan-traveling-fellowship/turkey-olive-farm/' | relative_url }}",
           published: true
