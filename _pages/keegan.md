@@ -136,8 +136,8 @@ author_profile: false
       name: "Poland",
       country: "pl",
       leg: "europe",
-      lat: 50.0413,
-      lon: 21.9990,
+      lat: 52.283,
+      lon: 16.767,
       url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
       link_enabled: false,
       summary: "September 26 - October 3, 2026",
@@ -145,9 +145,9 @@ author_profile: false
       experiences: [
         {
           title: "Tutoring at an English immersion program",
-          place: "Poznań",
+          place: "Near Poznań",
           type: "beyond",
-          url: "{{ '/keegan-traveling-fellowship/poland-english-camp/' | relative_url }}",
+          url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
           published: false
         }
       ],
