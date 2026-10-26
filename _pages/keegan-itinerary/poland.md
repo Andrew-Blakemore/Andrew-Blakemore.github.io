@@ -46,3 +46,12 @@ header:
       <p>tbd</p>
     </section>
   </div>
+  <footer class="itinerary-story__footer">
+    <div>
+      <p class="itinerary-story__eyebrow">Beyond the Project</p>
+      <h2>tbd</h2>
+      <p>tbd</p>
+    </div>
+    <a class="itinerary-story__button" href="{{ '/keegan-traveling-fellowship/' | relative_url }}">Back to the journey <span aria-hidden="true">&rarr;</span></a>
+  </footer>
+</div>
