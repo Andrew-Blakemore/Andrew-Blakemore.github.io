@@ -96,7 +96,7 @@ header:
         <figcaption>Taken on the European side of Istanbul</figcaption>
       </figure>
       <br>
-      <p>I would be remiss if I didn't mention our side quest to IKEA. Our friend from Russia had never been (IKEA permanently withdrew from Russia following the country's invasion of Ukraine in 2022), so we were honor-bound to introduce him to the Labyrinth. Suffice it to say, he left with many souvenirs, and we all left with bellies full of meatballs.</p>
+      <p>I would be remiss if I didn't mention our side quest to IKEA. Our friend from Russia had never been (IKEA permanently withdrew from Russia following the country's invasion of Ukraine in 2022), so we were honor-bound to introduce him to the tactical complexities of the one-way arrow system. Suffice it to say, he left with many souvenirs, and we all left with plenty of meatballs.</p>
       <figure class="itinerary-story__body-copy" style="max-width: 465px;">
         <img src="{{ '/assets/img/keegan/turkey/ikea-trip.webp' | relative_url }}" alt="Two fellow farm workers posing by IKEA" width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
         <figcaption>A sight for sore eyes</figcaption>
