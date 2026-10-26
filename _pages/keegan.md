@@ -141,13 +141,12 @@ author_profile: false
       url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
       link_enabled: false,
       summary: "September 26 - October 3, 2026",
-      // Story examples are hidden until their writeup pages are published.
       experiences: [
         {
           title: "Tutoring at an English immersion program",
           type: "beyond",
           url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
-          published: false
+          published: true
         }
       ],
       route: true,
