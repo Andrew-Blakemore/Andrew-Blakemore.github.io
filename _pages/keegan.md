@@ -139,7 +139,7 @@ author_profile: false
       lat: 52.283,
       lon: 16.767,
       url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
-      link_enabled: true,
+      link_enabled: false,
       summary: "September 26 - October 3, 2026",
       experiences: [
         {
