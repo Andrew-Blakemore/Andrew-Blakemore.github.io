@@ -139,7 +139,7 @@ author_profile: false
       lat: 52.283,
       lon: 16.767,
       url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
-      link_enabled: false,
+      link_enabled: true,
       summary: "September 26 - October 3, 2026",
       experiences: [
         {
@@ -158,7 +158,7 @@ author_profile: false
       leg: "europe",
       lat: 36.7118,
       lon: 27.3912,
-      url: "{{ '/keegan-itinerary/turkey.md' | relative_url }}",
+      url: "{{ '/keegan-traveling-fellowship/turkey/' | relative_url }}",
       link_enabled: false,
       summary: "October 3 – October 25, 2026",
       experiences: [
