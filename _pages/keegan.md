@@ -153,7 +153,7 @@ author_profile: false
       summary: "September 26 - October 3, 2026",
       experiences: [
         {
-          title: "Tutoring at an English immersion program",
+          title: "A Week of Conversation in Poland",
           type: "beyond",
           url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
           published: true
@@ -170,7 +170,7 @@ author_profile: false
       summary: "October 3 – October 25, 2026",
       experiences: [
         {
-          title: "Working on an olive farm",
+          title: "Following a Lead in Turkey",
           type: "beyond",
           url: "{{ '/keegan-traveling-fellowship/turkey/' | relative_url }}",
           published: true
