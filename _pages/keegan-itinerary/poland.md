@@ -10,7 +10,7 @@ header:
 
 <div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
   <header class="itinerary-story__intro">
-    <p class="itinerary-story__kicker">Poland &middot; Beyond the Project</p>
+    <p class="itinerary-story__kicker">Poland &middot; Beyond My Project</p>
     <h2>A Week of Conversation in Poland</h2>
     <p class="itinerary-story__dek">A host on Workaway, a platform that connects travelers with hosts for volunteer and cultural exchanges, reached out to me about a weeklong English immersion camp in Poland. They needed tutors, and I liked the idea of getting to know a new city better through the people who lived there. So I signed up and took a coach from Berlin to Poznań.</p>
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Poland experiences" data-itinerary-visit-nav>
