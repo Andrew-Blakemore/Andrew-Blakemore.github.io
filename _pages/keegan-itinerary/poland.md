@@ -12,7 +12,7 @@ header:
   <header class="itinerary-story__intro">
     <p class="itinerary-story__kicker">Poland &middot; Beyond the Project</p>
     <h2>A Week of Conversation in Poland</h2>
-    <p class="itinerary-story__dek">A host on Workaway, a platform that connects travelers with hosts for volunteer and cultural exchanges, reached out about a weeklong English immersion camp in Poland. They needed tutors, and I liked the idea of getting to know a place better through the people who lived there. So I signed up and took a coach from Berlin to Poznań.</p>
+    <p class="itinerary-story__dek">A host on Workaway, a platform that connects travelers with hosts for volunteer and cultural exchanges, reached out to me about a weeklong English immersion camp in Poland. They needed tutors, and I liked the idea of getting to know a new city better through the people who lived there. So I signed up and took a coach from Berlin to Poznań.</p>
     <nav class="itinerary-story__index itinerary-story__visit-index" aria-label="Poland experiences" data-itinerary-visit-nav>
       <a class="is-active" href="#justspeak-visit">JustSpeak.pl</a>
     </nav>
@@ -60,7 +60,6 @@ header:
         <img src="{{ '/assets/img/keegan/poland/speaking-to-the-group.webp' | relative_url }}" alt="Me standing in front of the group beside a map of Poland." width="1152" height="1536" loading="lazy" decoding="async" style="height: auto; max-height: none;">
         <figcaption>My turn to do some of the talking.</figcaption>
       </figure>
-      <br>
     </section>
     <section class="itinerary-story__section" aria-labelledby="people">
       <h2 id="people">The People Behind the Practice</h2>
@@ -74,14 +73,14 @@ header:
       <p>Another student was an interventional cardiologist who performed procedures such as placing stents. He wanted to improve his English so he could present at international conferences. He already spoke naturally and confidently, with a medical vocabulary that was especially impressive.</p>
       <p>Then I learned that he was entirely self-taught. Over the previous few years, he had practiced a little each day, watching shows and listening to podcasts related to his field. The ease with which he spoke made it hard to believe he had learned the language so recently.</p>
       <p>As a former pre-med student, I especially looked forward to our conversations. We talked about the heart, the procedures he performed, and his path through medical training in Poland. I had enough background to follow along and plenty of questions to keep us occupied.</p>
-      <p>I’m glad I took a week to do this. Twelve people who might otherwise never have met had plenty to say to one another, once we had a reason to sit down and talk. I was there to help with English, but the conversations gave me just as much to think about.</p>
+      <p>I’m glad I took a week to do this. Twelve people who might otherwise never have met had plenty to say to one another, once we had a reason to sit down and talk. I was there to help with English, but the conversations turned the experience into so much more.</p>
     </section>
   </div>
   <footer class="itinerary-story__footer">
     <div>
       <p class="itinerary-story__eyebrow">Beyond the Project</p>
       <h2>Next Stop, the Olive Grove</h2>
-      <p>After the camp, I headed back to Berlin before flying to Turkey, where an olive harvest was waiting for me.</p>
+      <p>After the camp, I made my way to Turkey, where an olive harvest was waiting for me.</p>
     </div>
     <a class="itinerary-story__button" href="{{ '/keegan-traveling-fellowship/' | relative_url }}">Back to the journey <span aria-hidden="true">&rarr;</span></a>
   </footer>
