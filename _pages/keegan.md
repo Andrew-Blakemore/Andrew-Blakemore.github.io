@@ -127,7 +127,7 @@ author_profile: false
       lat: 52.52,
       lon: 13.405,
       url: "{{ '/keegan-traveling-fellowship/germany/' | relative_url }}",
-      link_enabled: true,
+      link_enabled: false,
       summary: "September 8 – September 26, 2026",
       route: true,
       current: false
@@ -145,7 +145,6 @@ author_profile: false
       experiences: [
         {
           title: "Tutoring at an English immersion program",
-          place: "Near Poznań",
           type: "beyond",
           url: "{{ '/keegan-traveling-fellowship/poland/' | relative_url }}",
           published: false
