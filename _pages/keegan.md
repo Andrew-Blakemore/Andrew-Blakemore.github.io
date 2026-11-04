@@ -193,7 +193,7 @@ author_profile: false
       country: "eg",
       leg: "africa",
       lat: 30.0445,
-      lon: -31.2357,
+      lon: 31.2357,
       summary: "TBD",
       experiences: [],
       route: true
