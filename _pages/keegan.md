@@ -66,7 +66,7 @@ author_profile: false
 ></div>
 
 <p class="keegan-note">
-  Drag to explore • Double-click to zoom
+  Double-click to zoom • Drag to explore
 </p>
 
 <div id="keegan-index" class="keegan-index keegan-reveal"></div>
@@ -189,21 +189,11 @@ author_profile: false
       route: true
     },
     {
-      name: "Sierra Leone",
-      country: "sl",
+      name: "Egypt",
+      country: "eg",
       leg: "africa",
-      lat: 8.4657,
-      lon: -13.2317,
-      summary: "TBD",
-      experiences: [],
-      route: true
-    },
-    {
-      name: "Liberia",
-      country: "lr",
-      leg: "africa",
-      lat: 6.3008,
-      lon: -10.7972,
+      lat: 30.0445,
+      lon: -31.2357,
       summary: "TBD",
       experiences: [],
       route: true
