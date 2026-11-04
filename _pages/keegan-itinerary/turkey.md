@@ -43,7 +43,7 @@ header:
   <div class="itinerary-story__visit-content" data-itinerary-visit="knidia">
     <section class="itinerary-story__section itinerary-story__section--opening" aria-labelledby="knidia">
       <h2 id="knidia">An Olive Farm in Southwestern Turkey</h2>
-      <p>Getting to the farm took a few more connections than the friend-of-a-friend variety. After my time in Poland, I made my way back to Berlin and flew to Dalaman, on Turkey’s southwestern coast. From there, I took a coach to Marmaris, then a dolmuş, a shared minibus, to Datça. The farm was still another 30 kilometers or so to the west-northwest. I caught a lift to the closest village, then trekked the rest of the way myself. As I neared my destination, I was greeted by orderly rows of grapevines and scattered olive trees.</p>
+      <p>Getting to the farm took a few more connections than the friend-of-a-friend variety. After my time in Poland, I made my way back to Berlin and flew to Dalaman, on Turkey’s southwestern coast. From there, I took a coach to Marmaris, then a <em>dolmuş</em>, a shared minibus, to Datça. The farm was still another 30 kilometers or so to the west-northwest. I caught a lift to the closest village, then trekked the rest of the way myself. As I neared my destination, I was greeted by orderly rows of grapevines and scattered olive trees.</p>
       <figure class="itinerary-story__body-copy">
         <img src="{{ '/assets/img/keegan/turkey/vineyard-at-sunset.webp' | relative_url }}" alt="Rows of grapevines beneath a sunset sky, with wooded hills surrounding the farm." width="1536" height="1152" loading="lazy" decoding="async">
         <figcaption>Sunset over the vineyard. A pretty good place to end a long day of travel.</figcaption>
