@@ -47,7 +47,7 @@ author_profile: false
     <button type="button" data-leg="europe">Europe</button>
     <button type="button" data-leg="africa">Africa</button>
     <button type="button" data-leg="asia">Asia</button>
-    <button type="button" data-leg="south-america">South America</button>
+    <button type="button" data-leg="latin-america">Latin America</button>
   </div>
 </div>
 
