@@ -120,9 +120,9 @@ What helped me understand that difference was his example of the cost of getting
     <footer class="itinerary-story__footer">
     <div>
       <p class="itinerary-story__eyebrow">An open file</p>
-      <h2>A quick trip to Poznań</h2>
+      <h2>A change of pace in Poland</h2>
       <p>
-        I'm headed to Poland for a week for a quick trip!
+        From Berlin, I’m off to tutor at a weeklong English immersion camp near Poznań.
       </p>
     </div>
     <a class="itinerary-story__button" href="/keegan-traveling-fellowship/">
