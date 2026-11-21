@@ -65,18 +65,3 @@ header:
   </section>
   </div>
   
-    </section>
-    <section class="itinerary-story__section">
-      <div>
-      <h2>A Clinic That Does It All</h2>
-      <p>
-        The first thing that surprised me was the size of the building. The clinic where I had interned in Kentucky had only a consultation room and a workshop. The prosthetist made plaster models and assembled and adjusted limbs in the workshop, but sent models to central fabrication facilities in Ohio and Tennessee for the check and definitive sockets. That arrangement kept the workshop smaller while also adding shipping time between stages.
-      </p>
-      <p>
-        At Amersham, both check sockets and definitive  
-      </p>
-      <p>
-        People might also choose a clinic because of before committing to it. The prosthetist can adjust the setup while the physiotherapist helps the person learn how to use it. That gives the team a chance to distinguish an unsuitable device from one the patient simply has not yet learned to use.
-      </p>
-      <p>
-        The question is then whether the component offers a meaningful improvement for that person. Does it help with the movements they find difficult? Can they use its features comfortably and consistently? Does the benefit justify 
