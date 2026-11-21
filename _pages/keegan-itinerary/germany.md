@@ -91,7 +91,7 @@ Before travel to Germany is arranged, medical partners must review whether each 
 By my contact’s estimate, only about one in patients at the clinic travels from abroad, yet international and domestic patient care bring in roughly the same revenue. The international team fits a much higher proportion of advanced prostheses than you would see at a clinic serving mainly local patients. He estimated that more than 90% of the international team’s upper-limb fittings were myoelectric.
       </p>
       <p>
-What helped me understand that difference was his example of the cost of getting to Germany in the first place. If a patient or ministry expects to spend €10,000 on travel and accommodation, making the trip for a €5,000 prosthesis means spending twice as much to reach the clinic as on the limb itself. For someone considering a €100,000 course of care, the same trip adds about 10% to the cost of treatment. The expense of traveling already shapes who comes down that left corridor and what kind of care they come for.
+When you take a step back and think about it, this actually makes a lot of sense. If a patient or ministry expects to spend upwards of €10,000 on travel and accommodation, why would they settle for a €1,800 passive prosthetic? If they opt for the €100,000 course of care instead, then, then the same trip only adds about 10% to the cost of treatment. The expense of traveling substantially shapes the international patient profile and the kind of care they come for.
       </p>
       </div>
     </section>
