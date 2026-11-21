@@ -117,6 +117,17 @@ What helped me understand that difference was his example of the cost of getting
     </div>
   </section>
   </div>
+    <aside class="itinerary-story__next" id="future-visits">
+    <div>
+      <p class="itinerary-story__eyebrow">Questions carried forward</p>
+      <h2>What I’ll look for in future visits:</h2>
+    </div>
+    <ul>
+      <li>Question 1</li>
+      <li>Question 2</li>
+      <li>Question 3</li>
+    </ul>
+  </aside>
     <footer class="itinerary-story__footer">
     <div>
       <p class="itinerary-story__eyebrow">An open file</p>
