@@ -11,8 +11,10 @@ header:
 <div class="itinerary-story itinerary-story--field-report" data-itinerary-visit-switcher>
   <header class="itinerary-story__intro">
     <p class="itinerary-story__kicker">Germany &middot; Designed for Living</p>
-    <h2>Prosthetic Care in Germany</h2>
-    <p class="itinerary-story__dek">Germany Intro</p>
+    <h2>Prosthetic Care Across Borders</h2>
+    <p class="itinerary-story__dek">When I first mapped out my fellowship, Germany was the stop I looked forward to most. I envisioned traveling between engineering labs and prosthetics clinics in the largest biotech market in Europe, meeting both the people who design artificial limbs and the people who fit them. At the top of my list was Duderstadt, home to Ottobock, the world’s largest manufacturer of prosthetic limbs.</p>
+    <p class="itinerary-story__dek">I reached out to Ottobock well before I arrived and followed up several times, but by the time I received an invitation to Duderstadt, I was already in Turkey. Complications with my accommodations also limited how far I could travel within Germany, and several other visits I’d hoped to make fell through.</p>
+    <p class="itinerary-story__dek">The two meetings that did come together were both virtual, and each took me beyond Germany in a way I hadn’t previously expected. These conversations gave me a glimpse of the people and partnerships that make prosthetic care possible across borders.</p>
     <aside class="itinerary-story__note" aria-label="Field note">
       <p class="itinerary-story__note-label"><strong>Field Note</strong></p>
       <p class="itinerary-story__note-text"><em>This account reflects my own observations and interpretations as an independent observer. It does not represent the views, opinions, or positions of Ottobock Care, Humanity & Inclusion, or their employees. Any statements or perspectives attributed to individuals I spoke with are presented as I understood them from our conversations and should not be interpreted as official statements on behalf of the organizations. Names of the people I met have been omitted. This account has not been reviewed or endorsed by Ottobock or Humanity & Inclusion.</em></p>
@@ -35,7 +37,7 @@ header:
           <div><dt>Organization</dt><dd>Humanity & Inclusion</dd></div>
           <div><dt>City</dt><dd>Berlin (virtual conversation)</dd></div>
           <div><dt>Scope</dt><dd>???</dd></div>
-          <div><dt>Date called</dt><dd>October ?, 2026</dd></div>
+          <div><dt>Date called</dt><dd>October 14, 2026</dd></div>
         </dl>
       </section>
     </div>
@@ -46,7 +48,58 @@ header:
       <div class="itinerary-story__opening-copy">
       <h2>Subtitle 1</h2>
       <p>
-        paragraph 1
+        While I was in Berlin, I spoke with a prosthetist who helps lead Ottobock Care’s work with international patients. His background is in upper-limb prosthetics, and much of his work involves arranging care in Germany for patients from the Middle East. I had hoped to meet him at Bötzow, a former Berlin brewery that now houses an Ottobock clinic and a digital research lab. Unfortunately, the workshop was being renovated so visitors could see how digital tools are used to make prostheses, so we spoke remotely.
+      </p>
+      <p>
+I had already encountered Ottobock Care through my visit to Dorset Orthopaedic in the UK. It is the division of Ottobock that works directly with patients. Its clinics buy components from Ottobock and other manufacturers to build custom prostheses for patients, then support those patients throughout their rehabilitation. In Germany, I was curious about how that system differed between domestic and international patient care.
+      </p>
+      </div>
+    </section>
+    <section class="itinerary-story__section itinerary-story__section--opening">
+      <div class="itinerary-story__opening-copy">
+      <h2>Prosthetic Care in Germany</h2>
+      <p>
+        Sanitätshäuser are medical supply shops where someone might go for a knee brace, compression stockings, or equipment that makes bathing or using the bathroom easier. Many also have an orthopedic workshop behind the storefront where a technician can fabricate prostheses. A person picking up a brace might walk through the same door as someone coming in to have a microprocessor knee fitted.
+      </p>
+      <p>
+Health insurance is compulsory in Germany, and most residents belong to a statutory health insurance fund, or Krankenkasse. Employees and employers generally split the contributions, which are calculated as a percentage of earnings up to a certain ceiling. Many self-employed people and employees earning above a separate threshold can also choose private insurance.
+      </p>
+      <p>
+For someone with statutory coverage, getting a prosthesis usually begins with a doctor’s prescription. The patient can take that prescription to a Sanitätshaus that has a prosthetics workshop and a contract with their fund. There, a prosthetist can recommend a fitting suited to the person’s needs, and the fund reviews what is medically necessary. A small copayment generally applies to the prosthesis, and coverage extends to the adjustments and repairs needed to keep using it. If someone loses a limb in a workplace accident, statutory accident insurance can cover both the prosthesis and the rehabilitation that follows. Working with health systems in several countries had given my contact an appreciation for how much care a patient in Germany could access through these routes.
+      </p>
+      </div>
+    </section>
+    <section class="itinerary-story__section itinerary-story__section--opening">
+      <div class="itinerary-story__opening-copy">
+      <h2>Two Corridors at Ottobock Care</h2>
+      <p>
+        Much of my contact’s work involves arranging contracts with foreign governments to bring groups of patients to Germany for prosthetic care. Most of the groups his team treats are injured service members. Among those coming for an arm fitting, it was common for the same blast to have caused some loss of sight in one eye or hearing in one ear. Shrapnel can also complicate a fitting long after the wound has healed. If a fragment remains just beneath the skin of the residual limb, pressure from the socket can make that spot painful, and the prosthetist may need to adjust the shape of the socket around it.
+      </p>
+      <p>
+Other government contracts cover care for civilians. Some patients also seek out the clinic privately, choosing to pay for care abroad because they want the best fitting and rehabilitation they can find. My contact described the clinic in terms of two corridors. Patients receiving care locally turn right, while those who have traveled from abroad turn left, whether a ministry arranged their visit or they chose the clinic themselves.
+      </p>
+      <p>
+At the time of our conversation, Saudi Arabia was the team’s largest client. Its Ministry of Defense regularly sent injured service members to Germany, and under some referrals, a patient could be fitted for up to three prostheses during one stay. Someone might choose a leg for everyday walking, another for running, and a third for swimming. Referrals from Kuwait more often came through the Ministry of Health and included children born with limb differences.
+      </p>
+      <p>
+        The team saw relatively few Ukrainian patients because many Ukrainians who need a prosthesis receive care within their own country. A substantial part of the international aid for prosthetic care in Ukraine goes toward building up those local services. Donors have supplied workshops with materials and equipment, helped build rehabilitation facilities, and funded training for Ukrainian prosthetists. That gives patients somewhere closer to home to return to when a socket needs adjusting or a component needs replacing.
+      </p>
+      <p>
+Before travel to Germany is arranged, medical partners review whether each patient is ready for a fitting. An emergency amputation may have saved someone’s life while leaving a residual limb that needs more time to heal or another operation before a socket can be fitted comfortably. Each international patient has a case manager who helps with visas, accommodation, appointments, and communication with whoever is paying for care. That person remains a point of contact after the patient goes home. Across the team, staff speak more than ten languages. One detail I found particularly interesting about the clinic was the prayer room, with a carpet and an arrow on the floor marking the direction of Mecca.
+      </p>
+      <p>
+By my contact’s estimate, only about one patient in ten turns left, yet the two sides of the clinic bring in roughly the same revenue. The international team fits a much higher proportion of advanced prostheses than he would expect at a clinic serving mainly local patients. He estimated that more than 90% of the international team’s upper-limb fittings were myoelectric.
+      </p>
+      <p>
+What helped me understand that difference was his example of the cost of getting to Germany in the first place. If a patient or ministry expects to spend €10,000 on travel and accommodation, making the trip for a €5,000 prosthesis means spending twice as much to reach the clinic as on the limb itself. For someone considering a €100,000 course of care, the same trip adds about 10% to the cost of treatment. The expense of traveling already shapes who comes down that left corridor and what kind of care they come for.
+      </p>
+      </div>
+    </section>
+    <section class="itinerary-story__section itinerary-story__section--opening">
+      <div class="itinerary-story__opening-copy">
+      <h2>New Section</h2>
+      <p>
+        ???
       </p>
       </div>
     </section>
@@ -64,7 +117,6 @@ header:
     </div>
   </section>
   </div>
-
     <footer class="itinerary-story__footer">
     <div>
       <p class="itinerary-story__eyebrow">An open file</p>
